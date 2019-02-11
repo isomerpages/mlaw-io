@@ -17,6 +17,8 @@ locations:
         time: 8.30am - 6.00pm
       - days: Fri
         time: 8.30am - 5.30pm
+      - days: Sat
+        time: 8.30am - 12.30pm
         description: "Closed during lunch: 12.30pm - 1.30pm <br>Closed on Weekends and Public Holidays"
 
 
@@ -28,7 +30,7 @@ column:
     - line: boarch@singnet.com.sg (email)
     # If you have an email, put (email) after the actual email
 
-  - title: Fax
+  - title: Mobile
     content:
     - line: +65 6222 4452
 
