@@ -6,8 +6,6 @@
 
 - title: Home
   url: https://mlaw-io-staging.netlify.com
-- title: About Us
-  url: /https://staging-isomer-mlaw.netlify.com/about-us/what-we-do/
   sub-links:
   - title: What We Do
   url: https://staging-isomer-mlaw.netlify.com/about-us/what-we-do/
