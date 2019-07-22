@@ -44,4 +44,16 @@ collections:
     output: true
   corporate-insolvency:
     output: true
+  about-us:
+    output: true
+  bankruptcy:
+    output: true
+  debt-repayment-scheme:
+    output: true
+  corporate-insolvency:
+    output: true
+  unclaimed-monies:
+    output: true
+  e-services:
+    output: true
 resources_name: resource-room
