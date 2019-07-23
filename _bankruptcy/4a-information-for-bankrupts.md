@@ -8,6 +8,6 @@ second_nav_title: "Information for Bankrupts"
 ---
 Bankruptcy Information Sheet for Debtors & Bankrupts
 ---
-##### **Information for Debtors & Bankrupts**
+#### **Information for Debtors & Bankrupts**
 
 [Information for Debtors & Bankrupts (568 KB)](/files/Debtor-Bankruptcy-Information-Sheet-27Oct17.pdf)
