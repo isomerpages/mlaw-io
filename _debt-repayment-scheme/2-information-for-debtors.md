@@ -95,7 +95,7 @@ Pursuant to section 56P of the Bankruptcy Act, you are expected to adhere to the
 (f)       Update your Income and Expenditure statement as required and to forward supporting documents e.g. salary slips, CPF statements and/or Notice of Tax Assessment and any other additional documents requested by your case administrator eg. receipts; and<br>
 (g)      Adhere to the terms and conditions of the approved DRP, including the payment of  regular monthly instalments,  Annual Wage Supplement/bonus, and annual administration fees when required.<br>
 
-**10. Summary of DRS fees and/or charges**
+**10. Summary of DRS fees and/or charges**<br>
 The fees payable under the Bankruptcy (Debt Repayment Scheme) Rules for assessment and administration of cases are set out below.<br>
 
 <table>
