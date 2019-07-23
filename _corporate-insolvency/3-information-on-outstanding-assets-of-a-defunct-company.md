@@ -14,8 +14,7 @@ A company becomes defunct after it is either dissolved or struck off from the Re
  
 
 
-**What is the role of the Official Receiver?**
-
+**What is the role of the Official Receiver?**<br>
 Where there are outstanding assets belonging to a defunct company, these are vested in the Official Receiver under section 346 of the Companies Act (Cap. 50). The Official Receiver will then act as a representative of the defunct company to administer these assets under sections 345 to 347 of the Companies Act (Cap. 50).
 
 The Official Receiver may also represent the company, if it is proven to her satisfaction under section 345(1) of the Companies Act (Cap. 50) that:
@@ -24,8 +23,7 @@ The Official Receiver may also represent the company, if it is proven to her sat
 
 (ii) in order to carry out, complete or give effect to the said dealing, transaction or matter, some purely administrative act  should have been done or should be done by or on behalf of the company, if still existing.<br>
 
-**What should I do if I wish to lay claims on the assets belonging to a defunct company?**
-
+**What should I do if I wish to lay claims on the assets belonging to a defunct company?**<br>
 You may lay your claim as a shareholder or a creditor of the defunct company:
 
 (i) as a shareholder, you need to show that there is no creditor in the company when it was dissolved or struck off; or
@@ -67,8 +65,7 @@ Documents evidencing that there is no outstanding debt or liability owing by the
 
 For more information, please refer to the attached instructions (click [here](/files/GuidelinestoLayClaimsforDFCases_Jan2018.pdf/)).<br>
 
-**What are the charges of the Official Receiver?**
-
+**What are the charges of the Official Receiver?**<br>
 The fees chargeable by the Official Receiver are stipulated in the Schedule under the Fees (Winding up and Dissolution of Companies and Other Bodies) Order 2005:<br>
 (i) Administrative Fee;<br>
 (ii) Realisation Fee;<br>
