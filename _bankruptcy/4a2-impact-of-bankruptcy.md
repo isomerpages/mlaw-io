@@ -46,7 +46,7 @@ Your assets will vest in the Official Assignee for the benefit of your creditors
 Assets include anything of value belonging to you at the date of the making of the Bankruptcy Order, or obtained by you thereafter and gifts given to you before your discharge from bankruptcy. You must deliver up possession of these assets to the Official Assignee.  <br>
 
 
-For more information, please click here.  <br>
+For more information, please click [here](/bankruptcy/information-for-bankrupts/assets-of-a-bankrupt/).  <br>
 
  
 
@@ -93,7 +93,7 @@ The Official Assignee will require any proceeds of sale exceeding that of the va
  
 
 <b> 7. Can creditors take further legal action against me after I have been made bankrupt? </b>  <br>
-Creditors cannot take further legal proceedings against you to recover debts incurred before your bankruptcy.  <br>
+Creditors cannot take further legal proceedings against you to recover debts incurred <b><u>before</u></b> your bankruptcy.  <br>
  
 If you receive:  <br>
 
@@ -121,11 +121,10 @@ The programme allows participants to seek employment through job referrals and c
 
  
 
-For more information on the Job Referral and Skills Upgrading Programme, you may wish to refer to our press release.  <br>
+For more information on the Job Referral and Skills Upgrading Programme, you may wish to refer to our [press release](https://www.mlaw.gov.sg/content/minlaw/en/news/press-releases/ipto-s-financial-counselling-programme-and-the-job-referral-and-skills-upgrading-programme-press.html).  <br>
 
  
-
-Other information for bankrupts  <br>
+<b> Other information for bankrupts </b><br>
 * Responsibilites and Rights of a Bankrupt
 * Assets of a Bankrupt
 * Discharge from Bankruptcy
