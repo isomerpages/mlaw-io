@@ -90,7 +90,7 @@ If you have any further queries on bankruptcy, please send in you enquiries/feed
 
  
 
-Alternatively, you may visit us at our website at https://staging-isomer-mlaw.netlify.com/ or contact us at 1800-2255-529 (during office hours).
+Alternatively, you may visit us at our website at [https://staging-isomer-mlaw.netlify.com/](https://staging-isomer-mlaw.netlify.com/) or contact us at 1800-2255-529 (during office hours).
 
 ##### **Filing for Bankruptcy** 
 
@@ -100,7 +100,7 @@ A Bankruptcy Application is filed in the High Court by either the debtor or a cr
  
 
 **2. Debtor's own application for bankruptcy** <br>
-The Official Assignee does not provide advice on the procedure for a debtor to file his own application for bankruptcy. Debtors may also wish to refer to the Supreme Court’s website https://www.supremecourt.gov.sg for further details on bankruptcy proceedings. <br>
+The Official Assignee does not provide advice on the procedure for a debtor to file his own application for bankruptcy. Debtors may also wish to refer to the Supreme Court’s website [https://www.supremecourt.gov.sg](https://www.supremecourt.gov.sg) for further details on bankruptcy proceedings. <br>
 
  
 
