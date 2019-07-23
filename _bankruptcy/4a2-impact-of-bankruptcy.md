@@ -108,11 +108,11 @@ Creditors cannot take further legal proceedings against you to recover debts inc
  
 If you receive:  <br>
 
--          a letter of demand for payments from your creditors or;  <br>
+- a letter of demand for payments from your creditors or;  <br>
 
--          a notice of court action from your creditors or;  <br>
+- a notice of court action from your creditors or;  <br>
 
--          are approached by your creditors to repay your debts to them directly,  <br>
+- are approached by your creditors to repay your debts to them directly,  <br>
 
  
 
