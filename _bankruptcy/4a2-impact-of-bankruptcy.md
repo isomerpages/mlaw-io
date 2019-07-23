@@ -23,8 +23,6 @@ If you, without reasonable excuse, fail to submit a Statement of Affairs to the 
  
 
 <b> 2. How do I contact my case officer? </b>  <br>
- 
-
 You may contact us at:  <br>
 
 Contact Us @ OneMinLaw  <br>
