@@ -161,5 +161,5 @@ Please send in your enquiries/feedback at [Contact Us @ OneMinLaw](https://www.m
 
 Alternatively, you may visit us at our website at [https://staging-isomer-mlaw.netlify.com/](https://staging-isomer-mlaw.netlify.com/) or contact us at 1800-2255-529 (during office hours).
 
-**12. Other Frequently Asked Questions**
+**12. Other Frequently Asked Questions**<br>
 For other frequently asked questions on the Debt Repayment Scheme ("DRS"), [click here](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx){:target="_blank"}.
