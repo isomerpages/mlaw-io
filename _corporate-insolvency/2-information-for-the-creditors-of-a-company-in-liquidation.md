@@ -47,7 +47,7 @@ Any remaining funds will be used to pay the creditors in accordance with their r
   <li><b>Ordinary Creditors </b><br>
     Any other unsecured creditors, such as trade creditors and sundry creditors who have filed their claims against the company.
   </li>
-</ul><br>
+</ul>
 
 **Completion of case**
 
