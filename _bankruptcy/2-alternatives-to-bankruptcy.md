@@ -92,7 +92,7 @@ If you have any further queries on bankruptcy, please send in you enquiries/feed
 
 Alternatively, you may visit us at our website at [https://staging-isomer-mlaw.netlify.com/](https://staging-isomer-mlaw.netlify.com/) or contact us at 1800-2255-529 (during office hours).
 
-##### **Filing for Bankruptcy** 
+#### **Filing for Bankruptcy** 
 
 **1. How does a debtor become a bankrupt?** <br>
 A Bankruptcy Application is filed in the High Court by either the debtor or a creditor. The debtor owes debts of at least $15,000 which he cannot repay. The High Court may then declare him a bankrupt at the court hearing.
