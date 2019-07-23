@@ -9,7 +9,7 @@ collection_name: unclaimed-monies
 About the Official Receiver
 ---
 
-![1503996669903.jpg](/images/1503996669903.jpg)<br>
+![1503996669903.jpg](/images/1503996669903.jpg/)<br>
 
 The Official Receiver is a public officer  who may be appointed by the High Court to act as the liquidator of companies in compulsory winding up in Singapore.
 
