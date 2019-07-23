@@ -99,10 +99,6 @@ Pursuant to section 56P of the Bankruptcy Act, you are expected to adhere to the
 **10. Summary of DRS fees and/or charges**
 The fees payable under the Bankruptcy (Debt Repayment Scheme) Rules for assessment and administration of cases are set out below.<br>
 
-<style>
-  table tr td ul{font-size: 8px;}
-</style>
-
 <table>
   <tr>
     <td colspan="2"><b>Fees</b></td>
@@ -154,7 +150,7 @@ The fees payable under the Bankruptcy (Debt Repayment Scheme) Rules for assessme
     <td colspan="2">Distribution fee by the OA of dividends to creditors</td>
     <td colspan="2">3% of amount distributed</td>
   </tr>
-</table><br>
+</table>
 
 **11. Contact DRS**<br>
 Insolvency Office (IO)<br>
