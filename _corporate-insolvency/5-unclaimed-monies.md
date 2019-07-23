@@ -52,3 +52,10 @@ All unclaimed dividends and monies paid to the Official Receiver are transferred
     <td colspan="2">The Official Receiver will check the claimant’s details against the case file to see if the claim is valid and arrange for payment to be made to the claimant once the claim is verified.</td>
   </tr>
 </table>
+
+**Unclaimed Monies Held By:**
+
+**Official Receiver**<br>
+* [Unpresented Cheques](/files/CWUnpresentedCheques30Sep2018.pdf/){:target="_blank"}
+* [Unclaimed Monies from Winding Up Cases](/files/CWUnclaimedAssets30Sep2018.pdf/){:target="_blank"}
+* [Outstanding Monies belonging to Defunct Companies](/files/CWOutstandingAssets30Sep2018.pdf/){:target="_blank"} 
