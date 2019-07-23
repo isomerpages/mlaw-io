@@ -9,7 +9,7 @@ second_nav_title: "Information for Bankrupts"
 Impact of Bankruptcy
 ---
 
-1. What happens after I have been made a bankrupt?
+<b> 1. What happens after I have been made a bankrupt? </b>
 You will be required to attend at the Official Assignee’s office for a briefing on your responsibilities as a bankrupt and submit your Statement of Affairs to the Official Assignee within 21 days from the date of the making of your Bankruptcy Order. Subsequent to the filing of your Statement of Affairs, you are also required to attend the Official Assignee’s office to work out your monthly instalment with our officers. The monthly instalments paid to your bankruptcy estate will be distributed as dividends to your creditors upon your discharge from bankruptcy.
 
 If you are a partner in firm which has been made bankrupt, you will have to submit:
@@ -22,7 +22,7 @@ If you, without reasonable excuse, fail to submit a Statement of Affairs to the 
 
  
 
-2. How do I contact my case officer?
+<b> 2. How do I contact my case officer? </b>
  
 
 You may contact us at:
@@ -47,10 +47,10 @@ Fax: 6325-1417
 
  
 
-3. What is “bankruptcy case administration”?
+<b> 3. What is “bankruptcy case administration”? </b>
 Case administration refers to the process of realising (selling) the bankrupt’s assets, finalising his total liabilities before his discharge from bankruptcy.
 
-4. What will happen to my assets?
+<b> 4. What will happen to my assets? </b>
 Your assets will vest in the Official Assignee for the benefit of your creditors once you are adjudged a bankrupt.
 
 
@@ -61,7 +61,7 @@ For more information, please click here.
 
  
 
-5. What assets are protected from creditors?
+<b> 5. What assets are protected from creditors? </b>
 Property held by you on trust for any other person
 
  
@@ -92,7 +92,7 @@ For bankrupts who are nominated beneficiaries of the Dependants’ Protection Sc
 
  
 
-6. What will happen to my secured assets?
+<b> 6. What will happen to my secured assets? </b>
 Creditors (e.g. banks or other financial institutions) who hold security over your assets or goods, have the right to sell the assets or goods if you default on your payments.
 
  
@@ -103,7 +103,7 @@ The Official Assignee will require any proceeds of sale exceeding that of the va
 
  
 
-7. Can creditors take further legal action against me after I have been made bankrupt?
+<b> 7. Can creditors take further legal action against me after I have been made bankrupt? </b>
 Creditors cannot take further legal proceedings against you to recover debts incurred before your bankruptcy.
 
 If you receive:
@@ -124,7 +124,7 @@ Do note that this excludes fines incurred from the breaches of the law. You will
 
  
 
-8. Does the Insolvency Office help bankrupts to find employment?
+<b> 8. Does the Insolvency Office help bankrupts to find employment? </b>
 
 The Insolvency Office has a Job Referral and Skills Upgrading Programme with the Workforce Development Agency to help bankrupts with their employment prospects and opportunities.
 
