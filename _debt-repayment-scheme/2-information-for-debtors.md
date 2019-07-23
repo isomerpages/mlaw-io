@@ -82,7 +82,7 @@ There are 3 payment methods:<br>
 
 Please provide your DRS Case Number (e.g. D00XXXX-2015) and the nature of the payment (e.g. instalment or bonus payment).<br>
 
-**9. What are my duties as a debtor on DRS?**
+**9. What are my duties as a debtor on DRS?**<br>
 Once the DRP commences, you are expected to carry out your statutory duties as a debtor under the DRS i.e. adhere to the terms and conditions of the DRP. If you fail to comply with the terms and conditions of your DRP and/ or do not fulfil the duties expected of you, these may be grounds for the OA to issue you with a Certificate of Failure, after which your creditors may commence fresh bankruptcy proceedings against you.<br>
 
 Pursuant to section 56P of the Bankruptcy Act, you are expected to adhere to the following:<br>
