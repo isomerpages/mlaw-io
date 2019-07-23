@@ -6,7 +6,3 @@ breadcrumb: Introduction to DRS (Video)
 collection_name: debt-repayment-scheme
 
 ---
-
-Introduction to DRS video (English subtitles)
----
-
