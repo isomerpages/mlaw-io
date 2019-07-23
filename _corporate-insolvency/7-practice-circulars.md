@@ -12,7 +12,7 @@ Practice Circulars
 **Practice Circulars For Corporate Insolvency**
 
 <ul>
-  <li><a href="" target="_blank">The Official Receiver Practice Circular No. 2 of 2018 Administration of Compulsory Winding Up Cases/ Companies (Winding Up) Rules (180 KB)</a></li>
+  <li><a href="" target="_blank">The Official Receiver Practice Circular No. 2 of 2018 Administration of Compulsory Winding Up Cases/ Companies (Winding Up) Rules (180 KB)</a></li><br>
   <li>
     <a href="" target="_blank">The Official Receiver Practice Circular No. 1 of 2018 Administration of Compulsory Winding Up Cases (119 KB)</a>
     <ul>
@@ -20,7 +20,7 @@ Practice Circulars
         <a href="" target="_blank">Payment Requisition Form (11 KB)</a>
       </li>
     </ul>
-  </li>
+  </li><br>
   <li>
     <a href="" target="_blank">OA / OR (Vehicles Under Hire Purchase) Practice Circular No. 2 Of 2017 (168 KB)</a>
   </li>
