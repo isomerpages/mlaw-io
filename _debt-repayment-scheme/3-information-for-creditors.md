@@ -41,3 +41,30 @@ In the event that there are third party payments made towards the debt owed to y
 
 **7.	Is there any fee payable by creditors under the DRS?**<br>
 **Pursuant to Bankruptcy (Debt Repayment Scheme) Rules, the following fees are payable by creditors:**<br>
+
+<table>
+  <tr>
+    <td><b>Fees</b></td>
+    <td><b>Amount</b></td>
+  </tr>
+  <tr>
+    <td>DRS search fees</td>
+    <td>$6</td>
+  </tr>
+  <tr>
+    <td>Filing of Proof of Debt online</td>
+    <td>$5</td>
+  </tr>
+  <tr>
+    <td>
+      Request for documents from the OA<br>
+      · Document search fees<br>
+      · Photocopying charges
+    </td>
+    <td>
+      <br>
+      $25<br>
+      $1 per page
+    </td>
+  </tr>
+</table>
