@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Bankruptcy
-permalink: /corporate-insolvency/bankruptcy/
+permalink: /unclaimed-monies/bankruptcy/
 breadcrumb: Bankruptcy
 collection_name: unclaimed-monies
 ---
