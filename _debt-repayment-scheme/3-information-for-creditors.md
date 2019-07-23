@@ -33,11 +33,11 @@ Pursuant to section 56J(2) of the Bankruptcy Act, the OA may only declare and di
 
 Dividends declared in this respect are made on a quarterly or half-yearly basis.
 
-5.	May I appeal if I disagree with the Debt Repayment Plan (“DRP”) that the OA has approved?
+**5.	May I appeal if I disagree with the Debt Repayment Plan (“DRP”) that the OA has approved?**<br>
 If you disagree with the DRP, you may file a Notice of Appeal with the Appeal Panel. This notice must be received no later than 14 days from the date of notice of the OA’s decision on the approved DRP (or Notice of Commencement of DRP). An Appeal Fee of $100 is chargeable upon each application.
 
-6.	Do I need to inform anyone if a third party pays the debt owed to me?
+**6.	Do I need to inform anyone if a third party pays the debt owed to me?**<br>
 In the event that there are third party payments made towards the debt owed to you, please inform the case administrator immediately.
 
-7.	Is there any fee payable by creditors under the DRS?
-Pursuant to Bankruptcy (Debt Repayment Scheme) Rules, the following fees are payable by creditors:
+**7.	Is there any fee payable by creditors under the DRS?**<br>
+**Pursuant to Bankruptcy (Debt Repayment Scheme) Rules, the following fees are payable by creditors:**<br>
