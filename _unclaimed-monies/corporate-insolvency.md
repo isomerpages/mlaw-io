@@ -17,11 +17,11 @@ Apart from being a liquidator, the Official Receiver also plays the role of:
 
 * a regulator in voluntary winding up and compulsory winding up where private liquidators have been appointed; and
  
-* a representative of defunct companies.
+* a representative of defunct companies.<br>
 
 **A Liquidator in Compulsory Winding Up**
 
-The Official Receiver may be appointed by the Court as liquidator for a company in compulsory winding up and is entitled to exercise the powers of the liquidator as set out in section 272 of the Companies Act (Chapter 50).
+The Official Receiver may be appointed by the Court as liquidator for a company in compulsory winding up and is entitled to exercise the powers of the liquidator as set out in section 272 of the Companies Act (Chapter 50).<br>
 
 **A Regulator in Compulsory Winding Up**
 
@@ -31,7 +31,7 @@ Creditors and contributories may raise their concerns regarding the conduct of p
 
 Before commencing with the liquidation work, the private liquidator has to provide security to the Official Receiver. The Official Receiver will then issue a certificate confirming that the private liquidator has provided security to the Official Receiver.
 
-The private liquidator has to lodge a copy of the Statement of Affairs and the accounts of his receipts and payments and the statements of the position in the winding up to the Official Receiver's office as prescribed by the Companies Act.
+The private liquidator has to lodge a copy of the Statement of Affairs and the accounts of his receipts and payments and the statements of the position in the winding up to the Official Receiver's office as prescribed by the Companies Act.<br>
 
 **A Regulator in Voluntary Winding Up**
 
@@ -39,12 +39,12 @@ The Official Receiver does not act as a liquidator for companies that are wound 
 
 The private liquidator has to lodge his accounts of his receipts and payments and statements of the position in the winding up to the Official Receiver commencing from the date of his appointment to the final meetings of the wound up company.
 
-Creditors and contributories may also raise their concerns regarding the conduct of private liquidators with the Official Receiver.
+Creditors and contributories may also raise their concerns regarding the conduct of private liquidators with the Official Receiver.<br>
 
 **A Representative of Defunct Companies**
  
 A company becomes defunct after it is either dissolved or struck off from the Registry of Companies.
 
-Where there are outstanding assets belonging to a defunct company, these are vested in the Official Receiver under section 346 of the Companies Act. The Official Receiver will then act as a representative of the defunct company to administer these assets under sections 345 to 347 of the Companies Act.
+Where there are outstanding assets belonging to a defunct company, these are vested in the Official Receiver under section 346 of the Companies Act. The Official Receiver will then act as a representative of the defunct company to administer these assets under sections 345 to 347 of the Companies Act.<br>
 
 **With effect from 5 Mar 2018, all payments will be made electronically.**
