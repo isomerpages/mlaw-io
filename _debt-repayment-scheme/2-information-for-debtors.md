@@ -99,59 +99,6 @@ Pursuant to section 56P of the Bankruptcy Act, you are expected to adhere to the
 **10. Summary of DRS fees and/or charges**
 The fees payable under the Bankruptcy (Debt Repayment Scheme) Rules for assessment and administration of cases are set out below.<br>
 
-<table>
-  <tr>
-    <td colspan="2"><b>Fees</b></td>
-    <td><b>Amount</b></td>
-    <td><b>Due</b></td>
-  </tr>
-  <tr>
-    <td rowspan="2">Before DRP commences</td>
-    <td>Preliminary administration</td>
-    <td>$350</td>
-    <td>At the submission of documents</td>
-  </tr>
-  <tr>
-    <td>OA’s review of debtor’s suitability for the DRS</td>
-    <td>$250</td>
-    <td>On or before the meeting of creditors</td>
-  </tr>
-  <tr>
-    <td>After DRP commences</td>
-    <td>
-      Annual administration
-      <ul>
-        <li>First 2 years</li>
-        <li>Next 3 years</li>
-      </ul>
-    </td>
-    <td>
-      <br>
-      $300 per year<br>
-      $350 per year
-    </td>
-    <td>At the start of every year of administration</td>
-  </tr>
-  <tr>
-    <td colspan="2">Appeal Fee</td>
-    <td>$100</td>
-    <td>At the submission of Notice of Appeal</td>
-  </tr>
-  <tr>
-    <td colspan="2">DRP Modification Fee</td>
-    <td>$50</td>
-    <td>On or before the meeting of creditors for modification of DRP</td>
-  </tr>
-  <tr>
-    <td colspan="2">Collection fee by the OA of all payments made by debtor</td>
-    <td colspan="2">1.5% of amount collected</td>
-  </tr>
-  <tr>
-    <td colspan="2">Distribution fee by the OA of dividends to creditors</td>
-    <td colspan="2">3% of amount distributed</td>
-  </tr>
-</table><br>
-
 **11. Contact DRS**<br>
 Insolvency Office (IO)<br>
 Individual Insolvency & Debt Repayment Scheme Division<br>
@@ -160,9 +107,9 @@ The URA Centre (East Wing)<br>
 #07-11<br>
 Singapore 069118<br>
 
-Please send in your enquiries/feedback at [Contact Us @ OneMinLaw](
+Please send in your enquiries/feedback at [Contact Us @ OneMinLaw](https://www.mlaw.gov.sg/eservices/enquiry/){:target="_blank"}
 
-Alternatively, you may visit us at our website at [www.mlaw.gov.sg]( or contact us at 1800-2255-529 (during office hours).
+Alternatively, you may visit us at our website at [https://staging-isomer-mlaw.netlify.com/](https://staging-isomer-mlaw.netlify.com/) or contact us at 1800-2255-529 (during office hours).
 
 **12. Other Frequently Asked Questions**
-For other frequently asked questions on the Debt Repayment Scheme ("DRS"), click here.
+For other frequently asked questions on the Debt Repayment Scheme ("DRS"), [click here](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx){:target="_blank"}.
