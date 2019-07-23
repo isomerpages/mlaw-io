@@ -106,46 +106,48 @@ The fees payable under the Bankruptcy (Debt Repayment Scheme) Rules for assessme
     <td><b>Due</b></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td rowspan="2">Before DRP commences</td>
+    <td>Preliminary administration</td>
+    <td>$350</td>
+    <td>At the submission of documents</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>OA’s review of debtor’s suitability for the DRS</td>
+    <td>$250</td>
+    <td>On or before the meeting of creditors</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>After DRP commences</td>
+    <td>
+      Annual administration
+      <ul>
+        <li>First 2 years</li>
+        <li>Next 3 years</li>
+      </ul>
+    </td>
+    <td><br>
+      $300 per year<br>
+      $350 per year
+    </td>
+    <td>At the start of every year of administration</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td colspan="2">Appeal Fee</td>
+    <td>$100</td>
+    <td>At the submission of Notice of Appeal</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td colspan="2">DRP Modification Fee</td>
+    <td>$50</td>
+    <td>On or before the meeting of creditors for modification of DRP</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td colspan="2">Collection fee by the OA of all payments made by debtor</td>
+    <td colspan="2">1.5% of amount collected</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td colspan="2">Distribution fee by the OA of dividends to creditors</td>
+    <td colspan="2">3% of amount distributed</td>
   </tr>
 </table><br>
 
