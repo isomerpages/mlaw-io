@@ -120,10 +120,8 @@ The fees payable under the Bankruptcy (Debt Repayment Scheme) Rules for assessme
     <td>After DRP commences</td>
     <td>
       Annual administration<br>
-      <ul>
-        <li>First 2 years</li>
-        <li>Next 3 years</li>
-      </ul>
+      · First 2 years<br>
+      · Next 3 years
     </td>
     <td>
       <br>
