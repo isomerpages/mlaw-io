@@ -23,6 +23,7 @@ The Official Receiver may also represent the company, if it is proven to her sat
 
 (ii) in order to carry out, complete or give effect to the said dealing, transaction or matter, some purely administrative act  should have been done or should be done by or on behalf of the company, if still existing.<br>
 
+
 **What should I do if I wish to lay claims on the assets belonging to a defunct company?**<br>
 You may lay your claim as a shareholder or a creditor of the defunct company:
 
@@ -64,6 +65,7 @@ Proof-of-Debt (Form 77) with the relevant supporting documents to substantiate t
 Documents evidencing that there is no outstanding debt or liability owing by the Defunct Company that is payable now or in the future.
 
 For more information, please refer to the attached instructions (click [here](/files/GuidelinestoLayClaimsforDFCases_Jan2018.pdf/)).<br>
+
 
 **What are the charges of the Official Receiver?**<br>
 The fees chargeable by the Official Receiver are stipulated in the Schedule under the Fees (Winding up and Dissolution of Companies and Other Bodies) Order 2005:<br>
