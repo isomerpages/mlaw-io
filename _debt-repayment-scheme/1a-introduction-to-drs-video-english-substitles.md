@@ -8,5 +8,5 @@ second_nav_title: "Introduction to DRS video (English subtitles)"
 
 ---
 
-Introduction to DRS video (English subtitles)
+Introduction to DRS video
 ---
