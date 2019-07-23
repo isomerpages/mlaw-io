@@ -47,8 +47,7 @@ Services rendered by the e-service helpers are chargeable.<br>
 If we do not receive your online submission by the given deadline and/or you do not meet the eligibility criteria, you may be found unsuitable for the DRS and your case will be referred back to Court for the bankruptcy proceedings to be heard again.<br>
 
 **5. What are the documents to be submitted for suitability assessment?**<br>
-In your Notice of Introduction on DRS & Filing of Statement of Affairs, you will be notified to submit the following documents [online](https://www.mlaw.gov.sg/eservices/io/):
-
+In your Notice of Introduction on DRS & Filing of Statement of Affairs, you will be notified to submit the following documents [online](https://www.mlaw.gov.sg/eservices/io/):<br>
 (a)    Statement of Affairs;<br>
 (b)   Income & Expenditure Statement;<br>
 (c)    Debt Repayment Plan; and<br>
