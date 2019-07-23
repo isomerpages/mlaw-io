@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Responsibilities and Rights of a Bankrupt
-permalink: /bankruptcy/information-for-bankrupts/impact-of-bankruptcy/
+permalink: /bankruptcy/information-for-bankrupts/impact-of-bankruptcy/responsibilities-and-rights/
 breadcrumb: Responsibilities and Rights of a Bankrupt
 collection_name: bankruptcy
 second_nav_title: "Information for Bankrupts"
