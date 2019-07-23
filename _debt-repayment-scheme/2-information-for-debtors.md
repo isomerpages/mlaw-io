@@ -100,7 +100,7 @@ Pursuant to section 56P of the Bankruptcy Act, you are expected to adhere to the
 The fees payable under the Bankruptcy (Debt Repayment Scheme) Rules for assessment and administration of cases are set out below.<br>
 
 <style>
-  table tr td ul{font-size: 1rem;}
+  table tr td ul{font-size: 12px;}
 </style>
 
 <table>
