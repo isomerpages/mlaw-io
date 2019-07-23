@@ -58,8 +58,8 @@ Any objection to the liquidator's application for Release or Striking Off must b
 **How do I file a Proof of Debt (Form 77)?**<br>
 Where the Official Receiver is appointed as the liquidator of the wound up company, creditors can file their Proofs of Debt, manually or electronically, to the Official Receiver's office:<br>
 <ul>
-  <li>For online submission, a filing fee of $5.00 is payable. Please click [here](https://www.mlaw.gov.sg/eservices/io/){:target="_blank"} to submit the Form 77 electronically. </li>
-  <li>For manual submission, a filing fee of S$8.00 is payable via SAM machine or cash at our office. To download the Form 77, please click [here](/corporate-insolvency/forms/){:target="_blank"}.</li>
+ <li>For online submission, a filing fee of $5.00 is payable. Please click <a href="https://www.mlaw.gov.sg/eservices/io/" target="_blank">here</a> to submit the Form 77 electronically.</li>
+  <li>For manual submission, a filing fee of S$8.00 is payable via SAM machine or cash at our office. To download the Form 77, please click <a href="/corporate-insolvency/forms/" target="_blank">here</a>.</li>
 </ul>
 
 Please submit the supporting documents such as invoices and judgements to the Official Receiver. Please quote the e-filing number (for electronic submission of Form 77) and the winding up number of the company when submitting the supporting documents to the Official Receiver. Proofs of Debt without any supporting documents may be rejected.
