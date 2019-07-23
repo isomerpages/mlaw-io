@@ -26,23 +26,14 @@ If you, without reasonable excuse, fail to submit a Statement of Affairs to the 
 You may contact us at:  <br>
 
 Contact Us @ OneMinLaw  <br>
-
 or  <br>
-
 Insolvency Office  <br>
-
 45 Maxwell Road  <br>
-
 #07-11  <br>
-
 The URA Centre (East Wing)  <br>
-
 Singapore 069118  <br>
-
 Tel: 1800-2255-529 (during office hours)  <br>
-
 Fax: 6325-1417  <br>
-
  
 
 <b> 3. What is “bankruptcy case administration”? </b>  <br>
