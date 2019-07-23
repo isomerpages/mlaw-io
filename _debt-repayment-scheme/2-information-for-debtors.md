@@ -99,6 +99,56 @@ Pursuant to section 56P of the Bankruptcy Act, you are expected to adhere to the
 **10. Summary of DRS fees and/or charges**
 The fees payable under the Bankruptcy (Debt Repayment Scheme) Rules for assessment and administration of cases are set out below.<br>
 
+<table>
+  <tr>
+    <td colspan="2"><b>Fees</b></td>
+    <td><b>Amount</b></td>
+    <td><b>Due</b></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table><br>
+
 **11. Contact DRS**<br>
 Insolvency Office (IO)<br>
 Individual Insolvency & Debt Repayment Scheme Division<br>
