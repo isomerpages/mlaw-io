@@ -11,6 +11,7 @@ Alternatives to Bankruptcy
 <b> 1. Advice for Debtors </b> <br>
 Do not ignore your creditors' Letters of Demand, Statutory Demands, or Writs of summons from the Court. You can be made a bankrupt even if you refuse to respond to your creditors or decline to accept service of their documents. <br>
 
+
 <b> 2. Reasons to avoid bankruptcy </b>
 Difficulties in looking for a job <br>
 
@@ -21,6 +22,7 @@ Restrictions in obtaining credit greater than $1,000 <br>
 Restrictions in managing a business or acting as a director of a company <br>
 
 No automatic discharge from bankruptcy in Singapore <br>
+
 
 <b> 3. Advice for creditors </b> <br>
 Commencing bankruptcy proceedings will not guarantee the full recovery of the debts owed. You should only commence bankruptcy proceedings against your debtor when all other debt recovery options have been exhausted. <br>
@@ -43,9 +45,6 @@ Debtors should inform creditors of their latest financial position. They should 
 Debtors should make serious effort in keeping up with their repayment after entering into the arrangement. <br>
 
  
-
- 
-
 <b> 5. Assistance from Credit Counseling Singapore </b><br>
 Debtors may also seek assistance from Credit Counseling Singapore at the following contact: <br>
 
