@@ -25,7 +25,7 @@ If you, without reasonable excuse, fail to submit a Statement of Affairs to the 
 <b> 2. How do I contact my case officer? </b>  <br>
 You may contact us at:  <br>
 
-Contact Us @ OneMinLaw  <br>
+[Contact Us @ OneMinLaw](https://www.mlaw.gov.sg/eservices/enquiry/) <br>
 or  <br>
 Insolvency Office  <br>
 45 Maxwell Road  <br>
@@ -104,12 +104,10 @@ If you receive:  <br>
 - are approached by your creditors to repay your debts to them directly,  <br>
 
  
-
 you should advise your creditors of your bankruptcy status inform them to file a Proof of Debt against your bankruptcy estate with the Insolvency Office.  <br>
 
  
-
-Do note that this excludes fines incurred from the breaches of the law. You will have to make payment for these fines despite your bankruptcy status. Debts owed to the Singapore government i.e. CPF Board, the Inland Revenue Authority of Singapore etc. will have to be settled with the respective government agencies even after your discharge from bankruptcy.  <br>
+ Do note that this excludes fines incurred from the breaches of the law. You will have to make payment for these fines despite your bankruptcy status. Debts owed to the Singapore government i.e. CPF Board, the Inland Revenue Authority of Singapore etc. will have to be settled with the respective government agencies even after your discharge from bankruptcy.  <br>
 
  
 
