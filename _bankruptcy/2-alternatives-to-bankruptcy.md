@@ -12,7 +12,7 @@ Alternatives to Bankruptcy
 Do not ignore your creditors' Letters of Demand, Statutory Demands, or Writs of summons from the Court. You can be made a bankrupt even if you refuse to respond to your creditors or decline to accept service of their documents. <br>
 
 
-<b> 2. Reasons to avoid bankruptcy </b>
+<b> 2. Reasons to avoid bankruptcy </b> <br>
 Difficulties in looking for a job <br>
 
 Restrictions in traveling overseas <br>
@@ -32,7 +32,7 @@ Other reasons to consider before commencing bankruptcy proceedings: <br>
 * The cost of bankruptcy proceedings
 * The loss of interest on the principal sum owed after the making of the Bankruptcy Order
 * The low likelihodd of recovering debts in full
-* After the bankrupt’s discharge from bankruptcy, debts which are not fully settled will be extinguished and creditors will not be able to further pursue the debts. (There are certain types of debts which will not be extinguished e.g. Debts owed to the Singapore Government that remain unpaid will not be extinguished even after the bankrupt’s discharge from bankruptcy.)  
+* After the bankrupt’s discharge from bankruptcy, debts which are not fully settled will be extinguished and creditors will not be able to further pursue the debts. (There are certain types of debts which will not be extinguished e.g. Debts owed to the Singapore Government that remain unpaid will not be extinguished even after the bankrupt’s discharge from bankruptcy.)   <br>
  
 
 <b> 4. Private Arrangement </b> <br>
