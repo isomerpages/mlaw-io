@@ -25,7 +25,7 @@ To assist us with the assessment of your claim, you need to provide us with a st
 
 (d) legal costs, if any.<br>
 
-Please refer to the [Checklist to Creditors]( for more details on supporting documents.
+Please refer to the [Checklist to Creditors](https://mlaw-io-staging.netlify.com/debt-repayment-scheme/forms/) for more details on supporting documents.
 
 **4.	When will I receive dividend payments from the OA?**<br>
 Pursuant to section 56J(2) of the Bankruptcy Act, the OA may only declare and distribute dividends to creditors who have proven their debts by filing a claim against a debtor. If you have yet to file your Proof of Debt, you will be excluded from any dividends that are distributed.<br>
