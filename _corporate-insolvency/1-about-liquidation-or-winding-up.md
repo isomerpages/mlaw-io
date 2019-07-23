@@ -70,7 +70,7 @@ Section 254(1) of the Companies Act (Cap. 50) states all the grounds under which
   <li>
     <b>Just and Equitable</b><br>
     When the Court is of the opinion that it is just and equitable that the company be wound up.</li>
-</ul><br>
+</ul>
 
 **What are the stages involved in a compulsory liquidation?**<br>
 Click [here](/images/MainStagesofLiquidationgeneralrevised.png/){:target="_blank"} to view the major stages involved in a compulsory liquidation.
