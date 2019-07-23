@@ -125,7 +125,8 @@ The fees payable under the Bankruptcy (Debt Repayment Scheme) Rules for assessme
         <li>Next 3 years</li>
       </ul>
     </td>
-    <td><br>
+    <td>
+      <br>
       $300 per year<br>
       $350 per year
     </td>
