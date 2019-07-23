@@ -40,7 +40,7 @@ You may access the e-services portal (Individual Insolvency Administration Infor
 <b>2. Travelling Overseas</b> <br>
 
 <b>(a) Can I travel overseas? </b> <br>
-You are allowed to leave Singapore or remain overseas after obtaining the approval of the Official Assignee. If you attempt to travel overseas <u><b>without<b></u> the Official Assignee's permission, you may be stopped by the Controller of Immigration from leaving Singapore and your passport may be impounded by the Immigration & Checkpoints Authority.<br>
+You are allowed to leave Singapore or remain overseas after obtaining the approval of the Official Assignee. If you attempt to travel overseas <u><b>without</b></u> the Official Assignee's permission, you may be stopped by the Controller of Immigration from leaving Singapore and your passport may be impounded by the Immigration & Checkpoints Authority.<br>
 
 <b>(b) How do I apply for permission to travel overseas?</b><br>
 If you wish to leave Singapore, you should apply online at least 14 days before your departure date to obtain the Official Assignee’s permission, stating the reason for your travel, your destination of travel and your period of travel.<br>
