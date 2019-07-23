@@ -112,7 +112,6 @@ you should advise your creditors of your bankruptcy status inform them to file a
  
 
 <b> 8. Does the Insolvency Office help bankrupts to find employment? </b>  <br>
-
 The Insolvency Office has a Job Referral and Skills Upgrading Programme with the Workforce Development Agency to help bankrupts with their employment prospects and opportunities.  <br>
 
  
