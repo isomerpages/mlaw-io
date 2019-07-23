@@ -80,7 +80,7 @@ The DRS is triggered by a bankruptcy application. When such an application is ma
  
 
 <b> 10. Other Suggested Readings </b><br>
-[Minlaw FAQs on Individual Insolvency](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx)br>
+[Minlaw FAQs on Individual Insolvency](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx)<br>
 [Information for Bankrupts]()<br>
 
  
