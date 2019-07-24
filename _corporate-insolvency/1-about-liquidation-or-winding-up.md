@@ -161,7 +161,7 @@ The proceeds from the realisation of the company’s assets will first be paid t
 
 <sup>*</sup>The amount payable shall not exceed an amount that is equivalent to five months’ salary or S$12,500, whichever is lesser.
 
-After payment of these preferential claims in full, the balance is then paidpari passu (i.e. paid out equally) to all ordinary creditors. When all creditors have been paid, the liquidator makes a capital repayment to shareholders with the leave of Court. The shareholders are paid in proportion to their respective interests in the company’s share capital.
+After payment of these preferential claims in full, the balance is then *paidpari passu* (i.e. paid out equally) to all ordinary creditors. When all creditors have been paid, the liquidator makes a capital repayment to shareholders with the leave of Court. The shareholders are paid in proportion to their respective interests in the company’s share capital.
 
 **e) Release and dissolution**
 
