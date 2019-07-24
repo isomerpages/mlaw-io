@@ -34,4 +34,58 @@ Please therefore ensure that you maintain sufficient funds in the bank account b
 **4. Can I buy a HDB flat?**<br>
 The Official Assignee’s consent is not required if you are purchasing a 5 room HDB flat or smaller.
 
-In the event that you wish to purchase a HDB executive/maisonette flat, you must submit your [application form](){:target="_blank"} for the Official Assignee’s consideration. You are required to prove that you have both the means and the need for such a flat. Your conduct and co-operation will also be considered when assessing such applications.
+In the event that you wish to purchase a HDB executive/maisonette flat, you must submit your [application form](/files/linkclick7ecb.doc/){:target="_blank"} for the Official Assignee’s consideration. You are required to prove that you have both the means and the need for such a flat. Your conduct and co-operation will also be considered when assessing such applications.
+
+**5. Do I need to pay for the administration of my bankruptcy affairs?**<br>
+You will need to bear the costs incurred by the creditor who commenced the bankruptcy proceedings, i.e. the petitioning creditor's deposit to the Official Assignee, the petitioning creditor’s solicitor's fees and disbursements incurred in making the Bankruptcy Order against you.
+
+The Official Assignee also deducts a fee from proceeds of assets realised, or deposits placed into your bankruptcy estate. The rates of the fees charged are as follows:
+<table>
+  <tr>
+    <td>On the first S$10,000</td>
+    <td>10.30%</td>
+  </tr>
+  <tr>
+    <td>On the next S$15,000</td>
+    <td>8.24%</td>
+  </tr>
+  <tr>
+    <td>On the next S$25,000</td>
+    <td>6.18%</td>
+  </tr>
+  <tr>
+    <td>On the next S$50,000</td>
+    <td>4.12%</td>
+  </tr>
+  <tr>
+    <td>On all further sums > S$100,000</td>
+    <td>2.06%</td>
+  </tr>
+</table>
+Fees are also levied on dividends distributed to creditors. The rates of the fees charged are:
+<table>
+  <tr>
+    <td>On the first S$10,000</td>
+    <td>5.15%</td>
+  </tr>
+  <tr>
+    <td>On the next S$15,000</td>
+    <td>4.12%</td>
+  </tr>
+  <tr>
+    <td>On the next S$25,000</td>
+    <td>3.09%</td>
+  </tr>
+  <tr>
+    <td>On the next S$50,000</td>
+    <td>2.06%</td>
+  </tr>
+  <tr>
+    <td>On all further sums > S$100,000</td>
+    <td>1.03%</td>
+  </tr>
+</table>
+**Other Information for Bankrupts**<br>
+* Impact of Bankruptcy
+* Responsibilities and Rights of a Bankrupt
+* Discharge from Bankruptcy
