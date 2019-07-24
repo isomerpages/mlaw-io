@@ -7,7 +7,7 @@ collection_name: bankruptcy
 second_nav_title: "Information for Bankrupts"
 ---
 
-Assets of a Bankrupty5y
+Assets of a Bankrupt
 ---
 
 **1. Can I open a bank account?**<br>
