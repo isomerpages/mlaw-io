@@ -6,7 +6,7 @@ breadcrumb: Information for Bankrupts
 collection_name: bankruptcy
 second_nav_title: "Information for Bankrupts"
 ---
-Please click on the links below for more information :
+**Please click on the links below for more information** :
 
 [Impact of Bankruptcy](/bankruptcy/information-for-bankrupts/impact-of-bankruptcy/) <br> 
 [Responsibilities and Rights of a Bankrupt](/bankruptcy/information-for-bankrupts/impact-of-bankruptcy/responsibilities-and-rights/) <br>
