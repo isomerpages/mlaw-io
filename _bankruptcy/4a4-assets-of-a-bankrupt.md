@@ -86,6 +86,6 @@ Fees are also levied on dividends distributed to creditors. The rates of the fee
   </tr>
 </table>
 **Other Information for Bankrupts**<br>
-* Impact of Bankruptcy
-* Responsibilities and Rights of a Bankrupt
-* Discharge from Bankruptcy
+* [Impact of Bankruptcy]()
+* [Responsibilities and Rights of a Bankrupt]()
+* [Discharge from Bankruptcy]()
