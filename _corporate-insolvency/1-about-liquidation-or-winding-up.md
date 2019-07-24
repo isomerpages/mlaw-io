@@ -9,7 +9,8 @@ collection_name: corporate-insolvency
 About Liquidation or Winding Up
 ---
 **What is liquidation or winding-up?**<br>
-**Overview**
+
+**Overview**<br>
 
 Liquidation is a process where the company’s assets are seized and realised, with the resulting proceeds used to pay off its debts and liabilities.
  
