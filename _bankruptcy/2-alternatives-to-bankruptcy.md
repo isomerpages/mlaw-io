@@ -14,13 +14,9 @@ Do not ignore your creditors' Letters of Demand, Statutory Demands, or Writs of 
 
 <b> 2. Reasons to avoid bankruptcy </b> <br>
 Difficulties in looking for a job <br>
-
 Restrictions in traveling overseas <br>
-
 Restrictions in obtaining credit greater than $1,000 <br>
-
 Restrictions in managing a business or acting as a director of a company <br>
-
 No automatic discharge from bankruptcy in Singapore <br>
 
 
@@ -66,7 +62,7 @@ Debtors may apply to Court for an interim order for a Voluntary Arrangement (VA)
 If you are a debtor being sued by your creditor under civil proceedings, you may negotiate for a settlement of the repayment of your debts and avoid bankruptcy. <br>
 
 <b> 8. Oral Legal Advice </b><br>
-The information provided above on bankruptcy matters is by no means exhaustive. You may wish to consult your solicitor before making any decision concerning bankruptcy. If you are unable to afford a solicitor, you may obtain legal advice from the Legal Aid Bureau ("LAB"). For more information, please visit LAB's website. <br>
+The information provided above on bankruptcy matters is by no means exhaustive. You may wish to consult your solicitor before making any decision concerning bankruptcy. If you are unable to afford a solicitor, you may obtain legal advice from the Legal Aid Bureau ("LAB"). For more information, please visit LAB's [website](https://mlaw-lab-staging.netlify.com/). <br>
 
 <b> 9. Debt Repayment Scheme </b><br>
 The Debt Repayment Scheme (DRS) is a repayment scheme to assist debtors who have a regular income and debts not exceeding $100,000, to avoid bankruptcy.<br>
@@ -75,13 +71,13 @@ The Debt Repayment Scheme (DRS) is a repayment scheme to assist debtors who have
 
 The DRS is triggered by a bankruptcy application. When such an application is made to the High Court and the debt owed does not exceed S$100,000, the High Court may refer the debtor to the Official Assignee for an assessment of the debtor’s eligibility and suitability to enter into the DRS. If the debtor satisfies the relevant criteria, an administrator will devise a repayment plan requiring regular debt repayments to the creditors over a fixed period of time. Debtors who do not comply with the conditions of the scheme will be failed from the DRS. These debtors may subsequently face another bankruptcy application filed against them and be made bankrupt by the High Court. <br>
 
- For further information, please refer to the DRS page on this [website](). <br>
+ For further information, please refer to the DRS page on this [website](/debt-repayment-scheme/about-debt-repayment-scheme/). <br>
 
  
 
 <b> 10. Other Suggested Readings </b><br>
 [Minlaw FAQs on Individual Insolvency](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx)<br>
-[Information for Bankrupts]()<br>
+[Information for Bankrupts](/bankruptcy/information-for-bankrupts/)<br>
 
  
 
