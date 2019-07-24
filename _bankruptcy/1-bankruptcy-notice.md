@@ -5,6 +5,8 @@ permalink: /bankruptcy/bankruptcy-notice/
 breadcrumb: Bankruptcy Notice
 collection_name: bankruptcy
 ---
+Bankruptcy Notice
+---
 
 <u> <b> Notice To All Bankrupts </b> </u>
 
