@@ -10,4 +10,4 @@ second_nav_title: "Information for Stakeholders"
 Bankruptcy Information Sheet for Creditors
 ---
 ##### **Information for Creditors** <br>
-[Bankruptcy Information Sheet for Creditors (272 KB)]()
+[Bankruptcy Information Sheet for Creditors (272 KB)](/files/CreditorBankruptcyInformationSheet04Aug17.pdf)
