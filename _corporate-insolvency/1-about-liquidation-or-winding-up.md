@@ -25,6 +25,7 @@ The purposes of a liquidation are:
 </ul>
 
 **Just distribution of assets**<br>
+
 When a company is being wound up, the company’s business ceases to operate and its assets and affairs are handed over to an independent liquidator whose powers, duties and functions are regulated by the Companies Act (Cap 50).
 
 The rights of unsecured creditors over the company's assets are virtually "frozen" upon the commencement of the liquidation to avoid a further deterioration of the company's financial position and proliferation of its liabilities.
@@ -75,9 +76,11 @@ Section 254(1) of the Companies Act (Cap. 50) states all the grounds under which
 </ul>
 
 **What are the stages involved in a compulsory liquidation?**<br>
+
 Click [here](/images/MainStagesofLiquidationgeneralrevised.png/){:target="_blank"} to view the major stages involved in a compulsory liquidation.
 
 **What effects does liquidation have on the company and creditors?**<br>
+
 **a) Proceedings against the company**
 
 An application may be made to the Court to stay or restrain pending proceedings against the company at any time after the presentation of a winding up application and before a winding up order has been made.
@@ -113,6 +116,7 @@ The proceeds of realisation of assets under a floating charge will first be used
 The rights of the secured creditor to deal or realise security over company assets are not affected by the winding up order. However the secured creditor is not entitled to interest on the debt if the security is not realised within 12 months of winding up or such further period as allowed by the Official Receiver.<br>
 
 **What is the role of a liquidator in compulsory liquidation?**<br>
+
 The powers of a liquidator for a compulsory winding up are set out in section 272 of the Companies Act (Cap. 50).
 
 The role or the liquidator includes the following:
@@ -171,6 +175,7 @@ Any assets that were not realised prior to dissolution will vest with the Offici
 
 
 **What are the charges of the Official Receiver?**<br>
+
 The fees chargeable by the Official Receiver are stipulated in the Schedule under the Fees (Winding up and Dissolution of Companies and Other Bodies) Order 2005:<br>
 (i) Administrative Fee;<br>
 (ii) Realisation Fee; and <br>
