@@ -8,10 +8,7 @@ collection_name: bankruptcy
 Bankruptcy Notice
 ---
 
-<u> <b> Notice To All Bankrupts </b> </u>
-
- 
-
+<u> <b> Notice To All Bankrupts </b> </u> <br>
 Bankrupts under the Official Assignee’s (“OA’s”) administration must submit their Statement of Affairs (“SA”) as advised in the Notice sent to them by the OA. <br>
 
  
@@ -44,13 +41,10 @@ It is an offence for a bankrupt to: <br>
 
  
 
-For more information on the duties and responsibilities of a bankrupt, please refer to [Duties and Responsibilities of a Bankrupt](/bankruptcy/information-for-bankrupts/).
+For more information on the duties and responsibilities of a bankrupt, please refer to [Duties and Responsibilities of a Bankrupt](/bankruptcy/information-for-bankrupts/impact-of-bankruptcy/responsibilities-and-rights/).
 
  
-<b> <u> Notice To Creditors, Debtors, Asset Holders & Interested Persons </u> </b>
-
- 
-
+<b> <u> Notice To Creditors, Debtors, Asset Holders & Interested Persons </u> </b> <br>
 Creditors of bankrupts should file their Proof of Debts with the OA / Private Trustees at [https://www.mlaw.gov.sg/eservices/io](https://www.mlaw.gov.sg/eservices/io) within 6 months from the date of the Bankruptcy Order or any other date as instructed by the OA / Private Trustees. <br>
 
  
@@ -77,8 +71,7 @@ For more information for creditors, please refer to [Information for Creditors](
 
  
 
-<b> <u>New Bankrupt, Creditor and PTIB portals in Q2 2019 </u> </b>
-
+<b> <u>New Bankrupt, Creditor and PTIB portals in Q2 2019 </u> </b> <br>
 The Insolvency Office is constantly looking into providing the public with a better service experience. <br>
 
  
