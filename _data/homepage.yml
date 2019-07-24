@@ -11,14 +11,14 @@ favicon: /images/favicon-isomer.ico
 agency-logo: /images/mlaw-io-logo.png
 
 # Hero Banner
-hero-title: Insolvency Office
+hero-title: INSOLVENCY OFFICE
 hero-subtitle: Office of the Offical Assignee and Offical Receiver
 hero-banner: /images/hero-banner.png
 
 #Call to Action Button
 button:
   - text: Learn More
-    url: /who-we-are/
+    url: https://mlaw-io-staging.netlify.com/
     
 key-highlights:
   - title: Highlight A
