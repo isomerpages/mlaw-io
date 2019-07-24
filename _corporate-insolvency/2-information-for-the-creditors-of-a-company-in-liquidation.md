@@ -70,7 +70,7 @@ In the event that private liquidators have been appointed as the liquidators of 
 
 **Other Information**
 
-Unfair preferences and undervalued transactions 
+**Unfair preferences and undervalued transactions**
 
 Sections 98 to 103 of the Bankruptcy Act (Chapter 20) will apply in ascertaining whether there are unfair preferences or transactions made at an undervalue.<br>
 <ul>
