@@ -41,11 +41,11 @@ It is an offence for a bankrupt to: <br>
 
  
 
-For more information on the duties and responsibilities of a bankrupt, please refer to [Duties and Responsibilities of a Bankrupt](/bankruptcy/information-for-bankrupts/impact-of-bankruptcy/responsibilities-and-rights/).
+For more information on the duties and responsibilities of a bankrupt, please refer to [Duties and Responsibilities of a Bankrupt](/bankruptcy/information-for-bankrupts/impact-of-bankruptcy/responsibilities-and-rights/){:target="_blank"} .
 
  
 <b> <u> Notice To Creditors, Debtors, Asset Holders & Interested Persons </u> </b> <br>
-Creditors of bankrupts should file their Proof of Debts with the OA / Private Trustees at [https://www.mlaw.gov.sg/eservices/io](https://www.mlaw.gov.sg/eservices/io) within 6 months from the date of the Bankruptcy Order or any other date as instructed by the OA / Private Trustees. <br>
+Creditors of bankrupts should file their Proof of Debts with the OA / Private Trustees at [https://www.mlaw.gov.sg/eservices/io](https://www.mlaw.gov.sg/eservices/io){:target="_blank"}  within 6 months from the date of the Bankruptcy Order or any other date as instructed by the OA / Private Trustees. <br>
 
  
 
@@ -65,7 +65,7 @@ All persons holding assets belonging to bankrupts or who have relevant informati
 
  
 
-For more information for creditors, please refer to [Information for Creditors](/bankruptcy/information-for-stakeholders/information-for-creditors/). <br>
+For more information for creditors, please refer to [Information for Creditors](/bankruptcy/information-for-stakeholders/information-for-creditors/){:target="_blank"} . <br>
 
  
 
