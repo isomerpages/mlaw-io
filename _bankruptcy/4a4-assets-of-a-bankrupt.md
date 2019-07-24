@@ -34,7 +34,7 @@ Please therefore ensure that you maintain sufficient funds in the bank account b
 **4. Can I buy a HDB flat?**<br>
 The Official Assignee’s consent is not required if you are purchasing a 5 room HDB flat or smaller.
 
-In the event that you wish to purchase a HDB executive/maisonette flat, you must submit your [application form](/files/linkclick7ecb.doc/){:target="_blank"} for the Official Assignee’s consideration. You are required to prove that you have both the means and the need for such a flat. Your conduct and co-operation will also be considered when assessing such applications.<br>
+In the event that you wish to purchase a HDB executive/maisonette flat, you must submit your [application form](/files/linkclick7ecb.doc){:target="_blank"} for the Official Assignee’s consideration. You are required to prove that you have both the means and the need for such a flat. Your conduct and co-operation will also be considered when assessing such applications.<br>
 
 **5. Do I need to pay for the administration of my bankruptcy affairs?**<br>
 You will need to bear the costs incurred by the creditor who commenced the bankruptcy proceedings, i.e. the petitioning creditor's deposit to the Official Assignee, the petitioning creditor’s solicitor's fees and disbursements incurred in making the Bankruptcy Order against you.<br>
