@@ -13,7 +13,7 @@ The Official Receiver is a public officer who acts as:
 
 **A Liquidator in Compulsory Winding Up**
 
-The Official Receiver is a public officer who may be appointed by the High Court to act as the liquidator of companies undergoing compulsory winding up in Singapore. The Official Receiver ’s role as a liquidator is to expeditiously recover and realise the assets of the wound up company for the distribution of dividends to creditors and administer any outstanding matters involving the wound up company.
+The Official Receiver is a public officer who may be appointed by the High Court to act as the liquidator of companies undergoing compulsory winding up in Singapore. The Official Receiver’s role as a liquidator is to expeditiously recover and realise the assets of the wound up company for the distribution of dividends to creditors and administer any outstanding matters involving the wound up company.
 
 **A Regulator In Compulsory & Voluntary Winding Up**
 
