@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Bankruptcy Information Sheet for Creditors
+title: Information for Private Trustees
 permalink: /bankruptcy/information-for-stakeholders/information-for-private-trustees/
-breadcrumb: Bankruptcy Information Sheet for Creditors
+breadcrumb: Information for Private Trustees
 collection_name: bankruptcy
 second_nav_title: "Information for Stakeholders"
 ---
