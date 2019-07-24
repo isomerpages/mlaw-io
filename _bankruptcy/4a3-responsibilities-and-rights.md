@@ -48,13 +48,13 @@ If you wish to leave Singapore, you should apply online at least 14 days before 
 You will also need to submit documents in respect of your travel application if required by the Official Assignee. For example, if you are travelling for employment purposes, you need to submit your letter of employment or a company letter supporting the reason for your travel.
 
 <b>(c) What if I need to travel urgently?</b> <br>
-If you need to travel urgently, you are still required to apply for permission online and thereafter contact your officer to obtain confirmation on the approval status of your travel application. <br>
+If you need to travel urgently, you are still required to apply for permission [online](https://www.mlaw.gov.sg/eservices/io/) and thereafter contact your officer to obtain confirmation on the approval status of your travel application. <br>
 
 <b>(d) What if I need to travel frequently?</b> <br>
 If you have to travel frequently, you may apply for block periods of travel subject to your conduct in bankruptcy. <br>
 
 <b>(e) How do I find out the status of my latest travel application?</b> <br>
-You may access the e-services portal (Individual Insolvency Administration Information) at our website and obtain the information at no charge. <br>
+You may access the e-services portal (Individual Insolvency Administration Information) at our [website](https://www.mlaw.gov.sg/eservices/io/) and obtain the information at no charge. <br>
 
 <b>3. Managing a Business or Becoming a Director</b> <br>
 
@@ -72,7 +72,7 @@ You may apply to the High Court or to the Official Assignee for permission to:
  
 
 <b>(b) How can I apply to manage a business or corporation?</b> <br>
-Please download and submit this application form together with the supporting documents indicated on the application form to the Official Assignee.
+Please download and submit this [application form](/files/linkclickf1c2.doc) together with the supporting documents indicated on the application form to the Official Assignee.
 
 <b>(c) What are the factors taken into consideration when reviewing my application to manage a business or corporation?</b> <br>
 Each application will be considered on its own merit. The Official Assignee will take into consideration a number of factors including: 
@@ -93,7 +93,7 @@ The Official Assignee may refuse the application or approve the application subj
  
 
 <b>(d) How do I find out the status of my application to manage a business or corporation?</b> <br>
-You may access the e-services portal (Individual Insolvency Administration Information) at our website and obtain the information at no charge. <br>
+You may access the e-services portal (Individual Insolvency Administration Information) at our [website](https://www.mlaw.gov.sg/eservices/io/) and obtain the information at no charge. <br>
 
 <b>4. Categorising and Zones</b> <br>
 
@@ -169,6 +169,7 @@ Other bankruptcy offences include:
  
 
 <b>Other Information for bankrupts</b><br>
-* Impact of Bankruptcy
-* Assets of a Bankrupt
-* Discharge from Bankruptcy
+* [Impact of Bankruptcy](/bankruptcy/information-for-bankrupts/impact-of-bankruptcy/) <br> 
+* [Assets of a Bankrupt](/bankruptcy/information-for-bankrupts/assets-of-a-bankrupt/) <br> 
+* [Discharge from Bankruptcy](/bankruptcy/information-for-bankrupts/discharge-from-bankruptcy/) <br>
+
