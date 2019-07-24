@@ -124,6 +124,6 @@ For more information on the Job Referral and Skills Upgrading Programme, you may
 
  
 <b> Other information for bankrupts </b><br>
-* Responsibilites and Rights of a Bankrupt
-* Assets of a Bankrupt
-* Discharge from Bankruptcy
+* [Responsibilities and Rights of a Bankrupt](/bankruptcy/information-for-bankrupts/impact-of-bankruptcy/responsibilities-and-rights/)
+* [Assets of a Bankrupt](/bankruptcy/information-for-bankrupts/assets-of-a-bankrupt/)
+* [Discharge from Bankruptcy](/bankruptcy/information-for-bankrupts/discharge-from-bankruptcy/)
