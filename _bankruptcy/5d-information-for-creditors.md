@@ -24,7 +24,7 @@ If your claim was incurred prior to the making of the Bankruptcy Order, you can 
 
 If you are the creditor who commenced the bankruptcy proceedings, you should also file a Proof of Debt against the bankrupt. <br>
 
-Debts that are incurred after the date of the making of the Bankruptcy Order are not provable (claimable) against the bankruptcy estate. If a bankrupt borrows from you without informing you of his status as a bankrupt, you should immediately provide feedback to the Official Assignee, using the “First Incident Report” form. <br>
+Debts that are incurred after the date of the making of the Bankruptcy Order are not provable (claimable) against the bankruptcy estate. If a bankrupt borrows from you without informing you of his status as a bankrupt, you should immediately provide feedback to the Official Assignee, using the “[First Incident Report](/files/FIRST-INFORMATION-REPORT-PTIB-IIDRDS-DDF.docx)” form. <br>
 
 <b>4. How do I file a Proof of Debt (Form 23)?</b> <br>
 The filing of a Proof of Debt is done online here. It costs $5.00 to file each Proof of Debt. If you would like to lodge your claim electronically, you may do so here. <br>
