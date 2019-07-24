@@ -42,7 +42,8 @@ Unsecured creditors are paid on a *pari passu* basis, i.e. they are paid out of 
 * Company acting outside its scope of activities<br>
 
 **What are the various types of winding up?**<br>
-**Members' voluntary winding up**
+
+**Members' voluntary winding up**<br>
 
 The company’s contributories (also known as members or shareholders) may pass a resolution that the company be wound up and that a liquidator be appointed.
 
