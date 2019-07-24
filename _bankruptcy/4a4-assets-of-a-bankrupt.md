@@ -19,25 +19,25 @@ he following conditions will be imposed when you open the new savings account:
 
 * You must furnish all information required by the Official Assignee in respect of that account.
 
-If the above conditions are not complied with, the Official Assignee can close the account.
+If the above conditions are not complied with, the Official Assignee can close the account.<br>
 
 **2. How do I apply for GIRO after my bank account is opened?**<br>
 Please make a photocopy of the first page of the bank passbook and forward it together with the completed Direct Debit Authorisation (DDA) form to the Official Assignee’s office. The Official Assignee will inform you once the GIRO facility is activated.
 
-Note: Until you receive our notification, you will have to make your instalment payments via GIRO, [Self-service Automated Machines (SAMs), SingPost counters](https://www.singpost.com/), and cash, NETS or Cashcard at our office.
+Note: Until you receive our notification, you will have to make your instalment payments via GIRO, [Self-service Automated Machines (SAMs), SingPost counters](https://www.singpost.com/), and cash, NETS or Cashcard at our office.<br>
 
 **3. When do the GIRO deductions take place?**<br>
 The GIRO deductions from the bank account into your bankruptcy estate account will take place between the 3rd - 7th (first attempt) or the 16th - 20th of each month (second attempt). The second attempt will be made only if the first has failed.
 
-Please therefore ensure that you maintain sufficient funds in the bank account before the 3rd or before the 16th day of each month for the deductions.
+Please therefore ensure that you maintain sufficient funds in the bank account before the 3rd or before the 16th day of each month for the deductions.<br>
 
 **4. Can I buy a HDB flat?**<br>
 The Official Assignee’s consent is not required if you are purchasing a 5 room HDB flat or smaller.
 
-In the event that you wish to purchase a HDB executive/maisonette flat, you must submit your [application form](/files/linkclick7ecb.doc/){:target="_blank"} for the Official Assignee’s consideration. You are required to prove that you have both the means and the need for such a flat. Your conduct and co-operation will also be considered when assessing such applications.
+In the event that you wish to purchase a HDB executive/maisonette flat, you must submit your [application form](/files/linkclick7ecb.doc/){:target="_blank"} for the Official Assignee’s consideration. You are required to prove that you have both the means and the need for such a flat. Your conduct and co-operation will also be considered when assessing such applications.<br>
 
 **5. Do I need to pay for the administration of my bankruptcy affairs?**<br>
-You will need to bear the costs incurred by the creditor who commenced the bankruptcy proceedings, i.e. the petitioning creditor's deposit to the Official Assignee, the petitioning creditor’s solicitor's fees and disbursements incurred in making the Bankruptcy Order against you.
+You will need to bear the costs incurred by the creditor who commenced the bankruptcy proceedings, i.e. the petitioning creditor's deposit to the Official Assignee, the petitioning creditor’s solicitor's fees and disbursements incurred in making the Bankruptcy Order against you.<br>
 
 The Official Assignee also deducts a fee from proceeds of assets realised, or deposits placed into your bankruptcy estate. The rates of the fees charged are as follows:
 <table>
