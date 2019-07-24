@@ -27,7 +27,7 @@ If you are the creditor who commenced the bankruptcy proceedings, you should als
 Debts that are incurred after the date of the making of the Bankruptcy Order are not provable (claimable) against the bankruptcy estate. If a bankrupt borrows from you without informing you of his status as a bankrupt, you should immediately provide feedback to the Official Assignee, using the “[First Incident Report](/files/FIRST-INFORMATION-REPORT-PTIB-IIDRDS-DDF.docx)” form. <br>
 
 <b>4. How do I file a Proof of Debt (Form 23)?</b> <br>
-The filing of a Proof of Debt is done online here. It costs $5.00 to file each Proof of Debt. If you would like to lodge your claim electronically, you may do so here. <br>
+The filing of a Proof of Debt is done online here. It costs $5.00 to file each Proof of Debt. If you would like to lodge your claim electronically, you may do so [here](https://www.mlaw.gov.sg/eservices/io/). <br>
 
 <b>5. What information is needed when filing a Proof of Debt (Form 23)?</b> <br>
 The Proof of Debt should reflect the bankrupt’s information such as the bankrupt’s name, bankruptcy reference number and the creditor's particulars including the amount owed and the nature of the claim. Please refer to the [Checklist to Creditors for the Supporting Documents](/bankruptcy/forms/) to be submitted.” <br>
