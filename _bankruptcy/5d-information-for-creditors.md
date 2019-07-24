@@ -58,10 +58,10 @@ Please quote the e-filing reference number and the bankruptcy reference number o
 
 For the mandatory online filing of a Proof of Debt, a filing fee of $5.00 is payable. <br>
 
-Please note that the fee for filing a Proof of Debt is not claimable against the bankruptcy estate.  <br>
+Please note that the fee for filing a Proof of Debt is <b><u>not claimable</u></b> against the bankruptcy estate.  <br>
 
 <b>7. Can I find out how much is the total claims made against the bankrupt?</b> <br>
-Yes. You may access the Individual Insolvency Administration Information (IIAI) portal on our website to find out the total claims made against the bankrupt’s estate. <br>
+Yes. You may access the Individual Insolvency Administration Information (IIAI) portal on our [website](https://www.mlaw.gov.sg/eservices/io/) to find out the total claims made against the bankrupt’s estate. <br>
 
 You will also obtain information on the date of the filing of the bankruptcy petition, the name of the petitioning creditor, the date of the Bankruptcy Order, the trustee in bankruptcy and the total amount in the bankruptcy estate account. <br>
 
@@ -73,7 +73,7 @@ Generally, you may not take further legal action or commence further legal  proc
 You are advised to write to the Official Assignee before you do. <br>
 
 <b>9. What are my rights as a secured creditor?</b> <br>
-If you hold security over a bankrupt’s property or goods, you have a right to sell the property or goods if the bankrupt does not continue to meet the payments when they are due. You should realise the security within six months from the date of the making of the bankruptcy order or such extended time as the Official Assignee may allow. After the granted extension, you will not be entitled to claim any interest in respect of your debts subsequent to the date of the making of the Bankruptcy Order. <br>
+If you hold security over a bankrupt’s property or goods, you have a right to sell the property or goods if the bankrupt does not continue to meet the payments when they are due. You should realise the security <u>within six months</u> from the date of the making of the bankruptcy order or such extended time as the Official Assignee may allow. After the granted extension, you will not be entitled to claim any interest in respect of your debts subsequent to the date of the making of the Bankruptcy Order. <br>
 
 If the property or goods are worth more than the outstanding loan secured against it, any balance from the proceeds of sale after discharging the security will be remitted to the Official Assignee for distribution as dividends to the bankrupt's creditors. <br>
 
@@ -104,16 +104,14 @@ Insolvency Office <br>
 The URA Centre (East Wing)<br>
 Singapore 069118<br>
 Please send in your enquiries/feedback at [Contact Us @ OneMinLaw](https://www.mlaw.gov.sg/eservices/enquiry/)<br>
-Alternatively, you may visit us at our website at www.mlaw.gov.sg or contact us at 1800-2255-529 (during office hours).<br>
+Alternatively, you may visit us at our website at [www.mlaw.gov.sg](www.mlaw.gov.sg) or contact us at 1800-2255-529 (during office hours).<br>
 
  
 
 <b>13. How can I find out who is the Trustee for the bankrupt if it is not the Official Assignee?</b> <br>
-You may find the information in the link below.
-
-Appointed Trustees under Differentiatied Discharge Framework
+You may find the information in the link below. <br>
+[Appointed Trustees under Differentiatied Discharge Framework](/files/BankruptcyCases-wef1Aug2016-&AppointedTrustees-Updatedasat3June2019.pdf) <br>
 
 <b>14. Other Suggested readings</b> <br>
-Information for bankrupts
-
-Minlaw FAQs on Individual Insolvency
+[Information for bankrupts](/bankruptcy/information-for-bankrupts/) <br>
+[Minlaw FAQs on Individual Insolvency](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx)
