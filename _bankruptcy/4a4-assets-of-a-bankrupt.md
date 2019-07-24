@@ -41,6 +41,7 @@ You will need to bear the costs incurred by the creditor who commenced the bankr
 
 The Official Assignee also deducts a fee from proceeds of assets realised, or deposits placed into your bankruptcy estate. The rates of the fees charged are as follows:
 <table>
+  
   <tr>
     <td>On the first S$10,000</td>
     <td>10.30%</td>
@@ -62,7 +63,9 @@ The Official Assignee also deducts a fee from proceeds of assets realised, or de
     <td>2.06%</td>
   </tr>
 </table>
+
 Fees are also levied on dividends distributed to creditors. The rates of the fees charged are:
+
 <table>
   <tr>
     <td>On the first S$10,000</td>
@@ -84,7 +87,8 @@ Fees are also levied on dividends distributed to creditors. The rates of the fee
     <td>On all further sums > S$100,000</td>
     <td>1.03%</td>
   </tr>
-</table>
+</table><br>
+
 **Other Information for Bankrupts**<br>
 
 <ul>
