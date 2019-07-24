@@ -13,7 +13,7 @@ Practice Circulars
 
 [OA Practice Circular No. 1 of 2018 (180 KB)](/files/OAPracticeCircularNo1of2018.pdf/){:target="_blank"}
 
-[OA Practice Circular No. 1 of 2018 Annex A – Table of Information on Secured Debt (“Annex A”) (159 KB)](/files/AnnexA-TableofInformationonSecuredDebt .pdf/){:target="_blank"}
+[OA Practice Circular No. 1 of 2018 Annex A – Table of Information on Secured Debt (“Annex A”) (159 KB)](/files/AnnexA-TableofInformationonSecuredDebt.pdf/){:target="_blank"}
 
 [OA / OR (Vehicles Under Hire Purchase) Practice Circular No. 2 Of 2017 (168 KB)](/files/PracticeCircularNo2of2017.pdf/){:target="_blank"}
 
