@@ -29,7 +29,7 @@ When a company is being wound up, the company’s business ceases to operate and
 
 The rights of unsecured creditors over the company's assets are virtually "frozen" upon the commencement of the liquidation to avoid a further deterioration of the company's financial position and proliferation of its liabilities.
 
-Unsecured creditors are paid on a pari passu basis, i.e. they are paid out of the company's assets equally. Any surplus is then distributed among the contributories of the company.
+Unsecured creditors are paid on a *pari passu* basis, i.e. they are paid out of the company's assets equally. Any surplus is then distributed among the contributories of the company.
 
 **Reasons for winding up a company**
 
