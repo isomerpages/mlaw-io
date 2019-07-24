@@ -30,9 +30,9 @@ Debts that are incurred after the date of the making of the Bankruptcy Order are
 The filing of a Proof of Debt is done online here. It costs $5.00 to file each Proof of Debt. If you would like to lodge your claim electronically, you may do so here. <br>
 
 <b>5. What information is needed when filing a Proof of Debt (Form 23)?</b> <br>
-The Proof of Debt should reflect the bankrupt’s information such as the bankrupt’s name, bankruptcy reference number and the creditor's particulars including the amount owed and the nature of the claim. Please refer to the Checklist to Creditors for the Supporting Documents to be submitted.” <br>
+The Proof of Debt should reflect the bankrupt’s information such as the bankrupt’s name, bankruptcy reference number and the creditor's particulars including the amount owed and the nature of the claim. Please refer to the [Checklist to Creditors for the Supporting Documents](/bankruptcy/forms/) to be submitted.” <br>
 
-A secured creditor must also submit, together with his Proof of Debt, a Table of Information on the Secured Debt (Annex A). <br>
+A secured creditor must also submit, together with his Proof of Debt, a Table of Information on the Secured Debt ([Annex A](/files/AnnexATableofInformationonSecuredDebt.pdf)). <br>
 
 Documents such as invoices, Judgments Order and/or other supporting documents are to be furnished to the Official Assignee to support your Proof of Debt.<br>
 
@@ -46,7 +46,7 @@ The supporting documents shall be sent to the Official Assignee within 14 days f
 
 (c) By facsimile at 6325 1417; or <br>
 
-(d) Or at [Contact Us @ OneMinLaw](https://www.mlaw.gov.sg/eservices/enquiry/) <br>
+(d) Or at *[Contact Us @ OneMinLaw](https://www.mlaw.gov.sg/eservices/enquiry/)* <br>
 
 The sample declaration (Form DC1) can be downloaded from our e-services website [here](https://www.mlaw.gov.sg/eservices/io/). <br>
 
@@ -103,7 +103,7 @@ Insolvency Office <br>
 #07-11<br>
 The URA Centre (East Wing)<br>
 Singapore 069118<br>
-Please send in your enquiries/feedback at [Contact Us @ OneMinLaw](https://www.mlaw.gov.sg/eservices/enquiry/)<br>
+Please send in your enquiries/feedback at *[Contact Us @ OneMinLaw](https://www.mlaw.gov.sg/eservices/enquiry/)*<br>
 Alternatively, you may visit us at our website at [www.mlaw.gov.sg](www.mlaw.gov.sg) or contact us at 1800-2255-529 (during office hours).<br>
 
  
