@@ -22,11 +22,11 @@ button:
     
 key-highlights:
   - title: Bankruptcy
-      url: /bankruptcy/who-is-the-official-assignee/
+    url: /bankruptcy/who-is-the-official-assignee/
     external: true
   - title: Debt Repayment Scheme
-      url: /debt-repayment-scheme/about-debt-repayment-scheme/
+    url: /debt-repayment-scheme/about-debt-repayment-scheme/
     external: true
   - title: Corporate Insolvency
-      url: /corporate-insolvency/who-is-the-official-receiver/
+    url: /corporate-insolvency/who-is-the-official-receiver/
     external: true
