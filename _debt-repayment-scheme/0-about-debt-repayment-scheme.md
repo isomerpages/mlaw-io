@@ -6,16 +6,6 @@ breadcrumb: About Debt Repayment Scheme
 collection_name: debt-repayment-scheme
 
 ---
-<style>
-  .image{
-  width:441px;
-  height:485px;
-  }
-  
-  .image img{
-  max-width:100%;
-  }
-</style>
 
 Debt Repayment Scheme (DRS)
 ---
