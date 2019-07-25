@@ -22,10 +22,8 @@ The Official Receiver may also represent the company, if it is proven to her sat
 
 
 **What should I do if I wish to lay claims on the assets belonging to a defunct company?**<br>
-You may lay your claim as a shareholder or a creditor of the defunct company:
-
-(i) as a shareholder, you need to show that there is no creditor in the company when it was dissolved or struck off; or
-
+You may lay your claim as a shareholder or a creditor of the defunct company:<br>
+(i) as a shareholder, you need to show that there is no creditor in the company when it was dissolved or struck off; or<br>
 (ii) as a creditor, you need to prove your debt.<br>
 
 **A** <u><b>Instructions to Applicant</b></u><br>
