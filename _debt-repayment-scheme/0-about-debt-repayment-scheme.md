@@ -8,12 +8,12 @@ collection_name: debt-repayment-scheme
 ---
 <style>
   .image{
-  width: 441px;
-  height: 485px;
+  width:441px;
+  height:485px;
   }
   
   .image img{
-  max-width: 100%;
+  max-width:100%;
   }
 </style>
 
