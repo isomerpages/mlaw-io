@@ -21,14 +21,12 @@ button:
     url: https://mlaw-io-staging.netlify.com/
     
 key-highlights:
-  - title: Highlight A
-    description: Important highlight A is important
-    url: https://google.com
+  - title: Bankruptcy
+      url: /bankruptcy/who-is-the-official-assignee/
     external: true
-  - title: Highlight B
-    description: Important highlight B is equally important
-    url: https://yahoo.com
+  - title: Debt Repayment Scheme
+      url: /debt-repayment-scheme/about-debt-repayment-scheme/
     external: true
-  - title: Page A
-    description: Page A is important too
-    url: /page-A/
+  - title: Corporate Insolvency
+      url: /corporate-insolvency/who-is-the-official-receiver/
+    external: true
