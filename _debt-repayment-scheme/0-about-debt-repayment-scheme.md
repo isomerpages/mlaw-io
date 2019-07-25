@@ -6,6 +6,16 @@ breadcrumb: About Debt Repayment Scheme
 collection_name: debt-repayment-scheme
 
 ---
+<style>
+  .image{
+  width: 441px;
+  height: 485px;
+  }
+  
+  .image img{
+  max-width: 100%;
+  }
+</style>
 
 Debt Repayment Scheme (DRS)
 ---
@@ -15,4 +25,4 @@ It seeks a win-win outcome for both the debtor and his creditor. Debtors with un
 
 The proposed DRP must ensure that the interests of creditors are adequately safeguarded. These debtors will commit to the DRP and repay their debts over a fixed period of time of not more than 5 years. When the debtor meets his financial obligations under the DRS, he will be released from his debts and have a fresh start thereafter.<br>
 
-![image](/images/1427945226412.png)
+<div class="image"><img src="/images/1427945226412.png"></div>
