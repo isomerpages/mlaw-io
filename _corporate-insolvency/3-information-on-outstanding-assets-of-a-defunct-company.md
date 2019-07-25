@@ -11,9 +11,6 @@ Information on Outstanding Assets of a Defunct Company
 
 A company becomes defunct after it is either dissolved or struck off from the Register by the Accounting and Corporate Regulatory Authority.
 
- 
-
-
 **What is the role of the Official Receiver?**<br>
 Where there are outstanding assets belonging to a defunct company, these are vested in the Official Receiver under section 346 of the Companies Act (Cap. 50). The Official Receiver will then act as a representative of the defunct company to administer these assets under sections 345 to 347 of the Companies Act (Cap. 50).
 
