@@ -45,7 +45,7 @@ For more information on the duties and responsibilities of a bankrupt, please re
 
  
 <b> <u> Notice To Creditors, Debtors, Asset Holders & Interested Persons </u> </b> <br>
-Creditors of bankrupts should file their Proof of Debts with the OA / Private Trustees at [https://www.mlaw.gov.sg/eservices/io](https://www.mlaw.gov.sg/eservices/io){:target="_blank"}  within 6 months from the date of the Bankruptcy Order or any other date as instructed by the OA / Private Trustees. <br>
+Creditors of bankrupts should file their Proof of Debts with the OA / Private Trustees at [https://www.mlaw.gov.sg/eservices/io](https://www.mlaw.gov.sg/eservices/io/){:target="_blank"}  within 6 months from the date of the Bankruptcy Order or any other date as instructed by the OA / Private Trustees. <br>
 
  
 
