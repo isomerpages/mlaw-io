@@ -36,7 +36,6 @@ Any appeal against such a rejection must be raised with the liquidator within 21
 The appellant is required to furnish additional evidence to the liquidator for further consideration i.e. to substantiate why the claim should not be rejected.<br>
 
 **How are the assets distributed?**<br>
-
 Moneys recovered by the Official Receiver will be first utilised towards payment of costs and expenses incurred in the liquidation.
 
 Any remaining funds will be used to pay the creditors in accordance with their ranking as set out in section 328 of the Companies Act (Cap. 50):<br>
@@ -57,7 +56,6 @@ Creditors will receive a “Notice to Creditors and Contributories of Intention 
 Any objection to the liquidator's application for Release or Striking Off must be raised within 21 days from the date of the Notice.<br>
 
 **How do I file a Proof of Debt (Form 77)?**<br>
-
 Where the Official Receiver is appointed as the liquidator of the wound up company, creditors can file their Proofs of Debt, manually or electronically, to the Official Receiver's office:<br>
 <ul>
  <li>For online submission, a filing fee of $5.00 is payable. Please click <a href="https://www.mlaw.gov.sg/eservices/io/" target="_blank">here</a> to submit the Form 77 electronically.</li>
