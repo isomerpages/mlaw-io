@@ -6,7 +6,17 @@ breadcrumb: About Debt Repayment Scheme
 collection_name: debt-repayment-scheme
 
 ---
-
+<style>
+  .image{
+  width:441px; 
+  height:485px;
+  }
+  
+  .image img{
+  max-width:100%;
+  }
+</style>
+  
 Debt Repayment Scheme (DRS)
 ---
 The Debt Repayment Scheme (“DRS”) is a pre-bankruptcy scheme which is administered by the Official Assignee under the Bankruptcy Act (Chapter 20).<br>
