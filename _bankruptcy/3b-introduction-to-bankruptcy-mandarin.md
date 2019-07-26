@@ -7,9 +7,9 @@ collection_name: bankruptcy
 second_nav_title: "Introduction to Bankruptcy (Video)"
 ---
 
-Introduction to DRS video (Mandarin subtitles)
+Introduction to Bankruptcy Video (Mandarin subtitles)
 ---
 <div class="bp-youtube">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/AT3dvwVU7Fc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/cO_dTvEbhu4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
