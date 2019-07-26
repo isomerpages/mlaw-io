@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Introduction to Bankruptcy (Mandarin subtitles)
+title: Introduction to Bankruptcy Video (Mandarin subtitles)
 permalink: /bankruptcy/introduction-to-bankruptcy-video/mandarin/
 breadcrumb: Introduction to Bankruptcy (Mandarin subtitles)
 collection_name: bankruptcy
