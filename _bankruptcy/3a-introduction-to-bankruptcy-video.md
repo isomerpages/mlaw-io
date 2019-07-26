@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Introduction to Bankruptcy (English subtitles)
+title: Introduction to Bankruptcy Video (Enlish subtitles)
 permalink: /bankruptcy/introduction-to-bankruptcy-video/english/
 breadcrumb: Introduction to Bankruptcy (English subtitles)
 collection_name: bankruptcy
