@@ -37,8 +37,8 @@ Practice Circulars
     <a href="/files/ORPracticeCircular1of2015.pdf/" target="_blank">The Official Receiver Practice Circular No. 1 of 2015 Reimbursement of the Applicant-Plaintiffs' Costs in the Winding Up of a Company by the Court </a> (334KB)
   </li><br>
   <li>
-    <a href="/files/PracticeCircular1of2013.pdf/" target="_blank">The Official Receiver Practice Circular No. 1 of 2013 Request for Payment by Liquidators out of the Companies Liquidation Account maintained by the Official Receiver (22 KB)
-</a>
+    <a href="/files/PracticeCircular1of2013.pdf/" target="_blank">The Official Receiver Practice Circular No. 1 of 2013 Request for Payment by Liquidators out of the Companies Liquidation Account maintained by the Official Receiver
+</a> (22 KB)
   </li><br>
   <li>
     <a href="/files/linkclick5d93.pdf/" target="_blank">The Official Receiver Practice Circular No. 1 of 2012 Administration Costs and Fees under the Fees (Winding Up and Dissolution of Companies and other Bodies) (Amendment) Order 2011 [superseded by OR PC 1 of 2017 wef 3 Jan 2017] </a>(72KB)
