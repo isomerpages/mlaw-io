@@ -32,7 +32,7 @@ The filing of a Proof of Debt is done online here. It costs $5.00 to file each P
 <b>5. What information is needed when filing a Proof of Debt (Form 23)?</b> <br>
 The Proof of Debt should reflect the bankrupt’s information such as the bankrupt’s name, bankruptcy reference number and the creditor's particulars including the amount owed and the nature of the claim. Please refer to the [Checklist to Creditors for the Supporting Documents](/bankruptcy/forms/) to be submitted.” <br>
 
-A secured creditor must also submit, together with his Proof of Debt, a Table of Information on the Secured Debt ([Annex A](/files/AnnexATableofInformationonSecuredDebt.pdf)). <br>
+A secured creditor must also submit, together with his Proof of Debt, a Table of Information on the Secured Debt ([Annex A](/files/AnnexATableofInformationonSecuredDebt.pdf)) (160KB). <br>
 
 Documents such as invoices, Judgments Order and/or other supporting documents are to be furnished to the Official Assignee to support your Proof of Debt.<br>
 
