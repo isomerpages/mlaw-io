@@ -110,7 +110,7 @@ Alternatively, you may visit us at our website at [www.mlaw.gov.sg](www.mlaw.gov
 
 <b>13. How can I find out who is the Trustee for the bankrupt if it is not the Official Assignee?</b> <br>
 You may find the information in the link below. <br>
-[Appointed Trustees under Differentiatied Discharge Framework](/files/BankruptcyCases-wef1Aug2016-&AppointedTrustees-Updatedasat3June2019.pdf) <br>
+[Appointed Trustees under Differentiatied Discharge Framework](/files/BankruptcyCases-wef1Aug2016-&AppointedTrustees-Updatedasat3June2019.pdf) (1.39MB)<br>
 
 <b>14. Other Suggested readings</b> <br>
 [Information for bankrupts](/bankruptcy/information-for-bankrupts/) <br>
