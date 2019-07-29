@@ -13,10 +13,10 @@ Statistics
 
 **Individual Insolvency**
 
-[Number of Bankruptcy Applications, Orders Made and Discharges (376 KB)](/files/NumberofBankruptcyApplicationsOrdersMadeandDischargesMay19.pdf/){:target="_blank"}
+[Number of Bankruptcy Applications, Orders Made and Discharges](/files/NumberofBankruptcyApplicationsOrdersMadeandDischargesMay19.pdf/){:target="_blank"} (376KB)
 
 **Debt Repayment Scheme**
 
-[Number of In-Progress, Completed and Failed Cases (403 KB)](/files/NumberofIn-ProgressCompletedandFailedCasesforDRSMay19.pdf/){:target="_blank"}
+[Number of In-Progress, Completed and Failed Cases](/files/NumberofIn-ProgressCompletedandFailedCasesforDRSMay19.pdf/){:target="_blank"} (403KB)
 
-[DRS Appeal Results (26 KB)](/files/DRSAppealResults.pdf/){:target="_blank"}
+[DRS Appeal Results](/files/DRSAppealResults.pdf/){:target="_blank"} (26KB)
