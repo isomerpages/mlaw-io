@@ -12,4 +12,4 @@ Guide to filing your Statement of Affairs for Bankruptcy
 
 **Step-by-step Guide on how to e-File your Statement of Affairs for Bankruptcy**
 
-[Step-by-step Guide on how to e-File your Statement of Affairs for Bankruptcy (4 MB)](/files/HowtoFileYourStatementofAffairsStepbystepguide.pdf/){:target="_blank"}
+[Step-by-step Guide on how to e-File your Statement of Affairs for Bankruptcy](/files/HowtoFileYourStatementofAffairsStepbystepguide.pdf/){:target="_blank"} (4MB)
