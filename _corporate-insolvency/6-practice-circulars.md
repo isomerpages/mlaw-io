@@ -14,7 +14,7 @@ Practice Circulars
 <ul>
   <li><a href="/files/ORPracticeCircular2of2018.pdf/" target="_blank">The Official Receiver Practice Circular No. 2 of 2018 Administration of Compulsory Winding Up Cases/ Companies (Winding Up) Rules</a>(108KB)</li><br>
   <li>
-    <a href="/files/ORPracticeCircular1of2018.pdf/" target="_blank">The Official Receiver Practice Circular No. 1 of 2018 Administration of Compulsory Winding Up Cases </a> (119KB)
+    <a href="/files/ORPracticeCircular1of2018.pdf/" target="_blank">The Official Receiver Practice Circular No. 1 of 2018 Administration of Compulsory Winding Up Cases </a>(119KB)
     <ul>
       <li>
         <a href="/files/PC1_2018_PaymentRequisitionForm.xlsx/" target="_blank">Payment Requisition Form</a> (11KB)
@@ -25,7 +25,7 @@ Practice Circulars
     <a href="/files/PracticeCircularNo.2of2017.pdf/" target="_blank">OA / OR (Vehicles Under Hire Purchase) Practice Circular No. 2 Of 2017</a> (168KB)
   </li><br>
   <li>
-    <a href="/files/PracticeCircular1of2017.pdf/" target="_blank">OA /OR (Machine Under Hire Purchase) Practice Circular No. 1 Of 2017 (147 KB)</a>
+    <a href="/files/PracticeCircular1of2017.pdf/" target="_blank">OA /OR (Machine Under Hire Purchase) Practice Circular No. 1 Of 2017 </a>(147 KB)
   </li><br>
   <li>
     <a href="/files/ORPracticeCircular1of2017.pdf/" target="_blank">The Official Receiver Practice Circular No. 1 of 2017 Administration Costs and Fees under the Fees (Winding Up and Dissolution of Companies and other Bodies) (Amendment) Order 2017 </a>(109KB)
