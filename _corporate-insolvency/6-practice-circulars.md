@@ -12,17 +12,17 @@ Practice Circulars
 **Practice Circulars For Corporate Insolvency**
 
 <ul>
-  <li><a href="/files/ORPracticeCircular2of2018.pdf/" target="_blank">The Official Receiver Practice Circular No. 2 of 2018 Administration of Compulsory Winding Up Cases/ Companies (Winding Up) Rules (180 KB)</a></li><br>
+  <li><a href="/files/ORPracticeCircular2of2018.pdf/" target="_blank">The Official Receiver Practice Circular No. 2 of 2018 Administration of Compulsory Winding Up Cases/ Companies (Winding Up) Rules</a></li> (108KB)<br>
   <li>
-    <a href="/files/ORPracticeCircular1of2018.pdf/" target="_blank">The Official Receiver Practice Circular No. 1 of 2018 Administration of Compulsory Winding Up Cases (119 KB)</a>
+    <a href="/files/ORPracticeCircular1of2018.pdf/" target="_blank">The Official Receiver Practice Circular No. 1 of 2018 Administration of Compulsory Winding Up Cases </a> (119KB)
     <ul>
       <li>
-        <a href="/files/PC1_2018_PaymentRequisitionForm.xlsx/" target="_blank">Payment Requisition Form (11 KB)</a>
+        <a href="/files/PC1_2018_PaymentRequisitionForm.xlsx/" target="_blank">Payment Requisition Form</a> (11KB)
       </li>
     </ul>
   </li><br>
   <li>
-    <a href="/files/PracticeCircularNo.2of2017.pdf/" target="_blank">OA / OR (Vehicles Under Hire Purchase) Practice Circular No. 2 Of 2017 (168 KB)</a>
+    <a href="/files/PracticeCircularNo.2of2017.pdf/" target="_blank">OA / OR (Vehicles Under Hire Purchase) Practice Circular No. 2 Of 2017</a> (168KB)
   </li><br>
   <li>
     <a href="/files/PracticeCircular1of2017.pdf/" target="_blank">OA /OR (Machine Under Hire Purchase) Practice Circular No. 1 Of 2017 (147 KB)</a>
