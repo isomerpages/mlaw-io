@@ -74,7 +74,7 @@ Once you have made the first payments, the OA will inform you, the Court and you
 **8. How do I continue to pay for my monthly instalments and/or bonus?**<br>
 There are 3 payment methods:<br>
 
-(a)    Payment using any Self-service Automated Machine [(SAM)](/files/GuidetoUsingSAM(PrelimFee).pdf);<br>
+(a)    Payment using any Self-service Automated Machine [(SAM)](/files/GuidetoUsingSAM(PrelimFee).pdf)(1.08MB);<br>
 
 (b)   Payment at SingPost outlets (for Cash Payments); and<br>
 
