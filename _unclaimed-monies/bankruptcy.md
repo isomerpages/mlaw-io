@@ -12,7 +12,7 @@ Unclaimed Monies
 **STEPS TO RECOVER UNCLAIMED MONIES FROM THE INSOLVENCY OFFICE**
 
 <table>
-  <tr><td rowspan="2">If you think you have monies held by the Official Assignee:</td></tr>
+  <tr rowspan="2"><td>If you think you have monies held by the Official Assignee:</td></tr>
   <tr>
     <td><b>Step 1</b></td>
     <td>Click on the specific listing of unclaimed monies (i.e. Dividends & Refunds, Unproved & Untraced Dividends etc.)</td>
