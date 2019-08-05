@@ -12,7 +12,7 @@ Unclaimed Monies
 **STEPS TO RECOVER UNCLAIMED MONIES FROM THE INSOLVENCY OFFICE**
 
 <table>
-  <tr colspan="2"><td>If you think you have monies held by the Official Assignee:</td></tr>
+  <tr rowspan="2"><td>If you think you have monies held by the Official Assignee:</td></tr>
   <tr>
     <td><b>Step 1</b></td>
     <td>Click on the specific listing of unclaimed monies (i.e. Dividends & Refunds, Unproved & Untraced Dividends etc.)</td>
@@ -49,6 +49,6 @@ d) Any other documents evidencing that the claimant is entitled to the amount.
     </td>
   </tr>
   <tr>
-    <td colspan="2">IPTO will check the claimant’s details against the case file to see if the claim is valid and arrange for payment to be made to the claimant once the claim is verified.</td>
+    <td rowspan="2">IPTO will check the claimant’s details against the case file to see if the claim is valid and arrange for payment to be made to the claimant once the claim is verified.</td>
   </tr>
 </table>
