@@ -6,16 +6,49 @@ breadcrumb: Bankruptcy
 collection_name: unclaimed-monies
 ---
 
-Bankruptcy
+Unclaimed Monies
 ---
 
-![91416825453353.jpg](/images/1416825453353.jpg/)<br>
+**STEPS TO RECOVER UNCLAIMED MONIES FROM THE INSOLVENCY OFFICE**
 
-**Bankruptcy**<br>
-Bankruptcy is a legal status of an individual who cannot repay debts of greater than $15,000 and is declared a bankrupt by the High Court. The High Court usually appoints the Official Assignee to administer the bankrupt’s affairs in bankruptcy. These include the selling off of the bankrupt’s assets to repay his creditors, the registration of the creditors' claims and the distribution of dividends to the bankrupt’s creditors.<br>
+<table>
+  <tr><td>If you think you have monies held by the Official Assignee:</td></tr>
+  <tr>
+    <td><b>Step 1</b></td>
+    <td>Click on the specific listing of unclaimed monies (i.e. Dividends & Refunds, Unproved & Untraced Dividends etc.)</td>
+  </tr>
+  <tr>
+    <td><b>Step 2</b></td>
+    <td>If you locate a record of unclaimed monies due to you, take down the “Payee Name”, “Year Paid” and “Remarks” or "Reference No." stated in the listing.</td>
+  </tr>
+  <tr>
+    <td><b>Step 3</b></td>
+    <td>
+      	
+Contact the Insolvency Office at [Contact Us @ OneMinLaw](https://www.mlaw.gov.sg/eservices/enquiry/) if you have documentary proof that you are the rightful owner of the monies.
 
-**The Official Assignee**<br>
-The Official Assignee is a public servant and an officer of the Court. The Official Assignee is assisted in her duties by the officers at the Insolvency Office. The High Court can appoint the Official Assignee as the trustee of the bankruptcy estate. Alternatively, the Court may appoint a private trustee to administer the bankrupt’s affairs if the petitioning creditor so requests.<br>
+Alternatively, you may visit us at our website at [www.mlaw.gov.sg](https://staging-isomer-mlaw.netlify.com/) or contact us at 1800-2255-529 (during office hours).
 
-**The Official Assignee's role**<br>
-The Official Assignee acts as the receiver of the bankrupt’s estate. The Official Assignee shall, as far as practicable, consult the creditors with respect to the management of the bankrupt’s estate. The Official Assignee investigates the conduct and affairs of the bankrupt and also recovers and realises his assets for distribution to the bankrupt’s creditors. The Official Assignee also assists the bankrupt in obtaining a discharge from bankruptcy.<br>
+Insolvency Office<br>
+45 Maxwell Road<br>
+#07-11<br>
+The URA Centre (East Wing)<br>
+Singapore 069118
+    </td>
+  </tr>
+  <tr>
+    <td><b>Step 4</b></td>
+    <td>
+      Produce the necessary documents according to each of the categories set out below. Please provide information on the “Payee Name”, “Year Paid” and “Remarks” or "Reference No." when making the claim.
+      
+The documents required are:
+a) A copy of the claimant’s identification documents (for personal claimants);<br>
+b) Proof of debt form;<br>
+c) Copy of judgment sum, and<br>
+d) Any other documents evidencing that the claimant is entitled to the amount.
+    </td>
+  </tr>
+  <tr>
+    <td>IPTO will check the claimant’s details against the case file to see if the claim is valid and arrange for payment to be made to the claimant once the claim is verified.</td>
+  </tr>
+</table>
