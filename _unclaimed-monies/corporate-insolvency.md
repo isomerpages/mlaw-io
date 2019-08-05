@@ -6,49 +6,58 @@ breadcrumb: Corporate Insolvency
 collection_name: unclaimed-monies
 ---
 
-About the Official Receiver
+Unclaimed Monies
 ---
 
-![1503996669903.jpg](/images/1503996669903.jpg/)<br>
+In all winding ups, any unclaimed dividends or other monies which remain unclaimed for more than six months from the date when they became payable and any unclaimed or undistributed monies after the final distribution shall be placed in the Companies Liquidation Account. Claimants may apply to the Official Receiver for the monies to be paid to them.
 
-The Official Receiver is a public officer  who may be appointed by the High Court to act as the liquidator of companies in compulsory winding up in Singapore.
+All unclaimed dividends and monies paid to the Official Receiver are transferred to the Consolidated Fund after 7 years unless a claim is made. A claimant may, at any time, make an application for the monies even after they are paid into the Consolidated Fund.
 
-Apart from being a liquidator, the Official Receiver also plays the role of:
+**STEPS TO RECOVER UNCLAIMED MONIES FROM THE OFFICIAL RECEIVER'S OFFICE**
 
-* a regulator in voluntary winding up and compulsory winding up where private liquidators have been appointed; and
- 
-* a representative of defunct companies.
-<br>
+<table>
+ <tr>
+  <td colspan="2">If you think you have monies held by the Official Receiver:</td>
+ </tr>
+ <tr>
+  <td><b>Step 1</b></td>
+  <td>	
+Click on the specific listing of unclaimed monies that you want to view. E.g. If you are viewing the listing of outstanding monies of wound up companies, you may search for your name in the listing.</td>
+ </tr>
+ <tr>
+  <td><b>Step 2</b></td>
+  <td>If you locate a record of unclaimed monies due to you, take down the “Payee Name”, “Year Paid” and “Remarks” or "Reference No." stated in the listing.</td>
+ </tr>
+ <tr>
+  <td><b>Step 3</b></td>
+  <td>
+   Contact the Official Receiver's office if you have documentary proof that you are the rightful owner of the monies at:<br><br>
+   
+Insolvency Office<br>
+The URA Centre (East Wing)<br>
+45 Maxwell Road<br>
+#07-11<br>
+Singapore 069118<br>
+Tel: 1800-2255-529 (General Enquiries)<br>
+  </td>
+ </tr>
+ <tr>
+ <td><b>Step 4</b></td>
+ <td>
+  Produce the necessary documents according to each of the categories set out below. Please provide information on the “Payee Name”, “Year Paid” and “Remarks” or "Reference No."<br><br>
+when making the claim:<br>
+a) A copy of the claimant’s identification documents; and<br>
+b) Any other document evidencing that you are entitled to the unclaimed monies.
+ </td>
+ </tr>
+ <tr>
+  <td colspan="2">The Official Receiver will check the claimant’s details against the case file to see if the claim is valid and arrange for payment to be made to the claimant once the claim is verified.</td>
+ </tr>
+</table>
 
-**A Liquidator in Compulsory Winding Up**
+**Unclaimed Monies Held By:**
 
-The Official Receiver may be appointed by the Court as liquidator for a company in compulsory winding up and is entitled to exercise the powers of the liquidator as set out in section 272 of the Companies Act (Chapter 50).
-<br>
-
-**A Regulator in Compulsory Winding Up**
-
-Where a private liquidator has been appointed by the Court as the liquidator of a wound up company, the Official Receiver takes note of his conduct to ensure that he performs his duties and duly observes all requirements under the law.
-
-Creditors and contributories may raise their concerns regarding the conduct of private liquidators with the Official Receiver.
-
-Before commencing with the liquidation work, the private liquidator has to provide security to the Official Receiver. The Official Receiver will then issue a certificate confirming that the private liquidator has provided security to the Official Receiver.
-
-The private liquidator has to lodge a copy of the Statement of Affairs and the accounts of his receipts and payments and the statements of the position in the winding up to the Official Receiver's office as prescribed by the Companies Act.<br>
-
-**A Regulator in Voluntary Winding Up**
-
-The Official Receiver does not act as a liquidator for companies that are wound up voluntarily. However, the Official Receiver acts as a regulator in monitoring the conduct of the administration of such companies by private liquidators.
-
-The private liquidator has to lodge his accounts of his receipts and payments and statements of the position in the winding up to the Official Receiver commencing from the date of his appointment to the final meetings of the wound up company.
-
-Creditors and contributories may also raise their concerns regarding the conduct of private liquidators with the Official Receiver.
-<br>
-
-**A Representative of Defunct Companies**
- 
-A company becomes defunct after it is either dissolved or struck off from the Registry of Companies.
-
-Where there are outstanding assets belonging to a defunct company, these are vested in the Official Receiver under section 346 of the Companies Act. The Official Receiver will then act as a representative of the defunct company to administer these assets under sections 345 to 347 of the Companies Act.
-<br>
-
-**With effect from 5 Mar 2018, all payments will be made electronically.**
+**Official Receiver**<br>
+* [Unpresented Cheques](){:target="_blank"}
+* [Unclaimed Monies from Winding Up Cases](){:target="_blank"}
+* [Outstanding Monies belonging to Defunct Companies](){:target="_blank"}
