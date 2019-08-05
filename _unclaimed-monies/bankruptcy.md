@@ -29,7 +29,7 @@ Unclaimed Monies
       	
 Contact the Insolvency Office at <a href="https://www.mlaw.gov.sg/eservices/enquiry/">Contact Us @ OneMinLaw</a> if you have documentary proof that you are the rightful owner of the monies.
 
-Alternatively, you may visit us at our website at <a href="https://staging-isomer-mlaw.netlify.com/">www.mlaw.gov.sg</a> or contact us at 1800-2255-529 (during office hours).
+Alternatively, you may visit us at our website at <a href="https://staging-isomer-mlaw.netlify.com/">www.mlaw.gov.sg</a> or contact us at 1800-2255-529 (during office hours).<br><br>
 
 Insolvency Office<br>
 45 Maxwell Road<br>
@@ -41,7 +41,7 @@ Singapore 069118
   <tr>
     <td><b>Step 4</b></td>
     <td>
-      Produce the necessary documents according to each of the categories set out below. Please provide information on the “Payee Name”, “Year Paid” and “Remarks” or "Reference No." when making the claim.
+      Produce the necessary documents according to each of the categories set out below. Please provide information on the “Payee Name”, “Year Paid” and “Remarks” or "Reference No." when making the claim.<br><br>
       
 The documents required are:
 a) A copy of the claimant’s identification documents (for personal claimants);<br>
