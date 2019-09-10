@@ -17,7 +17,7 @@ Practice Circulars
     <a href="/files/ORPracticeCircular1of2018.pdf/" target="_blank">The Official Receiver Practice Circular No. 1 of 2018 Administration of Compulsory Winding Up Cases </a>(119KB)
     <ul>
       <li>
-        <a href="/files/PC1_2018_PaymentRequisitionForm.xlsx/" target="_blank">Payment Requisition Form</a> (11KB)
+        <a href="/files/PC1_2018_PaymentRequisitionForm.xlsx/" target="_blank">Payment Requisition Form</a> (XLS, 11KB)
       </li>
     </ul>
   </li><br>
@@ -47,10 +47,10 @@ Practice Circulars
     <a href="/files/linkclicke43e.pdf/" target="_blank">The Official Receiver Practice Circular No. 1 of 2010 Operation of a Company's Liquidation Account </a>(64 KB)
     <ul>
       <li>
-        <a href="/files/PracticeCircular1of2010-Annex 1(1).xls/" target="_blank">Cheque Depository Form (Annex 1) </a>(39 KB)
+        <a href="/files/PracticeCircular1of2010-Annex 1(1).xls/" target="_blank">Cheque Depository Form (Annex 1) </a>(XLS, 39 KB)
       </li>
       <li>
-        <a href="/files/PracticeCircular1of2010-Annex2.xls/" target="_blank">Requisition Form for Statement of Accounts (Annex 2) </a>(44 KB)
+        <a href="/files/PracticeCircular1of2010-Annex2.xls/" target="_blank">Requisition Form for Statement of Accounts (Annex 2) </a>(XLS, 44 KB)
       </li>
     </ul>
   </li><br>
@@ -58,7 +58,7 @@ Practice Circulars
     <a href="/files/linkclick964e.pdf/" target="_blank">The Official Receiver Practice Circular No. 1 of 2001 Liquidator's security in the winding up of a company by the court </a>(18 KB)
     <ul>
       <li>
-        <a href="/files/BGFormatforPL.doc/" target="_blank">Banker’s Guarantee Format </a>(28 KB)
+        <a href="/files/BGFormatforPL.doc/" target="_blank">Banker’s Guarantee Format </a>(DOC, 28 KB)
       </li>
     </ul>
   </li><br>
@@ -66,7 +66,7 @@ Practice Circulars
     <a href="/files/linkclickf454.pdf/" target="_blank">The Official Receiver Practice Circular No. 2 of 2001 Proof Of Debt Form 77 </a>(16 KB)
     <ul>
       <li>
-        <a href="/files/linkclickb977.doc/" target="_blank">New Form 77 </a>(49 KB)
+        <a href="/files/linkclickb977.doc/" target="_blank">New Form 77 </a>(DOC, 49 KB)
       </li>
     </ul>
   </li><br>
