@@ -185,4 +185,4 @@ The fees chargeable by the Official Receiver are stipulated in the Schedule unde
 
 **Liquidator's Account of Receipts and Payments/ Statement of the Position in the Winding Up of an Entity**<br>
 
-Private Liquidators can download a Guide on filing the Liquidator's Account of Receipts and Payments/ Statement of the Position in the Winding Up of an Entity (for compulsory and voluntary windings up) [here](/files/Form75Guide_jul2017.pdf/){:target="_blank"}.
+Private Liquidators can download a Guide on filing the Liquidator's Account of Receipts and Payments/ Statement of the Position in the Winding Up of an Entity (for compulsory and voluntary windings up) [here](/files/Form75Guide_jul2017.pdf/){:target="_blank"}(373 KB).
