@@ -12,7 +12,7 @@ General Forms for DRS
 **For debtors**<br>
 [Annex B (Debtor's List of Supporting Documents)](/files/AnnexB(Debtor'sListofSupportingDocuments).pdf){:target="_blank"} (68KB)<br>
 [Debtor’s Guide to Using DRS e-Services](/files/Debtor'sGuidetoUsingDRSe-Services.pdf){:target="_blank"} (2MB)<br>
-[Debtor’s Guide to Using SAM machine}(/files/UserGuideforSAM_DRS.pdf){:target="_blank"} (1MB)<br>
+[Debtor’s Guide to Using SAM machine](/files/UserGuideforSAM_DRS.pdf){:target="_blank"} (1MB)<br>
 [DRS Notice of Appeal](/files/DRSNoticeofAppeal.pdf){:target="_blank"} (54KB)<br>
 
 **For creditors**<br>
