@@ -27,15 +27,15 @@ You may lay your claim as a shareholder or a creditor of the defunct company:<br
 (ii) as a creditor, you need to prove your debt.<br>
 
 **A** <u><b>Instructions to Applicant</b></u><br>
-(i) You are required to complete the Application Form (click [here](/files/ApplicationFormtotheOfficialReceivertoLayClaimscopy.docx/){:target="_blank"});
+(i) You are required to complete the Application Form (click [here](/files/ApplicationFormtotheOfficialReceivertoLayClaimscopy.docx/){:target="_blank"}(DOC, 37 KB));
 
-(ii) You are required to liaise with the director(s) and / or shareholder(s) of the Defunct Company to complete the Declaration Form (click [here](/files/DeclarationFormtotheOfficialReceivertoLayClaimscopy.docx/){:target="_blank"}). If the Declaration Form cannot be completed, you must provide a full explanation as to why this cannot be completed;
+(ii) You are required to liaise with the director(s) and / or shareholder(s) of the Defunct Company to complete the Declaration Form (click [here](/files/DeclarationFormtotheOfficialReceivertoLayClaimscopy.docx/){:target="_blank"}(DOC, 33 KB)). If the Declaration Form cannot be completed, you must provide a full explanation as to why this cannot be completed;
 
 (iii) You must furnish the documents in paragraph B below to support the application; 
 
 (iv) The completed Application Form Application Form, Declaration Form and supporting documents must be sent to the Official Receiver's office; and 
 
-(v) You need not fill in the Deed of Indemnity on your own (click [here](/files/IndemnityFormtotheOfficialReceivertoLayClaimsforDFCases.pdf/)). Upon submission of the Application Form and the required documents, the Official Receiver will contact you to attend at our office to execute the Deed of Indemnity, before paying out the moneys. You are however advised to read and take such measures to understand the terms of the Deed of Indemnity before attending at our office to execute it.<br>
+(v) You need not fill in the Deed of Indemnity on your own (click [here](/files/IndemnityFormtotheOfficialReceivertoLayClaimsforDFCases.pdf/)(74 KB)). Upon submission of the Application Form and the required documents, the Official Receiver will contact you to attend at our office to execute the Deed of Indemnity, before paying out the moneys. You are however advised to read and take such measures to understand the terms of the Deed of Indemnity before attending at our office to execute it.<br>
 
 **B** <u><b>Documents Required to Support Application</b></u><br>
 1) <u>Where the Applicant is a Creditor / Shareholder</u><br>
@@ -59,7 +59,7 @@ Proof-of-Debt (Form 77) with the relevant supporting documents to substantiate t
 3) <u>Where the Applicant is a Shareholder</u><br>
 Documents evidencing that there is no outstanding debt or liability owing by the Defunct Company that is payable now or in the future.
 
-For more information, please refer to the attached instructions (click [here](/files/GuidelinestoLayClaimsforDFCases_Jan2018.pdf/)).<br>
+For more information, please refer to the attached instructions (click [here](/files/GuidelinestoLayClaimsforDFCases_Jan2018.pdf/)(319 KB)).<br>
 
 
 **What are the charges of the Official Receiver?**<br>
