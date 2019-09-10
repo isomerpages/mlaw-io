@@ -16,4 +16,4 @@ Information for Private Trustees
 [PTIB Portal Guide](/files/PTIB_Portal_Guide_V1-1.pdf) (2MB)<br>
 
 #### First Information Report for Public Trustee in Bankruptcy <br>
-[First Information Report for PTIB](/files/FIRST-INFORMATION-REPORT-PTIB-IIDRDS-DDF.docx) (26KB) <br>
+[First Information Report for PTIB](/files/FIRST-INFORMATION-REPORT-PTIB-IIDRDS-DDF.docx) (DOC, 26KB) <br>
