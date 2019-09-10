@@ -72,7 +72,7 @@ You may apply to the High Court or to the Official Assignee for permission to:
  
 
 <b>(b) How can I apply to manage a business or corporation?</b> <br>
-Please download and submit this [application form](/files/linkclickf1c2.doc) together with the supporting documents indicated on the application form to the Official Assignee.
+Please download and submit this [application form](/files/linkclickf1c2.doc)(DOC, 57KB) together with the supporting documents indicated on the application form to the Official Assignee.
 
 <b>(c) What are the factors taken into consideration when reviewing my application to manage a business or corporation?</b> <br>
 Each application will be considered on its own merit. The Official Assignee will take into consideration a number of factors including: 
