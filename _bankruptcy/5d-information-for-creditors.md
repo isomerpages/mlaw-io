@@ -24,7 +24,7 @@ If your claim was incurred prior to the making of the Bankruptcy Order, you can 
 
 If you are the creditor who commenced the bankruptcy proceedings, you should also file a Proof of Debt against the bankrupt. <br>
 
-Debts that are incurred after the date of the making of the Bankruptcy Order are not provable (claimable) against the bankruptcy estate. If a bankrupt borrows from you without informing you of his status as a bankrupt, you should immediately provide feedback to the Official Assignee, using the “[First Incident Report](/files/FIRST-INFORMATION-REPORT-PTIB-IIDRDS-DDF.docx)” form. <br>
+Debts that are incurred after the date of the making of the Bankruptcy Order are not provable (claimable) against the bankruptcy estate. If a bankrupt borrows from you without informing you of his status as a bankrupt, you should immediately provide feedback to the Official Assignee, using the “[First Incident Report](/files/FIRST-INFORMATION-REPORT-PTIB-IIDRDS-DDF.docx)(DOC, 29 KB)” form. <br>
 
 <b>4. How do I file a Proof of Debt (Form 23)?</b> <br>
 The filing of a Proof of Debt is done online here. It costs $5.00 to file each Proof of Debt. If you would like to lodge your claim electronically, you may do so [here](https://www.mlaw.gov.sg/eservices/io/). <br>
@@ -50,7 +50,7 @@ The supporting documents shall be sent to the Official Assignee within 14 days f
 
 The sample declaration (Form DC1) can be downloaded from our e-services website [here](https://www.mlaw.gov.sg/eservices/io/). <br>
 
-If you do not have any documents to support your claim in the Proof of Debt, you must attach a copy of a signed declaration to confirm that you have no supporting documents, before you can proceed with the submission. The sample declaration (Form DC2) can be downloaded from [here](/debt-repayment-scheme-drs/forms/). <br>
+If you do not have any documents to support your claim in the Proof of Debt, you must attach a copy of a signed declaration to confirm that you have no supporting documents, before you can proceed with the submission. The sample declaration (Form DC2) can be downloaded from [here](/debt-repayment-scheme/forms/). <br>
 
 Please quote the e-filing reference number and the bankruptcy reference number of the bankrupt when you submit the supporting documents. Proofs of Debt without any supporting documents will be rejected. <br>
 
