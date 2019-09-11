@@ -62,7 +62,7 @@ Debtors may apply to Court for an interim order for a Voluntary Arrangement (VA)
 If you are a debtor being sued by your creditor under civil proceedings, you may negotiate for a settlement of the repayment of your debts and avoid bankruptcy. <br>
 
 <b> 8. Oral Legal Advice </b><br>
-The information provided above on bankruptcy matters is by no means exhaustive. You may wish to consult your solicitor before making any decision concerning bankruptcy. If you are unable to afford a solicitor, you may obtain legal advice from the Legal Aid Bureau ("LAB"). For more information, please visit LAB's [website](https://mlaw-lab-staging.netlify.com/). <br>
+The information provided above on bankruptcy matters is by no means exhaustive. You may wish to consult your solicitor before making any decision concerning bankruptcy. If you are unable to afford a solicitor, you may obtain legal advice from the Legal Aid Bureau ("LAB"). For more information, please visit LAB's [website](https://lab.mlaw.gov.sg/). <br>
 
 <b> 9. Debt Repayment Scheme </b><br>
 The Debt Repayment Scheme (DRS) is a repayment scheme to assist debtors who have a regular income and debts not exceeding $100,000, to avoid bankruptcy.<br>
@@ -86,7 +86,7 @@ If you have any further queries on bankruptcy, please send in you enquiries/feed
 
  
 
-Alternatively, you may visit us at our website at [https://staging-isomer-mlaw.netlify.com/](https://staging-isomer-mlaw.netlify.com/) or contact us at 1800-2255-529 (during office hours).
+Alternatively, you may visit us at our website at [https://www.mlaw.gov.sg/](https://www.mlaw.gov.sg/) or contact us at 1800-2255-529 (during office hours).
 
 #### **Filing for Bankruptcy** 
 
