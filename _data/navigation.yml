@@ -42,7 +42,7 @@
   - title: Practice Circulars
     url: /bankruptcy/practice-circulars/
     
-- title: Debt Repayment Scheme
+- title: Debt Repayment
   url: /debt-repayment-scheme/about-debt-repayment-scheme/
   sub-links:
   - title: About Debt Repayment Scheme
@@ -58,7 +58,7 @@
   - title: Statistics
     url: /debt-repayment-scheme/statistics/
 
-- title: Corporate Insolvency
+- title: Corp Insolvency
   url: /corporate-insolvency/who-is-the-official-receiver/
   sub-links:
   - title: Who is the Official Receiver?
