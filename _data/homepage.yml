@@ -10,6 +10,11 @@ favicon: /images/favicon-isomer.ico
 # Agency logo
 agency-logo: /images/mlaw-io-logo.png
 
+
+# Google analytics
+
+google-analytics: UA-10405444-14
+
 # Hero Banner
 hero-title: Insolvency Office
 hero-subtitle: Office of the Offical Assignee and Offical Receiver
