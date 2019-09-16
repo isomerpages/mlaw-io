@@ -29,7 +29,7 @@ Unclaimed Monies
       	
 Contact the Insolvency Office at <a href="https://www.mlaw.gov.sg/eservices/enquiry/">Contact Us @ OneMinLaw</a> if you have documentary proof that you are the rightful owner of the monies.
 
-Alternatively, you may visit us at our website at <a href="https://staging-isomer-mlaw.netlify.com/">www.mlaw.gov.sg</a> or contact us at 1800-2255-529 (during office hours).<br><br>
+Alternatively, you may visit us at our website at <a href="https://www.mlaw.gov.sg/">www.mlaw.gov.sg</a> or contact us at 1800-2255-529 (during office hours).<br><br>
 
 Insolvency Office<br>
 45 Maxwell Road<br>
