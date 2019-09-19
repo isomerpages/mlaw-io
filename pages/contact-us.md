@@ -5,6 +5,13 @@ permalink: /contact-us/
 breadcrumb: Contact Us
 ---
 
+<style>
+  .image {width: 300px;}
+  .image a img {max-width: 100%;}
+  .icons {width: 40px;}
+  .icons img {max-width: 100%;}
+  h3 {display: inline-block;}
+</style>
 
 FAQ
 ---
@@ -12,12 +19,13 @@ FAQ
 Have questions?
 
 <div class="image">
-  <a href="https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx"><img src="/images/mlaw-faq.png/" style="width: 300px">
+  <a href="https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx"><img src="/images/mlaw-faq.png/">
   </a>
-</div>
+</div><br>
 
-<img src="/images/enq.png/" style="width: 40px"> Contact Us @ OneMinLaw
----
+<div class="icons"><img src="/images/enq.png/"></div>
+<h3>Contact Us @ OneMinLaw</h3>
+
 
 You can send us your feedback and enquiries on the following issues: 
 
@@ -35,10 +43,11 @@ You can send us your feedback and enquiries on the following issues:
 <div class="image">
   <a href="https://www.mlaw.gov.sg/eservices/enquiry/"><img src="/images/mlaw-contactus.png/" style="width: 300px">
   </a>
-</div>
+</div><br>
 
-<img src="/images/loc.png/" style="width: 40px"> Location
----
+<div class="icons"><img src="/images/loc.png/"></div>
+<h3>Location</h3>
+
 
 **Ministry of Law Services Centre**
 
@@ -54,8 +63,9 @@ Closed on Weekends & Public Holidays<br>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.822848251594!2d103.84365931492538!3d1.2799253621522304!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da190d593a26ad%3A0x59b7a80e5c764ef5!2sURA+Workers!5e0!3m2!1sen!2ssg!4v1562046377422!5m2!1sen!2ssg" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe><br>
 
-<a href="/images/call.png/" style="width: 40px"> CALL US
----
+<div class="icons"><img src="/images/call.png/"></div>
+<h3>CALL US</h3>
+
 
 Tel: 1800 2255 529<br>
 For overseas callers, please use +65 62255 529
@@ -66,4 +76,3 @@ Monday to Friday: 8:30am to 5:30pm<br>
 (Closed on Weekends & Public Holidays)
 
 <p class="right-side-updated">Last updated on 11 Jul 2019</p> 
-
