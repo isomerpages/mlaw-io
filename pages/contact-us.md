@@ -14,7 +14,7 @@ FAQ
 
 Have questions?
 
-<div class="image" style="padding-bottom: 20px;">
+<div class="image" style="padding-bottom: 16px;">
   <a href="https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx"><img src="/images/mlaw-faq.png/" style="width: 300px; float: left;"></a>
 </div><br>
 
@@ -41,7 +41,7 @@ You can send us your feedback and enquiries on the following issues:
 * General Enquiries
 * Anti-Money Laundering/ Countering the Financing of Terrorism
 
-<div class="image" style="padding-bottom: 20px;">
+<div class="image" style="padding-bottom: 16px;">
   <a href="https://www.mlaw.gov.sg/eservices/enquiry/"><img src="/images/mlaw-contactus.png/" style="width: 300px; float: left;"></a>
 </div><br>
 
