@@ -8,7 +8,7 @@ breadcrumb: Contact Us
 <style>
   .image {width: 300px;}
   .image a img {max-width: 100%;}
-  .icons {width: 40px;}
+  .icons {width: 40px; display: inline-block;}
   .icons img {max-width: 100%;}
   h3 {display: inline-block;}
 </style>
