@@ -8,7 +8,10 @@ collection_name: bankruptcy
 
 Who is the Official Assignee?
 ---
-![Bankruptcy2.1](/images/cut.jpg)
+
+<div class="image">
+ <img src="/images/cut.jpg" alt="Bankruptcy2.1" title="Bankruptcy2.1">
+</div>
 
 **Bankruptcy** <br>
 Bankruptcy is a legal status of an individual who cannot repay debts of greater than $15,000 and is declared a bankrupt by the High Court. The High Court usually appoints the Official Assignee to administer the bankrupt’s affairs in bankruptcy. These include the selling off of the bankrupt’s assets to repay his creditors, the registration of the creditors' claims and the distribution of dividends to the bankrupt’s creditors. <br>
