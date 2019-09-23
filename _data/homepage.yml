@@ -8,7 +8,7 @@
 favicon: /images/favicon-isomer.ico
 
 # Agency logo
-agency-logo: /images/Hero-Banner-Minlaw.jpg
+agency-logo: /images/mlaw-logo.png
 
 
 # Google analytics
@@ -18,7 +18,7 @@ google-analytics: UA-10405444-14
 # Hero Banner
 hero-title: Insolvency Office
 hero-subtitle: Office of the Offical Assignee and Offical Receiver
-hero-banner: /images/hero-banner-mlaw.jpg
+hero-banner: /images/Hero-Banner-Minlaw.jpg
     
 key-highlights:
   - title: Bankruptcy
