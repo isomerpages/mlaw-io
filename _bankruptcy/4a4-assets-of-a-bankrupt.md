@@ -43,8 +43,8 @@ The Official Assignee also deducts a fee from proceeds of assets realised, or de
 <table>
   
   <tr>
-    <td>On the first S$10,000</td>
-    <td>10.30%</td>
+    <th>On the first S$10,000</th>
+    <th>10.30%</th>
   </tr>
   <tr>
     <td>On the next S$15,000</td>
@@ -68,8 +68,8 @@ Fees are also levied on dividends distributed to creditors. The rates of the fee
 
 <table>
   <tr>
-    <td>On the first S$10,000</td>
-    <td>5.15%</td>
+    <th>On the first S$10,000</th>
+    <th>5.15%</th>
   </tr>
   <tr>
     <td>On the next S$15,000</td>
