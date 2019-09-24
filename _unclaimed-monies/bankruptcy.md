@@ -39,7 +39,7 @@ Singapore 069118
     </td>
   </tr>
   <tr>
-    <td><b>Step 4</b></td>
+    <th>Step 4</th>
     <td>
       Produce the necessary documents according to each of the categories set out below. Please provide information on the “Payee Name”, “Year Paid” and “Remarks” or "Reference No." when making the claim.<br><br>
       
