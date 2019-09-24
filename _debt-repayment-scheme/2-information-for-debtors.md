@@ -100,9 +100,9 @@ The fees payable under the Bankruptcy (Debt Repayment Scheme) Rules for assessme
 
 <table>
   <tr>
-    <td colspan="2"><b>Fees</b></td>
-    <td><b>Amount</b></td>
-    <td><b>Due</b></td>
+    <th>colspan="2">Fees</th>
+    <th>Amount</th>
+    <th>Due</th>
   </tr>
   <tr>
     <td rowspan="2">Before DRP commences</td>
