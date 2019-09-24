@@ -17,7 +17,7 @@ All unclaimed dividends and monies paid to the Official Receiver are transferred
 
 <table>
  <tr>
-  <td colspan="2">If you think you have monies held by the Official Receiver:</td>
+  <th colspan="2">If you think you have monies held by the Official Receiver:</th>
  </tr>
  <tr>
   <td><b>Step 1</b></td>
