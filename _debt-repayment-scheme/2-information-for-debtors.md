@@ -100,7 +100,7 @@ The fees payable under the Bankruptcy (Debt Repayment Scheme) Rules for assessme
 
 <table>
   <tr>
-    <th>colspan="2">Fees</th>
+    <th colspan="2">Fees</th>
     <th>Amount</th>
     <th>Due</th>
   </tr>
