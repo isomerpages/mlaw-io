@@ -13,7 +13,7 @@ Unclaimed Monies
 
 <table>
   <tr>
-    <td colspan="2">If you think you have monies held by the Official Assignee:</td>
+    <th colspan="2">If you think you have monies held by the Official Assignee:</th>
   </tr>
   <tr>
     <td><b>Step 1</b></td>
