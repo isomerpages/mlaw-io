@@ -43,8 +43,8 @@ In the event that there are third party payments made towards the debt owed to y
 
 <table>
   <tr>
-    <th><b>Fees</th>
-    <th><b>Amount</th>
+    <th>Fees</th>
+    <th>Amount</th>
   </tr>
   <tr>
     <td>DRS search fees</td>
