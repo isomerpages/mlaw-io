@@ -4,50 +4,85 @@
 #                                #
 ##################################
 
-- title: Contact Us
-  url: /contact-us/
-- title: Bankruptcy And Debt Repayment Scheme
-  url: /bankruptcy-and-debt-repayment-scheme/bankruptcy-notice/
+- title: About Us
+  url: https://mlaw.gov.sg/about-us/ourvision-mission-corevalues/
   sub-links:
+  - title: Our Vision and Mission
+    url: https://mlaw.gov.sg/about-us/ourvision-mission-corevalues/
+  - title: Our Management
+    url: https://mlaw.gov.sg/about-us/our-management/
+  - title: Organisation Structure
+    url: https://mlaw.gov.sg/about-us/organisation-structure/
+  - title: Our Legal System
+    url: https://mlaw.gov.sg/about-us/our-legal-system/
+  - title: What We Do
+    url: https://mlaw.gov.sg/about-us/what-we-do/
+  - title: Contact Us
+    url: https://mlaw.gov.sg/about-us/contact-us/
+
+- title: Bankruptcy
+  url: /bankruptcy/who-is-the-official-assignee/
+  sub-links:
+  - title: Who is the Official Assignee?
+    url: /bankruptcy/who-is-the-official-assignee/
   - title: Bankruptcy Notice
-    url: /bankruptcy-and-debt-repayment-scheme/bankruptcy-notice/
-  - title: Alternatives To Bankruptcy Debt Repayment Scheme
-    url: /bankruptcy-and-debt-repayment-scheme/alternatives-to-bankruptcy-debt-repayment-scheme/
-  - title: Bankruptcy
-    url: /bankruptcy-and-debt-repayment-scheme/bankruptcy/
-  - title: Unclaimed Monies
-    url: /bankruptcy-and-debt-repayment-scheme/unclaimed-monies/
+    url: /bankruptcy/bankruptcy-notice/
+  - title: Alternatives to Bankruptcy
+    url: /bankruptcy/alternatives-to-bankruptcy/
+  - title: Introduction to Bankruptcy (Video)
+    url: /bankruptcy/introduction-to-bankruptcy-video/english/
+  - title: Information for Bankrupts
+    url: /bankruptcy/information-for-bankrupts/
+  - title: Information for Stakeholders
+    url: /bankruptcy/information-for-stakeholders/bankruptcy-information-sheet-for-creditors/
+  - title: Forms
+    url: /bankruptcy/forms/
   - title: Statistics
-    url: /bankruptcy-and-debt-repayment-scheme/statistics/
+    url: /bankruptcy/statistics/
   - title: Practice Circulars
-    url: /bankruptcy-and-debt-repayment-scheme/practice-circulars/
-- title: Corporate Insolvency
+    url: /bankruptcy/practice-circulars/
+    
+- title: Debt Repayment
+  url: /debt-repayment-scheme/about-debt-repayment-scheme/
+  sub-links:
+  - title: About Debt Repayment Scheme
+    url: /debt-repayment-scheme/about-debt-repayment-scheme/
+  - title: Introduction to DRS (Video)
+    url: /debt-repayment-scheme/introduction-to-drs-video-english-subtitles/
+  - title: Information For Debtors
+    url: /debt-repayment-scheme/information-for-debtors/
+  - title: Information for Creditors
+    url: /debt-repayment-scheme/information-for-creditors/
+  - title: Forms
+    url: /debt-repayment-scheme/forms/
+  - title: Statistics
+    url: /debt-repayment-scheme/statistics/
+
+- title: Corp Insolvency
   url: /corporate-insolvency/who-is-the-official-receiver/
   sub-links:
-  - title: Who Is The Official Receiver
+  - title: Who is the Official Receiver?
     url: /corporate-insolvency/who-is-the-official-receiver/
-  - title: About Liquidation Or Winding Up
+  - title: About Liquidation or Winding Up
     url: /corporate-insolvency/about-liquidation-or-winding-up/
-  - title: Information For The Creditors Of A Company In Liquidation
-    url: /corporate-insolvency/information-for-the-creditors-of-a-company-in-liquidation/
-  - title: Information On Outstanding Assets Of A Defunct Company
+  - title: Information for Creditors
+    url: /corporate-insolvency/information-for-creditors/
+  - title: Information on Outstanding Assets of a Defunct Company
     url: /corporate-insolvency/information-on-outstanding-assets-of-a-defunct-company/
   - title: Forms
     url: /corporate-insolvency/forms/
-  - title: Unclaimed Monies
-    url: /corporate-insolvency/unclaimed-monies/
   - title: Statistics
     url: /corporate-insolvency/statistics/
   - title: Practice Circulars
     url: /corporate-insolvency/practice-circulars/
-- title: Resource Room
-  url: /resource-room/
+
+- title: e-Service
+  url: https://www.mlaw.gov.sg/eservices/pto/welcome.xhtml
+
+- title: Unclaimed Monies
+  url: /unclaimed-monies/bankruptcy/
   sub-links:
-  - title: All
-    url: /resource-room/
-  - title: Subcategory A
-    url: /resource-room/subcategory-A/
-  - title: Subcategory B
-    url: /resource-room/subcategory-B/
-  - title: Subcategory C
-    url: /resource-room/subcategory-C/
+  - title: Bankruptcy
+    url: /unclaimed-monies/bankruptcy/
+  - title: Corporate Insolvency
+    url: /unclaimed-monies/corporate-insolvency/

@@ -5,35 +5,30 @@
 ##################################
 
 # Favicon
-favicon: /images/favicon-isomer.ico
+favicon: /images/favicon-minlaw.ico
 
 # Agency logo
 agency-logo: /images/mlaw-io-logo.png
 
-# Hero Banner
-hero-title: Hero title
-hero-subtitle: Hero subtitle
-hero-banner: /images/hero-banner.png
 
-#Call to Action Button
-button:
-  - text: Learn More
-    url: /who-we-are/
+
+# Google analytics
+
+google-analytics: UA-10405444-14
+
+
+# Hero Banner
+hero-title: Insolvency Office
+hero-subtitle: Office of the Offical Assignee and Offical Receiver
+hero-banner: /images/Hero-Banner-Minlaw.jpg
     
 key-highlights:
-  - title: Highlight A
-    description: Important highlight A is important
-    url: https://google.com
+  - title: Bankruptcy
+    url: /bankruptcy/who-is-the-official-assignee/
     external: true
-  - title: Highlight B
-    description: Important highlight B is equally important
-    url: https://yahoo.com
+  - title: Debt Repayment Scheme
+    url: /debt-repayment-scheme/about-debt-repayment-scheme/
     external: true
-  - title: Page A
-    description: Page A is important too
-    url: /page-A/
-
-resources-title: Resources
-resources-subtitle: Be in the know
-resources-more-button: More Resources
-resources-more-button-url: resource-room/
+  - title: Corporate Insolvency
+    url: /corporate-insolvency/who-is-the-official-receiver/
+    external: true

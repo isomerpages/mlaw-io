@@ -1,0 +1,19 @@
+---
+layout: leftnav-page-content
+title: Information for Private Trustees
+permalink: /bankruptcy/information-for-stakeholders/information-for-private-trustees/
+breadcrumb: Information for Private Trustees
+collection_name: bankruptcy
+second_nav_title: "Information for Stakeholders"
+---
+Information for Private Trustees
+---
+#### Infographic on the Differentiated Discharge Framework (DDF) <br>
+[The New Differentiated Discharge Framework for Bankrupts](/files/InfographicFramework.pdf)(330KB)<br>
+[Your Journey Under The New Differentiated Discharge Framework](/files/InfographicJourneyinBankruptcy.pdf)(176KB)<br>
+
+#### Private Trustee in Bankruptcy Portal Guide <br>
+[PTIB Portal Guide](/files/PTIB_Portal_Guide_V1-1.pdf) (2MB)<br>
+
+#### First Information Report for Public Trustee in Bankruptcy <br>
+[First Information Report for PTIB](/files/FIRST-INFORMATION-REPORT-PTIB-IIDRDS-DDF.docx) (DOC, 26KB) <br>
