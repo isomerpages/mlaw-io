@@ -5,20 +5,20 @@
 ##################################
 
 - title: About Us
-  url: https://mlaw.gov.sg/about-us/ourvision-mission-corevalues/
+  url: https://www.mlaw.gov.sg/about-us/ourvision-mission-corevalues/
   sub-links:
   - title: Our Vision and Mission
-    url: https://mlaw.gov.sg/about-us/ourvision-mission-corevalues/
+    url: https://www.mlaw.gov.sg/about-us/ourvision-mission-corevalues/
   - title: Our Management
-    url: https://mlaw.gov.sg/about-us/our-management/
+    url: https://www.mlaw.gov.sg/about-us/our-management/
   - title: Organisation Structure
-    url: https://mlaw.gov.sg/about-us/organisation-structure/
+    url: https://www.mlaw.gov.sg/about-us/organisation-structure/
   - title: Our Legal System
-    url: https://mlaw.gov.sg/about-us/our-legal-system/
+    url: https://www.mlaw.gov.sg/about-us/our-legal-system/
   - title: What We Do
-    url: https://mlaw.gov.sg/about-us/what-we-do/
+    url: https://www.mlaw.gov.sg/about-us/what-we-do/
   - title: Contact Us
-    url: https://mlaw.gov.sg/about-us/contact-us/
+    url: https://www.mlaw.gov.sg/about-us/contact-us/
 
 - title: Bankruptcy
   url: /bankruptcy/who-is-the-official-assignee/
@@ -77,7 +77,7 @@
     url: /corporate-insolvency/practice-circulars/
 
 - title: e-Service
-  url: https://www.mlaw.gov.sg/eservices/pto/welcome.xhtml
+  url: https://www.mlaw.gov.sg/eservices/io/
 
 - title: Unclaimed Monies
   url: /unclaimed-monies/bankruptcy/
