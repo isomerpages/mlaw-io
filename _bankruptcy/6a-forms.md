@@ -30,7 +30,9 @@ Forms for Administration
 
 [Application for Official Assignee's Permission to Leave Singapore](/files/ApplicationforOfficialAssigneePermissiontoLeaveSingapore.pdf/){:target="_blank"} (41KB)
 
-[Statement of Account of Moneys and Property Received)](/files/StatementofAccountofMoneysandPropertyReceived.pdf/){:target="_blank"} (307KB)<br>
+[Statement of Account of Moneys and Property Received)](/files/StatementofAccountofMoneysandPropertyReceived.pdf/){:target="_blank"} (307KB)
+
+[Indemnity Form](/files/IndemnityForm.pdf/){:target="_blank"} (478KB)<br>
 
 **Note**: For the following applications, please submit via the Insolvency Office E-Services Portal by clicking on the "eServices" menu on the task bar above.
 

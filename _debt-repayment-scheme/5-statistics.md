@@ -13,6 +13,6 @@ Statistics
 
 **Debt Repayment Scheme**
 
-[Number of In-Progress, Completed and Failed Cases](/files/NumberofIn-ProgressCompletedandFailedCasesforDRSMay19.pdf/){:target="_blank"} (403KB)
+[Number of In-Progress, Completed and Failed Cases](/files/NumberofIn-Progress,CompletedandFailedCasesforDRS(Aug19).pdf/){:target="_blank"} (413KB)
 
-[DRS Appeal Results](/files/DRSAppealResults.pdf/){:target="_blank"} (26KB)
+[DRS Appeal](/files/DRSAppeal.pdf/){:target="_blank"} (337KB)

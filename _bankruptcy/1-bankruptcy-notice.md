@@ -71,22 +71,24 @@ For more information for creditors, please refer to [Information for Creditors](
 
  
 
-<b> <u>New Bankrupt, Creditor and PTIB portals in Q2 2019 </u> </b> <br>
-The Insolvency Office is constantly looking into providing the public with a better service experience. <br>
+<b> <u>New Bankrupt, Creditor and PTIB portals in Q4 2019 </u> </b> <br>
+The Insolvency Office is constantly looking into ways to provide you with better online experience for our services.<br>
 
  
 
-We are pleased to announce that new bankrupt, creditor and PTIB portals will be coming online in Q2 2019. <br>
+We are therefore pleased to announce that our new online portals for Insolvent Persons, Creditors and PTIBs, are expected to go ‘live’ on 29 October 2019. <br>
 
  
 
-Through a single touchpoint, users will find all the relevant e-services available to them. Some of the enhanced features of the portals include: <br>
+The new portals will offer you a vastly improved user experience, which includes: <br>
 
  
 
--Auto-population of data where applicable to reduce the need for manual inputs <br>
--More stringent system checks on submitted data <br>
--Improved collaboration with MINLAW officers via the portal without reliance on email <br>
+• Autofill of information (where available) to reduce the need to manually key in the information such as identity numbers and addresses.<br>
+
+• More robust checks on information submitted to reduce errors (e.g. validation of email address format, completion of mandatory fields etc.)<br>
+
+• Quick online guides on the use the new portals<br>
 
 
-Navigation quick guides will also be prepared to guide our users in the use of the new portals.
+
