@@ -120,7 +120,7 @@ The programme allows participants to seek employment through job referrals and c
 
  
 
-For more information on the Job Referral and Skills Upgrading Programme, you may wish to refer to our [press release](https://www.mlaw.gov.sg/content/minlaw/en/news/press-releases/ipto-s-financial-counselling-programme-and-the-job-referral-and-skills-upgrading-programme-press.html).  <br>
+For more information on the Job Referral and Skills Upgrading Programme, you may wish to refer to our [press release](https://www.mlaw.gov.sg/news/press-releases/ipto-s-financial-counselling-programme-and-the-job-referral-and-skills-upgrading-programme-press).  <br>
 
  
 <b> Other information for bankrupts </b><br>
