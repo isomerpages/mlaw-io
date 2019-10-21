@@ -27,9 +27,9 @@ You may lay your claim as a shareholder or a creditor of the defunct company:<br
 (ii) as a creditor, you need to prove your debt.<br>
 
 **A** <u><b>Instructions to Applicant</b></u><br>
-(i) You are required to complete the Application Form (click [here](/files/ApplicationFormtotheOfficialReceivertoLayClaimscopy.docx/){:target="_blank"}(DOC, 37 KB));
+(i) You are required to complete the Application Form (click [here](/files/ApplicationFormtotheOfficialReceivertoLayClaims.docx/){:target="_blank"}(DOC, 37 KB));
 
-(ii) You are required to liaise with the director(s) and / or shareholder(s) of the Defunct Company to complete the Declaration Form (click [here](/files/DeclarationFormtotheOfficialReceivertoLayClaimscopy.docx/){:target="_blank"}(DOC, 33 KB)). If the Declaration Form cannot be completed, you must provide a full explanation as to why this cannot be completed;
+(ii) You are required to liaise with the director(s) and / or shareholder(s) of the Defunct Company to complete the Declaration Form (click [here](/files/DeclarationFormtotheOfficialReceivertoLayClaims.docx/){:target="_blank"}(DOC, 33 KB)). If the Declaration Form cannot be completed, you must provide a full explanation as to why this cannot be completed;
 
 (iii) You must furnish the documents in paragraph B below to support the application; 
 
@@ -41,17 +41,15 @@ You may lay your claim as a shareholder or a creditor of the defunct company:<br
 1) <u>Where the Applicant is a Creditor / Shareholder</u><br>
 (i) Photocopy of the Identity Card / Passport of the Applicant and Witness;
 
-(ii) An extract of the Applicant’s bank statement / online banking page indicating the payee’s name and account number; or a copy of the first page of the Applicant’s bank passbook.
+(ii) Documents indicating that the company has been dissolved / struck off e.g. Notice from ACRA confirming that the company has been dissolved / struck off etc.;
 
-(iii) Documents indicating that the company has been dissolved / struck off e.g. Notice from ACRA confirming that the company has been dissolved / struck off etc.;
+(iii) Documents (where applicable) showing that authorisation(s) has / have been granted by the relevant person(s) / party(s) for laying claim(s) on his / their behalf e.g. Authorisation Letter(s) from creditor(s) or shareholder(s), Power of Attorney, Letters of Administration, Grant of Probate etc.;
 
-(iv) Documents (where applicable) showing that authorisation(s) has / have been granted by the relevant person(s) / party(s) for laying claim(s) on his / their behalf e.g. Authorisation Letter(s) from creditor(s) or shareholder(s), Power of Attorney, Letters of Administration, Grant of Probate etc.;
+(iv) The latest financial statement / management accounts of the Defunct Company;
 
-(v) The latest financial statement / management accounts of the Defunct Company;
+(v) Documents evidencing the existence of the outstanding asset(s); and
 
-(vi) Documents evidencing the existence of the outstanding asset(s); and
-
-(vii) Any other documents to support the application.<br>
+(vi) Any other documents to support the application.<br>
 
 2) <u>Where the Applicant is a Creditor</u><br>
 Proof-of-Debt (Form 77) with the relevant supporting documents to substantiate the claim.<br>
@@ -59,7 +57,7 @@ Proof-of-Debt (Form 77) with the relevant supporting documents to substantiate t
 3) <u>Where the Applicant is a Shareholder</u><br>
 Documents evidencing that there is no outstanding debt or liability owing by the Defunct Company that is payable now or in the future.
 
-For more information, please refer to the attached instructions (click [here](/files/GuidelinestoLayClaimsforDFCases_Jan2018.pdf/)(319 KB)).<br>
+For more information, please refer to the attached instructions (click [here](/files/GuidelinestoLayClaimsforDFCases.pdf/)(319 KB)).<br>
 
 
 **What are the charges of the Official Receiver?**<br>
