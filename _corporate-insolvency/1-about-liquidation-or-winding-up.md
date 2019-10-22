@@ -77,7 +77,7 @@ Section 254(1) of the Companies Act (Cap. 50) states all the grounds under which
 
 **What are the stages involved in a compulsory liquidation?**<br>
 
-Click [here](/images/MainStagesofLiquidationgeneralrevised.png/){:target="_blank"} to view the major stages involved in a compulsory liquidation.
+Click [here](/images/MainStagesofLiquidationgeneralrevised.jpg/){:target="_blank"} to view the major stages involved in a compulsory liquidation.
 
 **What effects does liquidation have on the company and creditors?**<br>
 
