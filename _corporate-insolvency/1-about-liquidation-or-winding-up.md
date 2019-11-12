@@ -119,7 +119,7 @@ The rights of the secured creditor to deal or realise security over company asse
 
 The powers of a liquidator for a compulsory winding up are set out in section 272 of the Companies Act (Cap. 50).
 
-The role or the liquidator includes the following:
+The role of the liquidator includes the following:
 
 * Investigate into the affairs and assets of the company, the conduct of its officers and the claims of creditors and third parties
 * Recover and realise the company’s assets in the most advantageous manner to the company
