@@ -41,11 +41,39 @@ Debtors should inform creditors of their latest financial position. They should 
 Debtors should make serious effort in keeping up with their repayment after entering into the arrangement. <br>
 
  
-<b> 5. Assistance from Credit Counseling Singapore </b><br>
-Debtors may also seek assistance from Credit Counseling Singapore at the following contact: <br>
+<b> 5. Assistance from Voluntary Welfare Organisations </b><br>
+Debtors may also seek assistance from the following social service agencies at the addresses below: <br>
 
 
-<b>Credit Counselling Singapore</b><br>
+<b>a. Association of Muslim Professionals (AMP)</b><br>
+1 Pasir Ris Drive 4 #05-11<br>
+Singapore 519457<br>
+
+General line: 6416 3960  <br>
+Email: corporate@amp.org.sg <br>
+
+<b>b. Adullam Life Counselling</b><br>
+151 Chin Swee Road Manhattan House #08-04<br>
+Singapore 169876<br>
+
+General line: 6659 7844 / 9423 8832  <br>
+Email: admin@adullam.org.sg <br>
+
+<b>c. Arise2Care Community Services</b><br>
+No. 5 Harper Road #02-01A <br>
+Singapore 369673<br>
+
+General line: 6909 0628  <br>
+Email: admin@arise2care.sg  <br>
+
+<b>d. Blessed Grace Social Services</b><br>
+18 Arumugam Road, #05-01 Antioch@Macpherson <br>
+Singapore 409962<br>
+
+General line: 8428 6377  <br>
+Email:  billy.lee@blessedgrace.org  <br>
+
+<b>e. Credit Counselling Singapore</b><br>
 210 Middle Road #05-04<br>
 Singapore 188994<br>
 
@@ -53,7 +81,19 @@ General line: 6338 2663 | Fax: 6338 6586  <br>
 Email: enquiry@ccs.org.sg <br>
 Website: http://www.ccs.org.sg <br>
 
- 
+<b>f. One Hope Centre</b><br>
+8 New Industrial Road #04-04B LHK 3 Building <br>
+Singapore 536200<br>
+
+General line: 6547 1011  <br>
+Email: help@onehopecentre.org  <br>
+
+<b>g. Silver Lining Community Services</b><br>
+(East) 11 Playfair Road Singapore 367986<br>
+(West) Jurong Spring CC, 8 Jurong West St 52 Singapore 649296<br>
+
+General line: 6749 0400  <br>
+Email: admin@silverlining.com.sg <br>
 
 <b> 6. Voluntary Arrangement </b><br>
 Debtors may apply to Court for an interim order for a Voluntary Arrangement (VA). The VA is a negotiated debt settlement under Part V of the Bankruptcy Act. The debtor discloses his assets and liabilities, and makes a proposal on how he intends to settle his debts with various creditors. If the proposal is accepted by the creditors and implemented successfully, it will benefit both the debtor and his creditors. <br>
