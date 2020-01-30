@@ -112,15 +112,14 @@ you should advise your creditors of your bankruptcy status inform them to file a
  
 
 <b> 8. Does the Insolvency Office help bankrupts to find employment? </b>  <br>
-The Insolvency Office has a Job Referral and Skills Upgrading Programme with the Workforce Development Agency to help bankrupts with their employment prospects and opportunities.  <br>
 
- 
+To help bankrupt individuals in their job search, the Insolvency Office advises bankrupts who require assistance on employment opportunities or job searches on the available avenues for help. <br>
 
-The programme allows participants to seek employment through job referrals and career advisory services as well as obtain help for skills training.  <br>
+This includes referring individuals to Workforce Singapore (WSG) or NTUC-Employment and Employability Institute (NTUC’s e2i) to seek career advice. <br>
 
- 
+Through the Adapt and Grow (A&G) initiative, WSG and NTUC’s e2i offer employment facilitation services such as career coaching, employability workshops, job fairs and job matching. <br>
 
-For more information on the Job Referral and Skills Upgrading Programme, you may wish to refer to our [press release](https://www.mlaw.gov.sg/news/press-releases/ipto-s-financial-counselling-programme-and-the-job-referral-and-skills-upgrading-programme-press).  <br>
+They also provide a suite of employment support programmes to help jobseekers take up new jobs and careers. <br>
 
  
 <b> Other information for bankrupts </b><br>
