@@ -74,10 +74,10 @@ General line: 8428 6377  <br>
 Email:  billy.lee@blessedgrace.org  <br>
 
 <b>e. Credit Counselling Singapore</b><br>
-210 Middle Road #05-04<br>
-Singapore 188994<br>
+51 Cuppage Road #07-06<br>
+Singapore 229469<br>
 
-General line: 6338 2663 | Fax: 6338 6586  <br>
+General line: 6225 5227 | Fax: 6338 6586  <br>
 Email: enquiry@ccs.org.sg <br>
 Website: http://www.ccs.org.sg <br>
 
