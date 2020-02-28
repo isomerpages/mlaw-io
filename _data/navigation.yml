@@ -86,3 +86,7 @@
     url: /unclaimed-monies/bankruptcy/
   - title: Corporate Insolvency
     url: /unclaimed-monies/corporate-insolvency/
+
+- title: News 
+  url: "https://www.mlaw.gov.sg/news/"
+  external: true
