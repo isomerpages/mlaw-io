@@ -96,7 +96,9 @@ Forms - Bankruptcy Rules (wef 1 August 2016)
 
 [Form 36 Notice of Disclaimer](/files/Form36.docx/){:target="_blank"} (DOC, 17KB)
 
-[Form 37 Notice to Creditors of Intention to Declare Dividend](/files/Form37.docx/){:target="_blank"} (DOC, 17KB)
+[Form 37 Notice to Creditors of Intention to Declare Dividend - For Creditors that have Filed Claims](/files/F37(DDF-PD).docx/){:target="_blank"} (DOC, 30.7 KB)
+
+[Form 37 Notice to Creditors of Intention to Declare Dividend - For Creditors that have yet to File Claims](/files/F37(DDF-NPD).docx/){:target="_blank"} (DOC, 20.7 KB)
 
 [Form 39 Creditor's Application for Administration of Estate of Deceased Debtor Under Section 148 of the Bankruptcy Act](/files/Form38.docx/){:target="_blank"} (DOC, 19KB)
 
