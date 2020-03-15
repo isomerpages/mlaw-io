@@ -6,10 +6,12 @@ breadcrumb: Impact of Bankruptcy
 collection_name: bankruptcy
 second_nav_title: "Information for Bankrupts"
 ---
-Impact of Bankruptcy
+Bankruptcy Application and Impact of Bankruptcy
 ---
+<b> 1. Does the Official Assignee have appointed agents to file bankruptcy applications in the High Court?</b> <br>
+The Official Assignee does not file bankruptcy applications in the High Court and has not appointed any agent to file such applications. All bankruptcy applications are filed in the High Court by a creditor or by an individual debtor. At the hearing of the bankruptcy application, the High Court may refer a case to the Official Assignee for an assessment to be conducted to determine the debtor’s suitability to be placed on the Debt Repayment Scheme (DRS). A debtor cannot apply to be placed on the DRS as it is only initiated when a bankruptcy application is filed in the High Court.<br>
 
-<b> 1. What happens after I have been made a bankrupt? </b> <br>
+<b> 2. What happens after I have been made a bankrupt? </b> <br>
 You will be required to attend at the Official Assignee’s office for a briefing on your responsibilities as a bankrupt and submit your Statement of Affairs to the Official Assignee within 21 days from the date of the making of your Bankruptcy Order. Subsequent to the filing of your Statement of Affairs, you are also required to attend the Official Assignee’s office to work out your monthly instalment with our officers. The monthly instalments paid to your bankruptcy estate will be distributed as dividends to your creditors upon your discharge from bankruptcy.
 
 If you are a partner in firm which has been made bankrupt, you will have to submit:
@@ -22,7 +24,7 @@ If you, without reasonable excuse, fail to submit a Statement of Affairs to the 
 
  
 
-<b> 2. How do I contact my case officer? </b>  <br>
+<b> 3. How do I contact my case officer? </b>  <br>
 You may contact us at:  <br>
 
 [Contact Us @ OneMinLaw](https://www.mlaw.gov.sg/eservices/enquiry/){:target="_blank"} <br>
@@ -36,10 +38,10 @@ Tel: 1800-2255-529 (during office hours)  <br>
 Fax: 6325-1417  <br>
  
 
-<b> 3. What is “bankruptcy case administration”? </b>  <br>
+<b> 4. What is “bankruptcy case administration”? </b>  <br>
 Case administration refers to the process of realising (selling) the bankrupt’s assets, finalising his total liabilities before his discharge from bankruptcy.  <br>
 
-<b> 4. What will happen to my assets? </b>  <br>
+<b> 5. What will happen to my assets? </b>  <br>
 Your assets will vest in the Official Assignee for the benefit of your creditors once you are adjudged a bankrupt.  <br>
 
 
@@ -50,7 +52,7 @@ For more information, please click [here](/bankruptcy/information-for-bankrupts/
 
  
 
-<b> 5. What assets are protected from creditors? </b>  <br>
+<b> 6. What assets are protected from creditors? </b>  <br>
 Property held by you on trust for any other person  <br>
 
  
@@ -81,7 +83,7 @@ For bankrupts who are nominated beneficiaries of the Dependants’ Protection Sc
 
  
 
-<b> 6. What will happen to my secured assets? </b>  <br>
+<b> 7. What will happen to my secured assets? </b>  <br>
 Creditors (e.g. banks or other financial institutions) who hold security over your assets or goods, have the right to sell the assets or goods if you default on your payments.  <br>
 
 
@@ -92,7 +94,7 @@ The Official Assignee will require any proceeds of sale exceeding that of the va
 
  
 
-<b> 7. Can creditors take further legal action against me after I have been made bankrupt? </b>  <br>
+<b> 8. Can creditors take further legal action against me after I have been made bankrupt? </b>  <br>
 Creditors cannot take further legal proceedings against you to recover debts incurred <b><u>before</u></b> your bankruptcy.  <br>
  
 If you receive:  <br>
@@ -111,7 +113,7 @@ you should advise your creditors of your bankruptcy status inform them to file a
 
  
 
-<b> 8. Does the Insolvency Office help bankrupts to find employment? </b>  <br>
+<b> 9. Does the Insolvency Office help bankrupts to find employment? </b>  <br>
 
 To help bankrupt individuals in their job search, the Insolvency Office advises bankrupts who require assistance on employment opportunities or job searches on the available avenues for help. <br>
 
