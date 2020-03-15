@@ -32,7 +32,10 @@ If you satisfy the eligibility criteria, your suitability to be placed on the DR
 
 If you are found to be suitable for the DRS, a DRS administrator will devise a Debt Repayment Plan (“DRP”) for you. However, should the OA assess that you are unsuitable, or if you fail to comply with the OA’s instructions, you will be deemed unsuitable and your case will be referred back to Court for the bankruptcy proceedings to be heard again.<br>
 
-**4. What happens when I am referred to the Insolvency Office by the Court after hearing the bankruptcy application?**<br>
+**4. Does the Official Assignee have appointed agents to file bankruptcy applications in the High Court?**<br>
+The Official Assignee does not file bankruptcy applications in the High Court and has not appointed any agent to file such applications. All bankruptcy applications are filed in the High Court by a creditor or by an individual debtor. At the hearing of the bankruptcy application, the High Court may refer a case to the Official Assignee for an assessment to be conducted to determine the debtor’s suitability to be placed on the Debt Repayment Scheme (DRS). A debtor cannot apply to be placed on the DRS as it is only initiated when a bankruptcy application is filed in the High Court.<br>
+
+**5. What happens when I am referred to the Insolvency Office by the Court after hearing the bankruptcy application?**<br>
 At the hearing of the bankruptcy application, the Court may adjourn the matter for up to 6 months to enable the OA to assess your suitability for the DRS.<br>
 
 You will receive a notice from the Insolvency Office informing you to view the Introductory Video on the DRS. If you fulfil the eligibility criteria set out in the video and are keen to proceed with the DRS assessment, you must file your documents online. If you need assistance in the submission of your documents, you may approach the e-service helpers located at the OneMinLaw Centre. OneMinLaw Centre is located at:<br>
@@ -46,7 +49,7 @@ Singapore 069118<br>
 Services rendered by the e-service helpers are chargeable.<br>
 If we do not receive your online submission by the given deadline and/or you do not meet the eligibility criteria, you may be found unsuitable for the DRS and your case will be referred back to Court for the bankruptcy proceedings to be heard again.<br>
 
-**5. What are the documents to be submitted for suitability assessment?**<br>
+**6. What are the documents to be submitted for suitability assessment?**<br>
 In your Notice of Introduction on DRS & Filing of Statement of Affairs, you will be notified to submit the following documents [online](https://www.mlaw.gov.sg/eservices/io/):<br>
 (a)    Statement of Affairs;<br>
 (b)   Income & Expenditure Statement;<br>
@@ -55,7 +58,7 @@ In your Notice of Introduction on DRS & Filing of Statement of Affairs, you will
 
 You will be given 14 days to view the Introductory Video and complete the online submission, failing which your case will be referred back to Court for the bankruptcy proceedings to be heard again.<br>
 
-**6. What happens after submission of documents?**<br>
+**7. What happens after submission of documents?**<br>
 Once your online submission has been verified and accepted by the DRS administrator, you will be notified to pay the preliminary fee of $350 at any SAM or Singpost branch.<br>
 
 For a further assessment of your suitability for the DRS, a meeting of creditors will be held in our office. You will be required to make a payment of $250 before the meeting.<br>
@@ -64,14 +67,14 @@ Your attendance at the meeting of creditors is compulsory. If you are unable to 
 
 The administrators will chair the meeting and discuss your approved monthly instalment, as well as the terms and conditions of your DRP with your creditors. The outcome of our assessment will be informed to you within 7 days of the meeting.<br>
 
-**7. When do I start my first monthly instalment?**<br>
+**8. When do I start my first monthly instalment?**<br>
 Once you are determined to be suitable for the DRS, you have to prepare to pay the amount of $300 being the first annual fee and your approved first monthly instalment.<br>
 
 You may wish to note that the sooner you start on the DRS, the less you will be paying in the long run, as interest on the claims filed by your creditors will stop running on the day you start on the DRS.<br>
 
 Once you have made the first payments, the OA will inform you, the Court and your applicant-creditor of the outcome of the DRS assessment and the commencement of your DRP. The bankruptcy application made against you will then be deemed withdrawn.<br>
 
-**8. How do I continue to pay for my monthly instalments and/or bonus?**<br>
+**9. How do I continue to pay for my monthly instalments and/or bonus?**<br>
 There are 3 payment methods:<br>
 
 (a)    Payment using any Self-service Automated Machine [(SAM)](/files/GuidetoUsingSAM(PrelimFee).pdf)(1.08MB);<br>
@@ -82,7 +85,7 @@ There are 3 payment methods:<br>
 
 Please provide your DRS Case Number (e.g. D00XXXX-2015) and the nature of the payment (e.g. instalment or bonus payment).<br>
 
-**9. What are my duties as a debtor on DRS?**<br>
+**10. What are my duties as a debtor on DRS?**<br>
 Once the DRP commences, you are expected to carry out your statutory duties as a debtor under the DRS i.e. adhere to the terms and conditions of the DRP. If you fail to comply with the terms and conditions of your DRP and/ or do not fulfil the duties expected of you, these may be grounds for the OA to issue you with a Certificate of Failure, after which your creditors may commence fresh bankruptcy proceedings against you.<br>
 
 Pursuant to section 56P of the Bankruptcy Act, you are expected to adhere to the following:<br>
@@ -95,7 +98,7 @@ Pursuant to section 56P of the Bankruptcy Act, you are expected to adhere to the
 (f)       Update your Income and Expenditure statement as required and to forward supporting documents e.g. salary slips, CPF statements and/or Notice of Tax Assessment and any other additional documents requested by your case administrator eg. receipts; and<br>
 (g)      Adhere to the terms and conditions of the approved DRP, including the payment of  regular monthly instalments,  Annual Wage Supplement/bonus, and annual administration fees when required.<br>
 
-**10. Summary of DRS fees and/or charges**<br>
+**11. Summary of DRS fees and/or charges**<br>
 The fees payable under the Bankruptcy (Debt Repayment Scheme) Rules for assessment and administration of cases are set out below.<br>
 
 <table>
@@ -149,7 +152,7 @@ The fees payable under the Bankruptcy (Debt Repayment Scheme) Rules for assessme
   </tr>
 </table>
 
-**11. Contact DRS**<br>
+**12. Contact DRS**<br>
 Insolvency Office (IO)<br>
 Individual Insolvency & Debt Repayment Scheme Division<br>
 The URA Centre (East Wing)<br>
@@ -161,5 +164,5 @@ Please send in your enquiries/feedback at [Contact Us @ OneMinLaw](https://www.m
 
 Alternatively, you may visit us at our website at [www.mlaw.gov.sg](https://www.mlaw.gov.sg/) or contact us at 1800-2255-529 (during office hours).
 
-**12. Other Frequently Asked Questions**<br>
+**13. Other Frequently Asked Questions**<br>
 For other frequently asked questions on the Debt Repayment Scheme ("DRS"), [click here](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx){:target="_blank"}.
