@@ -102,7 +102,8 @@ Forms - Bankruptcy Rules (wef 1 August 2016)
 
 [Form 39 Creditor's Application for Administration of Estate of Deceased Debtor Under Section 148 of the Bankruptcy Act](/files/Form38.docx/){:target="_blank"} (DOC, 19KB)
 
-[Form C Agreement on Applicant Creditor's Cost & Disbursements of Bankruptcy Proceedings](/files/Form39.docx/){:target="_blank"} (DOC, 219KB)
+[Form C Agreement on Applicant Creditor's Cost & Disbursements of Bankruptcy Proceedings](/files/FormC_CAA25Jul17.pdf
+/){:target="_blank"} (DOC, 232KB)
 
 [Form 40 Affidavit in Support of Creditor's Application for Administration of Estate of Deceased Debtor Under Section 148 of the Bankruptcy Act](/files/Form40.docx/){:target="_blank"} (DOC, 21KB)
 
