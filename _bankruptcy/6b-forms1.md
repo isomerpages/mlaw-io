@@ -106,7 +106,6 @@ Forms - Bankruptcy Rules (wef 1 August 2016)
 
 [Form 41 Report of a Trustee’s Administration](/files/Form41Excel.xlsx/){:target="_blank"}(XLS, 14KB)
 
-[Form C Agreement on Applicant Creditor's Cost & Disbursements of Bankruptcy Proceedings](/files/FormC_CAA25Jul17.pdf
-/){:target="_blank"} (DOC, 232KB)
+[Form C Agreement on Applicant Creditor's Cost & Disbursements of Bankruptcy Proceedings](/files/FormC_CAA25Jul17.pdf/){:target="_blank"} (DOC, 232KB)
 
 [Request to Reduce Monthly Contribution](files/reduction.pdf/){:target="_blank"} (210KB)<br><br>
