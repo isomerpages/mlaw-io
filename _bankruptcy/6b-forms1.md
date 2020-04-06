@@ -109,4 +109,4 @@ Forms - Bankruptcy Rules (wef 1 August 2016)
 [Form C Agreement on Applicant Creditor's Cost & Disbursements of Bankruptcy Proceedings](/files/FormC_CAA25Jul17.pdf
 /){:target="_blank"} (DOC, 232KB)
 
-[Request to Reduce Monthly Instalment](files/reduction.pdf/){:target="_blank"} (210KB)<br><br>
+[Request to Reduce Monthly Contribution](files/reduction.pdf/){:target="_blank"} (210KB)<br><br>
