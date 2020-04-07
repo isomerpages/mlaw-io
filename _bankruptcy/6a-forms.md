@@ -32,9 +32,9 @@ Forms for Administration
 
 [Statement of Account of Moneys and Property Received)](/files/StatementofAccountofMoneysandPropertyReceived.pdf/){:target="_blank"} (307KB)
 
-[Indemnity Form](/files/IndemnityForm.pdf/){:target="_blank"} (478KB)<br>
+[Indemnity Form](/files/IndemnityForm.pdf/){:target="_blank"} (478KB)
 
-[Request to Reduce Monthly Instalment](files/reduction.pdf/){:target="_blank"} (210KB)<br><br>
+[Request to Reduce Monthly Instalment](/files/reduction.pdf){:target="_blank"} (210KB)<br><br>
 **Note**: For the following applications, please submit via the Insolvency Office E-Services Portal by clicking on the "eServices" menu on the task bar above.
 
 a) Application To Buy an HDB Flat
