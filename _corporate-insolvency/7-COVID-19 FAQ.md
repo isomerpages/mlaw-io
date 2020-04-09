@@ -14,14 +14,12 @@ COVID-19 FAQ
 
 No. As the winding up application was brought before the commencement of the prescribed period, the threshold amount of $100,000 will not apply. <br>
 [Applies to companies, LLPs and VCCs]
-
 <br>
 
 **2. A creditor has issued a statutory demand to my company before the commencement of the prescribed period, giving 3 weeks’ notice for repayment.  Now that my company cannot pay, will the revised 6 months’ threshold be applicable?**<br>
 
 No. As the statutory demand was issued before the commencement of the prescribed period, the 6 months’ threshold will not apply. <br>
 [Applies to companies, LLPs and VCCs]
-
 <br>
 
 **3. My company has been borrowing heavily to keep our operations afloat and I am uncertain if the company will survive this crisis. As the company director, will I be at risk of committing an offence if I continue trading during this period?**<br>
@@ -31,7 +29,6 @@ a) in the ordinary course of business; <br>
 b) during the prescribed period; and <br>
 c) before the appointment of a judicial manager or a liquidator of the company. <br>
 [Applies to companies, LLPs and VCCs]
-
 <br>
 
 **4. My company has been borrowing heavily to keep our operations afloat during the prescribed period. As the company director, will I be at risk of committing an offence for wrongful trading once the prescribed period expires?**<br>
