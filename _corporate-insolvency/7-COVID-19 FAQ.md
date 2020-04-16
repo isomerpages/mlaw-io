@@ -8,7 +8,7 @@ collection_name: corporate-insolvency
 
 COVID-19 FAQ
 ---
-**QUESTIONS & ANSWERS RELATING TO THE COVID-19 (RELIEF MEASURES) BILL 2020**<br>
+**QUESTIONS & ANSWERS RELATING TO THE COVID-19 (TEMPORARY MEASURES) ACT 2020 (No. 14 of 2020)**<br>
 
 **1. A creditor has commenced winding up proceedings against my company before the commencement of the prescribed period. Will the revised threshold amount of $100,000 for winding up cases apply?**<br>
 
