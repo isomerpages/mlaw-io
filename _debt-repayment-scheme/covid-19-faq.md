@@ -7,15 +7,16 @@ collection_name: debt-repayment-scheme
 
 ---
 
-COVID-19 FAQ
----
 **COVID-19 BILL (FAQS ON RELIEF MEASURES FOR DEBTORS)**<br>
+
+---
+
 
 **1.	A creditor has commenced bankruptcy proceedings against me. The bankruptcy application was made before the commencement of the Bill. Will the revised threshold amount of $250,000 for debt repayment cases apply to my case?**<br>
 
 •	No. The commencement date of the Bill was 20 April 2020. As the bankruptcy application was brought before the commencement of the Bill, the threshold amount of $250,000 will not apply to your case.<br>
 
-<br>
+
 
 **2.	My case has been referred to the Official Assignee for assessment on the suitability of the Debt Repayment Scheme. Will the revised threshold amount of $250,000 for debt repayment cases apply to my case?**<br>
 
@@ -23,31 +24,29 @@ COVID-19 FAQ
 
 •	It will apply to your case if the bankruptcy application was made on or after 20 April 2020.<br>
 
-<br>
 
 **3.	If a creditor makes a bankruptcy application after the commencement of the Bill, will the court refer my case to the Official Assignee for assessment if the debt or the aggregate of debts in respect of which the bankruptcy application is made is $x?**<br>
 
 •	The court will refer your case to the Official Assignee for assessment if the debt or the aggregate of the debts in respect of which the bankruptcy application is made ($x) does not exceed $250,000 and the other qualifying criteria are satisfied.<br><br>
 
-<br>
+
 
 **4.	If the bankruptcy application is made during the prescribed period, will the Official Assignee consider me suitable for the Debt Repayment Scheme if the aggregate of my debts is more than $100,000 but less than $250,000?**<br>
 
 •	Subject to you satisfying the other conditions, you will be considered suitable for the Debt Repayment Scheme if the aggregate of your debts does not exceed $250,000.<br>
 
-<br>
 
 **5.	I am currently under the Debt Repayment Scheme. Does the new Bill apply to me?**<br>
 
 •	The new Bill does not apply to a case if the bankruptcy application was made before 20 April 2020.<br>
 
-<br>
+
 
 **6.	If my Debt Repayment Scheme comes into effect after the commencement of the Bill, being 20 April 2020, can it be extended beyond 5 years?**<br>
 
 •	No. The longest period for your Debt Repayment Scheme will be 5 years.<br>
 
-<br>
+
 
 **7.	I am under the Debt Repayment Scheme. In light of the severe impact of COVID-19 on the economy, can I request that my monthly instalments be lowered/deferred?**<br>
 
