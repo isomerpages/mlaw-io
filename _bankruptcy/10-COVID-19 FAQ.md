@@ -8,32 +8,26 @@ collection_name: bankruptcy
 
 COVID-19 FAQ
 ---
-**QUESTIONS & ANSWERS RELATING TO THE COVID-19 (TEMPORARY MEASURES) ACT 2020 (No. 14 of 2020)**<br>
+**COVID-19 BILL (FAQS ON RELIEF MEASURES FOR BANKRUPTS)**<br>
 
-**1. A creditor has commenced winding up proceedings against my company before the commencement of the prescribed period. Will the revised threshold amount of $100,000 for winding up cases apply?**<br>
+**1.	How will the debtors benefit from the Bill?**<br>
 
-No. As the winding up application was brought before the commencement of the prescribed period, the threshold amount of $100,000 will not apply. <br>
-[Applies to companies, LLPs and VCCs]
+•	The Bill aims to provide temporary relief to debtors from creditors’ legal action for up to 6 months after the Bill commences. In cases where the statutory demand is served on the debtors on or after 20 April 2020, the statutory period for debtors to respond to the demands is extended from 21 days to 6 months under the Bill.<br><br>
+
+•	In these cases, creditors will be prohibited from commencing  bankruptcy proceedings for the recovery of debts. <br><br>
+
+•	The monetary threshold for a creditor to commence bankruptcy proceedings against a debtor is increased from $15,000 to $60,000 under the Bill.<br><br>
+
 <br>
 
-**2. A creditor has issued a statutory demand to my company before the commencement of the prescribed period, giving 3 weeks’ notice for repayment.  Now that my company cannot pay, will the revised 6 months’ threshold be applicable?**<br>
+**2.	How long will the relief last for?**<br>
 
-No. As the statutory demand was issued before the commencement of the prescribed period, the 6 months’ threshold will not apply. <br>
-[Applies to companies, LLPs and VCCs]
+•	By default, the relief will last for 6 months after the Bill commences. The Government will continue to monitor the situation, and may adjust this period later.<br><br>
+
 <br>
 
-**3. My company has been borrowing heavily to keep our operations afloat and I am uncertain if the company will survive this crisis. As the company director, will I be at risk of committing an offence if I continue trading during this period?**<br>
+**3.	What is the effective date of the new law?**<br>
 
-A company is not treated as incurring debts or other liabilities without reasonable prospect of meeting them in full if the debt or other liability is incurred:<br>
-a) in the ordinary course of business; <br>
-b) during the prescribed period; and <br>
-c) before the appointment of a judicial manager or a liquidator of the company. <br>
-[Applies to companies, LLPs and VCCs]
+•	The new law came into effect on 20 April 2020.<br><br>
+
 <br>
-
-**4. My company has been borrowing heavily to keep our operations afloat during the prescribed period. As the company director, will I be at risk of committing an offence for wrongful trading once the prescribed period expires?**<br>
-
-Despite the expiry of the prescribed period, a company will not to be treated as incurring debts or other liabilities without reasonable prospect of meeting them in full if the debt or other liability is incurred by the company during the prescribed period.<br>
-[Applies to companies, LLPs and VCCs]
-
-
