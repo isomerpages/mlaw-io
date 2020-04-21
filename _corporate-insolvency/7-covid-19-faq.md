@@ -35,4 +35,8 @@ c) before the appointment of a judicial manager or a liquidator of the company. 
 
 Despite the expiry of the prescribed period, a company will not to be treated as incurring debts or other liabilities without reasonable prospect of meeting them in full if the debt or other liability is incurred by the company during the prescribed period.<br>
 [Applies to companies, LLPs and VCCs]
+<br>
 
+**5. When is the prescribed period?**<br>
+
+Pursuant to COVID-19 (Temporary Measures) (Prescribed Period) Order 2020, the prescribed period is 6 months commencing on 20 April 2020. 
