@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: COVID-19 FAQ
-permalink: /debt-repayment-scheme/COVID-19-FAQ-DRS/
+permalink: /debt-repayment-scheme/COVID-19-FAQ/
 breadcrumb: COVID-19 FAQ
 collection_name: debt-repayment-scheme
 
