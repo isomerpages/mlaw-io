@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: COVID-19 FAQ
-permalink: /bankruptcy/COVID-19-FAQ/
+permalink: /bankruptcy/COVID-19-FAQ-IID/
 breadcrumb: COVID-19 FAQ
 collection_name: bankruptcy
 ---
