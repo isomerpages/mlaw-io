@@ -19,13 +19,12 @@ collection_name: bankruptcy
 
 •	The monetary threshold for a creditor to commence bankruptcy proceedings against a debtor is increased from $15,000 to $60,000 under the Bill.<br>
 
-<br>
 
 **2.	How long will the relief last for?**<br>
 
 •	By default, the relief will last for 6 months after the Bill commences. The Government will continue to monitor the situation, and may adjust this period later.<br>
 
-<br>
+
 
 **3.	What is the effective date of the new law?**<br>
 
