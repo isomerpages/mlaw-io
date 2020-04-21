@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: COVID-19 FAQ
-permalink: /corporate-insolvency/COVID-19-FAQ/
+permalink: /corporate-insolvency/COVID-19-FAQ-DRS/
 breadcrumb: COVID-19 FAQ
 collection_name: corporate-insolvency
 ---
