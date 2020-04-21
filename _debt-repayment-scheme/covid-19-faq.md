@@ -27,7 +27,7 @@ collection_name: debt-repayment-scheme
 
 **3.	If a creditor makes a bankruptcy application after the commencement of the Bill, will the court refer my case to the Official Assignee for assessment if the debt or the aggregate of debts in respect of which the bankruptcy application is made is $x?**<br>
 
-•	The court will refer your case to the Official Assignee for assessment if the debt or the aggregate of the debts in respect of which the bankruptcy application is made ($x) does not exceed $250,000 and the other qualifying criteria are satisfied.<br><br>
+•	The court will refer your case to the Official Assignee for assessment if the debt or the aggregate of the debts in respect of which the bankruptcy application is made ($x) does not exceed $250,000 and the other qualifying criteria are satisfied.<br>
 
 
 
