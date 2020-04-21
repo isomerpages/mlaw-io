@@ -12,9 +12,9 @@ COVID-19 FAQ
 
 **1.	How will the debtors benefit from the Bill?**<br>
 
-•	The Bill aims to provide temporary relief to debtors from creditors’ legal action for up to 6 months after the Bill commences. In cases where the statutory demand is served on the debtors on or after 20 April 2020, the statutory period for debtors to respond to the demands is extended from 21 days to 6 months under the Bill.<br><br>
+•	The Bill aims to provide temporary relief to debtors from creditors’ legal action for up to 6 months after the Bill commences. In cases where the statutory demand is served on the debtors on or after 20 April 2020, the statutory period for debtors to respond to the demands is extended from 21 days to 6 months under the Bill.<br>
 
-•	In these cases, creditors will be prohibited from commencing  bankruptcy proceedings for the recovery of debts. <br><br>
+•	In these cases, creditors will be prohibited from commencing  bankruptcy proceedings for the recovery of debts. <br>
 
 •	The monetary threshold for a creditor to commence bankruptcy proceedings against a debtor is increased from $15,000 to $60,000 under the Bill.<br><br>
 
