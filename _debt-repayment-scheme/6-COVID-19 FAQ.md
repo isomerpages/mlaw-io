@@ -19,7 +19,7 @@ COVID-19 FAQ
 
 **2.	My case has been referred to the Official Assignee for assessment on the suitability of the Debt Repayment Scheme. Will the revised threshold amount of $250,000 for debt repayment cases apply to my case?**<br>
 
-•	The threshold amount of $250,000 will not apply to your case if the bankruptcy application was made before the commencement of the Bill, being 20 April 2020.<br><br>
+•	The threshold amount of $250,000 will not apply to your case if the bankruptcy application was made before the commencement of the Bill, being 20 April 2020.<br>
 
 •	It will apply to your case if the bankruptcy application was made on or after 20 April 2020.<br><br>
 
