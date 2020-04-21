@@ -6,9 +6,9 @@ breadcrumb: COVID-19 FAQ
 collection_name: bankruptcy
 ---
 
-COVID-19 FAQ
----
 **COVID-19 BILL (FAQS ON RELIEF MEASURES FOR BANKRUPTS)**<br>
+
+---
 
 **1.	How will the debtors benefit from the Bill?**<br>
 
