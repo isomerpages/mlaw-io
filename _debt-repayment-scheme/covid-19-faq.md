@@ -40,4 +40,4 @@ collection_name: debt-repayment-scheme
 
 **7.	I am under the Debt Repayment Scheme. In light of the severe impact of COVID-19 on the economy, can I request that my monthly instalments be lowered/deferred?**<br>
 
-•	•	The new Act does not apply to an existing case under the Debt Repayment Scheme (i.e. where the bankruptcy application was made before the commencement of Part 3 of the COVID Act). In the event that your income has been affected because of COVID-19, you may write in to the Official Assignee with supporting documents for the Official Assignee to consider your request to lower/defer the payment of your monthly instalment.<br>
+•	The new Act does not apply to an existing case under the Debt Repayment Scheme (i.e. where the bankruptcy application was made before the commencement of Part 3 of the COVID Act). In the event that your income has been affected because of COVID-19, you may write in to the Official Assignee with supporting documents for the Official Assignee to consider your request to lower/defer the payment of your monthly instalment.<br>
