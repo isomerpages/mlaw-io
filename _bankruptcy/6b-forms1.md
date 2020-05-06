@@ -52,7 +52,7 @@ Forms - Bankruptcy Rules (wef 1 August 2016)
 
 [Form 15C Notice of Application to Review/Vary Monthly Contribution and Target Contribution Under Section 86B(4) of the Bankruptcy Act](/files/Form15C.docx/){:target="_blank"} (DOC, 19KB)
 
-[Form 15D Notice of Variation Order Under Section *86B(8) of the Bankruptcy Act](/files/Form15D.docx/) (DOC, 19KB)
+[Form 15D Notice of Variation Order Under Section 86B(8) of the Bankruptcy Act](/files/Form15D.docx/) (DOC, 19KB)
 
 [Form 15E Certificate of Reduction of Monthly Contribution and Target Contribution Under Section 86D(1) of the Bankruptcy Act](/files/Form15E.docx/){:target="_blank"} (DOC, 28KB)
 
