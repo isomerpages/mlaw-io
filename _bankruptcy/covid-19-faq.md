@@ -28,7 +28,7 @@ collection_name: bankruptcy
 
 **3.	What is the effective date of the new law?**<br>
 
-•	The new law came into effect on 20 April 2020.<br>
+•	The new law came into effect on 20 April 2020.<br><br>
 
 **FAQs on COVID-19 (TEMPORARY MEASURES)(ALTERNATIVE ARRANGEMENTS FOR MEETINGS) (BANKRUPTCY) ORDER 2020**<br>
 
