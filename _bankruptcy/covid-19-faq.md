@@ -49,7 +49,6 @@ collection_name: bankruptcy
 •	The notice of the meeting is to be given as follows:<br>
 (a) must be sent via email to each creditor who has notified the convenor of his or her
 electronic mail address;<br>
-
 (b) must be published on the website of the convener or, where such a website is not
 available, the website of the Official Assignee at https://io.mlaw.gov.sg;<br>
 (c) must describe the means by which the meeting can be electronically accessed (e.g.
