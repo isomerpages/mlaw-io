@@ -6,10 +6,9 @@ breadcrumb: COVID-19 FAQ
 collection_name: bankruptcy
 ---
 
-**COVID-19 (TEMPORARY MEASURES) ACT **<br>
+**FAQs on COVID-19 (TEMPORARY MEASURES) ACT (RELIEF MEASURES FOR BANKRUPTS)**<br>
 
 ---
-**FAQS ON RELIEF MEASURES FOR BANKRUPTS**<br>
 
 **1.	How will the debtors benefit from the Act?**<br>
 
