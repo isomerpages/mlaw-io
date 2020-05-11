@@ -12,9 +12,12 @@ Practice Circulars
 **Practice Circulars For Corporate Insolvency**
 
 <ul>
-  <li><a href="/files/ORPracticeCircular2of2018.pdf/" target="_blank">The Official Receiver Practice Circular No. 2 of 2018 Administration of Compulsory Winding Up Cases/ Companies (Winding Up) Rules</a>(108KB)</li><br>
+<li>
+    <a href="/files/OAORPC1of2020.pdf/" target="_blank">OA / OR  Practice Circular No. 1 of 2020  Safe Distancing Measures for Meetings</a> (30 KB)
+  </li><br>
+  <li><a href="/files/ORPracticeCircular2of2018.pdf/" target="_blank">The Official Receiver Practice Circular No. 2 of 2018 Administration of Compulsory Winding Up Cases/ Companies (Winding Up) Rules</a>(108 KB)</li><br>
   <li>
-    <a href="/files/ORPracticeCircular1of2018.pdf/" target="_blank">The Official Receiver Practice Circular No. 1 of 2018 Administration of Compulsory Winding Up Cases </a>(119KB)
+    <a href="/files/ORPracticeCircular1of2018.pdf/" target="_blank">The Official Receiver Practice Circular No. 1 of 2018 Administration of Compulsory Winding Up Cases </a>(119 KB)
     <ul>
       <li>
         <a href="/files/PC1_2018_PaymentRequisitionForm.xlsx/" target="_blank">Payment Requisition Form</a> (XLS, 11KB)
@@ -22,26 +25,26 @@ Practice Circulars
     </ul>
   </li><br>
   <li>
-    <a href="/files/PracticeCircularNo.2of2017.pdf/" target="_blank">OA / OR (Vehicles Under Hire Purchase) Practice Circular No. 2 Of 2017</a> (168KB)
+    <a href="/files/PracticeCircularNo.2of2017.pdf/" target="_blank">OA / OR (Vehicles Under Hire Purchase) Practice Circular No. 2 Of 2017</a> (168 KB)
   </li><br>
   <li>
     <a href="/files/PracticeCircular1of2017.pdf/" target="_blank">OA /OR (Machine Under Hire Purchase) Practice Circular No. 1 Of 2017 </a>(147 KB)
   </li><br>
   <li>
-    <a href="/files/ORPracticeCircular1of2017.pdf/" target="_blank">The Official Receiver Practice Circular No. 1 of 2017 Administration Costs and Fees under the Fees (Winding Up and Dissolution of Companies and other Bodies) (Amendment) Order 2017 </a>(109KB)
+    <a href="/files/ORPracticeCircular1of2017.pdf/" target="_blank">The Official Receiver Practice Circular No. 1 of 2017 Administration Costs and Fees under the Fees (Winding Up and Dissolution of Companies and other Bodies) (Amendment) Order 2017 </a>(109 KB)
   </li><br>
   <li>
-    <a href="/files/PracticeCircular1of2016-PaymentofRemunerationandExpensesofJudicalManager.pdf/" target="_blank">The Official Receiver Practice Circular No. 1 of 2016 Judicial Manager's Remuneration & Expenses incurred in Judicial Management </a> (196KB)
+    <a href="/files/PracticeCircular1of2016-PaymentofRemunerationandExpensesofJudicalManager.pdf/" target="_blank">The Official Receiver Practice Circular No. 1 of 2016 Judicial Manager's Remuneration & Expenses incurred in Judicial Management </a> (196 KB)
   </li><br>
   <li>
-    <a href="/files/ORPracticeCircular1of2015.pdf/" target="_blank">The Official Receiver Practice Circular No. 1 of 2015 Reimbursement of the Applicant-Plaintiffs' Costs in the Winding Up of a Company by the Court </a> (334KB)
+    <a href="/files/ORPracticeCircular1of2015.pdf/" target="_blank">The Official Receiver Practice Circular No. 1 of 2015 Reimbursement of the Applicant-Plaintiffs' Costs in the Winding Up of a Company by the Court </a> (334 KB)
   </li><br>
   <li>
     <a href="/files/PracticeCircular1of2013.pdf/" target="_blank">The Official Receiver Practice Circular No. 1 of 2013 Request for Payment by Liquidators out of the Companies Liquidation Account maintained by the Official Receiver
 </a> (22 KB)
   </li><br>
   <li>
-    <a href="/files/linkclick5d93.pdf/" target="_blank">The Official Receiver Practice Circular No. 1 of 2012 Administration Costs and Fees under the Fees (Winding Up and Dissolution of Companies and other Bodies) (Amendment) Order 2011 [superseded by OR PC 1 of 2017 wef 3 Jan 2017] </a>(72KB)
+    <a href="/files/linkclick5d93.pdf/" target="_blank">The Official Receiver Practice Circular No. 1 of 2012 Administration Costs and Fees under the Fees (Winding Up and Dissolution of Companies and other Bodies) (Amendment) Order 2011 [superseded by OR PC 1 of 2017 wef 3 Jan 2017] </a>(72 KB)
   </li><br>
   <li>
     <a href="/files/linkclicke43e.pdf/" target="_blank">The Official Receiver Practice Circular No. 1 of 2010 Operation of a Company's Liquidation Account </a>(64 KB)

@@ -6,10 +6,10 @@ breadcrumb: COVID-19 FAQ
 collection_name: bankruptcy
 ---
 
-**COVID-19 (TEMPORARY MEASURES) ACT (FAQS ON RELIEF MEASURES FOR BANKRUPTS)**<br>
+**COVID-19 (TEMPORARY MEASURES) ACT **<br>
 
 ---
-
+**FAQS ON RELIEF MEASURES FOR BANKRUPTS**<br>
 
 **1.	How will the debtors benefit from the Act?**<br>
 
@@ -30,4 +30,31 @@ collection_name: bankruptcy
 
 •	The new law came into effect on 20 April 2020.<br>
 
+**FAQs on COVID-19 (TEMPORARY MEASURES)(ALTERNATIVE ARRANGEMENTS FOR MEETINGS) (BANKRUPTCY) ORDER 2020**<br>
 
+**1. I am an insolvency practitioner and I am required to hold meetings within the circuit breaker period. Can I defer the meeting? If not, how can I proceed to hold the meeting?**<br>
+
+•	The Order permits meetings whose due dates fall between 27 March and 30 September to be deferred. You may hence defer the meeting until you are able to hold the meeting either in persons or by relying on the alternative arrangements in the Order, to a date no later than 30 September 2020. Please refer to the Schedule within the Order for the details on how the meeting can be held via electronic means.<br>
+
+**2.	I am an insolvency practitioner and I am required to hold a Court-ordered or Court-directed meeting within the circuit breaker period. How should I hold the meeting?**<br>
+
+•	This Order does not apply to meetings ordered or directed by the Court. For such meetings, you may wish to apply to the court to seek further directions or a variation of the orders (where applicable), as to the safe distancing measures that you intend to implement at such meetings.<br>
+
+**3.	How long will the alternative arrangements apply?**<br>
+
+•	The alternative arrangements apply for the period starting on 27 March 2020 and ending on 30 September 2020.<br>
+
+**4.	How can I give notice of the meeting to be held by electronic means?**<br>
+
+•	The notice of the meeting is to be given as follows:<br>
+(a) must be sent via email to each creditor who has notified the convenor of his or her
+electronic mail address;<br>
+(b) must be published on the website of the convener or, where such a website is not
+available, the website of the Official Assignee at https://io.mlaw.gov.sg;<br>
+(c) must describe the means by which the meeting can be electronically accessed (e.g.
+online location);<br>
+(d) must set out how a creditor may vote at the meeting; and<br>
+(e) may be accompanied by any other documents relevant to the meeting.<br>
+
+**5. How can the quorum for the alternative meeting be met?**<br>
+•	The quorum may be met by creditors being personally or electronically present at themeeting. The requirements for verifying electronic presence are set out in the Schedule tothe Order.<br>
