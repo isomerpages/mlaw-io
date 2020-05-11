@@ -30,7 +30,7 @@ collection_name: bankruptcy
 
 •	The new law came into effect on 20 April 2020.<br>
 
-***FAQs on COVID-19 (TEMPORARY MEASURES)(ALTERNATIVE ARRANGEMENTS FOR MEETINGS) (BANKRUPTCY) ORDER 2020***<br>
+**FAQs on COVID-19 (TEMPORARY MEASURES)(ALTERNATIVE ARRANGEMENTS FOR MEETINGS) (BANKRUPTCY) ORDER 2020**<br>
 
 **1. I am an insolvency practitioner and I am required to hold meetings within the circuit breaker period. Can I defer the meeting? If not, how can I proceed to hold the meeting?**<br>
 
