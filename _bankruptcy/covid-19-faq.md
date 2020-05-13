@@ -57,4 +57,4 @@ online location);<br>
 
 **5. How can the quorum for the alternative meeting be met?**<br>
 
-The quorum may be met by creditors being personally or electronically present at themeeting. The requirements for verifying electronic presence are set out in the Schedule tothe Order.<br>
+The quorum may be met by creditors being personally or electronically present at the meeting. The requirements for verifying electronic presence are set out in the Schedule tothe Order.<br>
