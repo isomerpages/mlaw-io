@@ -6,10 +6,9 @@ breadcrumb: COVID-19 FAQ
 collection_name: bankruptcy
 ---
 
-**COVID-19 (TEMPORARY MEASURES) ACT **<br>
+**FAQs on COVID-19 (TEMPORARY MEASURES) ACT (RELIEF MEASURES FOR BANKRUPTS)**<br>
 
 ---
-**FAQS ON RELIEF MEASURES FOR BANKRUPTS**<br>
 
 **1.	How will the debtors benefit from the Act?**<br>
 
@@ -57,4 +56,5 @@ online location);<br>
 (e) may be accompanied by any other documents relevant to the meeting.<br>
 
 **5. How can the quorum for the alternative meeting be met?**<br>
-The quorum may be met by creditors being personally or electronically present at themeeting. The requirements for verifying electronic presence are set out in the Schedule tothe Order.<br>
+
+The quorum may be met by creditors being personally or electronically present at the meeting. The requirements for verifying electronic presence are set out in the Schedule tothe Order.<br>
