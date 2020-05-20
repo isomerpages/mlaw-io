@@ -40,9 +40,9 @@ If the documents supporting your claim in the Proof of Debt cannot be attached t
 
 The supporting documents shall be sent to the Official Assignee within 14 days from the date of submission of the Proof of Debt through the following modes: <br>
 
-(a) By hand at the One MinLaw Center at The URA Centre (East Wing), 45 Maxwell Road #07-11, Singapore 069118; <br>
+(a) By hand to the MinLaw Services Centre at The URA Centre (East Wing), 45 Maxwell Road #07-11, Singapore 069118; <br>
 
-(b) By post to the One MinLaw Center at The URA Centre (East Wing), 45 Maxwell Road #07-11, Singapore 069118; <br>
+(b) By post to the MinLaw Services Center at The URA Centre (East Wing), 45 Maxwell Road #07-11, Singapore 069118; <br>
 
 (c) By facsimile at 6325 1417; or <br>
 

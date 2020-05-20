@@ -6,7 +6,7 @@ breadcrumb: Information For Creditors
 collection_name: corporate-insolvency
 ---
 
-Information for the Creditors of a Company in Liquidation
+Information for Creditors of a Company in Liquidation
 ---
 
 **Information on the status of the liquidation**
@@ -56,10 +56,10 @@ Creditors will receive a “Notice to Creditors and Contributories of Intention 
 Any objection to the liquidator's application for Release or Striking Off must be raised within 21 days from the date of the Notice.<br>
 
 **How do I file a Proof of Debt (Form 77)?**<br>
-Where the Official Receiver is appointed as the liquidator of the wound up company, creditors can file their Proofs of Debt, manually or electronically, to the Official Receiver's office:<br>
+Where the Official Receiver is appointed as the liquidator of the wound up company, creditors can file their Proof of Debt, manually or electronically, to the Official Receiver's office:<br>
 <ul>
  <li>For online submission, a filing fee of $5.00 is payable. Please click <a href="https://www.mlaw.gov.sg/eservices/io/" target="_blank">here</a> to submit the Form 77 electronically.</li>
-  <li>For manual submission, a filing fee of S$8.00 is payable via SAM machine or cash at our office. To download the Form 77, please click <a href="/corporate-insolvency/forms/" target="_blank">here</a>.</li>
+  <li>For manual submission, a filing fee of S$8.00 is payable via SAM machine or SAM online. To download the Form 77, please click <a href="/corporate-insolvency/forms/" target="_blank">here</a>.</li>
 </ul>
 
 Please submit the supporting documents such as invoices and judgements to the Official Receiver. Please quote the e-filing number (for electronic submission of Form 77) and the winding up number of the company when submitting the supporting documents to the Official Receiver. Proofs of Debt without any supporting documents may be rejected.

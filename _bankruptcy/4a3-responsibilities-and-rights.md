@@ -27,10 +27,10 @@ You will be required to submit your Income Declaration declaring information on 
  
 
 <b>(c) What are the payment modes for my monthly instalment payments?</b><br>
-You may make your monthly instalment payment through GIRO, [Self-service Automated Machines (SAMs), SingPost counters](https://www.singpost.com/), and cash, NETS or Cashcard at our office. <br>
+You can make your monthly instalment payment through GIRO, Self-service Automated Machines (SAMs) and at [SingPost counters](https://www.singpost.com/). <br>
 
 
-Please note that the Service Centre’s counter operating hours are: <br>
+Please note that the MinLaw Services Centre’s counter operating hours are: <br>
 Monday to Friday: 8.30am to 5.00pm <br>
 (Closed on Weekends & Public Holidays) <br>
 

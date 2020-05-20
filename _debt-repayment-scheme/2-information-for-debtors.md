@@ -38,9 +38,9 @@ The Official Assignee does not file bankruptcy applications in the High Court an
 **5. What happens when I am referred to the Insolvency Office by the Court after hearing the bankruptcy application?**<br>
 At the hearing of the bankruptcy application, the Court may adjourn the matter for up to 6 months to enable the OA to assess your suitability for the DRS.<br>
 
-You will receive a notice from the Insolvency Office informing you to view the Introductory Video on the DRS. If you fulfil the eligibility criteria set out in the video and are keen to proceed with the DRS assessment, you must file your documents online. If you need assistance in the submission of your documents, you may approach the e-service helpers located at the OneMinLaw Centre. OneMinLaw Centre is located at:<br>
+You will receive a notice from the Insolvency Office informing you to view the Introductory Video on the DRS. If you fulfil the eligibility criteria set out in the video and are keen to proceed with the DRS assessment, you must file your documents online. If you need assistance in the submission of your documents, you may approach the e-service helpers located at the MinLaw Services Centre. MinLaw Services Centre is located at:<br>
 
-OneMinLaw Centre<br>
+MinLaw Services Centre<br>
 The URA Centre (East Wing)<br>
 45 Maxwell Road<br>
 #07-11<br>
@@ -77,11 +77,11 @@ Once you have made the first payments, the OA will inform you, the Court and you
 **9. How do I continue to pay for my monthly instalments and/or bonus?**<br>
 There are 3 payment methods:<br>
 
-(a)    Payment using any Self-service Automated Machine [(SAM)](/files/GuidetoUsingSAM(PrelimFee).pdf)(1.08MB);<br>
+(a)   Payment using any Self-service Automated Machine [(SAM)](/files/GuidetoUsingSAM(PrelimFee).pdf)(1.08MB);<br>
 
-(b)   Payment at SingPost outlets (for Cash Payments); and<br>
+(b)   Payment at SingPost counters (for Cash Payments); and<br>
 
-(c)    Payment using the Cash Deposit Machine at Ministry of Law Services Centre<br>
+(c)   Payment using SAM Online.<br>
 
 Please provide your DRS Case Number (e.g. D00XXXX-2015) and the nature of the payment (e.g. instalment or bonus payment).<br>
 
