@@ -77,11 +77,11 @@ Once you have made the first payments, the OA will inform you, the Court and you
 **9. How do I continue to pay for my monthly instalments and/or bonus?**<br>
 There are 3 payment methods:<br>
 
-(a)    Payment using any Self-service Automated Machine [(SAM)](/files/GuidetoUsingSAM(PrelimFee).pdf)(1.08MB);<br>
+(a)   Payment using any Self-service Automated Machine [(SAM)](/files/GuidetoUsingSAM(PrelimFee).pdf)(1.08MB);<br>
 
 (b)   Payment at SingPost outlets (for Cash Payments); and<br>
 
-(c)    Payment using the Cash Deposit Machine at Ministry of Law Services Centre<br>
+(c)   Payment using SAM Online<br>
 
 Please provide your DRS Case Number (e.g. D00XXXX-2015) and the nature of the payment (e.g. instalment or bonus payment).<br>
 
