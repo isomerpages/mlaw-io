@@ -6,7 +6,7 @@ breadcrumb: Information For Creditors
 collection_name: corporate-insolvency
 ---
 
-Information for the Creditors of a Company in Liquidation
+Information for Creditors of a Company in Liquidation
 ---
 
 **Information on the status of the liquidation**
