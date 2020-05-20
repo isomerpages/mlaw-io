@@ -79,7 +79,7 @@ There are 3 payment methods:<br>
 
 (a)   Payment using any Self-service Automated Machine [(SAM)](/files/GuidetoUsingSAM(PrelimFee).pdf)(1.08MB);<br>
 
-(b)   Payment at SingPost outlets (for Cash Payments); and<br>
+(b)   Payment at SingPost counters (for Cash Payments); and<br>
 
 (c)   Payment using SAM Online.<br>
 
