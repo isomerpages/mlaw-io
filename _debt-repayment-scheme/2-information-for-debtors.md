@@ -81,7 +81,7 @@ There are 3 payment methods:<br>
 
 (b)   Payment at SingPost outlets (for Cash Payments); and<br>
 
-(c)   Payment using SAM Online<br>
+(c)   Payment using SAM Online.<br>
 
 Please provide your DRS Case Number (e.g. D00XXXX-2015) and the nature of the payment (e.g. instalment or bonus payment).<br>
 
