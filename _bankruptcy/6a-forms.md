@@ -34,7 +34,10 @@ Forms for Administration
 
 [Request to Reduce Monthly Instalment](/files/reduction.pdf/){:target="_blank"} (210KB)
 
-[Indemnity Form](/files/IndemnityForm.pdf/){:target="_blank"} (478KB)<br><br>
+[Indemnity Form](/files/IndemnityForm.pdf/){:target="_blank"} (478KB)<br>
+
+[Application to open a Savings Bank Account Form](/files/BankApplication.pdf/){:target="_blank"} (192KB)<br>
+<br><br>
 **Note**: For the following applications, please submit via the Insolvency Office E-Services Portal by clicking on the "eServices" menu on the task bar above.
 
 a) Application To Buy an HDB Flat
