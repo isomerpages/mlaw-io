@@ -109,8 +109,7 @@ Alternatively, you may visit us at our website at [www.mlaw.gov.sg](https://www.
  
 
 <b>13. How can I find out who is the Trustee for the bankrupt if it is not the Official Assignee?</b> <br>
-You may find the information in the link below. <br>
-[Appointed Trustees under Differentiatied Discharge Framework](/files/BankruptcyCases-wef1Aug2016-&AppointedTrustees-Updatedasat3June2019.pdf) (1.39MB)<br>
+You may conduct an Insolvency Search at https://eservices/mlaw.gov.sg/io/ to obtain the details of the Trustee. Please note that a fee of S$6.00 is payable for each search result.<br>
 
 <b>14. Other Suggested readings</b> <br>
 [Information for bankrupts](/bankruptcy/information-for-bankrupts/) <br>
