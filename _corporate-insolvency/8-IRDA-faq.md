@@ -25,6 +25,7 @@ Pursuant to rule 64 of the IRD (Corporate Insolvency and Restructuring) Rules 20
 **4. How do I pay the winding up deposit?**<br>
 
 You may pay the winding up deposit via bank transfer or PayNow to the Official Receiver’s account. Please email FINANCE@mlaw.gov.sg to request for our bank account details and the Deposit Form. <br>
+<br>
 An Official Receipt will be issued via email to you within 4 working days upon receiving the completed Deposit Form. You are required to exhibit the Official Receipt as part of your winding up application.<br>
 
 **5. Will the IRDA provisions apply to a company that is wound up under the Companies Act (Cap. 50) (“CA”)?**<br>
@@ -56,7 +57,9 @@ A list of the changes is summarized in the table below: <br>
   <td>A hardcopy of the statutory declaration is lodged with the OR together with the lodgment fee.</td>
   <td>
 Pursuant to section 161(1) of the IRDA, where the directors of a company have made and lodge with the OR a statutory declaration in the prescribed form, the directors must immediately appoint a licensed insolvency practitioner to be the provisional liquidator. <br>
+<br>
 This statutory declaration must be lodged with the OR via the Insolvency Office E-Services at https://www.eservices.mlaw.gov.sg/io. <br>
+<br>
 Payment of the lodgment fee shall be made online.
 </td>
  </tr>
@@ -66,6 +69,7 @@ Payment of the lodgment fee shall be made online.
 </td>
   <td>The liquidator is not required to send a copy of the said advertisement to the OR.</td>
   <td>Pursuant to section 180(2)(d) of the IRDA, the liquidator must send to the OR a copy of the advertisement on the holding of a final meeting within 7 days after its publication. <br>
+<br>
     The liquidator must submit a copy of the advertisement to the OR via the Insolvency Office E-Services at https://www.eservices.mlaw.gov.sg/io.</td>
  </tr>
  <tr>
@@ -90,6 +94,7 @@ Payment of the lodgment fee shall be made online.
    <td>The liquidator is required to lodge with the OR <b>and</b> Registrar of Companies (“ROC”) the said account and statement within one month after the expiry of a period of <b>6 months</b> after the date of the liquidator’s appointment and every subsequent period of <b>6 months</b>.</td>
   <td>
 Pursuant to section 192(1) of the IRDA, every liquidator must lodge <b>with the OR</b> in the prescribed form and verified by statutory declaration, an account of the liquidator’s receipts and payments and a statement of the position in the winding up within one month after the expiry of <b>12 months</b> after the date of the liquidator’s appointment, every subsequent period of <b>12 months</b>.<br>
+<br>    
 Within <b>7 days</b> after lodging the account and statement with the OR, the liquidator must lodge with the ROC a notice in the prescribed form of the lodgment of that account and statement.</td>
  </tr>
    
@@ -136,6 +141,7 @@ Pursuant to rule 139(1) of the IRD (Corporate Insolvency and Restructuring) Rule
     Pursuant to section 210 of the IRDA, a liquidator may apply to the OR for an early dissolution of a company in cases where the liquidator has reasonable cause to believe that: <br>
     a) the realisable assets of the company are insufficient to cover the expenses of the winding up; and<br>
     b) the affairs of the company do not require any further investigation.<br>
+ <br>
   All applications shall be sent to the OR via the online enquiry form on our website at https://eservices.mlaw.gov.sg/enquiry/
   </td>
  </tr>   
@@ -151,7 +157,8 @@ Yes, the following new e-services are introduced to support the filing requireme
 5) Director’s Statutory Declaration on Company’s Inability to Continue Business by Reason of its Liabilities (VW Case)<br>
 6) Advertisement on Holding of a Final Meeting (Voluntary Winding Up) (VW Case) <br>
 7) Appointment as Scheme Manager (SA Case) <br>
-You may access these eServices at https://eservice.mlaw.sg.sg from 30 June 2020 onwards.<br>
+
+You may access these eServices at https://eservice.mlaw.sg.sg from 30 July 2020 onwards.<br>
 
 **10. Are any of the new eServices available for use by companies that are wound up under the Companies Act (Cap. 50) (“CA”)?**<br>
 
