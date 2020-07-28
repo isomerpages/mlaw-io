@@ -97,4 +97,29 @@ Within <b>7 days</b> after lodging the account and statement with the OR, the li
 
 **Compulsory Winding Up**<br>
 
-
+<table>
+<tr>
+  <td>Subject Matter</td>
+  <td>Requirements under Companies Act</td>
+  <td>Requirements under IRDA</td>
+ </tr>
+ <tr>
+  <td>Circumstances in which a company may be wound up by Court</td>
+   <td>The threshold for indebtedness is $10,000.</td>
+  <td>
+Pursuant to section 125(2)(a) of the IRDA, the threshold for indebtedness has been increased from $10,000 to <b>$15,000</b>.</td>
+ </tr>
+<tr>
+  <td>Deposit to Official Receiver</td>
+   <td>The applicant places the prescribed sum with the OR after a winding up application has been filed.</td>
+  <td>
+Pursuant to rule 64 of the IRD (Corporate Insolvency and Restructuring) Rules 2020, before filing a winding up application in respect of a company, the applicant must make payment of the prescribed sum to the OR.</td>
+ </tr>   
+<tr>
+  <td>Special Bank Account for Liquidator</td>
+   <td>The said application can only be made by the committee of inspection.</td>
+  <td>
+Pursuant to rule 139(1) of the IRD (Corporate Insolvency and Restructuring) Rules 2020, where no committee of inspection has been appointed in respect of a company that is being wound up by the Court, the Court may, upon the application of the liquidator of the company, authorise the liquidator to make payments received by the liquidator in the course of the winding up into a special bank account.</td>
+ </tr>   
+  
+</table><br>
