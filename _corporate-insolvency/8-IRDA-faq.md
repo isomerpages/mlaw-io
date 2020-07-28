@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: IRDA FAQ
-permalink: /corporate-insolvency/COVID-19-FAQ/
+permalink: /corporate-insolvency/IRDA-FAQ/
 breadcrumb: IRDA FAQ
 collection_name: corporate-insolvency
 ---
