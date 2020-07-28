@@ -121,5 +121,45 @@ Pursuant to rule 64 of the IRD (Corporate Insolvency and Restructuring) Rules 20
   <td>
 Pursuant to rule 139(1) of the IRD (Corporate Insolvency and Restructuring) Rules 2020, where no committee of inspection has been appointed in respect of a company that is being wound up by the Court, the Court may, upon the application of the liquidator of the company, authorise the liquidator to make payments received by the liquidator in the course of the winding up into a special bank account.</td>
  </tr>   
-  
+<tr>
+  <td>Bills of costs, charges or expenses</td>
+   <td>The Bills of costs, charges or expenses are required to be taxed before they can be paid.</td>
+  <td>
+    The Bills of costs, charges or expenses are <b>not</b> required to be taxed if such costs, charges or expenses: <br>
+    a) do not exceed the sum of $10,000; or <br>
+    b) exceed the sum of $10,000 but do not exceed the sum of $100,000 and have been approved for payment by the committee of inspection in question.</td>
+ </tr> 
+<tr>
+  <td>Early Dissolution of a Company administered by the Liquidator</td>
+   <td>This option is not available under CA.</td>
+  <td>
+    Pursuant to section 210 of the IRDA, a liquidator may apply to the OR for an early dissolution of a company in cases where the liquidator has reasonable cause to believe that: <br>
+    a) the realisable assets of the company are insufficient to cover the expenses of the winding up; and<br>
+    b) the affairs of the company do not require any further investigation.<br>
+  All applications shall be sent to the OR via the online enquiry form on our website at https://eservices.mlaw.gov.sg/enquiry/
+  </td>
+ </tr>   
 </table><br>
+
+**9. Are there any new eServices introduced to support the filing requirements under the IRDA?**<br>
+
+Yes, the following new e-services are introduced to support the filing requirements under the IRDA: <br>
+1) Statement of Concurrence (CW Case) <br>
+2) Preliminary Report by Liquidator (CW Case) <br>
+3) Unclaimed assets to be paid to the OR (CW/VW Case) <br>
+4) Liquidator’s Accounts (CW Case) <br>
+5) Director’s Statutory Declaration on Company’s Inability to Continue Business by Reason of its Liabilities (VW Case)<br>
+6) Advertisement on Holding of a Final Meeting (Voluntary Winding Up) (VW Case) <br>
+7) Appointment as Scheme Manager (SA Case) <br>
+You may access these eServices at https://eservice.mlaw.sg.sg from 30 June 2020 onwards.<br>
+
+**10. Are any of the new eServices available for use by companies that are wound up under the Companies Act (Cap. 50) (“CA”)?**<br>
+
+Liquidators may use the following new e-services for companies that are wound up under CA: <br>
+1) Statement of Concurrence (CW Case) <br>
+2) Preliminary Report by Liquidator (CW Case) <br>
+3) Unclaimed assets to be paid to the OR (CW/VW Case) <br>
+
+**11. Where can I download a copy of the IRDA-related statutory forms?**<br>
+
+The new forms are available for download at https://io.mlaw.gov.sg/corporate-insolvency/forms/ from 30 July 2020 onwards. <br>
