@@ -45,3 +45,34 @@ A list of the changes is summarized in the table below: <br>
 
 Voluntary Winding Up<br>
 
+<table>
+<tr>
+  <td>Subject Matter</td>
+  <td>Requirements under Companies Act</td>
+  <td>Requirements under IRDA</td>
+ </tr>
+ <tr>
+  <td>Director’s Statutory Declaration on Company’s Inability to Continue Business by Reason of its Liabilities</td>
+  <td>A hardcopy of the statutory declaration is lodged with the OR together with the lodgment fee.</td>
+  <td>
+Pursuant to section 161(1) of the IRDA, where the directors of a company have made and lodge with the OR a statutory declaration in the prescribed form, the directors must immediately appoint a licensed insolvency practitioner to be the provisional liquidator. <br>
+This statutory declaration must be lodged with the OR via the Insolvency Office E-Services at https://www.eservices.mlaw.gov.sg/io. <br>
+Payment of the lodgment fee shall be made online.
+</td>
+ </tr>
+ <tr>
+  <td>Advertisement on Holding of a Final Meeting <br>
+    (Voluntary Winding Up)
+</td>
+  <td>The liquidator is not required to send a copy of the said advertisement to the OR.</td>
+  <td>Pursuant to section 180(2)(d) of the IRDA, the liquidator must send to the OR a copy of the advertisement on the holding of a final meeting within 7 days after its publication. <br>
+    The liquidator must submit a copy of the advertisement to the OR via the Insolvency Office E-Services at https://www.eservices.mlaw.gov.sg/io.</td>
+ </tr>
+ <tr>
+  <td>Advertisement on Holding of a Final Meeting (Voluntary Winding Up) <br>(Cont’d) </td>
+  <td>Pursuant to section 308(2) of the CA, after a declaration is made by the liquidator and filed with the OR that neither at the date of commencement of the winding up nor since that date has the company had trade creditors, the advertisement need only be published in a newspaper. </td>
+ <td>This declaration is no longer required under the IRDA.
+</td>
+</tr>
+  
+</table><br>
