@@ -16,21 +16,18 @@ Forms - Insolvency, Restructuring and Dissolution Act (wef 30 July 2020)
 
 **Insolvency, Restructuring and Dissolution (Bankruptcy) Regulations 2020**<BR>
 <table>
-<tr>
-  <td>S/N</td>
-  <td>Insolvency, Restructuring and Dissolution (Voluntary Arrangements) Regulations 2020</td>
-  <td>Insolvency, Restructuring and Dissolution (Bankruptcy) Regulations 2020</td>
- </tr>
  <tr>
   <td>1</td>
-  <td>Form VA-1 – Statement of Affairs Form</td>
+  <td>**Insolvency, Restructuring and Dissolution (Voluntary Arrangements) Regulations 2020**<br><br>
+    Form VA-1 – Statement of Affairs Form</td>
   <td>
    
   [Form VA-1 – Statement of Affairs Form](/files/FormVA-1–StatementofAffairsForm.PDF/){:target="_blank"} (266KB)</td>
  </tr>
  <tr>
   <td>2</td>
-  <td>Form BR-1 – Notice of Meeting (General Form)<BR>
+  <td>**Insolvency, Restructuring and Dissolution (Bankruptcy) Regulations 2020**<br><br>
+  Form BR-1 – Notice of Meeting (General Form)<BR>
   Form BR-2 – Order of Court for General Meeting of Creditors<BR>
   Form BR-3 – General Proxy Form<BR>
   Form BR-4 – Special Proxy Form<BR>
