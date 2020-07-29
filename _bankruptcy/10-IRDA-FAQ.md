@@ -17,7 +17,7 @@ FAQs ON INDIVIDUAL INSOLVENCY AND DEBT REPAYMENT SCHEME UNDER THE INSOLVENCY, RE
   
    <b>When will the Insolvency, Restructuring and Dissolution Act 2018 (“IRDA”) take effect?</b><br><br>
    The IRDA takes effect on 30 July 2020 and will apply to Bankruptcy Applications filed on or after 30 July 2020. In respect of Bankruptcy Applications filed before 30 July 2020, the relevant provisions under the Bankruptcy Act will continue to apply.
-   </td>
+  </td>
  </tr>
  <tr>
   <td>2</td>
