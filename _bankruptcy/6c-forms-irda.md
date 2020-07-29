@@ -44,7 +44,7 @@ Forms - Insolvency, Restructuring and Dissolution Act (wef 30 July 2020)
   Form BR-17 – Notice to Creditors of Intention to Declare Dividend<BR></td>
   
   <td>
-<a href="/files/FormsBR-1-BR-9,BR11-BR-17.pdf/" target="_blank">Forms BR-1 - BR-9 & BR11 - BR-17</a> (545KB)<br>
+<a href="/files/FormsBR-1-BR-9,BR11-BR-17.pdf/" target="_blank">Forms BR-1 - BR-9 & BR-11 - BR-17</a> (545KB)<br>
 
 <a href="/files/FormBR-10-Trustee'sReport.pdf/" target="_blank">Form BR-10 - Trustee's Report</a> (270KB)<br>
 
