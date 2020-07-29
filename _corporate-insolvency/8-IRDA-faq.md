@@ -42,7 +42,7 @@ You should submit a report to the Official Receiver, detailing the assets realis
 
 **8. What are the changes to the liquidation processes under the IRDA?**<br>
 
-A list of the changes is summarized in the table below: <br>
+A list of the changes is summarised in the table below: <br>
 
 **Voluntary Winding Up**<br>
 
