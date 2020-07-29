@@ -9,6 +9,7 @@ second_nav_title: "Forms"
 
 Forms - Insolvency, Restructuring and Dissolution Act (wef 30 July 2020)
 ---
+
 <table>
  <tr>
   <td>1</td>
@@ -42,10 +43,13 @@ Forms - Insolvency, Restructuring and Dissolution Act (wef 30 July 2020)
   Form BR-15 – Voting Letter<BR>
   Form BR-16 – Notice of Disclaimer<BR>
   Form BR-17 – Notice to Creditors of Intention to Declare Dividend<BR></td>
+  
   <td>
 
 [Forms BR-1 - BR-9 & BR11 - BR-17](/files/FormsBR-1-BR-9,BR11-BR-17.pdf/){:target="_blank"} (545KB)
 
 [Form BR-10 - Trustee's Report](/files/FormBR-10-Trustee'sReport.pdf/){:target="_blank"} (270KB)
 
-[Form BR-10](/files/FormBR-10.xlsx/){:target="_blank"} (11.7KB) </td></tr></table><br>
+[Form BR-10](/files/FormBR-10.xlsx/){:target="_blank"} (11.7KB) </td>
+</tr>
+</table>
