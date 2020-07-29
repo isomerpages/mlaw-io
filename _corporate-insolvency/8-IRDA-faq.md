@@ -38,7 +38,7 @@ No, the existing forms under the CA will still be applicable to companies that a
 
 **7. How do I apply for an early dissolution of a company?**<br>
 
-You should submit a report to the Official Receiver, detailing the assets realised (if any) and a final account summarizing the receipts and payments in the course of administration. The report should also include your assessment on why the realisable assets are insufficient to cover the expenses of liquidation; and whether the affairs of the company require any further investigations.<br>
+You should submit a report to the Official Receiver, detailing the assets realised (if any) and a final account summarising the receipts and payments in the course of administration. The report should also include your assessment on why the realisable assets are insufficient to cover the expenses of liquidation; and whether the affairs of the company require any further investigations.<br>
 
 **8. What are the changes to the liquidation processes under the IRDA?**<br>
 
