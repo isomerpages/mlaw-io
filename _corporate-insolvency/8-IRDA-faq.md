@@ -70,7 +70,7 @@ Payment of the lodgment fee shall be made online.
   <td>The liquidator is not required to send a copy of the said advertisement to the OR.</td>
   <td>Pursuant to section 180(2)(d) of the IRDA, the liquidator must send to the OR a copy of the advertisement on the holding of a final meeting within 7 days after its publication. <br>
 <br>
-    The liquidator must submit a copy of the advertisement to the OR via the Insolvency Office E-Services at <a href="https://eservices.mlaw.gov.sg/io/">https://eservices.mlaw.gov.sg/io/</a>{:target="_blank"}.</td>
+    The liquidator must submit a copy of the advertisement to the OR via the Insolvency Office E-Services at <a href="https://eservices.mlaw.gov.sg/io/">https://eservices.mlaw.gov.sg/io/</a>.</td>
  </tr>
  <tr>
   <td>Advertisement on Holding of a Final Meeting (Voluntary Winding Up) <br>(Cont’d) </td>
@@ -142,7 +142,7 @@ Pursuant to rule 139(1) of the IRD (Corporate Insolvency and Restructuring) Rule
     a) the realisable assets of the company are insufficient to cover the expenses of the winding up; and<br>
     b) the affairs of the company do not require any further investigation.<br>
  <br>
-  All applications shall be sent to the OR via the online enquiry form on our website at <a href=https://eservices.mlaw.gov.sg/enquiry/">https://eservices.mlaw.gov.sg/enquiry/</a>){:target="_blank"}
+  All applications shall be sent to the OR via the online enquiry form on our website at <a href="https://eservices.mlaw.gov.sg/enquiry/">https://eservices.mlaw.gov.sg/enquiry/</a>.
   </td>
  </tr>   
 </table><br>
