@@ -18,7 +18,7 @@ Forms - Insolvency, Restructuring and Dissolution Act (wef 30 July 2020)
     Form VA-1 – Statement of Affairs Form</td>
   <td>
    
-  [Form VA-1 – Statement of Affairs Form](/files/FormVA-1–StatementofAffairsForm.PDF/){:target="_blank"} (266KB)</td>
+  [Form VA-1 – Statement of Affairs Form](/files/FormVA-1-StatementofAffairsForm.pdf/){:target="_blank"} (266KB)</td>
  </tr>
  <tr>
   <td>2</td>
