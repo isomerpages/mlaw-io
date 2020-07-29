@@ -15,7 +15,7 @@ Forms - Insolvency, Restructuring and Dissolution Act (wef 30 July 2020)
   <td>1</td>
   <td>
   
-   **Insolvency, Restructuring and Dissolution (Voluntary Arrangements) Regulations 2020** <br><br>
+   <b>Insolvency, Restructuring and Dissolution (Voluntary Arrangements) Regulations 2020</b> <br><br>
     Form VA-1 – Statement of Affairs Form</td>
   <td>
    
