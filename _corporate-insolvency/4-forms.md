@@ -11,15 +11,15 @@ Forms
 
 **Forms for Winding Up Matters (Insolvency, Restructuring and Dissolution Act 2018)**
 
-1. [Insolvency, Restructuring and Dissolution (Court-Ordered Winding Up) Regulations 2020](/files/Forms%20-%20IRD%20(Court-Ordered%20Winding%20Up)%20Reg%202020.pdf/){:target="_blank"} (714KB)<br>
+1. [Forms for Insolvency, Restructuring and Dissolution (Court-Ordered Winding Up) Regulations 2020](/files/Forms%20-%20IRD%20(Court-Ordered%20Winding%20Up)%20Reg%202020.pdf/){:target="_blank"} (714KB)<br>
 
-2. [Insolvency, Restructuring and Dissolution (Voluntary Winding Up) Regulations 2020](/files/Forms%20-%20IRD%20(Voluntary%20Winding%20Up)%20Reg%202020.pdf/){:target="_blank"} (571KB)<br>
+2. [Forms for Insolvency, Restructuring and Dissolution (Voluntary Winding Up) Regulations 2020](/files/Forms%20-%20IRD%20(Voluntary%20Winding%20Up)%20Reg%202020.pdf/){:target="_blank"} (571KB)<br>
 
-3. [Insolvency, Restructuring and Dissolution (Judicial Management) Regulations 2020](/files/Forms%20-%20IRD%20(Judicial%20Management)%20Reg%202020.pdf/){:target="_blank"} (334KB)<br>
+3. [Forms for Insolvency, Restructuring and Dissolution (Judicial Management) Regulations 2020](/files/Forms%20-%20IRD%20(Judicial%20Management)%20Reg%202020.pdf/){:target="_blank"} (334KB)<br>
 
-4. [Insolvency, Restructuring and Dissolution (Receivership) Regulations 2020](/files/Forms%20-%20IRD%20(Receivership)%20Regs%202020.pdf/){:target="_blank"} (450KB)<br>
+4. [Forms for Insolvency, Restructuring and Dissolution (Receivership) Regulations 2020](/files/Forms%20-%20IRD%20(Receivership)%20Regs%202020.pdf/){:target="_blank"} (450KB)<br>
 
-5. [Insolvency, Restructuring and Dissolution (Insolvency Practitioners) Regulations 2020](/files/Forms%20-%20IRD%20(IP)%20Regs%202020.pdf/){:target="_blank"} (128KB)<br>
+5. [Forms for Insolvency, Restructuring and Dissolution (Insolvency Practitioners) Regulations 2020](/files/Forms%20-%20IRD%20(IP)%20Regs%202020.pdf/){:target="_blank"} (128KB)<br>
 
 6. Statement of Affairs<br>
    (a) [Statement of Affairs and Affidavit (Form CWU-7)](/files/CWU-7%20Statement%20of%20Affairs%20summary_affidavit.docx/){:target="_blank"} (DOCX, 24KB)<br>
