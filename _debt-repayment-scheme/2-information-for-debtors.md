@@ -12,14 +12,14 @@ Information for Debtors
 **1. How do I apply for DRS?**<br>
 It is not possible to sign up or apply for the DRS as it is only initiated when a bankruptcy application is made against you in the High Court (“the Court”), either by yourself or your creditor.<br>
 
-The Court may then refer your case to the Official Assignee (“OA”)  if your total liabilities are below $100,000, for an assessment of your eligibility and suitability for the DRS.<br>
+The Court may then refer your case to the Official Assignee (“OA”)  if your total liabilities do not exceed $150,000, for an assessment of your eligibility and suitability for the DRS.<br>
 
 While the Court refers your case to the OA, there are other criteria that you must meet to determine your suitability for the DRS.<br>
 
 **2. Am I eligible for DRS?**<br>
 You have to fulfil all of the following eligibility criteria:<br>
 
-(a) Total liabilities do not exceed $100,000;<br>
+(a) Total liabilities do not exceed $150,000;<br>
 (b) Gainfully employed and earning a regular income;<br>
 (c) Not been a bankrupt or been on the DRS in the last 5 years;<br>
 (d) Not been subject to a court-based arrangement in the last 5 years; and<br>
@@ -88,7 +88,7 @@ Please provide your DRS Case Number (e.g. D00XXXX-2015) and the nature of the pa
 **10. What are my duties as a debtor on DRS?**<br>
 Once the DRP commences, you are expected to carry out your statutory duties as a debtor under the DRS i.e. adhere to the terms and conditions of the DRP. If you fail to comply with the terms and conditions of your DRP and/ or do not fulfil the duties expected of you, these may be grounds for the OA to issue you with a Certificate of Failure, after which your creditors may commence fresh bankruptcy proceedings against you.<br>
 
-Pursuant to section 56P of the Bankruptcy Act, you are expected to adhere to the following:<br>
+You are expected to adhere to the following:<br>
 
 (a)      Inform your case administrator if there is any change in your contact details, i.e. change in mobile number, address;<br>
 (b)      Inform your case administrator if there is any change in your employment details, i.e. change of employer, increase in salary, payment of bonus(es) and forward the necessary documents (employment contract/salary slip) to your case administrator;<br>
@@ -99,7 +99,7 @@ Pursuant to section 56P of the Bankruptcy Act, you are expected to adhere to the
 (g)      Adhere to the terms and conditions of the approved DRP, including the payment of  regular monthly instalments,  Annual Wage Supplement/bonus, and annual administration fees when required.<br>
 
 **11. Summary of DRS fees and/or charges**<br>
-The fees payable under the Bankruptcy (Debt Repayment Scheme) Rules for assessment and administration of cases are set out below.<br>
+The fees payable under the Insolvency, Restructuring and Dissolution (Official Assignee's Fees) Regulations 2020 for assessment and administration of cases are set out below.<br>
 
 <table>
   <tr>
