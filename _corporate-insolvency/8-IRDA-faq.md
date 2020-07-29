@@ -58,7 +58,7 @@ A list of the changes is summarised in the table below: <br>
   <td>
 Pursuant to section 161(1) of the IRDA, where the directors of a company have made and lodge with the OR a statutory declaration in the prescribed form, the directors must immediately appoint a licensed insolvency practitioner to be the provisional liquidator. <br>
 <br>
-This statutory declaration must be lodged with the OR via the Insolvency Office E-Services at https://www.eservices.mlaw.gov.sg/io. <br>
+This statutory declaration must be lodged with the OR via the Insolvency Office E-Services at [https://www.eservices.mlaw.gov.sg/io](https://www.eservices.mlaw.gov.sg/io). <br>
 <br>
 Payment of the lodgment fee shall be made online.
 </td>
