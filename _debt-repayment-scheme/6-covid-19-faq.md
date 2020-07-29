@@ -26,7 +26,7 @@ It will apply to your case if the bankruptcy application was made on or after 20
 
 The court will refer your case to the Official Assignee for assessment if the debt or the aggregate of the debts in respect of which the bankruptcy application is made ($x) does not exceed $250,000 and the other qualifying criteria are satisfied.<br>
 
-**4.	If the bankruptcy application is made during the prescribed period, will the Official Assignee consider me suitable for the Debt Repayment Scheme if the aggregate of my debts is more than $100,000 but less than $250,000?**<br>
+**4.	If the bankruptcy application is made during the prescribed period, will the Official Assignee consider me suitable for the Debt Repayment Scheme if the aggregate of my debts is more than $150,000 but less than $250,000?**<br>
 
 Subject to you satisfying the other conditions, you will be considered suitable for the Debt Repayment Scheme if the aggregate of your debts does not exceed $250,000.<br>
 
