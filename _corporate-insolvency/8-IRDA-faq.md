@@ -24,7 +24,7 @@ Pursuant to rule 64 of the IRD (Corporate Insolvency and Restructuring) Rules 20
 
 **4. How do I pay the winding up deposit?**<br>
 
-You may pay the winding up deposit via bank transfer or PayNow to the Official Receiver’s account. Please email FINANCE@mlaw.gov.sg to request for our bank account details and the Deposit Form. <br>
+You may pay the winding up deposit via bank transfer or PayNow to the Official Receiver’s account. Please email [FINANCE@mlaw.gov.sg](mailto:FINANCE@mlaw.gov.sg) to request for our bank account details and the Deposit Form. <br>
 <br>
 An Official Receipt will be issued via email to you within 4 working days upon receiving the completed Deposit Form. You are required to exhibit the Official Receipt as part of your winding up application.<br>
 
@@ -38,11 +38,11 @@ No, the existing forms under the CA will still be applicable to companies that a
 
 **7. How do I apply for an early dissolution of a company?**<br>
 
-You should submit a report to the Official Receiver, detailing the assets realised (if any) and a final account summarizing the receipts and payments in the course of administration. The report should also include your assessment on why the realisable assets are insufficient to cover the expenses of liquidation; and whether the affairs of the company require any further investigations.<br>
+You should submit a report to the Official Receiver, detailing the assets realised (if any) and a final account summarising the receipts and payments in the course of administration. The report should also include your assessment on why the realisable assets are insufficient to cover the expenses of liquidation; and whether the affairs of the company require any further investigations.<br>
 
 **8. What are the changes to the liquidation processes under the IRDA?**<br>
 
-A list of the changes is summarized in the table below: <br>
+A list of the changes is summarised in the table below: <br>
 
 **Voluntary Winding Up**<br>
 
@@ -58,7 +58,7 @@ A list of the changes is summarized in the table below: <br>
   <td>
 Pursuant to section 161(1) of the IRDA, where the directors of a company have made and lodge with the OR a statutory declaration in the prescribed form, the directors must immediately appoint a licensed insolvency practitioner to be the provisional liquidator. <br>
 <br>
-This statutory declaration must be lodged with the OR via the Insolvency Office E-Services at https://www.eservices.mlaw.gov.sg/io. <br>
+This statutory declaration must be lodged with the OR via the Insolvency Office e-Services at <a href="https://eservices.mlaw.gov.sg/io/">https://eservices.mlaw.gov.sg/io/</a>. <br>
 <br>
 Payment of the lodgment fee shall be made online.
 </td>
@@ -70,7 +70,7 @@ Payment of the lodgment fee shall be made online.
   <td>The liquidator is not required to send a copy of the said advertisement to the OR.</td>
   <td>Pursuant to section 180(2)(d) of the IRDA, the liquidator must send to the OR a copy of the advertisement on the holding of a final meeting within 7 days after its publication. <br>
 <br>
-    The liquidator must submit a copy of the advertisement to the OR via the Insolvency Office E-Services at https://www.eservices.mlaw.gov.sg/io.</td>
+    The liquidator must submit a copy of the advertisement to the OR via the Insolvency Office e-Services at <a href="https://eservices.mlaw.gov.sg/io/">https://eservices.mlaw.gov.sg/io/</a>.</td>
  </tr>
  <tr>
   <td>Advertisement on Holding of a Final Meeting (Voluntary Winding Up) <br>(Cont’d) </td>
@@ -142,14 +142,14 @@ Pursuant to rule 139(1) of the IRD (Corporate Insolvency and Restructuring) Rule
     a) the realisable assets of the company are insufficient to cover the expenses of the winding up; and<br>
     b) the affairs of the company do not require any further investigation.<br>
  <br>
-  All applications shall be sent to the OR via the online enquiry form on our website at https://eservices.mlaw.gov.sg/enquiry/
+  All applications shall be sent to the OR via the online enquiry form on our website at <a href="https://eservices.mlaw.gov.sg/enquiry/">https://eservices.mlaw.gov.sg/enquiry/</a>.
   </td>
  </tr>   
 </table><br>
 
-**9. Are there any new eServices introduced to support the filing requirements under the IRDA?**<br>
+**9. Are there any new e-Services introduced to support the filing requirements under the IRDA?**<br>
 
-Yes, the following new e-services are introduced to support the filing requirements under the IRDA: <br>
+Yes, the following new e-Services are introduced to support the filing requirements under the IRDA: <br>
 1) Statement of Concurrence (CW Case) <br>
 2) Preliminary Report by Liquidator (CW Case) <br>
 3) Unclaimed assets to be paid to the OR (CW/VW Case) <br>
@@ -158,15 +158,15 @@ Yes, the following new e-services are introduced to support the filing requireme
 6) Advertisement on Holding of a Final Meeting (Voluntary Winding Up) (VW Case) <br>
 7) Appointment as Scheme Manager (SA Case) <br>
 
-You may access these eServices at https://eservice.mlaw.sg.sg from 30 July 2020 onwards.<br>
+You may access these e-Services at [https://eservices.mlaw.gov.sg/io/](https://eservices.mlaw.gov.sg/io/){:target="_blank"} from 30 July 2020.<br>
 
-**10. Are any of the new eServices available for use by companies that are wound up under the Companies Act (Cap. 50) (“CA”)?**<br>
+**10. Are any of the new e-Services available for use by companies that are wound up under the Companies Act (Cap. 50) (“CA”)?**<br>
 
-Liquidators may use the following new e-services for companies that are wound up under CA: <br>
+Liquidators may use the following new e-Services for companies that are wound up under CA: <br>
 1) Statement of Concurrence (CW Case) <br>
 2) Preliminary Report by Liquidator (CW Case) <br>
 3) Unclaimed assets to be paid to the OR (CW/VW Case) <br>
 
 **11. Where can I download a copy of the IRDA-related statutory forms?**<br>
 
-The new forms are available for download at https://io.mlaw.gov.sg/corporate-insolvency/forms/ from 30 July 2020 onwards. <br>
+The new forms are available for download at [https://io.mlaw.gov.sg/corporate-insolvency/forms/](https://io.mlaw.gov.sg/corporate-insolvency/forms/){:target="_blank"} from 30 July 2020. <br>
