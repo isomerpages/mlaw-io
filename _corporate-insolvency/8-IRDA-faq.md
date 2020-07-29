@@ -24,7 +24,7 @@ Pursuant to rule 64 of the IRD (Corporate Insolvency and Restructuring) Rules 20
 
 **4. How do I pay the winding up deposit?**<br>
 
-You may pay the winding up deposit via bank transfer or PayNow to the Official Receiver’s account. Please email FINANCE@mlaw.gov.sg to request for our bank account details and the Deposit Form. <br>
+You may pay the winding up deposit via bank transfer or PayNow to the Official Receiver’s account. Please email [FINANCE@mlaw.gov.sg](mailto:FINANCE@mlaw.gov.sg) to request for our bank account details and the Deposit Form. <br>
 <br>
 An Official Receipt will be issued via email to you within 4 working days upon receiving the completed Deposit Form. You are required to exhibit the Official Receipt as part of your winding up application.<br>
 
