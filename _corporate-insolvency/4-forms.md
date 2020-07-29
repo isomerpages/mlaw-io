@@ -13,15 +13,14 @@ Forms
 
 [Proof of Debt (Form 77)](/files/linkclick1664.doc/){:target="_blank"} (DOC, 65KB)<br>
 <br>
-*Statement of Affairs*<br>
-1. [Statement of Affairs and Affidavit (Forms 61A and 62A)](/files/linkclickfbe0.doc/){:target="_blank"} (DOC, 107KB)<br>
-2. [Statement of Affairs - Schedule A to L](/files/Schedule_A_L.xls/){:target="_blank"} (XLS, 204KB)<br>
-3. [Statement of Affairs - Explanatory notes](/files/linkclick99f4.pdf/){:target="_blank"} (49KB)<br>
-
 [Unclaimed Monies Payable to Companies Liquidation Account (Form 76)](/files/UnclaimedMoniespayabletoCompaniesLiquidationAccountForm76.pdf/){:target="_blank"} (46KB)<br>
-
+<br>
 [Account of Receipts and Payments and Statement of Position in the Winding Up](/files/Acountofreceipts&payments.pdf/){:target="_blank"}(18KB)<br>
-
+<br>
+*Statement of Affairs*<br>
+(a) [Statement of Affairs and Affidavit (Forms 61A and 62A)](/files/linkclickfbe0.doc/){:target="_blank"} (DOC, 107KB)<br>
+(b) [Schedules](/files/Schedule_A_L.xls/){:target="_blank"} (XLS, 204KB)<br>
+(c) [Explanatory notes](/files/linkclick99f4.pdf/){:target="_blank"} (49KB)<br>
 
 **Forms for Winding Up Matters (Insolvency, Restructuring and Dissolution Act)**
 
@@ -36,9 +35,9 @@ Forms
 [Forms for Insolvency, Restructuring and Dissolution (Insolvency Practitioners) Regulations 2020](/files/Forms%20-%20IRD%20(IP)%20Regs%202020.pdf/){:target="_blank"} (128KB)<br>
 <br>
 *Statement of Affairs*<br>
-1. [Statement of Affairs and Affidavit (Form CWU-7)](/files/CWU-7%20Statement%20of%20Affairs%20summary_affidavit.docx/){:target="_blank"} (DOCX, 24KB)<br>
-2. [Statement of Affairs - Schedules](/files/CWU-7%20SA%20schedules.xlsx/){:target="_blank"} (XLSX, 76KB)<br>
-3. [Statement of Affairs - Explanatory notes](/files/CWU-7%20SA%20explanatory%20notes.pdf/){:target="_blank"} (44KB)<br>
+(a) [Statement of Affairs and Affidavit (Form CWU-7)](/files/CWU-7%20Statement%20of%20Affairs%20summary_affidavit.docx/){:target="_blank"} (DOCX, 24KB)<br>
+(b) [Schedules](/files/CWU-7%20SA%20schedules.xlsx/){:target="_blank"} (XLSX, 76KB)<br>
+(c) [Explanatory notes](/files/CWU-7%20SA%20explanatory%20notes.pdf/){:target="_blank"} (44KB)<br>
 
 
 **Forms for Defunct Company Matters**
