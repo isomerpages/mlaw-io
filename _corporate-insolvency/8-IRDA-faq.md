@@ -158,7 +158,7 @@ Yes, the following new e-Services are introduced to support the filing requireme
 6) Advertisement on Holding of a Final Meeting (Voluntary Winding Up) (VW Case) <br>
 7) Appointment as Scheme Manager (SA Case) <br>
 
-You may access these e-Services at https://eservices.mlaw.sg.sg from 30 July 2020 onwards.<br>
+You may access these e-Services at https://eservices.mlaw.gov.sg from 30 July 2020 onwards.<br>
 
 **10. Are any of the new e-Services available for use by companies that are wound up under the Companies Act (Cap. 50) (“CA”)?**<br>
 
