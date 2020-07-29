@@ -147,9 +147,9 @@ Pursuant to rule 139(1) of the IRD (Corporate Insolvency and Restructuring) Rule
  </tr>   
 </table><br>
 
-**9. Are there any new eServices introduced to support the filing requirements under the IRDA?**<br>
+**9. Are there any new e-Services introduced to support the filing requirements under the IRDA?**<br>
 
-Yes, the following new e-services are introduced to support the filing requirements under the IRDA: <br>
+Yes, the following new e-Services are introduced to support the filing requirements under the IRDA: <br>
 1) Statement of Concurrence (CW Case) <br>
 2) Preliminary Report by Liquidator (CW Case) <br>
 3) Unclaimed assets to be paid to the OR (CW/VW Case) <br>
@@ -158,11 +158,11 @@ Yes, the following new e-services are introduced to support the filing requireme
 6) Advertisement on Holding of a Final Meeting (Voluntary Winding Up) (VW Case) <br>
 7) Appointment as Scheme Manager (SA Case) <br>
 
-You may access these eServices at https://eservice.mlaw.sg.sg from 30 July 2020 onwards.<br>
+You may access these e-Services at https://eservices.mlaw.sg.sg from 30 July 2020 onwards.<br>
 
-**10. Are any of the new eServices available for use by companies that are wound up under the Companies Act (Cap. 50) (“CA”)?**<br>
+**10. Are any of the new e-Services available for use by companies that are wound up under the Companies Act (Cap. 50) (“CA”)?**<br>
 
-Liquidators may use the following new e-services for companies that are wound up under CA: <br>
+Liquidators may use the following new e-Services for companies that are wound up under CA: <br>
 1) Statement of Concurrence (CW Case) <br>
 2) Preliminary Report by Liquidator (CW Case) <br>
 3) Unclaimed assets to be paid to the OR (CW/VW Case) <br>
