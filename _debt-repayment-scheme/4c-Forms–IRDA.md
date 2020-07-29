@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Forms - Bankruptcy Act
-permalink: /debt-repayment-scheme/forms-IRDA/
+permalink: /debt-repayment-scheme/Forms-IRDA/
 breadcrumb: Forms
 collection_name: debt-repayment-scheme
 second_nav_title: "Forms"
