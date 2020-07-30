@@ -13,6 +13,9 @@ Practice Circulars
 
 <ul>
 <li>
+    <a href="/files/OR%20Practice%20Circular%202%20of%202020.pdf/" target="_blank">The Official Receiver Practice Circular No. 2 of 2020  Implementation of Insolvency, Restructuring and Dissolution Act 2018</a> (93 KB)
+  </li><br>
+  <li>
     <a href="/files/OAORPC1of2020.pdf/" target="_blank">OA / OR  Practice Circular No. 1 of 2020  Safe Distancing Measures for Meetings</a> (30 KB)
   </li><br>
   <li><a href="/files/ORPracticeCircular2of2018.pdf/" target="_blank">The Official Receiver Practice Circular No. 2 of 2018 Administration of Compulsory Winding Up Cases/ Companies (Winding Up) Rules</a>(108 KB)</li><br>
