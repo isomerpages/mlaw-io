@@ -34,7 +34,7 @@ Forms - Insolvency, Restructuring and Dissolution Act (wef 30 July 2020)
   Form BR-7 – Notice of Determination of Monthly Contribution and Target Contribution<BR>
   Form BR-8 – Explanation of Monthly Contribution and Target Contribution<BR>
   Form BR-9 – Certificate of Reduction of Monthly Contribution and Target Contribution<BR>
-  Form BR-10 – Trustee’s Report (PDF and Excel files to be uploaded)<BR>
+  Form BR-10 – Trustee’s Report<BR>
   Form BR-11 – Notice of Rejection of Proof of Debt<BR>
   Form BR-12 – Notice of Confirmation / Notice of Revocation on Rejection of Proof of Debt<BR>
   Form BR-13 – Proposal for a Composition<BR>
