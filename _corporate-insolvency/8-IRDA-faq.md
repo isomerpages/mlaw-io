@@ -58,7 +58,7 @@ A list of the changes is summarised in the table below: <br>
   <td>
 Pursuant to section 161(1) of the IRDA, where the directors of a company have made and lodge with the OR a statutory declaration in the prescribed form, the directors must immediately appoint a licensed insolvency practitioner to be the provisional liquidator. <br>
 <br>
-This statutory declaration must be lodged with the OR via the Insolvency Office e-Services at <a href="https://eservices.mlaw.gov.sg/io/">https://eservices.mlaw.gov.sg/io/</a>. <br>
+This statutory declaration must be lodged with the OR via the Insolvency Office e-Services at <a href="https://eservices.mlaw.gov.sg/io/">https://eservices.mlaw.gov.sg/io/</a> under "Corporate Insolvency/ Submission of Supporting Documents" in the e-Service.<br>
 <br>
 Payment of the lodgment fee shall be made online.
 </td>
@@ -70,7 +70,7 @@ Payment of the lodgment fee shall be made online.
   <td>The liquidator is not required to send a copy of the said advertisement to the OR.</td>
   <td>Pursuant to section 180(2)(d) of the IRDA, the liquidator must send to the OR a copy of the advertisement on the holding of a final meeting within 7 days after its publication. <br>
 <br>
-    The liquidator must submit a copy of the advertisement to the OR via the Insolvency Office e-Services at <a href="https://eservices.mlaw.gov.sg/io/">https://eservices.mlaw.gov.sg/io/</a>.</td>
+    The liquidator must submit a copy of the advertisement to the OR via the Insolvency Office e-Services at <a href="https://eservices.mlaw.gov.sg/io/">https://eservices.mlaw.gov.sg/io/</a> under "Corporate Insolvency/ Submission of Supporting Documents" in the e-Service.</td>
  </tr>
  <tr>
   <td>Advertisement on Holding of a Final Meeting (Voluntary Winding Up) <br>(Cont’d) </td>
@@ -158,7 +158,7 @@ Yes, the following new e-Services are introduced to support the filing requireme
 6) Advertisement on Holding of a Final Meeting (Voluntary Winding Up) (VW Case) <br>
 7) Appointment as Scheme Manager (SA Case) <br>
 
-You may access these e-Services at [https://eservices.mlaw.gov.sg/io/](https://eservices.mlaw.gov.sg/io/){:target="_blank"} from 30 July 2020.<br>
+You may access these e-Services at [https://eservices.mlaw.gov.sg/io/](https://eservices.mlaw.gov.sg/io/){:target="_blank"} under "Corporate Insolvency/ Submission of Supporting Documents" in the e-Service from 30 July 2020.<br>
 
 **10. Are any of the new e-Services available for use by companies that are wound up under the Companies Act (Cap. 50) (“CA”)?**<br>
 
