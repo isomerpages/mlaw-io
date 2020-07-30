@@ -28,9 +28,9 @@ To assist us with the assessment of your claim, you need to provide us with a st
 Please refer to the [Checklist to Creditors](/debt-repayment-scheme/forms/) for more details on supporting documents.
 
 **4.	When will I receive dividend payments from the OA?**<br>
-Pursuant to section 56J(2) of the Bankruptcy Act, the OA may only declare and distribute dividends to creditors who have proven their debts by filing a claim against a debtor. If you have yet to file your Proof of Debt, you will be excluded from any dividends that are distributed.<br>
+The OA may only declare and distribute dividends to creditors who have proven their debts by filing a claim against a debtor. If you have yet to file your Proof of Debt, you will be excluded from any dividends that are distributed.<br>
 
-Dividends declared in this respect are made on a quarterly or half-yearly basis.
+Dividends declared in this respect are made on a half-yearly basis.
 
 **5.	May I appeal if I disagree with the Debt Repayment Plan (“DRP”) that the OA has approved?**<br>
 If you disagree with the DRP, you may file a Notice of Appeal with the Appeal Panel. This notice must be received no later than 14 days from the date of notice of the OA’s decision on the approved DRP (or Notice of Commencement of DRP). An Appeal Fee of $100 is chargeable upon each application.
@@ -39,7 +39,7 @@ If you disagree with the DRP, you may file a Notice of Appeal with the Appeal Pa
 In the event that there are third party payments made towards the debt owed to you, please inform the case administrator immediately.
 
 **7.	Is there any fee payable by creditors under the DRS?**<br>
-**Pursuant to Bankruptcy (Debt Repayment Scheme) Rules, the following fees are payable by creditors:**<br>
+**Pursuant to Insolvency, Restructuring and Dissolution (Official Assignee's Fees) Regulations 2020, the following fees are payable by creditors:**<br>
 
 <table>
   <tr>
