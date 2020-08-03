@@ -46,7 +46,7 @@ Forms - Bankruptcy Rules (wef 1 August 2016)
 
 [Form 15A (for bankrupts) Notice of Determination of Monthly Contribution and Target Contribution](/files/Form15Afor bankruptsNoticeofDeterminationofMonthlyContributionandTargetContribution.docx/){:target="_blank"} (DOC, 31KB)
 
-[Form 15A (for creditors) Notice of Determination of Monthly Contribution and Target Contribution](/files/Form15Afor creditorsNoticeofDeterminationofMonthlyContributionandTargetContribution.docx/){:target="_blank"} (DOC, 29KB)
+[Form 15A (for creditors) Notice of Determination of Monthly Contribution and Target Contribution](/files/Form15A-creditors.docx/){:target="_blank"} (DOC, 29KB)
 
 [Form 15B Explanation of Basis of Determination of Monthly Contribution and Target Contribution](/files/Form15B.docx/){:target="_blank"} (DOC, 18KB)
 
