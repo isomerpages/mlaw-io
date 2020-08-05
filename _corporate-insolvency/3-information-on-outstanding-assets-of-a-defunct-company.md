@@ -12,9 +12,9 @@ Information on Outstanding Assets of a Defunct Company
 A company becomes defunct after it is either dissolved or struck off from the Register by the Accounting and Corporate Regulatory Authority.
 
 **What is the role of the Official Receiver?**<br>
-Where there are outstanding assets belonging to a defunct company, these are vested in the Official Receiver under section 346 of the Companies Act (Cap. 50). The Official Receiver will then act as a representative of the defunct company to administer these assets under sections 345 to 347 of the Companies Act (Cap. 50).
+Where there are outstanding assets belonging to a defunct company, these are vested in the Official Receiver under section 213 of the Insolvency, Restructuring and Dissolution Act 2018. The Official Receiver will then act as a representative of the defunct company to administer and/or dispose these assets under sections 212 and 216 of the Insolvency, Restructuring and Dissolution Act 2018.
 
-The Official Receiver may also represent the company, if it is proven to her satisfaction under section 345(1) of the Companies Act (Cap. 50) that:
+The Official Receiver may represent the company, if it is proven to her satisfaction under section 212(1) of the Insolvency, Restructuring and Dissolution Act 2018 that:
 
 (i) the company, if still existing, would be legally or equitably bound to carry out, complete or give effect to some  dealing, transaction or matter; and
 
@@ -52,13 +52,15 @@ You may lay your claim as a shareholder or a creditor of the defunct company:<br
 (vi) Any other documents to support the application.<br>
 
 2) <u>Where the Applicant is a Creditor</u><br>
-Proof-of-Debt (Form 77) with the relevant supporting documents to substantiate the claim.<br>
+Proof of debt form with the relevant supporting documents to substantiate the claim.<br>
 
 3) <u>Where the Applicant is a Shareholder</u><br>
 Documents evidencing that there is no outstanding debt or liability owing by the Defunct Company that is payable now or in the future.
 
 For more information, please refer to the attached instructions (click [here](/files/GuidelinestoLayClaimsforDFCases.pdf/)(319 KB)).<br>
 
+**What if I have assets belonging to a defunct company that I need the Official Receiver to administer?**<br>
+Plaese write in to the Official Receiver via https://eservices.mlaw.gov.sg/enquiry/ with full details of the assets and all relevant supporting documents. Please state any other instructions or information relevant to the administration, disposal or transfer of the assets.<br> 
 
 **What are the charges of the Official Receiver?**<br>
 The fees chargeable by the Official Receiver are stipulated in the Schedule under the Fees (Winding up and Dissolution of Companies and Other Bodies) Order 2005:<br>
