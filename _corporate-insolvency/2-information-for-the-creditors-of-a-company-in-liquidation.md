@@ -21,7 +21,7 @@ Where a private liquidator has been appointed, creditors and contributories may 
 
 **Filing a claim or a Proof of Debt**
 
-Creditors may file their Proofs of Debt (Form 77) with the liquidator once the company is in liquidation.   
+Creditors may file their Proofs of Debt with the liquidator once the company is in liquidation.   
 
 Where the Official Receiver has been appointed as the liquidator of the wound up company, she will inform creditors when there are sufficient funds to declare a dividend. A “Notice to file Proof of Debt” will be sent to all creditors who have not filed their claims against the company but were disclosed in the Statement of Affairs. 
 
@@ -38,11 +38,11 @@ The appellant is required to furnish additional evidence to the liquidator for f
 **How are the assets distributed?**<br>
 Moneys recovered by the Official Receiver will be first utilised towards payment of costs and expenses incurred in the liquidation.
 
-Any remaining funds will be used to pay the creditors in accordance with their ranking as set out in section 328 of the Companies Act (Cap. 50):<br>
+Any remaining funds will be used to pay the creditors in accordance with their ranking as set out in section 203 of the Insolvency, Restructuring and Dissolution Act 2018:<br>
 
 <ul>
   <li><b>Preferential Creditors</b><br>
-    Those who are entitled to receive payments in priority, such as employees, CPF Board, Comptroller of Income Tax (see section 328 of the Companies Act (Cap. 50)).
+    Those who are entitled to receive payments in priority, such as employees, CPF Board, Comptroller of Income Tax (see section 203 of the Insolvency, Restructuring and Dissolution Act 2018).
   </li>
   <li><b>Ordinary Creditors </b><br>
     Any other unsecured creditors, such as trade creditors and sundry creditors who have filed their claims against the company.
@@ -55,14 +55,13 @@ Creditors will receive a “Notice to Creditors and Contributories of Intention 
 
 Any objection to the liquidator's application for Release or Striking Off must be raised within 21 days from the date of the Notice.<br>
 
-**How do I file a Proof of Debt (Form 77)?**<br>
-Where the Official Receiver is appointed as the liquidator of the wound up company, creditors can file their Proof of Debt, manually or electronically, to the Official Receiver's office:<br>
+**How do I file a Proof of Debt**<br>
+Where the Official Receiver is appointed as the liquidator of the wound up company, creditors can file their Proof of Debt to the Official Receiver's office:<br>
 <ul>
  <li>For online submission, a filing fee of $5.00 is payable. Please click <a href="https://www.mlaw.gov.sg/eservices/io/" target="_blank">here</a> to submit the Form 77 electronically.</li>
-  <li>For manual submission, a filing fee of S$8.00 is payable via SAM machine or SAM online. To download the Form 77, please click <a href="/corporate-insolvency/forms/" target="_blank">here</a>.</li>
-</ul>
+  </ul>
 
-Please submit the supporting documents such as invoices and judgements to the Official Receiver. Please quote the e-filing number (for electronic submission of Form 77) and the winding up number of the company when submitting the supporting documents to the Official Receiver. Proofs of Debt without any supporting documents may be rejected.
+Please submit the supporting documents such as invoices and judgements to the Official Receiver.  Proofs of Debt without any supporting documents may be rejected.
 
 In the event that private liquidators have been appointed as the liquidators of the wound up company, please contact them directly for the filing of the Form 77.<br>
 
