@@ -28,7 +28,7 @@ Where the Official Receiver has been appointed as the liquidator of the wound up
 Creditors who fail to lodge their claims within 14 days from the date of the Notice will be excluded from the dividend payment.<br>
 
 **How do I file a Proof of Debt**<br>
-Where the Official Receiver is appointed as the liquidator of the wound up company, creditors can file their Proof of Debt to the Official Receiver's office. For online submission, a filing fee of $5.00 is payable. Please click <a href="https://www.mlaw.gov.sg/eservices/io/" target="_blank">here</a> to submit the Form 77 electronically.<br>
+Where the Official Receiver is appointed as the liquidator of the wound up company, creditors can file their Proof of Debt to the Official Receiver's office. For online submission, a filing fee of $5.00 is payable. Please click <a href="https://www.mlaw.gov.sg/eservices/io/" target="_blank">here</a> to submit the proof of debt form electronically.<br>
 
 Please attach the supporting documents, such as invoices and judgements, in your online submission to the Official Receiver.  Proofs of Debt without any supporting documents may be rejected.
 
