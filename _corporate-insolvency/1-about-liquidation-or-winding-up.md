@@ -12,8 +12,8 @@ About Liquidation or Winding Up
 
 **Overview**<br>
 
-Liquidation is a process where the company’s assets are seized and realised, with the resulting proceeds used to pay off its debts and liabilities.
- 
+Liquidation is a process where the company’s assets are seized and realised, with the resulting proceeds used to pay off its debts and liabilities. *The information below, unless otherwise stated, is largely applicable to  the liquidation of a limited liability partnership.* <br>
+
 Any surplus is then distributed among the contributories of the company according to their rights and interests, or otherwise dealt with as the constitution of the company directs.
 
 Upon the completion of the liquidation, the company goes into dissolution and it ceases to exist.
@@ -26,7 +26,7 @@ The purposes of a liquidation are:
 
 **Just distribution of assets**<br>
 
-When a company is being wound up, the company’s business ceases to operate and its assets and affairs are handed over to an independent liquidator whose powers, duties and functions are regulated by the Companies Act (Cap 50).
+When a company is being wound up, the company’s business ceases to operate and its assets and affairs are handed over to an independent liquidator whose powers, duties and functions are regulated by the Insolvency, Restructuring and Dissolution Act 2018.
 
 The rights of unsecured creditors over the company's assets are virtually "frozen" upon the commencement of the liquidation to avoid a further deterioration of the company's financial position and proliferation of its liabilities.
 
@@ -44,32 +44,32 @@ Unsecured creditors are paid on a *pari passu* basis, i.e. they are paid out of 
 
 **What are the various types of winding up?**<br>
 
-**Members' voluntary winding up**<br>
+**1. Members' voluntary winding up**<br>
 
 The company’s contributories (also known as members or shareholders) may pass a resolution that the company be wound up and that a liquidator be appointed.
 
 The liquidation commences at the time of passing the resolution. It is adopted where the company is able to pay its debts in full within 12 months after the commencement of winding up. The directors of the Company are required to file a declaration of solvency.
 
-**Creditors' voluntary winding up**
+**2. Creditors' voluntary winding up**
 
 If the company is not able to meet its liabilities, the company can convene a meeting with its creditors to consider its proposal for a voluntary winding up of the company.
 
 If a resolution is passed in favour of the winding up, the company will appoint a liquidator, subject to any preference the creditors may have as to the choice of liquidator.
 
-**Compulsory winding up**
+**3. Compulsory winding up**
 
-Under section 253 of the Companies Act (Cap. 50), the company itself, creditors, contributories, liquidator, judicial manager or the Minister may present a winding up application to the High Court.
+Under section 124 of the Insolvency, Restructuring and Dissolution Act 2018, the company itself, creditors, contributories, liquidator, judicial manager or the Minister may present a winding up application to the High Court.
 
-The applicant has to pay a winding up deposit of $10,400 to the Official Receiver, and the Court may appoint the Official Receiver or an approved liquidator as the liquidator of the company.
+The applicant has to pay a winding up deposit of $10,400 to the Official Receiver, and the Court may appoint the Official Receiver or an insolvency  as the liquidator of the company.
 
 The winding up is deemed to have commenced as at the date of the presentation of the winding up application.
 
-Section 254(1) of the Companies Act (Cap. 50) states all the grounds under which the Court may liquidate a company. The common grounds for a company to be wound up by the Court include:
+Section 125 of the Insolvency, Restructuring and Dissolution Act 2018 states all the grounds under which the Court may liquidate a company. The common grounds for a company to be wound up by the Court include:
 
 <ul>
   <li>
     <b>Inability to pay its debts</b><br>
-    The company is deemed unable to pay its debts under section 254(2)(a) of the Companies Act (Cap. 50) if a company's creditor, who is owed more than S$10,000, has served a demand for the sum owing at the registered office of the company, and the company has not paid this sum for three weeks thereafter.</li>
+    The company is deemed unable to pay its debts under section 125(2)(a) of the Insolvency, Restructuring and Dissolution Act 2018, if a company's creditor, who is owed more than S$15,000, has served a demand for the sum owing at the registered office of the company, and the company has not paid this sum for 3 weeks thereafter.</li>
   <li>
     <b>Just and Equitable</b><br>
     When the Court is of the opinion that it is just and equitable that the company be wound up.</li>
@@ -103,13 +103,13 @@ For example, goods under a writ of seizure and sale must be seized and sold; gar
 
 **d) Floating charges**
 
-A floating charge created within 6 months of the commencement of the winding up shall be invalid, except to the amount of cash paid to the company at the time of or subsequently to the creation of the charge, together with the interest at 5% per annum.
+A floating charge created in favour of a connected persion or any other persons within a period of 2 years or 1 year of the commencement of the winding up respectively, shall be invalid, except to the amount of cash paid to the company at the time of or subsequently to the creation of the charge, together with the interest (if any) pursuant to any agreement.
 
 The floating charge shall remain invalid unless the secured creditor is able to prove that the company was solvent after the creation of the floating charge. 
 
-Any floating charge given by the company in the 6-month period will, unless the company was solvent immediately, be invalid except to the extent that it was given to secure new money. Even if the floating charge is invalid, the debt will remain as an unsecured debt.
+Any floating charge given by the company in the above periods will, unless the company was solvent immediately, be invalid except to the extent that it was given to secure new money. Even if the floating charge is invalid, the debt will remain as an unsecured debt.
 
-The proceeds of realisation of assets under a floating charge will first be used to pay certain priority claims in accordance with section 328 of the Companies Act (Cap. 50) before satisfying the claim of the lender secured by the floating charge.
+The proceeds of realisation of assets under a floating charge will first be used to pay certain priority claims in accordance with section 203 of the Insolvency, Restructuring and Dissolution Act 2018 before satisfying the claim of the lender secured by the floating charge.
  
 **e) Secured creditors**
 
@@ -117,13 +117,13 @@ The rights of the secured creditor to deal or realise security over company asse
 
 **What is the role of a liquidator in compulsory liquidation?**<br>
 
-The powers of a liquidator for a compulsory winding up are set out in section 272 of the Companies Act (Cap. 50).
+The powers of a liquidator for a compulsory winding up are set out in section 144 of the Insolvency, Restructuring and Dissolution Act 2018.
 
 The role of the liquidator includes the following:
 
 * Investigate into the affairs and assets of the company, the conduct of its officers and the claims of creditors and third parties
 * Recover and realise the company’s assets in the most advantageous manner to the company
-* Adjudicate the claims of the creditors and ensure an equitable distribution of the company’s assets in accordance to the provisions of the Companies Act (Cap. 50)
+* Adjudicate the claims of the creditors and ensure an equitable distribution of the company’s assets in accordance to the provisions of the Insolvency, Restructuring and Dissolution Act 2018
 
 **a) Realisation of assets**
 
@@ -147,31 +147,33 @@ In addition, delinquent officers can also be made personally liable in damages f
 
 **c) Adjudication and admission of claims of the creditors**
 
-Creditors may file their Proofs of Debt (Form 77) with the liquidator once the company is in liquidation.
+Creditors may file their Proofs of Debt with the liquidator once the company is in liquidation.
 
-The claims are then adjudicated and admitted or rejected accordingly. If any claim is rejected either in part or in whole, the liquidator will send a notice of rejection to the creditor, stating his reasons for the rejection. Any creditor who is dissatisfied with the liquidator’s decision may appeal to the Court within 21 days to set aside the liquidator’s decision.
+The claims are then adjudicated and admitted or rejected accordingly. If any claim is rejected either in part or in whole, the liquidator will send a notice of rejection to the creditor, stating his reasons for the rejection. Any creditor who is dissatisfied with the liquidator’s decision may appeal to the Court to set aside the liquidator’s decision.
 
 **d) Distribution of assets**
 
-The proceeds from the realisation of the company’s assets will first be paid to the preferential creditors as set out in section 328 of the Companies Act in the following order:
+The proceeds from the realisation of the company’s assets will first be paid to the preferential creditors as set out in section 203 of the Insolvency, Restructuring and Dissolution Act 2018 in the following order:
 
-* Costs and expenses of winding up, including the taxed costs of applicant and the remuneration of the liquidator
-* Wages or salary including allowance or reimbursement*
-* Retrenchment benefits or ex gratia payments under employment contracts*
+* Costs and expenses of winding up of the Official Receiver and the liquidator
+* Costs of the applicant for the winding up order
+* Wages or salary including allowance or reimbursement*#
+* Retrenchment benefits or ex gratia payments under employment contracts*#
 * All amounts due in respect of workmen's compensation under the Work Injury Compensation Act (Cap 354) accrued before, on or after the commencement of winding up
 * Contributions payable by the company as employer
-* All remuneration payable to any employee in respect of vacation leave, accrued in respect of any period before, on or after the commencement of winding up
+* All remuneration payable to any employee in respect of vacation leave, accrued in respect of any period before, on or after the commencement of winding up*
 * All tax assessed under any written law before the commencement of the winding up or assessed at any time before the time fixed for the proving of debts has expired
 
-<sup>*</sup>The amount payable shall not exceed an amount that is equivalent to five months’ salary or S$13,000, whichever is lesser.
+<sup>*</sup>The amount payable shall not exceed an amount that is equivalent to five months’ salary or S$13,000, whichever is lesser. <br>
+<sup>#</sup>*For LLPs, the amount payable shall not exceed an amount that is equivalent to five months’ salary or S$7,500, whichever is lesser.* 
 
-After payment of these preferential claims in full, the balance is then *paidpari passu* (i.e. paid out equally) to all ordinary creditors. When all creditors have been paid, the liquidator makes a capital repayment to shareholders with the leave of Court. The shareholders are paid in proportion to their respective interests in the company’s share capital.
+After payment of these preferential claims in full, the balance is then paid *pari passu* (i.e. paid out equally) to all ordinary creditors. When all creditors have been paid, the liquidator makes a capital repayment to shareholders with the leave of Court. The shareholders are paid in proportion to their respective interests in the company’s share capital.
 
 **e) Release and dissolution**
 
 Upon the completion of the liquidation, the liquidator applies to the Court for the company to be dissolved and to be released as liquidator where it discharges the liquidator from all liability in respect of his conduct in the course of winding up.
 
-Any assets that were not realised prior to dissolution will vest with the Official Receiver under section 346 of the Companies Act. The Official Receiver may deal with these assets in any manner as he sees fit including selling the property.<br>
+Any assets that were not realised prior to dissolution will vest with the Official Receiver under section 213 of the Insolvency, Restructuring and Dissolution Act 2018. The Official Receiver may deal with these assets in any manner as he sees fit including selling the property.<br>
 
 
 **What are the charges of the Official Receiver?**<br>
@@ -180,9 +182,3 @@ The fees chargeable by the Official Receiver are stipulated in the Schedule unde
 (i) Administrative Fee;<br>
 (ii) Realisation Fee; and <br>
 (iii) Distribution Fee.<br>
-
-**Other Information**<br>
-
-**Liquidator's Account of Receipts and Payments/ Statement of the Position in the Winding Up of an Entity**<br>
-
-Private Liquidators can download a Guide on filing the Liquidator's Account of Receipts and Payments/ Statement of the Position in the Winding Up of an Entity (for compulsory and voluntary windings up) [here](/files/Form75Guide_jul2017.pdf/){:target="_blank"}(373 KB).
