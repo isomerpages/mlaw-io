@@ -26,7 +26,7 @@ The purposes of a liquidation are:
 
 **Just distribution of assets**<br>
 
-When a company is being wound up, the company’s business ceases to operate and its assets and affairs are handed over to an independent liquidator whose powers, duties and functions are regulated by the Companies Act (Cap 50).
+When a company is being wound up, the company’s business ceases to operate and its assets and affairs are handed over to an independent liquidator whose powers, duties and functions are regulated by the Insolvency, Restructuring and Dissolution Act 2018.
 
 The rights of unsecured creditors over the company's assets are virtually "frozen" upon the commencement of the liquidation to avoid a further deterioration of the company's financial position and proliferation of its liabilities.
 
@@ -157,14 +157,15 @@ The proceeds from the realisation of the company’s assets will first be paid t
 
 * Costs and expenses of winding up of the Official Receiver and the liquidator
 * Costs of the applicant for the winding up order
-* Wages or salary including allowance or reimbursement*
-* Retrenchment benefits or ex gratia payments under employment contracts*
+* Wages or salary including allowance or reimbursement*#
+* Retrenchment benefits or ex gratia payments under employment contracts*#
 * All amounts due in respect of workmen's compensation under the Work Injury Compensation Act (Cap 354) accrued before, on or after the commencement of winding up
 * Contributions payable by the company as employer
 * All remuneration payable to any employee in respect of vacation leave, accrued in respect of any period before, on or after the commencement of winding up*
 * All tax assessed under any written law before the commencement of the winding up or assessed at any time before the time fixed for the proving of debts has expired
 
-<sup>*</sup>The amount payable shall not exceed an amount that is equivalent to five months’ salary or S$13,000, whichever is lesser.
+<sup>*</sup>The amount payable shall not exceed an amount that is equivalent to five months’ salary or S$13,000, whichever is lesser. <br>
+<sup>#</sup>*For LLPs, the amount payable shall not exceed an amount that is equivalent to five months’ salary or S$7,500, whichever is lesser. 
 
 After payment of these preferential claims in full, the balance is then paid *pari passu* (i.e. paid out equally) to all ordinary creditors. When all creditors have been paid, the liquidator makes a capital repayment to shareholders with the leave of Court. The shareholders are paid in proportion to their respective interests in the company’s share capital.
 
