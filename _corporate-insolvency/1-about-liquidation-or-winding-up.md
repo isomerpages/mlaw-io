@@ -165,7 +165,7 @@ The proceeds from the realisation of the company’s assets will first be paid t
 * All tax assessed under any written law before the commencement of the winding up or assessed at any time before the time fixed for the proving of debts has expired
 
 <sup>*</sup>The amount payable shall not exceed an amount that is equivalent to five months’ salary or S$13,000, whichever is lesser. <br>
-<sup>#</sup>*For LLPs, the amount payable shall not exceed an amount that is equivalent to five months’ salary or S$7,500, whichever is lesser. 
+<sup>#</sup>*For LLPs, the amount payable shall not exceed an amount that is equivalent to five months’ salary or S$7,500, whichever is lesser.* 
 
 After payment of these preferential claims in full, the balance is then paid *pari passu* (i.e. paid out equally) to all ordinary creditors. When all creditors have been paid, the liquidator makes a capital repayment to shareholders with the leave of Court. The shareholders are paid in proportion to their respective interests in the company’s share capital.
 
