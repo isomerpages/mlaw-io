@@ -12,7 +12,7 @@ About Liquidation or Winding Up
 
 **Overview**<br>
 
-Liquidation is a process where the company’s assets are seized and realised, with the resulting proceeds used to pay off its debts and liabilities. *The informatino below is similar to the liquidation of a limited liability partnership.* <br>
+Liquidation is a process where the company’s assets are seized and realised, with the resulting proceeds used to pay off its debts and liabilities. *The information below, unless otherwise stated, is largely applicable to  the liquidation of a limited liability partnership.* <br>
 
 Any surplus is then distributed among the contributories of the company according to their rights and interests, or otherwise dealt with as the constitution of the company directs.
 
@@ -153,14 +153,15 @@ The claims are then adjudicated and admitted or rejected accordingly. If any cla
 
 **d) Distribution of assets**
 
-The proceeds from the realisation of the company’s assets will first be paid to the preferential creditors as set out in section 328 of the Companies Act in the following order:
+The proceeds from the realisation of the company’s assets will first be paid to the preferential creditors as set out in section 203 of the Insolvency, Restructuring and Dissolution Act 2018 in the following order:
 
-* Costs and expenses of winding up, including the taxed costs of applicant and the remuneration of the liquidator
+* Costs and expenses of winding up of the Official Receiver and the liquidator
+* Costs of the applicant for the winding up order
 * Wages or salary including allowance or reimbursement*
 * Retrenchment benefits or ex gratia payments under employment contracts*
 * All amounts due in respect of workmen's compensation under the Work Injury Compensation Act (Cap 354) accrued before, on or after the commencement of winding up
 * Contributions payable by the company as employer
-* All remuneration payable to any employee in respect of vacation leave, accrued in respect of any period before, on or after the commencement of winding up
+* All remuneration payable to any employee in respect of vacation leave, accrued in respect of any period before, on or after the commencement of winding up*
 * All tax assessed under any written law before the commencement of the winding up or assessed at any time before the time fixed for the proving of debts has expired
 
 <sup>*</sup>The amount payable shall not exceed an amount that is equivalent to five months’ salary or S$13,000, whichever is lesser.
@@ -171,7 +172,7 @@ After payment of these preferential claims in full, the balance is then paid *pa
 
 Upon the completion of the liquidation, the liquidator applies to the Court for the company to be dissolved and to be released as liquidator where it discharges the liquidator from all liability in respect of his conduct in the course of winding up.
 
-Any assets that were not realised prior to dissolution will vest with the Official Receiver under section 346 of the Companies Act. The Official Receiver may deal with these assets in any manner as he sees fit including selling the property.<br>
+Any assets that were not realised prior to dissolution will vest with the Official Receiver under section 213 of the Insolvency, Restructuring and Dissolution Act 2018. The Official Receiver may deal with these assets in any manner as he sees fit including selling the property.<br>
 
 
 **What are the charges of the Official Receiver?**<br>
