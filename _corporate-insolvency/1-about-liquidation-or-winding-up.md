@@ -44,19 +44,19 @@ Unsecured creditors are paid on a *pari passu* basis, i.e. they are paid out of 
 
 **What are the various types of winding up?**<br>
 
-**Members' voluntary winding up**<br>
+**1. Members' voluntary winding up**<br>
 
 The company’s contributories (also known as members or shareholders) may pass a resolution that the company be wound up and that a liquidator be appointed.
 
 The liquidation commences at the time of passing the resolution. It is adopted where the company is able to pay its debts in full within 12 months after the commencement of winding up. The directors of the Company are required to file a declaration of solvency.
 
-**Creditors' voluntary winding up**
+**2. Creditors' voluntary winding up**
 
 If the company is not able to meet its liabilities, the company can convene a meeting with its creditors to consider its proposal for a voluntary winding up of the company.
 
 If a resolution is passed in favour of the winding up, the company will appoint a liquidator, subject to any preference the creditors may have as to the choice of liquidator.
 
-**Compulsory winding up**
+**3. Compulsory winding up**
 
 Under section 124 of the Insolvency, Restructuring and Dissolution Act 2018, the company itself, creditors, contributories, liquidator, judicial manager or the Minister may present a winding up application to the High Court.
 
@@ -147,9 +147,9 @@ In addition, delinquent officers can also be made personally liable in damages f
 
 **c) Adjudication and admission of claims of the creditors**
 
-Creditors may file their Proofs of Debt (Form 77) with the liquidator once the company is in liquidation.
+Creditors may file their Proofs of Debt with the liquidator once the company is in liquidation.
 
-The claims are then adjudicated and admitted or rejected accordingly. If any claim is rejected either in part or in whole, the liquidator will send a notice of rejection to the creditor, stating his reasons for the rejection. Any creditor who is dissatisfied with the liquidator’s decision may appeal to the Court within 21 days to set aside the liquidator’s decision.
+The claims are then adjudicated and admitted or rejected accordingly. If any claim is rejected either in part or in whole, the liquidator will send a notice of rejection to the creditor, stating his reasons for the rejection. Any creditor who is dissatisfied with the liquidator’s decision may appeal to the Court to set aside the liquidator’s decision.
 
 **d) Distribution of assets**
 
