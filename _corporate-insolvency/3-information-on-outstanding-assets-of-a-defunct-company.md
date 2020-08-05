@@ -39,7 +39,7 @@ You may lay your claim as a shareholder or a creditor of the defunct company:<br
 
 **B** <b>Documents Required to Support Application</b><br>
 
-*1) Where the Applicant is a Creditor / Shareholder*<br>
+***1) Where the Applicant is a Creditor / Shareholder***<br>
 
 (i) Photocopy of the Identity Card / Passport of the Applicant and Witness;
 
@@ -53,11 +53,11 @@ You may lay your claim as a shareholder or a creditor of the defunct company:<br
 
 (vi) Any other documents to support the application.<br>
 
-*2) Where the Applicant is a Creditor*<br>
+***2) Where the Applicant is a Creditor***<br>
 
 Proof of debt form with the relevant supporting documents to substantiate the claim.<br>
 
-*3) Where the Applicant is a Shareholder*<br>
+***3) Where the Applicant is a Shareholder***<br>
 
 Documents evidencing that there is no outstanding debt or liability owing by the Defunct Company that is payable now or in the future.
 
