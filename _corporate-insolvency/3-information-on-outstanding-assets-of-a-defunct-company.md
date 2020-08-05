@@ -37,8 +37,10 @@ You may lay your claim as a shareholder or a creditor of the defunct company:<br
 
 (v) You need not fill in the Deed of Indemnity on your own (click [here](/files/IndemnityFormtotheOfficialReceivertoLayClaimsforDFCases.pdf/)(74 KB)). Upon submission of the Application Form and the required documents, the Official Receiver will contact you to attend at our office to execute the Deed of Indemnity, before paying out the moneys. You are however advised to read and take such measures to understand the terms of the Deed of Indemnity before attending at our office to execute it.<br>
 
-**B** <u><b>Documents Required to Support Application</b></u><br>
-1) <u>Where the Applicant is a Creditor / Shareholder</u><br>
+**B** <b>Documents Required to Support Application</b><br>
+
+*1) Where the Applicant is a Creditor / Shareholder*<br>
+
 (i) Photocopy of the Identity Card / Passport of the Applicant and Witness;
 
 (ii) Documents indicating that the company has been dissolved / struck off e.g. Notice from ACRA confirming that the company has been dissolved / struck off etc.;
@@ -51,10 +53,12 @@ You may lay your claim as a shareholder or a creditor of the defunct company:<br
 
 (vi) Any other documents to support the application.<br>
 
-2) <u>Where the Applicant is a Creditor</u><br>
+*2) Where the Applicant is a Creditor*<br>
+
 Proof of debt form with the relevant supporting documents to substantiate the claim.<br>
 
-3) <u>Where the Applicant is a Shareholder</u><br>
+*3) Where the Applicant is a Shareholder*<br>
+
 Documents evidencing that there is no outstanding debt or liability owing by the Defunct Company that is payable now or in the future.
 
 For more information, please refer to the attached instructions (click [here](/files/GuidelinestoLayClaimsforDFCases.pdf/)(319 KB)).<br>
