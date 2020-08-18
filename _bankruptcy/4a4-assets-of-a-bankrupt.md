@@ -24,7 +24,7 @@ If the above conditions are not complied with, the Official Assignee can close t
 **2. How do I apply for GIRO after my bank account is opened?**<br>
 Please make a photocopy of the first page of the bank passbook and forward it together with the completed Direct Debit Authorisation (DDA) form to the Official Assignee’s office. The Official Assignee will inform you once the GIRO facility is activated.
 
-Note: Until you receive our notification, you will have to make your instalment payments via GIRO, [Self-service Automated Machines (SAMs), SingPost counters](https://www.singpost.com/), and cash, NETS or Cashcard at our office.<br>
+Note: Until you receive our notification, you will have to make your instalment payments via GIRO, [Self-service Automated Machines (SAMs), SingPost counters](https://www.singpost.com/) and SAM online.<br>
 
 **3. When do the GIRO deductions take place?**<br>
 The GIRO deductions from the bank account into your bankruptcy estate account will take place between the 3rd - 7th (first attempt) or the 16th - 20th of each month (second attempt). The second attempt will be made only if the first has failed.
