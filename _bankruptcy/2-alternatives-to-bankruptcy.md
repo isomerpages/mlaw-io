@@ -105,11 +105,11 @@ If you are a debtor being sued by your creditor under civil proceedings, you may
 The information provided above on bankruptcy matters is by no means exhaustive. You may wish to consult your solicitor before making any decision concerning bankruptcy. If you are unable to afford a solicitor, you may obtain legal advice from the Legal Aid Bureau ("LAB"). For more information, please visit LAB's [website](https://lab.mlaw.gov.sg/). <br>
 
 <b> 9. Debt Repayment Scheme </b><br>
-The Debt Repayment Scheme (DRS) is a repayment scheme to assist debtors who have a regular income and debts not exceeding $100,000, to avoid bankruptcy.<br>
+The Debt Repayment Scheme (DRS) is a repayment scheme to assist debtors who have a regular income and debts not exceeding $150,000, to avoid bankruptcy.<br>
 
  
 
-The DRS is triggered by a bankruptcy application. When such an application is made to the High Court and the debt owed does not exceed S$100,000, the High Court may refer the debtor to the Official Assignee for an assessment of the debtor’s eligibility and suitability to enter into the DRS. If the debtor satisfies the relevant criteria, an administrator will devise a repayment plan requiring regular debt repayments to the creditors over a fixed period of time. Debtors who do not comply with the conditions of the scheme will be failed from the DRS. These debtors may subsequently face another bankruptcy application filed against them and be made bankrupt by the High Court. <br>
+The DRS is triggered by a bankruptcy application. When such an application is made to the High Court and the debt owed does not exceed S$150,000, the High Court may refer the debtor to the Official Assignee for an assessment of the debtor’s eligibility and suitability to enter into the DRS. If the debtor satisfies the relevant criteria, an administrator will devise a repayment plan requiring regular debt repayments to the creditors over a fixed period of time. Debtors who do not comply with the conditions of the scheme will be failed from the DRS. These debtors may subsequently face another bankruptcy application filed against them and be made bankrupt by the High Court. <br>
 
  For further information, please refer to the DRS page on this [website](/debt-repayment-scheme/about-debt-repayment-scheme/). <br>
 

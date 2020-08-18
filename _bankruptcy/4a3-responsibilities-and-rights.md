@@ -154,7 +154,7 @@ Yes. This categorisation helps to streamline case administration and allows bank
 You cannot commence or continue any court action, other than an action for damages or compensation in respect of personal injuries or wrongful acts against you, without the prior consent of the Official Assignee.
 
 <b>(b) Can I obtain further credit?</b> <br>
-You may obtain further credit, but you must disclose your bankruptcy status to the lender if the amount of credit (or loan) you are obtaining exceeds S$500.
+You may obtain further credit, but you must disclose your bankruptcy status to the lender if the amount of credit (or loan) you are obtaining exceeds S$1,000.
 
 <b>(c) Can I act as a trustee or personal representative? </b><br>
 You are disqualified from being appointed or acting as a trustee or personal representative in respect of any trust, estate or settlement unless you obtain the permission of the High Court to do so.
