@@ -14,7 +14,7 @@ Forms - Bankruptcy Rules (wef 1 August 2016) [Repealed]
 
 The Bankruptcy Act and the forms under the Bankruptcy Rules have been repealed on 30 July 2020.
  
-For the new forms, please refer to the First Schedule under the Insolvency, Restructuring and Dissolution (Personal Insolvency) Rules 2020 at (Singapore Statutes Online) [https://sso.agc.gov.sg/SL/IRDA2018-S585-2020?DocDate=20200724&ProvIds=Sc1-#Sc1-]
+For the new forms, please refer to the First Schedule under the Insolvency, Restructuring and Dissolution (Personal Insolvency) Rules 2020 at [Singapore Statutes Online.] (https://sso.agc.gov.sg/SL/IRDA2018-S585-2020?DocDate=20200724&ProvIds=Sc1-#Sc1-).
  
  
  
