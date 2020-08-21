@@ -43,8 +43,9 @@ Forms - Bankruptcy Rules (wef 1 August 2016)
 [Form 14 Application for Interim Receiver](/files/Form14.docx/){:target="_blank"} (DOC, 17KB)
 
 [Form 15 Order Appointing Interim Receiver](/files/Form15.docx/){:target="_blank"} (DOC, 17KB)
+(/files/ ){:target="_blank"} (DOC, 31.9KB)
 
-[Form 15A (for bankrupts) Notice of Determination of Monthly Contribution and Target Contribution (/files/Form15Afor bankruptsNoticeofDeterminationofMonthlyContributionandTargetContribution.docx/){:target="_blank"} (DOC, 31.9KB)
+[Form 15A (for bankrupts) Notice of Determination of Monthly Contribution and Target Contribution](/files/Form15AforbankruptsNoticeofDeterminationofMonthlyContributionandTargetContribution.docx/){:target="_blank"} (DOC, 31.9KB)
 
 [Form 15A (for creditors) Notice of Determination of Monthly Contribution and Target Contribution](/files/Form15A-creditors.docx/){:target="_blank"} (DOC, 31.1KB)
 
