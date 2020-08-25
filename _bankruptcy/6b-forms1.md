@@ -10,8 +10,6 @@ second_nav_title: "Forms"
 PIR Forms – IDRA (wef 30 July 2020)
 ---
 
-**PIR Forms – IDRA (wef 30 July 2020)**
-
 The Bankruptcy Act and the forms under the Bankruptcy Rules have been repealed on 30 July 2020.
  
 Please refer to the table below for the new forms. <br><br>
