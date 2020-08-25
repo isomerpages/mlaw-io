@@ -14,7 +14,7 @@ The Bankruptcy Act and the forms under the Bankruptcy Rules have been repealed o
  
 Please refer to the table below for the new forms. <br>
 <table>
-<tr>
+ <tr>
   <td>1</td>
   <td>
    
@@ -45,8 +45,8 @@ Please refer to the table below for the new forms. <br>
  Form PIR-24 – Creditor’s Application for Administration of Estate of Deceased Debtor under Section 419 of Insolvency, Restructuring and Dissolution Act 2018<br>
  Form PIR-25 – Affidavit in Support of Creditor’s Application for Administration of Estate of Deceased Debtor under Section 419 of Insolvency, Restructuring and Dissolution Act 2018<br>
  Form PIR-26 – Order for Administration of Estate of Deceased Debtor</td>
-  
-  <td>
+ <td>
 <a href="/files/FormsPIR-1-PIR-26.pdf/" target="_blank">Forms PIR-1 - PIR-26</a> (566KB)<br>
+ </td>
 </tr>
 </table>
