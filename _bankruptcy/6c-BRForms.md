@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Forms - IRDA (wef 30 July 2020)
-permalink: /bankruptcy/forms-irda/
-breadcrumb: Forms - IRDA 
+title: BR Forms – IDRA (wef 30 July 2020)
+permalink: /bankruptcy/BRForms/
+breadcrumb: BR Forms – IDRA (wef 30 July 2020)
 collection_name: bankruptcy
 second_nav_title: "Forms"
 ---
