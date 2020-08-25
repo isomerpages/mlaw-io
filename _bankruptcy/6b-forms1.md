@@ -49,6 +49,6 @@ Please refer to the table below for the new forms. <br><br>
  Form PIR-26 – Order for Administration of Estate of Deceased Debtor</td>
   
   <td>
-<a href="/files/FormsPIR-1-PIR-26.pdf/" target="_blank">Forms PIR-1 - PIR-26</a> (545KB)<br>
+<a href="/files/FormsPIR-1-PIR-26.pdf/" target="_blank">Forms PIR-1 - PIR-26</a> (566KB)<br>
 </tr>
 </table>
