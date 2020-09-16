@@ -10,10 +10,4 @@ DRS Flowchart
 ---
 
 
-<iframe
-    src="https://io.mlaw.gov.sg/files/DRSFlowchart.pdf/"
-    frameBorder="0"
-    scrolling="auto"
-    height="100%"
-    width="100%">
-</iframe>
+<iframe src="https://io.mlaw.gov.sg/files/DRSFlowchart.pdf/" frameBorder="0" scrolling="auto" height="100%" width="100%"></iframe>
