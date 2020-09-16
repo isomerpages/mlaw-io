@@ -9,4 +9,4 @@ collection_name: debt-repayment-scheme
 DRS Flowchart
 ---
 
-<iframe> 
+<iframe src="/files/DRSFlowchart.pptx/" width="100%" height="100%" frameborder="0"></iframe>
