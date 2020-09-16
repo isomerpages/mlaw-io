@@ -131,7 +131,7 @@ Yes. This categorisation helps to streamline case administration and allows bank
 * Non-disclosure of assets (both local and overseas)
  
 
-\*These factors are not exhaustive and not determinative of a bankrupt’s categorisation. <br>
+*These factors are not exhaustive and not determinative of a bankrupt’s categorisation. <br>
 
  
 
