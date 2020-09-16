@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
 title: DRS Flowchart
-permalink: /debt-repayment-scheme/DRSFlowchart/
-breadcrumb: DRSFlowchart
+permalink: /debt-repayment-scheme/DRS-Flowchart/
+breadcrumb: DRS-Flowchart
 collection_name: debt-repayment-scheme
 
 ---
