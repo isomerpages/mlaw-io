@@ -10,5 +10,4 @@ DRS Flowchart
 ---
 
 
-
-<embed src="/files/DRSFlowchart.pdf/" width="800px" height="2100px" />
+<iframe src="/files/DRSFlowchart.pdf/" style="width:600px; height:500px;" frameborder="0"></iframe>
