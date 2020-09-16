@@ -29,7 +29,7 @@ You may contact us at:  <br>
 
 [Contact Us @ OneMinLaw](https://www.mlaw.gov.sg/eservices/enquiry/){:target="_blank"} <br>
 or  <br>
-Insolvency Office  <br>
+MinLaw Service Centre  <br>
 45 Maxwell Road  <br>
 #07-11  <br>
 The URA Centre (East Wing)  <br>
