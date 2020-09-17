@@ -8,4 +8,4 @@ collection_name: bankruptcy
 Pre-Bankruptcy
 ---
 
-Infographics of A Debtor's Journey 
+[Infographics of A Debtor's Journey ](/files/ADebtorsJourney.pdf/) <br>
