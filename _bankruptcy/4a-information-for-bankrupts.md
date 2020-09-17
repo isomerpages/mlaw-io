@@ -9,10 +9,11 @@ second_nav_title: "Information for Bankrupts"
 **Please click on the links below for more information** :
 
 [Bankruptcy Application and Impact of Bankruptcy](/bankruptcy/information-for-bankrupts/impact-of-bankruptcy/) <br> 
+[Charges for E-Filing Services at MinLaw Service Centre](/files/IIDRSDPriceList.pdf/) <br>
 [Responsibilities and Rights of a Bankrupt](/bankruptcy/information-for-bankrupts/impact-of-bankruptcy/responsibilities-and-rights/) <br>
 [Assets of a Bankrupt](/bankruptcy/information-for-bankrupts/assets-of-a-bankrupt/) <br> 
 [Discharge from Bankruptcy](/bankruptcy/information-for-bankrupts/discharge-from-bankruptcy/) <br>
-[Charges for E-Filing Services at MinLaw Service Centre](/files/IIDRSDPriceList.pdf/) <br>
+
 
 <b>Other Suggested Readings </b>
 * [Alternatives to Bankruptcy](/bankruptcy/alternatives-to-bankruptcy/)
