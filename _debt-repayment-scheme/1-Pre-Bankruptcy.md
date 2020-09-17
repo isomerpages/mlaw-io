@@ -7,3 +7,5 @@ collection_name: debt-repayment-scheme
 ---
 Pre-Bankruptcy
 ---
+
+[Infographics of A Debtor's Journey ](/files/ADebtorsJourney.pdf/) <br>
