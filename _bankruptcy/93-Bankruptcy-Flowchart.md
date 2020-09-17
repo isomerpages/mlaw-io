@@ -9,4 +9,4 @@ collection_name: bankruptcy
 Bankruptcy Flowchart
 ---
 
-
+[Bankruptcy Flowchart](/files/BankruptcyFlowchart.pdf/) <br>
