@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Bankruptcy Flowchart
 permalink: /files/BankruptcyFlowchart.pdf/
 breadcrumb: Bankruptcy-Flowchart
-collection_name: files
+collection_name: bankruptcy
 
 ---
 Bankruptcy Flowchart
