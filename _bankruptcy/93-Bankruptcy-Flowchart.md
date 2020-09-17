@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Bankruptcy Flowchart
-permalink: /bankruptcy/Bankruptcy-Flowchart/
+permalink: /files/BankruptcyFlowchart.pdf/
 breadcrumb: Bankruptcy-Flowchart
 collection_name: bankruptcy
 
