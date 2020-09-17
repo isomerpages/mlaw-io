@@ -25,6 +25,8 @@
   sub-links:
   - title: Who is the Official Assignee?
     url: /bankruptcy/who-is-the-official-assignee/
+  - title: Pre-Bankruptcy
+    url: /bankruptcy/pre-bankruptcy/
   - title: Bankruptcy Notice
     url: /bankruptcy/bankruptcy-notice/
   - title: Alternatives to Bankruptcy
@@ -48,13 +50,15 @@
   - title: IRDA FAQ
     url: /bankruptcy/IRDA-FAQ/
   - title: Bankruptcy Flowchart
-    url: /bankruptcy/Bankruptcy-Flowchart/
+    url: /files/BankruptcyFlowchart.pdf/
     
 - title: Debt Repayment
   url: /debt-repayment-scheme/about-debt-repayment-scheme/
   sub-links:
   - title: About Debt Repayment Scheme
     url: /debt-repayment-scheme/about-debt-repayment-scheme/
+  - title: Pre-Bankruptcy
+    url: /debt-repayment-scheme/pre-bankruptcy/
   - title: Introduction to DRS (Video)
     url: /debt-repayment-scheme/introduction-to-drs-video-english-subtitles/
   - title: Information For Debtors
@@ -70,7 +74,7 @@
   - title: IRDA FAQ
     url: /debt-repayment-scheme/IRDA-FAQ/
   - title: DRS Flowchart
-    url: /debt-repayment-scheme/DRS-Flowchart/
+    url: /files/DRSFlowchart.pdf/
 
 - title: Corp Insolvency
   url: /corporate-insolvency/who-is-the-official-receiver/
