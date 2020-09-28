@@ -49,7 +49,9 @@ Pursuant to COVID-19 (Temporary Measures) (Prescribed Period) Order 2020, the pr
 
 **1. I am an insolvency practitioner and I am required to hold meetings within the circuit breaker period. Can I defer the meeting? If not, how can I proceed to hold the meeting?**<br>
 
-The Order permits meetings whose due dates fall between 27 March 2020 and 30 September 2020 to be deferred. You may hence defer the meeting until you are able to hold the meeting either in persons or by relying on the alternative arrangements in the Order, to a date no later than 30 September 2020. Please refer to the Schedule within the Order for the details on how the meeting can be held via electronic means. 
+The Order permits meetings whose due dates fall between 27 March 2020 and 30 September 2020 to be deferred. You may hence defer the meeting until you are able to hold the meeting either in persons or by relying on the alternative arrangements in the Order, to a date no later than 30 September 2020. Please refer to the Schedule within the Order for the details on how the meeting can be held via electronic means. <br>
+
+The deferral provision in the COVID-19 (Temporary Measures) (Alternative Arrangements for Meetings) Orders will not be extended for insolvency-related meetings.
 <br>
 
 **2. I am an insolvency practitioner and I am required to hold a Court-ordered or Court-directed meeting within the circuit breaker period. How should I hold the meeting?**<br>
@@ -59,7 +61,9 @@ This Order does not apply to meetings ordered or directed by the Court. For thes
 
 **3. How long will the alternative arrangements apply?**<br>
 
-The alternative arrangements apply for the period starting on 27 March 2020 and ending on 30 September 2020.
+The alternative arrangements apply for the period starting on 27 March 2020 and ending on 30 September 2020.<br>
+
+The amendments to the COVID-19 (Temporary Measures) (Alternative Arrangements for Meetings) Orders has extend it to 30 June 2021.
 <br>
 
 **4. How can I give notice of the meeting to be held by electronic means?**<br>
@@ -75,4 +79,14 @@ The notice of the meeting is to be given as follows:<br>
 **5. How can the quorum for the alternative meeting be met?**<br>
 
 The quorum may be met by creditors, contributories, members or partners (as the case may be) being personally or electronically present at the meeting. The requirements for verifying electronic presence are set out in the Schedule to the Order.
+<br>
+
+**6. What are the other refinements in the amendments to the COVID-19 (Temporary Measures) (Alternative Arrangements for Meetings) Orders that are applicable to insolvency-related meetings?**<br>
+
+The following refinements were made in the amendments to the Meeting Orders: <br>
+(a) <i>Real-time electronic voting</i>: Today, real-time electronic voting is not provided for as an alternative arrangement for most types of meetings. For these meetings, amendments have been made to the relevant Meetings Orders to provide for the option of real-time electronic voting, as long as certain prescribed safeguards are adopted, and the entity still allows attendees to vote by appointing the Chairman or convenor (as the case may be) as their proxy to vote. This option applies to meetings held or conducted on or after 1 October 2020 up to the expiry of the Meetings Order.<br>
+
+(b) <i>Real-time Q&A</i>: Some alternative arrangements permit entities to require attendees to submit matters which they wish to raise prior to the meeting by post or electronic mail. Where this is the case, amendments have been made to the relevant Meetings Orders to expressly clarify that entities have the option of carrying out real-time Q&A via electronic means, as long as the entity also allows attendees to submit matters which they wish to raise at the meeting prior to the meeting by post or electronic mail.<br>
+
+(c) <i>Use of virtual AGM platforms and other electronic means to accept submissions</i?: Some alternative arrangements provide for matters which attendees wish to raise at the meeting, as well as for signed proxy instruments, to be submitted by post or electronic mail in advance of the meeting. Where this is the case, amendments have been made to the relevant Meetings Orders to expressly clarify that entities have the option of using other electronic means, including virtual AGM platforms, to accept such submissions in advance of the meeting, as long as the entity also allows such submissions by post or electronic mail. <br>
 <br>
