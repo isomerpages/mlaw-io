@@ -51,7 +51,7 @@ Pursuant to COVID-19 (Temporary Measures) (Prescribed Period) Order 2020, the pr
 
 The Order permits meetings whose due dates fall between 27 March 2020 and 30 September 2020 to be deferred. You may hence defer the meeting until you are able to hold the meeting either in persons or by relying on the alternative arrangements in the Order, to a date no later than 30 September 2020. Please refer to the Schedule within the Order for the details on how the meeting can be held via electronic means. <br>
 
-The deferral provision in the Order will not be extended for insolvency-related meetings.
+The deferral provision in the amendments to the Order, which come into force on 29 September 2020, will not be extended for insolvency-related meetings. 
 <br>
 
 **2. I am an insolvency practitioner and I am required to hold a Court-ordered or Court-directed meeting within the circuit breaker period. How should I hold the meeting?**<br>
@@ -63,7 +63,7 @@ This Order does not apply to meetings ordered or directed by the Court. For thes
 
 The alternative arrangements apply for the period starting on 27 March 2020 and ending on 30 September 2020.<br>
 
-The amendments to the Orders has extended it to 30 June 2021.
+The amendments to the Order, which come into force on 29 September 2020, has extended the application of alternative arrangements to 30 June 2021.
 <br>
 
 **4. How can I give notice of the meeting to be held by electronic means?**<br>
@@ -81,10 +81,10 @@ The notice of the meeting is to be given as follows:<br>
 The quorum may be met by creditors, contributories, members or partners (as the case may be) being personally or electronically present at the meeting. The requirements for verifying electronic presence are set out in the Schedule to the Order.
 <br>
 
-**6. What are the other refinements in the amendments to the COVID-19 (Temporary Measures) (Alternative Arrangements for Meetings) Orders that are applicable to insolvency-related meetings?**<br>
+**6. What are the other refinements in the amendments to the Order that are applicable to insolvency-related meetings?**<br>
 
-The following refinements were made in the amendments to the Order: <br>
-(a) <i>Real-time electronic voting</i>: as long as certain prescribed safeguards are adopted, and the entity still allows attendees to vote by appointing the Chairman or convenor as the case may be) as their proxy to vote;<br>
+The following refinements were made in the amendments to the Order, which come into force on 29 September 2020: <br>
+(a) <i>Real-time electronic voting</i>: as long as certain prescribed safeguards are adopted, and the entity still allows attendees to vote by appointing the Chairman or convenor as the case may be) as their proxy to vote. This option applies to meetings held or conducted on or after 1 October 2020 up to the expiry of the Order;<br>
 (b) <i>Real-time Q&A</i>: as long as the entity also allows attendees to submit matters which they wish to raise at the meeting prior to the meeting by post of electronic mail;<br>
 (c) <i>Use of virtual AGM platforms and other electronic means to accept submissions</i>: as long as the entity also allows such submissions by post or electronic mail.<br>
 <br>
