@@ -49,7 +49,7 @@ Pursuant to COVID-19 (Temporary Measures) (Prescribed Period) Order 2020, the pr
 
 **1. I am an insolvency practitioner and I am required to hold meetings within the circuit breaker period. Can I defer the meeting? If not, how can I proceed to hold the meeting?**<br>
 
-As per the amendment to the Order, which come into effect on 29 September 2020, the  deferral provision in the Order will not be extended, i.e. these meetings may be deferred only up to a date no later than 30 September 2020. 
+You are allowed to defer these meetings up to a date no later than 30 September 2020. Please refer to schedule of the Order on how the meeting can be held via electronic means.
 <br>
 
 **2. I am an insolvency practitioner and I am required to hold a Court-ordered or Court-directed meeting within the circuit breaker period. How should I hold the meeting?**<br>
