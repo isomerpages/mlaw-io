@@ -84,10 +84,7 @@ The quorum may be met by creditors, contributories, members or partners (as the 
 **6. What are the other refinements in the amendments to the COVID-19 (Temporary Measures) (Alternative Arrangements for Meetings) Orders that are applicable to insolvency-related meetings?**<br>
 
 The following refinements were made in the amendments to the Order: <br>
-
 (a) <i>Real-time electronic voting</i>: as long as certain prescribed safeguards are adopted, and the entity still allows attendees to vote by appointing the Chairman or convenor as the case may be) as their proxy to vote;<br>
-
 (b) <i>Real-time Q&A</i>: as long as the entity also allows attendees to submit matters which they wish to raise at the meeting prior to the meeting by post of electronic mail;<br>
-
 (c) <i>Use of virtual AGM platforms and other electronic means to accept submissions</i>: as long as the entity also allows such submissions by post or electronic mail.<br>
 <br>
