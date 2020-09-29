@@ -41,8 +41,8 @@ This Order does not apply to meetings ordered or directed by the Court. For such
 
 **3.	How long will the alternative arrangements apply?**<br>
 
-The alternative arrangements apply for the period starting on 27 March 2020 and ending on 30 September 2020.<br>
-
+The alternative arrangements apply for the period starting on 27 March 2020 and ending on 30 September 2020.<br><br>
+The amendments to the Order, which came into force on 29 September 2020, has extended the application of the alternative arrangements to 30 June 2021.<br>
 **4.	How can I give notice of the meeting to be held by electronic means?**<br>
 
 The notice of the meeting is to be given as follows:<br>
@@ -58,3 +58,10 @@ online location);<br>
 **5. How can the quorum for the alternative meeting be met?**<br>
 
 The quorum may be met by creditors being personally or electronically present at the meeting. The requirements for verifying electronic presence are set out in the Schedule tothe Order.<br>
+
+**6. What are the other refinements in the amendments to the Order that are applicable to insolvency-related meetings?** <br>
+
+The following refinements were mde in the amendments to the Order, which cam into force on 29 September 2020:<br>
+(a)	Real-time electronic voting: As long as certain prescribed safeguards are adopted and the entity still allows the attendees to vote by appointing the Chairman or convenor (as the case may be) as their proxy to vote. This option applies to meetings held or conducted on or after 1 October 2020, up to the expiry of the Order.<br>
+(b)	Real-time Q&A: As long as the entity also allows the attendees to submit matters which they wish to raise at the meeting prior to the meeting by post or electronic mail.<br>
+
