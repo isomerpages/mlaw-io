@@ -63,7 +63,7 @@ The quorum may be met by creditors being personally or electronically present at
 
 **6. What are the other refinements in the amendments to the Order that are applicable to insolvency-related meetings?** <br>
 
-The following refinements were mde in the amendments to the Order, which cam into force on 29 September 2020:<br>
+The following refinements were made in the amendments to the Order, which came into force on 29 September 2020:<br>
 
 (a)	Real-time electronic voting: As long as certain prescribed safeguards are adopted and the entity still allows the attendees to vote by appointing the Chairman or convenor (as the case may be) as their proxy to vote. This option applies to meetings held or conducted on or after 1 October 2020, up to the expiry of the Order.<br>
 (b)	Real-time Q&A: As long as the entity also allows the attendees to submit matters which they wish to raise at the meeting prior to the meeting by post or electronic mail.<br>
