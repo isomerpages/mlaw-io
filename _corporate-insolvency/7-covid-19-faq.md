@@ -86,3 +86,5 @@ The following refinements were made in the amendments to the Order, which come i
 (b) <i>Real-time Q&A</i>: as long as the entity also allows attendees to submit matters which they wish to raise at the meeting prior to the meeting by post or electronic mail;<br>
 (c) <i>Use of virtual AGM platforms and other electronic means to accept submissions</i>: as long as the entity also allows such submissions by post or electronic mail.<br>
 <br>
+
+More information on the amendments to the Order can be found in https://www.mlaw.gov.sg/news/press-releases/refinements-to-alternative-arrangements-for-meetings.
