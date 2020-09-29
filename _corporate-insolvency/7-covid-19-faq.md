@@ -83,6 +83,6 @@ The quorum may be met by creditors, contributories, members or partners (as the 
 
 The following refinements were made in the amendments to the Order, which come into force on 29 September 2020: <br>
 (a) <i>Real-time electronic voting</i>: as long as certain prescribed safeguards are adopted, and the entity still allows attendees to vote by appointing the Chairman or convenor as the case may be) as their proxy to vote. This option applies to meetings held or conducted on or after 1 October 2020 up to the expiry of the Order;<br>
-(b) <i>Real-time Q&A</i>: as long as the entity also allows attendees to submit matters which they wish to raise at the meeting prior to the meeting by post of electronic mail;<br>
+(b) <i>Real-time Q&A</i>: as long as the entity also allows attendees to submit matters which they wish to raise at the meeting prior to the meeting by post or electronic mail;<br>
 (c) <i>Use of virtual AGM platforms and other electronic means to accept submissions</i>: as long as the entity also allows such submissions by post or electronic mail.<br>
 <br>
