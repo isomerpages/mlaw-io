@@ -87,4 +87,4 @@ The following refinements were made in the amendments to the Order, which come i
 (c) <i>Use of virtual AGM platforms and other electronic means to accept submissions</i>: as long as the entity also allows such submissions by post or electronic mail.<br>
 <br>
 
-More information on the amendments to the Order can be found in https://www.mlaw.gov.sg/news/press-releases/refinements-to-alternative-arrangements-for-meetings.
+More information on the amendments to the Order can be found in  [https://www.mlaw.gov.sg/news/press-releases/refinements-to-alternative-arrangements-for-meetings](https://www.mlaw.gov.sg/news/press-releases/refinements-to-alternative-arrangements-for-meetings){:target="_blank"}.
