@@ -19,9 +19,9 @@ links:
     - title: Bankruptcy
       collection: bankruptcy
     - title: 'Debt Repayment'
-      collection: debt-repayment
+      collection: debt-repayment-scheme
     - title: 'Corp Insolvency'
-      collection: corp-insolvency
+      collection: corporate-insolvency
     - title: e-Service
       url: 'https://eservices.mlaw.gov.sg/io/'
     - title: 'Unclaimed Monies'
