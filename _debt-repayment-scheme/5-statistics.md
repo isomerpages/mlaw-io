@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Statistics
 permalink: /debt-repayment-scheme/statistics/
 breadcrumb: Statistics
-collection_name: debt-repayment-scheme
+
 ---
+
 
 Statistics
 ---
