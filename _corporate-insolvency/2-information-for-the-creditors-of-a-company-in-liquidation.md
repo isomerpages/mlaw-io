@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Information For Creditors 
+title: 'Information For Creditors'
 permalink: /corporate-insolvency/information-for-creditors/
-breadcrumb: Information For Creditors 
-collection_name: corporate-insolvency
+breadcrumb: 'Information For Creditors'
+
 ---
+
 
 Information for Creditors of a Company in Liquidation
 ---
