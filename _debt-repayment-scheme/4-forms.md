@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Forms for Administration
+title: 'Forms for Administration'
 permalink: /debt-repayment-scheme/forms/
-breadcrumb: Forms for Administration
-collection_name: debt-repayment-scheme
-second_nav_title: "Forms"
+breadcrumb: 'Forms for Administration'
+third_nav_title: Forms
+
 ---
+
 Forms for Administration
 ---
 **For debtors**<br>
