@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: IRDA FAQ
+title: 'IRDA FAQ'
 permalink: /corporate-insolvency/IRDA-FAQ/
-breadcrumb: IRDA FAQ
-collection_name: corporate-insolvency
+breadcrumb: 'IRDA FAQ'
+
 ---
+
 
 IRDA FAQ
 ---
