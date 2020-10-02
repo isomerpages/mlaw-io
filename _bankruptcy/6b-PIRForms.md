@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: PIR Forms – IRDA (wef 30 July 2020)
+title: 'PIR Forms – IRDA (wef 30 July 2020)'
 permalink: /bankruptcy/PIRFORMS/
-breadcrumb: PIR Forms – IRDA (wef 30 July 2020)
-collection_name: bankruptcy
-second_nav_title: "Forms"
+breadcrumb: 'PIR Forms – IRDA (wef 30 July 2020)'
+third_nav_title: Forms
+
 ---
+
 
 PIR Forms – IRDA (wef 30 July 2020)
 ---
