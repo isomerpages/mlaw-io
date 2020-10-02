@@ -49,8 +49,6 @@ collections:
     output: true
   debt-repayment-scheme:
     output: true
-  corporate-insolvency:
-    output: true
   unclaimed-monies:
     output: true
   e-services:
