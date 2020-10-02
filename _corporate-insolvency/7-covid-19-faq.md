@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: COVID-19 FAQ
+title: 'COVID-19 FAQ'
 permalink: /corporate-insolvency/COVID-19-FAQ/
-breadcrumb: COVID-19 FAQ
-collection_name: corporate-insolvency
+breadcrumb: 'COVID-19 FAQ'
+
 ---
+
 
 COVID-19 FAQ
 ---
