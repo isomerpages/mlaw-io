@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: About Liquidation or Winding Up
+title: 'About Liquidation or Winding Up'
 permalink: /corporate-insolvency/about-liquidation-or-winding-up/
-breadcrumb: About Liquidation or Winding Up
-collection_name: corporate-insolvency
+breadcrumb: 'About Liquidation or Winding Up'
+
 ---
+
 
 About Liquidation or Winding Up
 ---

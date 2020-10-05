@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Introduction to Bankruptcy Video (English subtitles)
+title: 'Introduction to Bankruptcy Video (English subtitles)'
 permalink: /bankruptcy/introduction-to-bankruptcy-video/english/
-breadcrumb: Introduction to Bankruptcy (English subtitles)
-collection_name: bankruptcy
-second_nav_title: "Introduction to Bankruptcy (Video)"
+breadcrumb: 'Introduction to Bankruptcy (English subtitles)'
+third_nav_title: 'Introduction to Bankruptcy (Video)'
+
 ---
+
 
 Introduction to Bankruptcy Video (English subtitles)
 ---

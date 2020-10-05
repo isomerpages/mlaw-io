@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Statistics
 permalink: /unclaimed-monies/statistics/
 breadcrumb: Statistics
-collection_name: unclaimed-monies
+
 ---
+
 
 Statistics on Amount of Unclaimed Monies held by Insolvency & Public Trustee's Office
 ---

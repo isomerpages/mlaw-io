@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Forms for Administration
+title: 'Forms for Administration'
 permalink: /bankruptcy/forms/
-breadcrumb: Forms for Administration
-collection_name: bankruptcy
-second_nav_title: "Forms"
+breadcrumb: 'Forms for Administration'
+third_nav_title: Forms
+
 ---
+
 
 Forms for Administration
 ---

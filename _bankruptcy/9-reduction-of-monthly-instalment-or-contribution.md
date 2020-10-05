@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Reduction of Monthly Instalment or Contribution
+title: 'Reduction of Monthly Instalment or Contribution'
 permalink: /bankruptcy/reduction-of-monthly-instalment-or-contribution/
-breadcrumb: Reduction of Monthly Instalment or Contribution
-collection_name: bankruptcy
+breadcrumb: 'Reduction of Monthly Instalment or Contribution'
+
 ---
+
 
 
 
