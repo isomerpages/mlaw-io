@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: IRDA-FAQ
 permalink: /bankruptcy/IRDA-FAQ/
 breadcrumb: IRDA-FAQ
-collection_name: bankruptcy
+
 ---
+
 
 FAQs ON INDIVIDUAL INSOLVENCY AND DEBT REPAYMENT SCHEME UNDER THE INSOLVENCY, RESTRUCTURING AND DISSOLUTION ACT 2018 (“IRDA”)
 ---

@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Information On Outstanding Assets of a Defunct Company
+title: 'Information On Outstanding Assets of a Defunct Company'
 permalink: /corporate-insolvency/information-on-outstanding-assets-of-a-defunct-company/
-breadcrumb: Information On Outstanding Assets of a Defunct Company
-collection_name: corporate-insolvency
+breadcrumb: 'Information On Outstanding Assets of a Defunct Company'
+
 ---
+
 
 Information on Outstanding Assets of a Defunct Company
 ---

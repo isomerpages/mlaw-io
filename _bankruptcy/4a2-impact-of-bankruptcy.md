@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Impact of Bankruptcy
+title: 'Impact of Bankruptcy'
 permalink: /bankruptcy/information-for-bankrupts/impact-of-bankruptcy/
-breadcrumb: Impact of Bankruptcy
-collection_name: bankruptcy
-second_nav_title: "Information for Bankrupts"
+breadcrumb: 'Impact of Bankruptcy'
+third_nav_title: 'Information for Bankrupts'
+
 ---
+
 Bankruptcy Application and Impact of Bankruptcy
 ---
 <b> 1. Does the Official Assignee have appointed agents to file bankruptcy applications in the High Court?</b> <br>

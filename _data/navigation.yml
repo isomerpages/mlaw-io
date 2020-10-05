@@ -1,117 +1,31 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-- title: About Us
-  url: https://www.mlaw.gov.sg/about-us/ourvision-mission-corevalues/
-  sub-links:
-  - title: Our Vision and Mission
-    url: https://www.mlaw.gov.sg/about-us/ourvision-mission-corevalues/
-  - title: Our Management
-    url: https://www.mlaw.gov.sg/about-us/our-management/
-  - title: Organisation Structure
-    url: https://www.mlaw.gov.sg/about-us/organisation-structure/
-  - title: Our Legal System
-    url: https://www.mlaw.gov.sg/about-us/our-legal-system/
-  - title: What We Do
-    url: https://www.mlaw.gov.sg/about-us/what-we-do/
-  - title: Contact Us
-    url: https://www.mlaw.gov.sg/about-us/contact-us/
-
-- title: Bankruptcy
-  url: /bankruptcy/who-is-the-official-assignee/
-  sub-links:
-  - title: Who is the Official Assignee?
-    url: /bankruptcy/who-is-the-official-assignee/
-  - title: Pre-Bankruptcy
-    url: /bankruptcy/pre-bankruptcy/
-  - title: Bankruptcy Notice
-    url: /bankruptcy/bankruptcy-notice/
-  - title: Alternatives to Bankruptcy
-    url: /bankruptcy/alternatives-to-bankruptcy/
-  - title: Introduction to Bankruptcy (Video)
-    url: /bankruptcy/introduction-to-bankruptcy-video/english/
-  - title: Information for Bankrupts
-    url: /bankruptcy/information-for-bankrupts/
-  - title: Information for Stakeholders
-    url: /bankruptcy/information-for-stakeholders/bankruptcy-information-sheet-for-creditors/
-  - title: Forms
-    url: /bankruptcy/forms/
-  - title: Statistics
-    url: /bankruptcy/statistics/
-  - title: Practice Circulars
-    url: /bankruptcy/practice-circulars/
-  - title: Reduction of Monthly Instalment or Contribution
-    url: /bankruptcy/reduction-of-monthly-instalment-or-contribution/
-  - title: COVID-19 FAQ
-    url: /bankruptcy/COVID-19-FAQ/
-  - title: IRDA FAQ
-    url: /bankruptcy/IRDA-FAQ/
-  - title: Bankruptcy Flowchart
-    url: /bankruptcy/Bankruptcy-Flowchart/
-    
-- title: Debt Repayment
-  url: /debt-repayment-scheme/about-debt-repayment-scheme/
-  sub-links:
-  - title: About Debt Repayment Scheme
-    url: /debt-repayment-scheme/about-debt-repayment-scheme/
-  - title: Pre-Bankruptcy
-    url: /debt-repayment-scheme/pre-bankruptcy/
-  - title: Introduction to DRS (Video)
-    url: /debt-repayment-scheme/introduction-to-drs-video-english-subtitles/
-  - title: Information For Debtors
-    url: /debt-repayment-scheme/information-for-debtors/
-  - title: Information for Creditors
-    url: /debt-repayment-scheme/information-for-creditors/
-  - title: Forms
-    url: /debt-repayment-scheme/forms/
-  - title: Statistics
-    url: /debt-repayment-scheme/statistics/
-  - title: COVID-19 FAQ
-    url: /debt-repayment-scheme/COVID-19-FAQ/
-  - title: IRDA FAQ
-    url: /debt-repayment-scheme/IRDA-FAQ/
-  - title: DRS Flowchart
-    url: /debt-repayment-scheme/DRS-Flowchart/
-
-- title: Corp Insolvency
-  url: /corporate-insolvency/who-is-the-official-receiver/
-  sub-links:
-  - title: Who is the Official Receiver?
-    url: /corporate-insolvency/who-is-the-official-receiver/
-  - title: About Liquidation or Winding Up
-    url: /corporate-insolvency/about-liquidation-or-winding-up/
-  - title: Information for Creditors
-    url: /corporate-insolvency/information-for-creditors/
-  - title: Information on Outstanding Assets of a Defunct Company
-    url: /corporate-insolvency/information-on-outstanding-assets-of-a-defunct-company/
-  - title: Forms & Guides
-    url: /corporate-insolvency/forms/
-  - title: Statistics
-    url: /corporate-insolvency/statistics/
-  - title: Practice Circulars
-    url: /corporate-insolvency/practice-circulars/
-  - title: COVID-19 FAQ
-    url: /corporate-insolvency/COVID-19-FAQ/
-  - title: IRDA FAQ
-    url: /corporate-insolvency/IRDA-FAQ/
-    
-
-- title: e-Service
-  url: https://eservices.mlaw.gov.sg/io/
-
-- title: Unclaimed Monies
-  url: /unclaimed-monies/bankruptcy/
-  sub-links:
-  - title: Bankruptcy
-    url: /unclaimed-monies/bankruptcy/
-  - title: Corporate Insolvency
-    url: /unclaimed-monies/corporate-insolvency/
-  - title: Statistics
-    url: /unclaimed-monies/statistics/
-
-- title: News 
-  url: "https://www.mlaw.gov.sg/news/"
-  external: true
+logo: /images/mlaw-io-logo.png
+links:
+    - title: 'About Us'
+      false_collection: true
+      url: 'https://www.mlaw.gov.sg/about-us/ourvision-mission-corevalues/'
+      sublinks:
+            - title: 'Our Vision and Mission'
+              url: 'https://www.mlaw.gov.sg/about-us/ourvision-mission-corevalues/'
+            - title: 'Our Management'
+              url: 'https://www.mlaw.gov.sg/about-us/our-management/'
+            - title: 'Organisation Structure'
+              url: 'https://www.mlaw.gov.sg/about-us/organisation-structure/'
+            - title: 'Our Legal System'
+              url: 'https://www.mlaw.gov.sg/about-us/our-legal-system/'
+            - title: 'What We Do'
+              url: 'https://www.mlaw.gov.sg/about-us/what-we-do/'
+            - title: 'Contact Us'
+              url: 'https://www.mlaw.gov.sg/about-us/contact-us/'
+    - title: Bankruptcy
+      collection: bankruptcy
+    - title: 'Debt Repayment'
+      collection: debt-repayment-scheme
+    - title: 'Corp Insolvency'
+      collection: corporate-insolvency
+    - title: e-Service
+      url: 'https://eservices.mlaw.gov.sg/io/'
+    - title: 'Unclaimed Monies'
+      collection: unclaimed-monies
+    - title: News
+      url: 'https://www.mlaw.gov.sg/news/'
+      external: true

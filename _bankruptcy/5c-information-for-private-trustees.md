@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Information for Private Trustees
+title: 'Information for Private Trustees'
 permalink: /bankruptcy/information-for-stakeholders/information-for-private-trustees/
-breadcrumb: Information for Private Trustees
-collection_name: bankruptcy
-second_nav_title: "Information for Stakeholders"
+breadcrumb: 'Information for Private Trustees'
+third_nav_title: 'Information for Stakeholders'
+
 ---
+
 Information for Private Trustees
 ---
 #### Infographic on the Differentiated Discharge Framework (DDF) <br>

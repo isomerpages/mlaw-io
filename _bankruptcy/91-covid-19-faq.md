@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: COVID-19 FAQ
+title: 'COVID-19 FAQ'
 permalink: /bankruptcy/COVID-19-FAQ/
-breadcrumb: COVID-19 FAQ
-collection_name: bankruptcy
+breadcrumb: 'COVID-19 FAQ'
+
 ---
+
 
 **FAQs on COVID-19 (TEMPORARY MEASURES) ACT (RELIEF MEASURES FOR BANKRUPTS)**<br>
 

@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Corporate Insolvency
+title: 'Corporate Insolvency'
 permalink: /unclaimed-monies/corporate-insolvency/
-breadcrumb: Corporate Insolvency
-collection_name: unclaimed-monies
+breadcrumb: 'Corporate Insolvency'
+
 ---
+
 
 Unclaimed Monies
 ---

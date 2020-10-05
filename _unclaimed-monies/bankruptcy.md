@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Bankruptcy
 permalink: /unclaimed-monies/bankruptcy/
 breadcrumb: Bankruptcy
-collection_name: unclaimed-monies
+
 ---
+
 
 Unclaimed Monies
 ---
