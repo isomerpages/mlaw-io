@@ -91,10 +91,12 @@ Creditors (e.g. banks or other financial institutions) who hold security over yo
 The Official Assignee will require any proceeds of sale exceeding that of the value of the secured debt to be remitted to the bankruptcy estate for the benefit of his creditors.  <br>
 
  
+<b> 8. All my bank accounts have been closed. How can I open a new savings account?</b>  <br>
+Upon the making of a Bankruptcy Order, all existing bank accounts of the bankrupt will be closed. Every bankrupt is allowed to maintain only one savings account with approval from the Official Assignee or the Private Trustees-in-Bankruptcy. To seek the Official Assignee’s approval to open a new savings account, click [here](/files/BankApplication.pdf/).
+<br>
+If a Private Trustee-in-Bankruptcy is appointed to administer your bankruptcy estate, please approach your Private Trustee-in-Bankruptcy for the approval.<br>
 
- 
-
-<b> 8. Can creditors take further legal action against me after I have been made bankrupt? </b>  <br>
+<b> 9. Can creditors take further legal action against me after I have been made bankrupt? </b>  <br>
 Creditors cannot take further legal proceedings against you to recover debts incurred <b><u>before</u></b> your bankruptcy.  <br>
  
 If you receive:  <br>
@@ -113,7 +115,7 @@ you should advise your creditors of your bankruptcy status inform them to file a
 
  
 
-<b> 9. Does the Insolvency Office help bankrupts to find employment? </b>  <br>
+<b> 10. Does the Insolvency Office help bankrupts to find employment? </b>  <br>
 
 To help bankrupt individuals in their job search, the Insolvency Office advises bankrupts who require assistance on employment opportunities or job searches on the available avenues for help. <br>
 
