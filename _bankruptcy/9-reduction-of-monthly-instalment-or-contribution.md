@@ -15,5 +15,5 @@ Please complete and submit the 'Request to Reduce Monthly Instalment or Contribu
 The request will be processed within 10 days of receiving the completed request form and documents.<br><br>
 You will be informed of the outcome of the request via email or post.  <br><br>
 
-[Request to Reduce Monthly Instalment or Contribution](/files/reduction.pdf/){:target="_blank"} (210KB)
+[Request to Reduce Monthly Instalment or Contribution](/files/reductionofmiormcform.pdf/){:target="_blank"} (96.6KB)
 
