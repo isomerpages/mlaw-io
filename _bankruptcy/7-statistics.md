@@ -13,4 +13,4 @@ Statistics
 
 **Individual Insolvency**
 
-[Number of Bankruptcy Applications, Orders Made and Discharges as at 31 Oct 2020](/files/NumberofBankruptcyApplicationsOrdersMadeandDischarges(Oct2020).pdf/){:target="_blank"} (55.4KB)
+[Number of Bankruptcy Applications, Orders Made and Discharges as at 30 Nov 2020](/files/NumberofBankruptcyApplicationsOrdersMadeandDischarges(Nov20).pdf/){:target="_blank"} (55.4KB)
