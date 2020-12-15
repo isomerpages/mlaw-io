@@ -32,7 +32,7 @@ Forms for Administration
 
 [Statement of Account of Moneys and Property Received)](/files/StatementofAccountofMoneysandPropertyReceived.pdf/){:target="_blank"} (307KB)
 
-[Request to Reduce Monthly Instalment](/files/reduction.pdf/){:target="_blank"} (210KB)
+[Request to Reduce Monthly Instalment](/files/ReductionofMIorMCform.pdf/){:target="_blank"} (96.6KB)
 
 [Indemnity Form](/files/IndemnityForm.pdf/){:target="_blank"} (478KB)<br>
 
