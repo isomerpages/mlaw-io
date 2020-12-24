@@ -46,6 +46,10 @@ Forms - Insolvency, Restructuring and Dissolution Act (wef 30 July 2020)
   <td>
 <a href="/files/FormsBR-1-BR-9,BR11-BR-17.pdf/" target="_blank">Forms BR-1 - BR-9 & BR-11 - BR-17</a> (545KB)<br>
 
+<a href="/files/FormBR-7-Bankrupt.pdf/" target="_blank">Form BR-7 - Bankrupt (WEF 24/12/2020)</a> (270KB)<br>
+
+<a href="/files/FormBR-7-Creditor.pdf/" target="_blank">Form BR-7 - Creditor (WEF 24/12/2020)</a> (270KB)<br>
+
 <a href="/files/FormBR-10-Trustee'sReport.pdf/" target="_blank">Form BR-10 - Trustee's Report</a> (270KB)<br>
 
 <a href="/files/FormBR-10.xlsx/" target="_blank">Form BR-10</a> (11.7KB)</td>
