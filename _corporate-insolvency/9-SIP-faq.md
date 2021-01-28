@@ -100,7 +100,7 @@ The fee structure is summarised in the table below:  <br>
 Companies may apply for the programmes under the SIP from 29 January 2021 to 28 July 2021. The application period is 6 months.  <br>
 <br>
 
-*APPLICATION REQUIRMENTS - SIMPLIFIED DEBT RESTRUCTURING PROGRAMME*<br>
+*APPLICATION REQUIREMENTS - SIMPLIFIED DEBT RESTRUCTURING PROGRAMME*<br>
 
 **11. What are the requirements for acceptance into the Simplified Debt Restructuring Programme (“SDRP”)?**<br>
 
