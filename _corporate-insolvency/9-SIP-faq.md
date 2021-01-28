@@ -77,7 +77,8 @@ The fee structure is summarised in the table below:  <br>
  <tr>
   <td>Application Fee<br>  
       <i>[To be paid upon submission of application.]</i></td>
-  <td colspan=2 align="center">$450</td>
+  <td align="center">$450</td>
+  <td align="center">$450</td>
    </tr>
  <tr>
   <td>Administration Fee<br>
