@@ -17,8 +17,8 @@ SIMPLIFIED INSOLVENCY PROGRAMME FAQ
 
 **1. What is the Simplified Insolvency Programme (“SIP”)**<br>
 
-The SIP aims to provide simpler, faster, and lower-cost proceedings to assist micro and small companies in need of winding up or restructuring. The SIP comprises two separate programmes:
-   a) **Simplified Debt Restructuring Programme** - Restructuring debts and potential rehabilitation of viable businesses; and 
+The SIP aims to provide simpler, faster, and lower-cost proceedings to assist micro and small companies in need of winding up or restructuring. The SIP comprises two separate programmes:<br>
+   a) **Simplified Debt Restructuring Programme** - Restructuring debts and potential rehabilitation of viable businesses; and <br>
    b) **Simplified Winding Up Programme** - Orderly winding up of non-viable businesses.<br> 
  <br>
 **2. Why is there a need for the Simplified Insolvency Programme (“SIP”)?**<br>
@@ -91,7 +91,8 @@ The fee structure is summarised in the table below:  <br>
   <i>[To be paid directly to the service provider.]</i></td>
   <td><td>To be borne entirely by the company as incurred. </td></td>
  </tr>
-  </table><br>
+  </table>
+  <br>
 
 **10.What is the application period for the Simplified Insolvency Programme (“SIP”)?**<br>
 
