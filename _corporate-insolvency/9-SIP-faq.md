@@ -242,7 +242,7 @@ Applicant Companies("AC") that  successfully restructure their debts under the S
 <i>* Forgiven amounts are those owed to the creditors of the AC which have been waived off under the SDRP.</i><br>
 <br>
 
-*APPLICATION REQUIRMENTS - SIMPLIFIED WINDING UP PROGRAMME*<br>
+*APPLICATION REQUIREMENTS - SIMPLIFIED WINDING UP PROGRAMME*<br>
 
 **22. What are the requirements for a company to be accepted into the Simplified Winding Up Programme (“SWUP”)?**<br>
 
