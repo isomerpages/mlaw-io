@@ -64,4 +64,4 @@ For forms relating to the Insolvency, Restructuring and Dissolution (Corporate I
 
 1. Statement of Affairs for simplified winding up matters
    (a) [Detailed Statement of Affairs](/files/SWUP_Statement%20of%20Affairs.xls/){:target="_blank"} (XLS, 141KB)<br>
-   (b) [Explanatory notes](/files/..... /){:target="_blank"} (118KB)<br>
+   (b) [Explanatory notes](/files/SWUP_SA%20Explanatory%20notes.pdf/){:target="_blank"} (118KB)<br>
