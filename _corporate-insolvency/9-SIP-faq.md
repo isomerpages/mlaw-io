@@ -237,7 +237,7 @@ The deposit of $18,750 paid by the AC, towards the administration fee, takes int
 
 **21. Are there any tax implications or benefits under the Simplified Debt Restructuring Programme (“SDRP”)?**<br>
 
-Companies which successfully restructure their debts under the SDRP will have the forgiven amounts* written back as revenue. Taking into consideration the purpose of SDRP, debts forgiven (including trade debts and loans) under the SDRP will be regarded as capital in nature and hence not subject to income tax. Companies can refer to IRAS website <a href="https://www.iras.gov.sg/irashome/COVID-19-Support-Measures-and-Tax-Guidance/Tax-Guidance/For-Businesses/Tax-Treatment-of-Debts-Forgiven-under-MinLaw-s-Simplified-Debt-Restructuring-Programme/">here</a> for more information on the tax treatment.<br> 
+Companies which successfully restructure their debts under the SDRP will have the forgiven amounts* written back as revenue. Taking into consideration the purpose of SDRP, debts forgiven (including trade debts and loans) under the SDRP will be regarded as capital in nature and hence not subject to income tax. Companies can refer to <a href="https://www.iras.gov.sg/irashome/COVID-19-Support-Measures-and-Tax-Guidance/Tax-Guidance/For-Businesses/Tax-Treatment-of-Debts-Forgiven-under-MinLaw-s-Simplified-Debt-Restructuring-Programme/">IRAS website</a> for more information on the tax treatment.<br> 
 
 <i>* Forgiven amounts are those owed to the creditors of the AC which have been waived off under the SDRP.</i><br>
 <br>
@@ -382,6 +382,6 @@ Upon the realisation of the assets of the AC and upon the assessment that there 
 
 **31. Are GST-registered companies required to apply for deregistration from GST before applying for the Simplified Winding Up Programme (“SWUP”)?**<br>
 
-GST-registered companies who intend to apply for the SWUP are advised to cancel their GST registration before submitting their application for the SWUP. This is to facilitate the eventual liquidation process. Applicants may visit <a href="https://mytax.iras.gov.sg/">IRAS website</a> on Cancelling GST Registration for more information and apply online to cancel GST registration via myTax Portal (Click on GST > Apply for Cancellation of GST Registration).<br>
+GST-registered companies who intend to apply for the SWUP are advised to cancel their GST registration before submitting their application for the SWUP. This is to facilitate the eventual liquidation process. Applicants may visit IRAS website on <a href="https://www.iras.gov.sg/irashome/GST/GST-registered-businesses/Other-services/Cancelling-GST-Registration/">Cancelling GST Registration</a> for more information and apply online to cancel GST registration via <a href="https://mytax.iras.gov.sg/ESVWeb/default.aspx">*myTax Portal*</a>  (Click on GST > Apply for Cancellation of GST Registration).<br>
 <br>
 
