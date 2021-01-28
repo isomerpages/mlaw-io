@@ -23,7 +23,9 @@ For forms relating to the Insolvency, Restructuring and Dissolution (Corporate I
 
 5. [Forms for Insolvency, Restructuring and Dissolution (Insolvency Practitioners) Regulations 2020](/files/Forms%20-%20IRD%20(IP)%20Regs%202020.pdf/){:target="_blank"} (128KB)<br>
 
-6. Statement of Affairs<br>
+6. [Forms for Insolvency, Restructuring and Dissolution (Simplified Debt Restructuring) Regulations 2021](/files/Form%20-%20IRD%20(SDRP)%20Reg%202021.pdf/){:target="_blank"} (141KB)<br>
+
+7. Statement of Affairs for compulsory winding up matters<br>
    (a) [Statement of Affairs and Affidavit (Form CWU-7)](/files/CWU-7%20Statement%20of%20Affairs%20summary_affidavit.docx/){:target="_blank"} (DOCX, 24KB)<br>
    (b) [Schedules](/files/CWU-7%20SA%20schedules.xlsx/){:target="_blank"} (XLSX, 76KB)<br>
    (c) [Explanatory notes](/files/CWU-7%20SA%20explanatory%20notes.pdf/){:target="_blank"} (44KB)<br>
@@ -37,7 +39,7 @@ For forms relating to the Insolvency, Restructuring and Dissolution (Corporate I
 
 3. [Account of Receipts and Payments and Statement of Position in the Winding Up](/files/Acountofreceipts&payments.pdf/){:target="_blank"}(18KB)<br>
 
-4. Statement of Affairs<br>
+4. Statement of Affairs for compulsory winding up matters<br>
    (a) [Statement of Affairs and Affidavit (Forms 61A and 62A)](/files/linkclickfbe0.doc/){:target="_blank"} (DOC, 107KB)<br>
    (b) [Schedules](/files/Schedule_A_L.xls/){:target="_blank"} (XLS, 204KB)<br>
    (c) [Explanatory notes](/files/linkclick99f4.pdf/){:target="_blank"} (49KB)<br>
@@ -48,3 +50,18 @@ For forms relating to the Insolvency, Restructuring and Dissolution (Corporate I
 1. [Application Form to Lay Claim to Asset(s) belonging to a Defunct Company](/files/Application Form to the Official Receiver to Lay Claims.docx/){:target="_blank"} (DOC, 32KB) <br>
 
 2. [Declaration Form to Lay Claim to Asset(s) belonging to a Defunct Company](/files/Declaration Form to the Official Receiver to Lay Claims.docx/){:target="_blank"} (DOC, 29KB)<br>
+<br>
+
+**Forms for Simplified Insolvency Programme**
+
+*Simplified Debt Restructuring Programme*<br>
+   
+1. [Business Plan Template](/files/SDRP_Business%20Plan%20Template.docx){:target="_blank"} (DOCX, 84KB) <br>
+
+2. [Annex A - List of creditors](/files/SDRP_Annex%20A_List%20of%20creditors.xls/){:target="_blank"} (XLS, 31KB)<br>
+
+*Simplified Winding Up Programme*<br>
+
+1. Statement of Affairs for simplified winding up matters<br>
+   (a) [Detailed Statement of Affairs](/files/SWUP_Statement%20of%20Affairs.xls/){:target="_blank"} (XLS, 141KB)<br>
+   (b) [Explanatory notes](/files/SWUP_SA%20Explanatory%20notes.pdf/){:target="_blank"} (118KB)<br>
