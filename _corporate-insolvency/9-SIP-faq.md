@@ -100,7 +100,7 @@ The fee structure is summarised in the table below:  <br>
 Companies may apply for the programmes under the SIP from 29 January 2021 to 28 July 2021. The application period is 6 months.  <br>
 <br>
 
-*APPLICATION REQUIRMENTS - SIMPLIFIED DEBT RESTRUCTURING PROGRAMME*<br>
+*APPLICATION REQUIREMENTS - SIMPLIFIED DEBT RESTRUCTURING PROGRAMME*<br>
 
 **11. What are the requirements for acceptance into the Simplified Debt Restructuring Programme (“SDRP”)?**<br>
 
@@ -242,7 +242,7 @@ Applicant Companies("AC") that  successfully restructure their debts under the S
 <i>* Forgiven amounts are those owed to the creditors of the AC which have been waived off under the SDRP.</i><br>
 <br>
 
-*APPLICATION REQUIRMENTS - SIMPLIFIED WINDING UP PROGRAMME*<br>
+*APPLICATION REQUIREMENTS - SIMPLIFIED WINDING UP PROGRAMME*<br>
 
 **22. What are the requirements for a company to be accepted into the Simplified Winding Up Programme (“SWUP”)?**<br>
 
@@ -371,7 +371,7 @@ Certain costs and expenses may be incurred in the course of administration of th
 The proceeds from the assets realised in the course of the administration will be used to pay for such costs and expenses incurred.<br>
 <br>
 
-*DISTRIBUTION OF DIVIENDS - SIMPLIFIED WINDING UP PROGRAMME*<br>
+*DISTRIBUTION OF DIVIDENDS - SIMPLIFIED WINDING UP PROGRAMME*<br>
 
 **30. How will the creditors of the Applicant Company (“AC”) be paid?**<br>
 
