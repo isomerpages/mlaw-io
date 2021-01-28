@@ -371,7 +371,7 @@ Certain costs and expenses may be incurred in the course of administration of th
 The proceeds from the assets realised in the course of the administration will be used to pay for such costs and expenses incurred.<br>
 <br>
 
-*DISTRIBUTION OF DIVIENDS - SIMPLIFIED WINDING UP PROGRAMME*<br>
+*DISTRIBUTION OF DIVIDENDS - SIMPLIFIED WINDING UP PROGRAMME*<br>
 
 **30. How will the creditors of the Applicant Company (“AC”) be paid?**<br>
 
