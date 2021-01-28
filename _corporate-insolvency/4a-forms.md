@@ -39,7 +39,7 @@ For forms relating to the Insolvency, Restructuring and Dissolution (Corporate I
 
 3. [Account of Receipts and Payments and Statement of Position in the Winding Up](/files/Acountofreceipts&payments.pdf/){:target="_blank"}(18KB)<br>
 
-4. Statement of Affairs<br>
+4. Statement of Affairs for compulsory winding up matters<br>
    (a) [Statement of Affairs and Affidavit (Forms 61A and 62A)](/files/linkclickfbe0.doc/){:target="_blank"} (DOC, 107KB)<br>
    (b) [Schedules](/files/Schedule_A_L.xls/){:target="_blank"} (XLS, 204KB)<br>
    (c) [Explanatory notes](/files/linkclick99f4.pdf/){:target="_blank"} (49KB)<br>
@@ -62,4 +62,6 @@ For forms relating to the Insolvency, Restructuring and Dissolution (Corporate I
 
 *Simplified Winding Up Programme*<br>
 
-1. [Statement of Affairs](/files/SWUP_Statement%20of%20Affairs.xls/){:target="_blank"} (XLS, 141KB)<br>
+1. Statement of Affairs for simplified winding up matters
+   (a) [Detailed Statement of Affairs](/files/SWUP_Statement%20of%20Affairs.xls/){:target="_blank"} (XLS, 141KB)<br>
+   (b) [Explanatory notes](/files/..... /){:target="_blank"} (118KB)<br>
