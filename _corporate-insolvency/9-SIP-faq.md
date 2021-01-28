@@ -84,13 +84,14 @@ The fee structure is summarised in the table below:  <br>
   <i>[To be paid to the OR in the form of a deposit to be accepted into the SIP.]</i>
 </td>
   <td align="center">$18,750</td>
-  <td align="center">$2,700</tr>
+    <td align="center">$2,700</td></tr>
  <tr>
   <td>Fees for additional services, e.g. legal advice, valuation etc.<br>
   <i>[To be paid directly to the service provider.]</i></td>
   <td colspan=2 align="center">To be borne entirely by the company as incurred. </td>
  </tr>
-  </table>
+</table>
+
   <br>
 
 **10.What is the application period for the Simplified Insolvency Programme (“SIP”)?**<br>
