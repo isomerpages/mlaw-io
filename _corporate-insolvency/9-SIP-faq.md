@@ -71,25 +71,24 @@ The fee structure is summarised in the table below:  <br>
 <table>
 <tr>
   <td><b>Applicable fees under the SIP</b></td>
-  <td><b>SDRP</b></td>
-  <td><b>SDRP</b></td>
+  <td align="center"><b>SDRP</b></td>
+  <td align="center"><b>SWUP</b></td>
  </tr>
  <tr>
   <td>Application Fee<br>  
       <i>[To be paid upon submission of application.]</i></td>
-  <td>$450</td>
-  <td>$450</td>
- </tr>
+  <td colspan=2 align="center">$450</td>
+   </tr>
  <tr>
   <td>Administration Fee<br>
   <i>[To be paid to the OR in the form of a deposit to be accepted into the SIP.]</i>
 </td>
-  <td>$18,750</td>
-  <td>$2,700</tr>
+  <td align="center">$18,750</td>
+  <td align="center">$2,700</tr>
  <tr>
   <td>Fees for additional services, e.g. legal advice, valuation etc.<br>
   <i>[To be paid directly to the service provider.]</i></td>
-  <td><td>To be borne entirely by the company as incurred. </td></td>
+  <td colspan=2 align="center">To be borne entirely by the company as incurred. </td>
  </tr>
   </table>
   <br>
