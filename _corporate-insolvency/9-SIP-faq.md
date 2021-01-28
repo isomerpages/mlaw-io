@@ -198,7 +198,7 @@ ACs are advised to seek the assistance of the company accountant or finance pers
 
 A Qualified Person (“QP”) appointed by the Official Receiver (“OR”) will assess whether the AC and its debts have a reasonable prospect of being successfully restructured based on the AC’s Business Plan and supporting documents submitted in the application. At the same time, the OR sends a Notice of Application to the AC and its creditor(s) and publishes the Notice of Application on MinLaw’s website.<br>
 
-If the QP assesses the AC to have fulfilled the eligibility criteria, and is be suitable for the SDRP, and if the OR receives no objections to the AC’s application for the SDRP from the AC’s creditors, the AC will be required to pay a deposit of $18,750, towards the administration fee, to the OR.<br>
+If the QP assesses the AC to have fulfilled the eligibility criteria, and is suitable for the SDRP, and if the OR receives no objections to the AC’s application for the SDRP from the AC’s creditors, the AC will be required to pay a deposit of $18,750, towards the administration fee, to the OR.<br>
 
 Upon payment of the deposit of $18,750, a Notice of Acceptance is published on the MinLaw website, notifying the creditors of the company of the AC’s acceptance into the SDRP.<br>
 
@@ -237,7 +237,7 @@ The deposit of $18,750 paid by the AC, towards the administration fee, takes int
 
 **21. Are there any tax implications or benefits under the Simplified Debt Restructuring Programme (“SDRP”)?**<br>
 
-Companies which successfully restructure their debts under the SDRP will have the forgiven amounts* written back as revenue. Taking into consideration the purpose of SDRP, debts forgiven (including trade debts and loans) under the SDRP will be regarded as capital in nature and hence not subject to income tax. Companies can refer to IRAS website <a href="https://www.iras.gov.sg/irashome/COVID-19-Support-Measures-and-Tax-Guidance/Tax-Guidance/For-Businesses/Tax-Treatment-of-Debts-Forgiven-under-MinLaw-s-Simplified-Debt-Restructuring-Programme/">here</a> for more information on the tax treatment.<br> 
+Applicant Companies("AC") that  successfully restructure their debts under the SDRP will have the forgiven amounts* written back as revenue. Taking into consideration the purpose of SDRP, debts forgiven (including trade debts and loans) under the SDRP will be regarded as capital in nature and hence not subject to income tax. ACs can refer to <a href="https://www.iras.gov.sg/irashome/COVID-19-Support-Measures-and-Tax-Guidance/Tax-Guidance/For-Businesses/Tax-Treatment-of-Debts-Forgiven-under-MinLaw-s-Simplified-Debt-Restructuring-Programme/">IRAS website</a> for more information on the tax treatment.<br> 
 
 <i>* Forgiven amounts are those owed to the creditors of the AC which have been waived off under the SDRP.</i><br>
 <br>
@@ -378,10 +378,10 @@ The proceeds from the assets realised in the course of the administration will b
 Upon the realisation of the assets of the AC and upon the assessment that there are surplus monies available for distribution as dividends to creditors of the AC, the Official Receiver (“OR”) puts up a Notice of Intended Dividend to invite creditors to file their Proofs of Debt with the OR. After the expiry of the Notice of Intended Dividend, the Proofs of Debt filed with the OR are adjudicated and dividends shall be declared and paid to the creditors of the admitted claims via GIRO (for local creditors) or telegraphic transfers (for foreign creditors).<br>
 <br>
 
-*GST REQUIRMENTS - SIMPLIFIED WINDING UP PROGRAMME*<br>
+*GST REQUIREMENTS - SIMPLIFIED WINDING UP PROGRAMME*<br>
 
 **31. Are GST-registered companies required to apply for deregistration from GST before applying for the Simplified Winding Up Programme (“SWUP”)?**<br>
 
-GST-registered companies who intend to apply for the SWUP are advised to cancel their GST registration before submitting their application for the SWUP. This is to facilitate the eventual liquidation process. Applicants may visit <a href="https://mytax.iras.gov.sg/">IRAS website</a> on Cancelling GST Registration for more information and apply online to cancel GST registration via myTax Portal (Click on GST > Apply for Cancellation of GST Registration).<br>
+GST-registered companies who intend to apply for the SWUP are advised to cancel their GST registration before submitting their application for the SWUP. This is to facilitate the eventual liquidation process. Applicant Comapnies may visit IRAS website on <a href="https://www.iras.gov.sg/irashome/GST/GST-registered-businesses/Other-services/Cancelling-GST-Registration/">Cancelling GST Registration</a> for more information and apply online to cancel GST registration via <a href="https://mytax.iras.gov.sg/ESVWeb/default.aspx">*myTax Portal*</a>  (Click on GST > Apply for Cancellation of GST Registration).<br>
 <br>
 
