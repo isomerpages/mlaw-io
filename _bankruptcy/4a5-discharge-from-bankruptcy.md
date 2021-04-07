@@ -38,7 +38,7 @@ In deciding whether to issue a Certificate of Discharge to the bankrupt, the Off
 * The period that the bankrupt has been in bankruptcy;
 * The cause of bankruptcy;
 * The bankrupt's general conduct in bankruptcy and the level of the bankrupt’s co-operation in the administration of the bankruptcy estate;
-* Whether the bankrupt had committed any offenceleading up to or during bankruptcy which adversely impacted one or more creditors. These include (but are not limited to) offences under the Bankruptcy Act, the Insolvency, Restructuring and Dissolution Act and the Penal Code; and
+* Whether the bankrupt had committed any offence leading up to or during bankruptcy which adversely impacted one or more creditors. These include (but are not limited to) offences under the Bankruptcy Act, the Insolvency, Restructuring and Dissolution Act and the Penal Code; and
 * Whether there are valid objections from the bankrupt's creditors to the bankrupt's discharge.
 
 Any indicative timeline for a discharge is <b>not</b> guaranteed. The eventual duration of your bankruptcy will depend on the factors listed above.<br>
