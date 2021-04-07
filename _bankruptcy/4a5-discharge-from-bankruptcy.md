@@ -33,12 +33,15 @@ The High Court will take into consideration the views of the Official Assignee a
 The Official Assignee may discharge the bankrupt from bankruptcy provided at least three years have lapsed since the commencement of the bankruptcy and where the proven debts do not exceed S$500,000.<br>
 
 In deciding whether to issue a Certificate of Discharge to the bankrupt, the Official Assignee will take into consideration factors such as:
-* the cause of bankruptcy;
-* the period of bankruptcy;
-* the bankrupt’s assets and the regularity of his instalment payments to the bankruptcy estate for the benefit of his creditors;
-* the bankrupt’s conduct;
-* the level of the bankrupt’s co-operation given to the Official Assignee in the administration of his bankruptcy affairs; and
-* whether the creditors object to the bankrupt's discharge.
+* Whether the bankrupt has met the Expected Dividend or the Target Contribution;
+* Whether the bankrupt has property available which remain to be realised;
+* The period that the bankrupt has been in bankruptcy;
+* The cause of bankruptcy;
+* The bankrupt's general conduct in bankruptcy and the level of the bankrupt’s co-operation in the administration of the bankruptcy estate;
+* Whether the bankrupt had committed any offence leading up to or during bankruptcy which adversely impacted one or more creditors. These include (but are not limited to) offences under the Bankruptcy Act, the Insolvency, Restructuring and Dissolution Act and the Penal Code; and
+* Whether there are valid objections from the bankrupt's creditors to the bankrupt's discharge.
+
+Any indicative timeline for a discharge is <b>not</b> guaranteed. The eventual duration of your bankruptcy will depend on the factors listed above.<br>
 
 <b>5. What are the processes involved for discharge from bankruptcy?</b><br>
 The Official Assignee will first review the bankrupt’s case to determine its suitability for a discharge from bankruptcy. Depending on the outcome of the review, the bankrupt may have to raise additional funds with the assistance of a third party to make a debt settlement proposal to his creditors.<br>
