@@ -41,7 +41,7 @@ In deciding whether to issue a Certificate of Discharge to the bankrupt, the Off
 * Whether the bankrupt had committed any offenceleading up to or during bankruptcy which adversely impacted one or more creditors. These include (but are not limited to) offences under the Bankruptcy Act, the Insolvency, Restructuring and Dissolution Act and the Penal Code; and
 * Whether there are valid objections from the bankrupt's creditors to the bankrupt's discharge.
 
-Any indicative timeline for a discharge is <b><u>not</u></b> guaranteed. The eventual duration of your bankruptcy will depend on the factors listed above.<br>
+Any indicative timeline for a discharge is <b>not</b> guaranteed. The eventual duration of your bankruptcy will depend on the factors listed above.<br>
 
 <b>5. What are the processes involved for discharge from bankruptcy?</b><br>
 The Official Assignee will first review the bankrupt’s case to determine its suitability for a discharge from bankruptcy. Depending on the outcome of the review, the bankrupt may have to raise additional funds with the assistance of a third party to make a debt settlement proposal to his creditors.<br>
