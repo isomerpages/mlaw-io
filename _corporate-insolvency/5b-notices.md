@@ -11,7 +11,6 @@ Notices
 ---
 
 <u><b>Insolvency, Restructuring and Dissolution Act 2018 (No. 40 of 2018) </b></u>
-
 <br>
 
 **Insolvency, Restructuring and Dissolution (Simplified Winding Up) Regulations 2021**
