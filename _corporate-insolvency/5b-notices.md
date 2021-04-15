@@ -1,7 +1,8 @@
 ---
-title: Statistics
+title: Notices
 permalink: /corporate-insolvency/notices/
 breadcrumb: Notices
+third_nav_title: 'Statistics & Notices'
 
 ---
 
