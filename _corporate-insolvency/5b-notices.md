@@ -15,6 +15,7 @@ Notices
 
 **Insolvency, Restructuring and Dissolution (Simplified Winding Up) Regulations 2021**
 
+[11-Jun-2021 Notice of Acceptance into Simplified Winding Up Programme](/files/11-06-2021%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (82.9KB) <br>
 [04-Jun-2021 Notice of Application into Simplified Winding Up Programme](/files/04-06-2021%20Application%20SWU.pdf/){:target="_blank"} (285KB) <br>
 [21-May-2021 Notice of Rejection for Simplified Winding Up Programme](/files/21-05-2021%20Notice%20of%20Rejection.pdf){:target="_blank"} (282KB) <br>
 [14-May-2021 Notice of Rejection for Simplified Winding Up Programme](/files/14-05-2021%20Notice%20of%20Rejection.pdf){:target="_blank"} (282KB) <br>
