@@ -60,5 +60,5 @@ b) Any other document evidencing that you are entitled to the unclaimed monies.
 **Official Receiver**<br>
 * [Unpresented Cheques](/files/CWUnpresentedCheques31032021.pdf/){:target="_blank"}(436KB)<br>
 * [Unclaimed Monies from Winding Up Cases](/files/CWUnclaimedAssets31032021.pdf/){:target="_blank"}(425KB)<br>
-* [Outstanding Monies belonging to Defunct Companies](/files/CWOutstandingAssets31032021.pdf/){:target="_blank"}(751KB)<br>
+* [Outstanding Monies belonging to Defunct Companies](/files/CWOutstandingAssets31032021.pdf/){:target="_blank"}(1.04B)<br>
 
