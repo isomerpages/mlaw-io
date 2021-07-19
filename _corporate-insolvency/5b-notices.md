@@ -17,6 +17,8 @@ Notices
 
 [16-Jul-2021 Notice of Application into Simplified Winding Up Programme](/files/16-07-2021%20Application%20SWU.pdf/){:target="_blank"} (31KB) <br>
 [09-Jul-2021 Notice of Acceptance into Simplified Winding Up Programme](/files/09-07-2021%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (81.5KB) <br>
+[02-Jul-2021 Notice of Acceptance into Simplified Winding Up Programme](/files/02-07-2021%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (80.1KB) <br>
+
 [25-Jun-2021 Notice of Acceptance into Simplified Winding Up Programme](/files/25-06-2021%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (81.5KB) <br>
 [18-Jun-2021 Notice of Application into Simplified Winding Up Programme](/files/18-06-2021%20Application%20SWU.pdf/){:target="_blank"} (162KB) <br>
 [11-Jun-2021 Notice of Acceptance into Simplified Winding Up Programme](/files/11-06-2021%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (82.9KB) <br>
