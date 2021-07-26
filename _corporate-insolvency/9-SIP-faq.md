@@ -18,9 +18,14 @@ SIMPLIFIED INSOLVENCY PROGRAMME FAQ
 **1. What is the Simplified Insolvency Programme (“SIP”)**<br>
 
 The SIP aims to provide simpler, faster, and lower-cost proceedings to assist micro and small companies in need of winding up or restructuring. The SIP comprises two separate programmes:<br>
-   a) **Simplified Debt Restructuring Programme** - Restructuring debts and potential rehabilitation of viable businesses; and <br>
+   a) **Simplified Debt Restructuring Programme ("SDRP")** - Restructuring debts and potential rehabilitation of viable businesses; and <br>
    b) **Simplified Winding Up Programme** - Orderly winding up of non-viable businesses.<br> 
+   
+   For a company under SDRP, the Restructuring Advisor acts as a single point of contact in dealing with multiple classes of creditors to i) develop a restructuring plan, ii) co-ordinate with the creditors to vote on the restructuring plan and iii) have the Court sanction the restructuring plan.<br>
+   
+   For a company with only 1 or 2 major creditor(s), it will be more cost-effective for the company to approach the major creditor(s) directly to negotiate a debt restructuring plan.
  <br>
+   
 **2. Why is there a need for the Simplified Insolvency Programme (“SIP”)?**<br>
 
 The SIP seeks to provide simpler, faster, and lower-cost proceedings to assist micro and small companies which may be unlikely to have the resources to attempt to wind up or restructure their debts on their own. <br>
@@ -97,7 +102,7 @@ The fee structure is summarised in the table below:  <br>
 
 **10.What is the application period for the Simplified Insolvency Programme (“SIP”)?**<br>
 
-Companies may apply for the programmes under the SIP from 29 January 2021 to 28 July 2021. The application period is 6 months.  <br>
+Companies may apply for the programmes under the SIP from 29 January 2021 to 28 July 2022.<br>
 <br>
 
 *APPLICATION REQUIREMENTS - SIMPLIFIED DEBT RESTRUCTURING PROGRAMME*<br>
@@ -230,9 +235,10 @@ Apart from the cost of publishing the required notices in the Gazette, other cos
 
 **20. Are there any subsidies for the Restructuring Advisor’s (“RA”) fees?**
 
-The deposit of $18,750 paid by the AC, towards the administration fee, takes into account an average government subsidy of 25% for companies admitted into the Simplified Debt Restructuring Programme.<br>
+The deposit of $18,750 paid by the AC, towards the administration fee, takes into account an average government subsidy of 25% for companies admitted into the Simplified Debt Restructuring Programme ("SDRP").<br>
+<br> 
+The SDRP is a simplified version of the existing debt restructuring tools in the market (i.e. Judicial Managements and Schemes of Arrangement). Under the SDRP, the RA is intended to act as a single point of contact in dealing with multiple creditors to i) develop a restructuring plan, ii) co-ordinate with the creditors to vote on the restructuring plan and iii) have the Court sanction the restructuring plan. <br>   
 <br>
-
 *TAX IMPLICATIONS - SIMPLIFIED DEBT RESTRUCTURING PROGRAMME*<br>
 
 **21. Are there any tax implications or benefits under the Simplified Debt Restructuring Programme (“SDRP”)?**<br>
@@ -332,6 +338,8 @@ The broad differences are:<br>
 
 </table><br>
 
+   The application has to be submitted by an officer of the AC, i.e. the director or secretary of the AC. If you are making the application and submitting the Statement of Affairs on behalf of the officer of the AC, please attach a Letter of Authorisation from the company officer.<br>
+   <br>
 **25. Will an incomplete set of supporting documents be accepted in the application for the Simplified Winding Up Programme (“SWUP”)?**<br> 
 
 The Official Receiver (“OR”) may request for further supporting documents and information from the Applicant Company (“AC”) which must be submitted within the time period specified by the OR in order for the OR to assess the application. The OR may refuse to consider the application if the further supporting documents and information requested for is not received within the period specified.<br>
