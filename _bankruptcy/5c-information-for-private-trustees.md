@@ -13,7 +13,7 @@ Information for Private Trustees
 [Your Journey Under The New Differentiated Discharge Framework](/files/InfographicJourneyinBankruptcy.pdf)(176KB)<br>
 
 #### Private Trustee in Bankruptcy Portal Guide <br>
-[PTIB Portal Guide 2.0](/files/PTIBPortal2.0-UserGuideV1.0.pdf) (2MB)<br>
+[PTIB Portal 2.0 Guide](/files/PTIBPortal2.0-UserGuideV1.0.pdf) (4.54MB)<br>
 
 #### First Information Report for Public Trustee in Bankruptcy <br>
 [First Information Report for PTIB](/files/FIRST-INFORMATION-REPORT-PTIB-IIDRDS-DDF.docx) (DOC, 26KB) <br>
