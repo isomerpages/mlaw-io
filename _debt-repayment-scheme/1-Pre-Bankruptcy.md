@@ -13,7 +13,7 @@ Pre-Bankruptcy
 <iframe width="560" height="315" src="https://youtu.be/q-JSLUSi08M" title="Misleading Debt Consultancy Ads and More About DRS" alt="Misleading Debt Consultancy Ads and More About DRS" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-#Full Transcripts from Misleading Debt Consultancy Ads and More About DRS video
+Full Transcripts from Misleading Debt Consultancy Ads and More About DRS video
 <details>
   <summary>Part 1: Common Calls received from Members-of-Public or Potential Debtors. Click to expand!</summary>
  <br><br>
