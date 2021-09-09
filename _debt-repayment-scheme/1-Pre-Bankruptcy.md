@@ -12,10 +12,14 @@ Pre-Bankruptcy
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q-JSLUSi08M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div><br>
 
-
+div class="bp-youtube">
 ![Please click her to listen to ur podcast!](/files/MinLaw Confi - DCF thumbnail.png)
-<iframe src="https://anchor.fm/minlaw-confidential/embed/episodes/Misleading-Debt-Consultancy-Ads-e16kskn" height="102px" width="400px" frameborder="0" scrolling="no"></iframe> <br><br>
+<iframe src="https://anchor.fm/minlaw-confidential/embed/episodes/Misleading-Debt-Consultancy-Ads-e16kskn" height="102px" width="400px" frameborder="0" scrolling="no"></iframe> </div><br><br>
 
+<audio controls="controls">
+  <source type="audio/mp3" src="ttps://anchor.fm/minlaw-confidential/embed/episodes/Misleading-Debt-Consultancy-Ads-e16kskn"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
 Full Transcripts from Misleading Debt Consultancy Ads and More About DRS video
 
 <details>
