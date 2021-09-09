@@ -12,7 +12,7 @@ Pre-Bankruptcy
 <iframe width="560" height="315" src="https://youtu.be/q-JSLUSi08M" title="Misleading Debt Consultancy Ads and More About DRS" alt="Misleading Debt Consultancy Ads and More About DRS" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-![alt text - Please click her to listen to ur podcast!](/files/minlaw confi )
+![alt text - Please click her to listen to ur podcast!](/files/MinLaw Confi - DCF thumbnail.png)
 
 ![just like links, you can include titles which appear when hovered](/images/isomer-logo.svg "Isomer Logo")
 Full Transcripts from Misleading Debt Consultancy Ads and More About DRS video
