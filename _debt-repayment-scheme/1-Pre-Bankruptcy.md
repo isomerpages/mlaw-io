@@ -1,11 +1,10 @@
 ---
+
 title: Pre-Bankruptcy
 permalink: /debt-repayment-scheme/pre-bankruptcy/
 breadcrumb: Pre-Bankruptcy
-third_nav_title: 'Pre-Bankruptcy'
+
 ---
-
-
 Pre-Bankruptcy
 ---
 
@@ -13,7 +12,11 @@ Pre-Bankruptcy
 <iframe width="560" height="315" src="https://youtu.be/q-JSLUSi08M" title="Misleading Debt Consultancy Ads and More About DRS" alt="Misleading Debt Consultancy Ads and More About DRS" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+![alt text - Please click her to listen to ur podcast!](/files/minlaw confi )
+
+![just like links, you can include titles which appear when hovered](/images/isomer-logo.svg "Isomer Logo")
 Full Transcripts from Misleading Debt Consultancy Ads and More About DRS video
+
 <details>
   <summary>Part 1: Common Calls received from Members-of-Public or Potential Debtors. Click to expand!</summary>
  <br><br>
