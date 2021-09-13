@@ -13,7 +13,8 @@ Pre-Bankruptcy
 </div><br>
 
 <iframe src="https://anchor.fm/minlaw-confidential/embed/episodes/Misleading-Debt-Consultancy-Ads-e16kskn/a-a6ef792" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
-<a href="https://anchor.fm/minlaw-confidential/embed/episodes/Misleading-Debt-Consultancy-Ads-e16kskn/a-a6ef792" target="_blank">Click here to listen to the podcast!</a>
+
+[Click here to listen to the full podcast!](https://anchor.fm/minlaw-confidential/embed/episodes/Misleading-Debt-Consultancy-Ads-e16kskn/a-a6ef792){:target="_blank"}
 
 Full Transcripts from Misleading Debt Consultancy Ads and More About DRS Podcast
 
@@ -24,7 +25,7 @@ Caller: So I went to this certain debt consultancy firm to seek their advice. Wa
 
 Basically, I want to check. Is it true to be able to be eligible for the Debt Repayment scheme, I need to file a bankruptcy application?<br><br>
 
-MinLaw Services Centre: Yes, sir, that is correct. To be considered for Debt Repayment Scheme, you must first file a bankruptcy application.The bankruptcy application will be heard in the High Court and you may be referred by the court to the Official Assignee to help in assessing your suitability to be placed under Debt Repayment Scheme. Please note that there will be criteria which you have to fulfil, such as the total debt owed is not more than $150,000. And most importantly, you must be employed. Otherwise, you may end up becoming a bankrupt if you do not meet the suitability criteria.<br><br>
+MinLaw Services Centre: Yes, sir, that is correct. To be considered for Debt Repayment Scheme, you must first file a bankruptcy application. The bankruptcy application will be heard in the High Court and you may be referred by the court to the Official Assignee to help in assessing your suitability to be placed under Debt Repayment Scheme. Please note that there will be criteria which you have to fulfil, such as the total debt owed is not more than $150,000, and most importantly, you must be employed. Otherwise, you may end up becoming a bankrupt if you do not meet the suitability criteria.<br><br>
 
 Caller: Wah confirm or not? That’s different from what I heard leh, they said don’t worry.<br><br>
 
