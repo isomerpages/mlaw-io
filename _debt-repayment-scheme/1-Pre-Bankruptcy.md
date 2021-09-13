@@ -10,12 +10,9 @@ Pre-Bankruptcy
 
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q-JSLUSi08M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div><br>
-
-<iframe src="https://anchor.fm/minlaw-confidential/embed/episodes/Misleading-Debt-Consultancy-Ads-e16kskn/a-a6ef792" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+</div>
 
 [Click here to listen to the full podcast!](https://anchor.fm/minlaw-confidential/embed/episodes/Misleading-Debt-Consultancy-Ads-e16kskn/a-a6ef792){:target="_blank"}
-
 Full Transcripts from Misleading Debt Consultancy Ads and More About DRS Podcast
 
 <details>
@@ -66,3 +63,6 @@ If you are still in doubt and would like to find out more about the Debt Repayme
 
 <br>
 [Infographics of A Debtor's Journey ](/files/ADebtorsJourney.pdf/) <br>
+
+
+<iframe src="https://anchor.fm/minlaw-confidential/embed/episodes/Misleading-Debt-Consultancy-Ads-e16kskn/a-a6ef792" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
