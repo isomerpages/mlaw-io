@@ -30,7 +30,9 @@ Forms for Administration
 
 [Application for Official Assignee's Permission to Leave Singapore](/files/ApplicationforOfficialAssigneePermissiontoLeaveSingapore.pdf/){:target="_blank"} (41KB)
 
-[Statement of Account of Moneys and Property Received)](/files/StatementofAccountofMoneysandPropertyReceived.pdf/){:target="_blank"} (307KB)
+[Statement of Account of Moneys and Property Received - BA cases](/files/SMP-BA(7Sep21).pdf/){:target="_blank"} (868KB)
+
+[Statement of Account of Moneys and Property Received - IRDA cases](/files/SMP-IRDA(7Sep21).pdf/){:target="_blank"} (869KB)
 
 [Request to Reduce Monthly Instalment](/files/ReduceMIMC-IID.pdf/){:target="_blank"} (103KB)
 
