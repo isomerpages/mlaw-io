@@ -13,6 +13,7 @@ Pre-Bankruptcy
 </div><br>
 
 <iframe src="https://anchor.fm/minlaw-confidential/embed/episodes/Misleading-Debt-Consultancy-Ads-e16kskn/a-a6ef792" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<a href="https://anchor.fm/minlaw-confidential/embed/episodes/Misleading-Debt-Consultancy-Ads-e16kskn/a-a6ef792" target="_blank">Click here to listen to the podcast!</a>
 
 Full Transcripts from Misleading Debt Consultancy Ads and More About DRS Podcast
 
