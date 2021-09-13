@@ -55,6 +55,6 @@ Please refer to the table below for the new forms. <br>
   <b>Applicant Creditor’s Declaration under section 36 of the IRDA</b>
  </td>
  <td>
-<a href="/files/ApplicantCreditor'sDeclaration(s36IRDA).pdf/" target="_blank">Applicant Creditor's Declaration</a> (677KB)<br>
+<a href="/files/ApplicantCreditor'sDeclaration(s36IRDA).pdf/" target="_blank">Applicant Creditor's Declaration Form</a> (677KB)<br>
  </td>
 </table>
