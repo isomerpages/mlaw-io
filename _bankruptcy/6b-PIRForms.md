@@ -49,4 +49,12 @@ Please refer to the table below for the new forms. <br>
 <a href="/files/FormsPIR-1-PIR-26.pdf/" target="_blank">Forms PIR-1 - PIR-26</a> (566KB)<br>
  </td>
 </tr>
+<tr>
+ <td>2</td>
+ <td>
+  <b>Applicant Creditor’s Declaration under section 36 of the IRDA</b>
+ </td>
+ <td>
+<a href="/files/ApplicantCreditor'sDeclaration(s36IRDA).pdf/" target="_blank">Forms PIR-1 - PIR-26</a> (566KB)<br>
+ </td>
 </table>
