@@ -13,4 +13,4 @@ Statistics
 
 **Individual Insolvency**
 
-[Number of Bankruptcy Applications, Orders Made and Discharges as at 31 August 2021](/files/NumberofBankruptcyApplicationsOrdersMadeandDischarges(Aug2021).pdf/){:target="_blank"} (68.9KB)
+[Number of Bankruptcy Applications, Orders Made and Discharges as at 30 September 2021](/files/NumberofBankruptcyApplicationsOrdersMadeandDischarges(Sep2021).pdf/){:target="_blank"} (68.9KB)
