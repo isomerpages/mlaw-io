@@ -10,7 +10,7 @@ third_nav_title: 'Statistics & Notices'
 Notices 
 ---
 
-<u><b>Insolvency, Restructuring and Dissolution Act 2018 (No. 40 of 2018) </b></u>
+<u><b>INSOLVENCY, RESTRUCTURING AND DISSOLUTION ACT 2018 (NO. 40 of 2018) </b></u>
 <br>
 
 **Insolvency, Restructuring and Dissolution (Simplified Winding Up) Regulations 2021**
@@ -53,3 +53,10 @@ Notices
 [11-Jun-2021 Notice of Acceptance into Simplified Winding Up Programme](/files/11-06-2021%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (82.9KB) <br>
 [21-May-2021 Notice of Rejection for Simplified Winding Up Programme](/files/21-05-2021%20Notice%20of%20Rejection.pdf/){:target="_blank"} (282KB) <br>
 [14-May-2021 Notice of Rejection for Simplified Winding Up Programme](/files/14-05-2021%20Notice%20of%20Rejection.pdf/){:target="_blank"} (282KB) <br>
+<br>
+
+<u><b>OTHER NOTICES </b></u>
+<br>
+
+**UE 800001/2021 Singapore Technologies Electronics Employees' Union**<br>
+[21-Oct-2021 List of Members](/files/UE%20800001%202021%20members.pdf/){:target="_blank"} (334KB) <br>
