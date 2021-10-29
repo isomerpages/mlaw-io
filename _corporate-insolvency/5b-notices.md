@@ -57,8 +57,8 @@ Notices
 <br>
 *Notices of Strking off and Final Accounts*
 <br>
-[29-Oct-2021 Notice of Striking Off for Simplified Winding Up Programme](/files/29-10-2021%20Notice%20of%20Striking%Off.pdf/){:target="_blank"} (78.9KB) <br>
-[29-Oct-2021 Final Accounts for SW19-2021 The Dance Capital Pte Ltd](/files/SW19-2021%Final%Accounts.pdf/){:target="_blank"} (78.9KB) <br>
+[29-Oct-2021 Notice of Striking Off for Simplified Winding Up Programme](/files/29-10-2021%20Notice%20of%20Striking%20Off.pdf/){:target="_blank"} (10.6KB) <br>
+[29-Oct-2021 Final Accounts for SW19-2021 The Dance Capital Pte Ltd](/files/SW19-2021%20Final%20Accounts.pdf/){:target="_blank"} (13.3KB) <br>
 <br>
 <u><b>OTHER NOTICES </b></u>
 <br>
