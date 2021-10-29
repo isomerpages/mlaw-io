@@ -16,7 +16,7 @@ Notices
 **Insolvency, Restructuring and Dissolution (Simplified Winding Up) Regulations 2021**
 <br>
 
-*Notices of Application*
+*(1) Notices of Application*
 <br>
 [08-Oct-2021 Notice of Application into Simplified Winding Up Programme](/files/08-10-2021%20Application%20SWU.pdf/){:target="_blank"} (31.1KB) <br>
 [01-Oct-2021 Notice of Application into Simplified Winding Up Programme](/files/01-10-2021%20Application%20SWU.pdf/){:target="_blank"} (31.1KB) <br>
@@ -35,7 +35,7 @@ Notices
 [16-Apr-2021 Notice of Application into Simplified Winding Up Programme](/files/16-04-2021%20Application%20SWU.pdf/){:target="_blank"} (286KB)
 <br>
 <br>
-*Notices of Acceptance and Rejection*
+*(2) Notices of Acceptance and Rejection*
 <br>
 [22-Oct-2021 Notice of Acceptance for Simplified Winding Up Programme](/files/22-10-2021%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (78.9KB) <br>
 [15-Oct-2021 Notice of Acceptance for Simplified Winding Up Programme](/files/15-10-2021%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (80.5KB) <br>
@@ -55,7 +55,11 @@ Notices
 [21-May-2021 Notice of Rejection for Simplified Winding Up Programme](/files/21-05-2021%20Notice%20of%20Rejection.pdf/){:target="_blank"} (282KB) <br>
 [14-May-2021 Notice of Rejection for Simplified Winding Up Programme](/files/14-05-2021%20Notice%20of%20Rejection.pdf/){:target="_blank"} (282KB) <br>
 <br>
-
+*(3) Notices of Strking off and Final Accounts*
+<br>
+[29-Oct-2021 Notice of Striking Off for Simplified Winding Up Programme](/files/29-10-2021%20Notice%20of%20Striking%20Off.pdf/){:target="_blank"} (10.6KB) and [Final Accounts](/files/SW19-2021%20Final%20Accounts.pdf/){:target="_blank"} (13.3KB) for SW 19/2021 The Dance Capital Pte Ltd <br>
+<br>
+<br>
 <u><b>OTHER NOTICES </b></u>
 <br>
 
