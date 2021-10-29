@@ -55,7 +55,11 @@ Notices
 [21-May-2021 Notice of Rejection for Simplified Winding Up Programme](/files/21-05-2021%20Notice%20of%20Rejection.pdf/){:target="_blank"} (282KB) <br>
 [14-May-2021 Notice of Rejection for Simplified Winding Up Programme](/files/14-05-2021%20Notice%20of%20Rejection.pdf/){:target="_blank"} (282KB) <br>
 <br>
-
+*Notices of Strking off and Final Accounts*
+<br>
+[29-Oct-2021 Notice of Striking Off for Simplified Winding Up Programme](/files/29-10-2021%20Notice%20of%20Striking%Off.pdf/){:target="_blank"} (78.9KB) <br>
+[29-Oct-2021 Final Accounts for SW19-2021 The Dance Capital Pte Ltd](/files/SW19-2021%Final%Accounts.pdf/){:target="_blank"} (78.9KB) <br>
+<br>
 <u><b>OTHER NOTICES </b></u>
 <br>
 
