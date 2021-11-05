@@ -37,6 +37,7 @@ Notices
 <br>
 *(2) Notices of Acceptance and Rejection*
 <br>
+[05-Nov-2021 Notice of Acceptance for Simplified Winding Up Programme](/files/05-11-2021%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (81.3KB) <br>
 [22-Oct-2021 Notice of Acceptance for Simplified Winding Up Programme](/files/22-10-2021%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (78.9KB) <br>
 [15-Oct-2021 Notice of Acceptance for Simplified Winding Up Programme](/files/15-10-2021%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (80.5KB) <br>
 [08-Oct-2021 Notice of Rejection for Simplified Winding Up Programme](/files/08-10-2021%20Notice%20of%20Rejection.pdf/){:target="_blank"} (80.9KB) <br>
@@ -57,6 +58,7 @@ Notices
 <br>
 *(3) Notices of Strking off and Final Accounts*
 <br>
+[05-Nov-2021 Notice of Striking Off for Simplified Winding Up Programme](/files/05-11-2021%20Notice%20of%20Striking%20Off.pdf/){:target="_blank"} (10.6KB) and [Final Accounts](/files/SW6-2021%20Final%20Accounts.pdf/){:target="_blank"} (22.8KB) for SW 6/2021 Eisele Connectors Asia Pte Ltd<br>
 [29-Oct-2021 Notice of Striking Off for Simplified Winding Up Programme](/files/29-10-2021%20Notice%20of%20Striking%20Off.pdf/){:target="_blank"} (10.6KB) and [Final Accounts](/files/SW19-2021%20Final%20Accounts.pdf/){:target="_blank"} (13.3KB) for SW 19/2021 The Dance Capital Pte Ltd <br>
 <br>
 <br>
