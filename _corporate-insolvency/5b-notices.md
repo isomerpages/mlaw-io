@@ -7,8 +7,38 @@ third_nav_title: 'Statistics & Notices'
 ---
 
 
-Notices 
+
+NOTICES 
 ---
+
+*Current Notices*
+-
+<br>
+  
+<u><b>INSOLVENCY, RESTRUCTURING AND DISSOLUTION ACT 2018 (NO. 40 of 2018) </b></u>
+<br>
+
+**Insolvency, Restructuring and Dissolution (Simplified Winding Up) Regulations 2021**
+<br>
+
+*Notices of Acceptance and Rejection*
+<br>
+[05-Nov-2021 Notice of Acceptance for Simplified Winding Up Programme](/files/05-11-2021%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (81.3KB) <br>
+<br>
+*Notices of Strking off and Final Accounts*
+<br>
+[05-Nov-2021 Notice of Striking Off for Simplified Winding Up Programme](/files/05-11-2021%20Notice%20of%20Striking%20Off.pdf/){:target="_blank"} (10.6KB) and [Final Accounts](/files/SW6-2021%20Final%20Accounts.pdf/){:target="_blank"} (22.8KB) for SW 6/2021 Eisele Connectors Asia Pte Ltd<br>
+<br>
+<u><b>OTHER NOTICES </b></u>
+<br>
+
+**UE 800001/2021 Singapore Technologies Electronics Employees' Union**<br>
+[21-Oct-2021 List of Members](/files/UE%20800001%202021%20members.pdf/){:target="_blank"} (334KB) <br>
+<br>
+
+*Past Notices*
+-
+<br>
 
 <u><b>INSOLVENCY, RESTRUCTURING AND DISSOLUTION ACT 2018 (NO. 40 of 2018) </b></u>
 <br>
@@ -59,9 +89,3 @@ Notices
 <br>
 [29-Oct-2021 Notice of Striking Off for Simplified Winding Up Programme](/files/29-10-2021%20Notice%20of%20Striking%20Off.pdf/){:target="_blank"} (10.6KB) and [Final Accounts](/files/SW19-2021%20Final%20Accounts.pdf/){:target="_blank"} (13.3KB) for SW 19/2021 The Dance Capital Pte Ltd <br>
 <br>
-<br>
-<u><b>OTHER NOTICES </b></u>
-<br>
-
-**UE 800001/2021 Singapore Technologies Electronics Employees' Union**<br>
-[21-Oct-2021 List of Members](/files/UE%20800001%202021%20members.pdf/){:target="_blank"} (334KB) <br>
