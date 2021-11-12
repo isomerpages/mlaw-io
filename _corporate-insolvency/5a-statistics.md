@@ -14,5 +14,5 @@ Statistics
 
 **Corporate Insolvency**
 
-[Companies in Compulsory Liquidation](/files/CompaniesLiquidation.pdf/){:target="_blank"} (597KB)
+[Companies in Compulsory Liquidation](/files/CompaniesLiquidation.pdf/){:target="_blank"} (411KB)
 
