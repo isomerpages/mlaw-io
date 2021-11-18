@@ -23,11 +23,13 @@ NOTICES
 
 *Notices of Acceptance and Rejection*
 <br>
+[19-Nov-2021 Notice of Acceptance for Simplified Winding Up Programme](/files/19-11-2021%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (80.4KB) <br>
 [12-Nov-2021 Notice of Acceptance for Simplified Winding Up Programme](/files/12-11-2021%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (79.9KB) <br>
 [05-Nov-2021 Notice of Acceptance for Simplified Winding Up Programme](/files/05-11-2021%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (81.3KB) <br>
 <br>
 *Notices of Strking off and Final Accounts*
 <br>
+[19-Nov-2021 Notice of Striking Off for Simplified Winding Up Programme](/files/19-11-2021%20Notice%20of%20Striking%20Off.pdf/){:target="_blank"} (10.3KB) and [Final Accounts](/files/SW4-2021%20Final%20Accounts.pdf/){:target="_blank"} (190KB) for SW 4/2021 H2SG Technology Pte Ltd<br>
 [05-Nov-2021 Notice of Striking Off for Simplified Winding Up Programme](/files/05-11-2021%20Notice%20of%20Striking%20Off.pdf/){:target="_blank"} (10.6KB) and [Final Accounts](/files/SW6-2021%20Final%20Accounts.pdf/){:target="_blank"} (22.8KB) for SW 6/2021 Eisele Connectors Asia Pte Ltd<br>
 <br>
 <u><b>OTHER NOTICES </b></u>
