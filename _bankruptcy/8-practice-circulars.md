@@ -11,7 +11,7 @@ Practice Circulars
 
 **Practice Circulars For Individual Insolvency**
 
-[OA Practice Circular No. 1 of 2021](/files/OAPracticeCircularNo1of2021.pdf/){:target="_blank"} (79.3KB)
+[OA Practice Circular No. 1 of 2021](/files/OAPracticeCircularNo.1of2021.pdf/){:target="_blank"} (377KB)
 
 [OA Practice Circular No. 3 of 2020](/files/OAPC3of2020.pdf/){:target="_blank"} (79.3KB)
 
