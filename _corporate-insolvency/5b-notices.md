@@ -23,6 +23,7 @@ NOTICES
 
 *Notices of Acceptance and Rejection*
 <br>
+[03-Dec-2021 Notice of Acceptance for Simplified Winding Up Programme](/files/03-12-2021%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (81.8KB) <br>
 [19-Nov-2021 Notice of Acceptance for Simplified Winding Up Programme](/files/19-11-2021%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (80.4KB) <br>
 [12-Nov-2021 Notice of Acceptance for Simplified Winding Up Programme](/files/12-11-2021%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (79.9KB) <br>
 [05-Nov-2021 Notice of Acceptance for Simplified Winding Up Programme](/files/05-11-2021%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (81.3KB) <br>
