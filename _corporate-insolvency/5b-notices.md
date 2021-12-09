@@ -25,6 +25,10 @@ NOTICES
 <br>
 [03-Dec-2021 Notice of Acceptance for Simplified Winding Up Programme](/files/03-12-2021%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (81.8KB) <br>
 <br>
+*Notices of Strking off and Final Accounts*
+<br>
+[10-Dec-2021 Notice of Striking Off for Simplified Winding Up Programme](/files/10-12-2021%20Notice%20of%20Striking%20Off.pdf/){:target="_blank"} (10.7KB) and Final Accounts for [SW 13/2021 Fitness Empire (Orchard) Pte Ltd](/files/SW13-2021%20Final%20Accounts.pdf/){:target="_blank"} (14.9KB) and [SW 20/2021 Aguana Pte Ltd](/files/SW20-2021%20Final%20Accounts.pdf/){:target="_blank"} (12.9KB)<br>
+<br>
 
 <u><b>OTHER NOTICES </b></u>
 <br>
