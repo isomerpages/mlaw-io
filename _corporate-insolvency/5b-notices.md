@@ -21,11 +21,15 @@ NOTICES
 **Insolvency, Restructuring and Dissolution (Simplified Winding Up) Regulations 2021**
 <br>
 
-*Notices of Acceptance and Rejection*
+*(1) Notices of Application*
+<br>
+[17-Dec-2021 Notice of Application into Simplified Winding Up Programme](/files/17-12-2021%20Application%20SWU.pdf/){:target="_blank"} (30.6KB) <br>
+<br>
+*(2) Notices of Acceptance and Rejection*
 <br>
 [03-Dec-2021 Notice of Acceptance for Simplified Winding Up Programme](/files/03-12-2021%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (81.8KB) <br>
 <br>
-*Notices of Strking off and Final Accounts*
+*(3) Notices of Strking off and Final Accounts*
 <br>
 [10-Dec-2021 Notice of Striking Off for Simplified Winding Up Programme](/files/10-12-2021%20Notice%20of%20Striking%20Off.pdf/){:target="_blank"} (10.7KB) and Final Accounts for [Aguana Pte Ltd (SW 20/2021)](/files/SW20-2021%20Final%20Accounts.pdf/){:target="_blank"} (12.9KB) and [Fitness Empire (Orchard) Pte Ltd (SW 13/2021)](/files/SW13-2021%20Final%20Accounts.pdf/){:target="_blank"} (14.9KB)<br>
 <br>
