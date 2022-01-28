@@ -23,11 +23,18 @@ NOTICES
 
 *(1) Notices of Application*
 <br>
+[28-Jan-2022 Notice of Application into Simplified Winding Up Programme](/files/28-01-2022%20Notice%20of%20Application.pdf/){:target="_blank"} (30.1KB) <br>
 [14-Jan-2022 Notice of Application into Simplified Winding Up Programme](/files/14-01-2022%20Application%20SWU.pdf/){:target="_blank"} (30.5KB) <br>
 <br>
 *(2) Notices of Strking off and Final Accounts*
 <br>
 [14-Jan-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/14-01-2022%20Notice%20of%20Striking%20Off.pdf/){:target="_blank"} (10.2KB) and Final Accounts for [Wang Limo Pte Ltd (SW 29/2021)](/files/SW29-2021%20Final%20Account.pdf/){:target="_blank"} (14.8KB) <br>
+<br>
+<br>
+*(3) Notices of Intended Dividend*
+<br>
+[28-Jan-2022 Notice of Intended Dividend for Leck Seng Engineering Pte Ltd (SW 9/2021)](/files/SW9-2021%20NOID.pdf/){:target="_blank"} (34.0KB)<br>
+[28-Jan-2022 Notice of Intended Dividend for ISC Far East Pte Ltd (SW 26/2021)](/files/SW26-2021%20NOID.pdf/){:target="_blank"} (33.9KB)<br>
 <br>
 
 
