@@ -13,4 +13,4 @@ Statistics
 
 **Individual Insolvency**
 
-[Number of Bankruptcy Applications, Orders Made and Discharges as at 31 January 2022](/files/NumberofBankruptcyApplicationsOrdersMadeandDischarges(Jan2022).pdf/){:target="_blank"} (69.4KB)
+[Number of Bankruptcy Applications, Orders Made and Discharges as at 31 January 2022](/files/NumberofBankruptcyApplicationsOrdersMadeandDischarges(Jan22).pdf/){:target="_blank"} (69.4KB)
