@@ -10,7 +10,6 @@ We apologise for any inconvenience caused and assure you that we are working tir
   <br>Please note that with effect from 7 April 2020, MinLaw Services Centre will no longer accept <u><b>cash payments</b></u>. Cash payments can only be made at Singpost Counters islandwide. Payments by NETS can be made at SAM Kiosk, SAM online or SAM Mobile Applications.<br>
 
   <br>With effect from 8 June 2020, bankrupts can apply for the opening of a personal bank account via our new application form. The instructions and the application form is at <a href="https://io.mlaw.gov.sg/bankruptcy/forms/">https://io.mlaw.gov.sg/bankruptcy/forms/</a>.
-permalink: /
 sections:
     - hero:
           title: 'Insolvency Office'
