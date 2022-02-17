@@ -2,8 +2,8 @@
 layout: homepage
 title: 'Insolvency Office'
 notification: >
----
-  GIRO deduction failure for the month of February 2022: A technical issue has affected the GIRO deductions and we are presently working to resolve the issue. Please assist to check your bank account on 25 February 2022 to establish if a GIRO deduction for the month of February 2022 has taken place. If no GIRO deduction has taken place, you may wish to make payment for the month of February 2022 through any SAM Machine or any SingPost office before 28 February 2022.
+
+  <br>GIRO deduction failure for the month of February 2022: A technical issue has affected the GIRO deductions and we are presently working to resolve the issue. Please assist to check your bank account on 25 February 2022 to establish if a GIRO deduction for the month of February 2022 has taken place. If no GIRO deduction has taken place, you may wish to make payment for the month of February 2022 through any SAM Machine or any SingPost office before 28 February 2022.
 
   We apologise for any inconvenience caused and assure you that we are working tirelessly to ensure that there is no further disruption to the GIRO deductions.
 
