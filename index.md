@@ -1,16 +1,7 @@
 ---
 layout: homepage
 title: 'Insolvency Office'
-notification: >
-  On 3rd April, the Multi-Ministry Taskforce announced an elevated set of safe distancing measures, as a circuit breaker to pre-empt the spread of COVID-19.
-  MinLaw’s services will remain accessible with digital and call services as the primary modes of work and service delivery. Please use our <a href="https://eservices.mlaw.gov.sg/io/" target="_blank">e-services</a> to reach us. For more information, please refer <a href="https://www.mlaw.gov.sg/news/announcements/minlaw-services-remain-accessible-amidst-elevated-safe-distancing-measures">here</a>.<br>
-
-  If you need assistance, please call us at 1800 2255 529 or submit an enquiry form. Our case officers will be in touch with you.<br>
-
-  <br>Please note that with effect from 7 April 2020, MinLaw Services Centre will no longer accept <u><b>cash payments</b></u>. Cash payments can only be made at Singpost Counters islandwide. Payments by NETS can be made at SAM Kiosk, SAM online or SAM Mobile Applications.<br>
-
-  <br>With effect from 8 June 2020, bankrupts can apply for the opening of a personal bank account via our new application form. The instructions and the application form is at <a href="https://io.mlaw.gov.sg/bankruptcy/forms/">https://io.mlaw.gov.sg/bankruptcy/forms/</a>.
-permalink: /
+notification: GIRO deduction failure for the month of February 2022. <BR><BR>A technical issue has affected the GIRO deductions and we are presently working to resolve the issue. Please assist to check your bank account on 25 February 2022 to establish if a GIRO deduction for the month of February 2022 has taken place. If no GIRO deduction has taken place, you may wish to make payment for the month of February 2022 through any SAM Machine or any SingPost office before 28 February 2022. <br>We apologise for any inconvenience caused and assure you that we are working tirelessly to ensure that there is no further disruption to the GIRO deductions <br><br>Please note that with effect from 7 April 2020, MinLaw Services Centre will no longer accept <u><b>cash payments</b></u>. Cash payments can only be made at Singpost Counters islandwide. Payments by NETS can be made at SAM Kiosk, SAM online or SAM Mobile Applications.<br><br>With effect from 8 June 2020, bankrupts can apply for the opening of a personal bank account via our new application form. The instructions and the application form is at <a href="https://io.mlaw.gov.sg/bankruptcy/forms/">https://io.mlaw.gov.sg/bankruptcy/forms/</a>.
 sections:
     - hero:
           title: 'Insolvency Office'
@@ -25,4 +16,3 @@ sections:
                   url: /corporate-insolvency/who-is-the-official-receiver/
 
 ---
-
