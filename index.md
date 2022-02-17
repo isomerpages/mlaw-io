@@ -1,19 +1,27 @@
 ---
 layout: homepage
-title: 'Insolvency Office'
-notification: GIRO deduction failure for the month of February 2022. A technical issue has affected the GIRO deductions and we are presently working to resolve the issue. Please assist to check your bank account on 25 February 2022 to establish if a GIRO deduction for the month of February 2022 has taken place. If no GIRO deduction has taken place, you may wish to make payment for the month of February 2022 through any SAM Machine or any SingPost office before 28 February 2022. <br>We apologise for any inconvenience caused and assure you that we are working tirelessly to ensure that there is no further disruption to the GIRO deductions <br>Please note that with effect from 7 April 2020, MinLaw Services Centre will no longer accept <u><b>cash payments</b></u>. Cash payments can only be made at Singpost Counters islandwide. Payments by NETS can be made at SAM Kiosk, SAM online or SAM Mobile Applications.<br>With effect from 8 June 2020, bankrupts can apply for the opening of a personal bank account via our new application form. The instructions and the application form is at <a href="https://io.mlaw.gov.sg/bankruptcy/forms/">https://io.mlaw.gov.sg/bankruptcy/forms/</a>.
+title: 'Legal Aid Bureau'
+permalink: /
+notification: In line with the current safe distancing measures, we will limit the number of visitors to our Ministry of Law Services Centre. <br>All our services remain accessible to the public, with digital and call services as the primary modes of working. <br>As we will be working on reduced staff strength, longer waiting time is expected at the Services Centre. <br>If you and/or accompanying persons are unwell with flu-like symptoms, please refrain from visiting the Ministry of Law Services Centre.<br>Members of the public are therefore encouraged to use our e-services, our Applicants' <a href="https://eservices.mlaw.gov.sg/labesvc/?tabIndex=3">Portal</a> or call us at 1800-2255 529.
 sections:
-    - hero:
-          title: 'Insolvency Office'
-          subtitle: 'Office of the Official Assignee and Official Receiver'
-          background: /images/Hero-Banner-Minlaw.jpg
-          key_highlights:
-                - title: Bankruptcy
-                  url: /bankruptcy/who-is-the-official-assignee/
-                - title: 'Debt Repayment Scheme'
-                  url: /debt-repayment-scheme/about-debt-repayment-scheme/
-                - title: 'Corporate Insolvency'
-                  url: /corporate-insolvency/who-is-the-official-receiver/
+  - hero:
+      title: 'LEGAL AID BUREAU'
+      subtitle: 'Advancing access to justice, the rule of law, the economy and society through policy, law and services.'
+      background: '/images/Hero Banner 2021 v2 aligned.jpg'
+      button: 'Contact Us'
+      url: /about-us/contact-us/
+      key_highlights:
+        - title: 'Apply for Legal Aid'
+          description: 'Our processes and other info'
+          url: /legal-services/how-do-i-apply-for-legal-aid/
+        - title: Internship
+          description: 'Our internship schemes'
+          url: 'https://eservices.mlaw.gov.sg/labesvc/?tabIndex=2'
+        - title: 'Assigned Solicitor'
+          description: 'Info on pro-bono work'
+          url: /lab-volunteer-schemes/assigned-solicitors-scheme/
+        - title: 'Login to Applicant Portal'
+          description: 'Register and get case updates. Our online portal helps you save time.'
+          url: 'https://eservices.mlaw.gov.sg/labesvc/?tabIndex=3'
 
 ---
-
