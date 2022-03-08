@@ -1,0 +1,18 @@
+collections:
+  corporate-insolvency:
+    output: true
+    order:
+      - who-is-the-official-receiver.md
+      - about-liquidation-or-winding-up.md
+      - information-for-creditors.md
+      - information-on-outstanding-assets-of-a-defunct-company.md
+      - Forms & Guides/.keep
+      - Forms & Guides/forms.md
+      - Forms & Guides/guides.md
+      - Statistics & Notices/.keep
+      - Statistics & Notices/statistics.md
+      - Statistics & Notices/notices.md
+      - practice-circulars.md
+      - irda-faq.md
+      - covid-19-faq.md
+      - sip-faq.md
