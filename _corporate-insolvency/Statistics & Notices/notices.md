@@ -2,12 +2,8 @@
 title: Notices
 permalink: /corporate-insolvency/notices/
 breadcrumb: Notices
-third_nav_title: 'Statistics & Notices'
-
+third_nav_title: Statistics & Notices
 ---
-
-
-
 NOTICES 
 ---
 
@@ -23,11 +19,14 @@ NOTICES
 
 *(1) Notices of Application*
 <br>
+[18-Mar-2022 Notice of Application into Simplified Winding Up Programme](/files/18-03-2022%20Application%20SWU.pdf/){:target="_blank"} (31.3KB) 
+<br>
 [04-Mar-2022 Notice of Application into Simplified Winding Up Programme](/files/04-03-2022%20Application%20SWU.pdf/){:target="_blank"} (31.4KB) <br>
 <br>
 *(2) Notices of Acceptance and Rejection*
 <br>
-[04-Mar-2022 Notice of Acceptance for Simplified Winding Up Programme](/files/04-03-2022%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (81.8KB) <br>
+[18-Mar-2022 Notice of Acceptance for Simplified Winding Up Programme](/files/18-03-2022%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (81.8KB) 
+<br>[04-Mar-2022 Notice of Acceptance for Simplified Winding Up Programme](/files/04-03-2022%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (81.8KB) <br>
 [25-Feb-2022 Notice of Acceptance for Simplified Winding Up Programme](/files/25-02-2022%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (80.3KB) <br>
 <br>
 *(3) Notices of Strking off and Final Accounts*
@@ -110,4 +109,3 @@ NOTICES
 **UE 800001/2021 Singapore Technologies Electronics Employees' Union**<br>
 [21-Oct-2021 List of Members](/files/UE%20800001%202021%20members.pdf/){:target="_blank"} (334KB) <br>
 <br>
-
