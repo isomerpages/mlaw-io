@@ -33,7 +33,9 @@ NOTICES
 <br>
 [25-Feb-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/25-02-2022%20Notice%20of%20Striking%20off.pdf/){:target="_blank"} (10.3KB) and Final Accounts for [Million Power Electrical Engineering Pte Ltd (SW 27/2021)](/files/SW27-2021%20Final%20Account.pdf/){:target="_blank"} (18.2KB) <br>
 <br>
-
+*(4) Notices of Intended Dividend*
+<br>
+[25-Feb-2022 Notice of Intended Dividend for Good Old Taste Pte Ltd (SW 7/2021)](/files/SW7-2021%20Notice%20of%20Intended%20Dividend.pdf/){:target="_blank"} (34.0KB)<br>
 
 *Past Notices*
 -
