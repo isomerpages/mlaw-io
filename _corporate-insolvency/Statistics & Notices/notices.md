@@ -32,7 +32,7 @@ NOTICES
 <br>
 *(3) Notices of Strking off and Final Accounts*
 <br>
-[08-Apr-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/08-04-2022%20Notice%20of%20Striking%20off.pdf/){:target="_blank"} (10.3KB) and Final Accounts for [Grandiculus Pte Ltd (SW 8/2021)](/files/SW8-2021%20Final%20Account.pdf/){:target="_blank"} (18.2KB) and [Maxi Mango Pte Ltd Pte Ltd (SW 31/2021)](/files/SW31-2021%20Final%20Account.pdf/){:target="_blank"} (18.2KB)<br>
+[08-Apr-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/08-04-2022%20Notice%20of%20Striking%20off.pdf/){:target="_blank"} (10.3KB) and Final Accounts for [Grandiculus Pte Ltd (SW 8/2021)](/files/SW8-2021%20Final%20Account.pdf/){:target="_blank"} (16.69KB) and [Maxi Mango Pte Ltd Pte Ltd (SW 31/2021)](/files/SW31-2021%20Final%20Account.pdf/){:target="_blank"} (15.23KB)<br>
 [25-Mar-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/25-03-2022%20Notice%20of%20Striking%20off.pdf/){:target="_blank"} (10.3KB) and Final Accounts for [Leck Seng Engineering Pte Ltd (SW 9/2021)](/files/SW9-2021%20Final%20Account.pdf/){:target="_blank"} (18.2KB),  [O Builder Pte Ltd (SW 11/2021)](/files/SW11-2021%20Final%20Account.pdf/) and  [ISC Far East Pte Ltd (SW 26/2021)](/files/SW26-2021%20Final%20Account.pdf/) <br>
 [25-Feb-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/25-02-2022%20Notice%20of%20Striking%20off.pdf/){:target="_blank"} (10.3KB) and Final Accounts for [Million Power Electrical Engineering Pte Ltd (SW 27/2021)](/files/SW27-2021%20Final%20Account.pdf/){:target="_blank"} (18.2KB) <br>
 <br>
