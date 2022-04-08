@@ -28,16 +28,12 @@ NOTICES
 [25-Mar-2021 Notice of Rejection for Simplified Winding Up Programme](/files/25-03-2022%20Notice%20of%20Rejection.pdf/){:target="_blank"} (80.9KB) <br>
 [18-Mar-2022 Notice of Acceptance for Simplified Winding Up Programme](/files/18-03-2022%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (81.8KB) 
 <br>[04-Mar-2022 Notice of Acceptance for Simplified Winding Up Programme](/files/04-03-2022%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (81.8KB) <br>
-[25-Feb-2022 Notice of Acceptance for Simplified Winding Up Programme](/files/25-02-2022%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (80.3KB) <br>
 <br>
 *(3) Notices of Strking off and Final Accounts*
 <br>
+[08-Apr-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/08-04-2022%20Notice%20of%20Striking%20off.pdf/){:target="_blank"} (10.3KB) and Final Accounts for [Grandiculus Pte Ltd (SW 8/2021)](/files/SW8-2021%20Final%20Account.pdf/){:target="_blank"} (16.69KB) and [Maxi Mango Pte Ltd Pte Ltd (SW 31/2021)](/files/SW31-2021%20Final%20Account.pdf/){:target="_blank"} (15.23KB)<br>
 [25-Mar-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/25-03-2022%20Notice%20of%20Striking%20off.pdf/){:target="_blank"} (10.3KB) and Final Accounts for [Leck Seng Engineering Pte Ltd (SW 9/2021)](/files/SW9-2021%20Final%20Account.pdf/){:target="_blank"} (18.2KB),  [O Builder Pte Ltd (SW 11/2021)](/files/SW11-2021%20Final%20Account.pdf/) and  [ISC Far East Pte Ltd (SW 26/2021)](/files/SW26-2021%20Final%20Account.pdf/) <br>
-[25-Feb-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/25-02-2022%20Notice%20of%20Striking%20off.pdf/){:target="_blank"} (10.3KB) and Final Accounts for [Million Power Electrical Engineering Pte Ltd (SW 27/2021)](/files/SW27-2021%20Final%20Account.pdf/){:target="_blank"} (18.2KB) <br>
 <br>
-*(4) Notices of Intended Dividend*
-<br>
-[25-Feb-2022 Notice of Intended Dividend for Good Old Taste Pte Ltd (SW 7/2021)](/files/SW7-2021%20Notice%20of%20Intended%20Dividend.pdf/){:target="_blank"} (34.0KB)<br>
 
 *Past Notices*
 -
@@ -72,6 +68,7 @@ NOTICES
 <br>
 *(2) Notices of Acceptance and Rejection*
 <br>
+[25-Feb-2022 Notice of Acceptance for Simplified Winding Up Programme](/files/25-02-2022%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (80.3KB) <br>
 [03-Dec-2021 Notice of Acceptance for Simplified Winding Up Programme](/files/03-12-2021%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (81.8KB) <br>
 [19-Nov-2021 Notice of Acceptance for Simplified Winding Up Programme](/files/19-11-2021%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (80.4KB) <br>
 [12-Nov-2021 Notice of Acceptance for Simplified Winding Up Programme](/files/12-11-2021%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (79.9KB) <br>
@@ -95,6 +92,7 @@ NOTICES
 <br>
 *(3) Notices of Strking off and Final Accounts*
 <br>
+[25-Feb-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/25-02-2022%20Notice%20of%20Striking%20off.pdf/){:target="_blank"} (10.3KB) and Final Accounts for [Million Power Electrical Engineering Pte Ltd (SW 27/2021)](/files/SW27-2021%20Final%20Account.pdf/){:target="_blank"} (18.2KB) <br>
 [14-Jan-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/14-01-2022%20Notice%20of%20Striking%20Off.pdf/){:target="_blank"} (10.2KB) and Final Accounts for [Wang Limo Pte Ltd (SW 29/2021)](/files/SW29-2021%20Final%20Account.pdf/){:target="_blank"} (14.8KB) <br>
 [10-Dec-2021 Notice of Striking Off for Simplified Winding Up Programme](/files/10-12-2021%20Notice%20of%20Striking%20Off.pdf/){:target="_blank"} (10.7KB) and Final Accounts for [Aguana Pte Ltd (SW 20/2021)](/files/SW20-2021%20Final%20Accounts.pdf/){:target="_blank"} (12.9KB) and [Fitness Empire (Orchard) Pte Ltd (SW 13/2021)](/files/SW13-2021%20Final%20Accounts.pdf/){:target="_blank"} (14.9KB)<br>
 [19-Nov-2021 Notice of Striking Off for Simplified Winding Up Programme](/files/19-11-2021%20Notice%20of%20Striking%20Off.pdf/){:target="_blank"} (10.3KB) and Final Accounts for [H2SG Technology Pte Ltd (SW 4/2021)](/files/SW4-2021%20Final%20Accounts.pdf/):target="_blank"} (190KB)<br>
@@ -103,6 +101,7 @@ NOTICES
 <br>
 *(4) Notices of Intended Dividend*
 <br>
+[25-Feb-2022 Notice of Intended Dividend for Good Old Taste Pte Ltd (SW 7/2021)](/files/SW7-2021%20Notice%20of%20Intended%20Dividend.pdf/){:target="_blank"} (34.0KB)<br>
 [28-Jan-2022 Notice of Intended Dividend for Leck Seng Engineering Pte Ltd (SW 9/2021)](/files/SW9-2021%20NOID.pdf/){:target="_blank"} (34.0KB)<br>
 [28-Jan-2022 Notice of Intended Dividend for ISC Far East Pte Ltd (SW 26/2021)](/files/SW26-2021%20NOID.pdf/){:target="_blank"} (33.9KB)<br>
 <br>
