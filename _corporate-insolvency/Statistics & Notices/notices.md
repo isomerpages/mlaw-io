@@ -38,7 +38,7 @@ NOTICES
 **Insolvency, Restructuring and Dissolution (Simplified Debt Restruturing ) Regulations 2021**
 <br>
 <br>
-*(1) Notices of Acceptance and Rejection into the Simplified Debt Restructuring Programme*
+*(1) Notices of Acceptance and Rejection for Simplified Debt Restructuring Programme*
 <br>
 [14-Apr-2022 Notice of Rejection for Simplified Debt Restructuring Programme](/files/14-04-2022%20Notice%20of%20Rejection.pdf/){:target="_blank"} (80.9KB) <br>
 
