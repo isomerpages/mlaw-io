@@ -40,7 +40,7 @@ NOTICES
 <br>
 *(1) Notices of Acceptance and Rejection for Simplified Debt Restructuring Programme*
 <br>
-[14-Apr-2022 Notice of Rejection for Simplified Debt Restructuring Programme](/files/14-04-2022%20Notice%20of%20Rejection%20in%20SR.pdf/){:target="_blank"} (80.9KB) <br>
+[14-Apr-2022 Notice of Rejection for Simplified Debt Restructuring Programme](/files/14-04-2022%20Notice%20of%20Rejection%20in%20SR.pdf/){:target="_blank"} (81.04KB) <br>
 
 
 *Past Notices*
