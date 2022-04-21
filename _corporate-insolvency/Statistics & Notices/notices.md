@@ -17,23 +17,21 @@ NOTICES
 **Insolvency, Restructuring and Dissolution (Simplified Winding Up) Regulations 2021**
 <br>
 
-*(1) Notices of Application*
+
+
+*(1) Notices of Acceptance and Rejection*
 <br>
-[18-Mar-2022 Notice of Application into Simplified Winding Up Programme](/files/18-03-2022%20Application%20SWU.pdf/){:target="_blank"} (31.3KB) 
+[22-Apr-2022 Notice of Acceptance for Simplified Winding Up Programme](/files/22-04-2022%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (80.9KB) 
 <br>
-[04-Mar-2022 Notice of Application into Simplified Winding Up Programme](/files/04-03-2022%20Application%20SWU.pdf/){:target="_blank"} (31.4KB) <br>
-<br>
-*(2) Notices of Acceptance and Rejection*
-<br>
-[25-Mar-2021 Notice of Rejection for Simplified Winding Up Programme](/files/25-03-2022%20Notice%20of%20Rejection.pdf/){:target="_blank"} (80.9KB) <br>
-[18-Mar-2022 Notice of Acceptance for Simplified Winding Up Programme](/files/18-03-2022%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (81.8KB) 
-<br>[04-Mar-2022 Notice of Acceptance for Simplified Winding Up Programme](/files/04-03-2022%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (81.8KB) <br>
-<br>
-*(3) Notices of Strking off and Final Accounts*
+
+*(2) Notices of Striking off and Final Accounts*
 <br>
 [14-Apr-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/14-04-2022%20Notice%20of%20Striking%20off.pdf/){:target="_blank"} (10.19KB) and Final Accounts for [Newbreed Pte Ltd (SW 28/2021)](/files/SW28-2021%20Final%20Account.pdf/){:target="_blank"} (14.86KB) <br>
 [08-Apr-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/08-04-2022%20Notice%20of%20Striking%20off.pdf/){:target="_blank"} (10.3KB) and Final Accounts for [Grandiculus Pte Ltd (SW 8/2021)](/files/SW8-2021%20Final%20Account.pdf/){:target="_blank"} (16.69KB) and [Maxi Mango Pte Ltd Pte Ltd (SW 31/2021)](/files/SW31-2021%20Final%20Account.pdf/){:target="_blank"} (15.23KB)<br>
-[25-Mar-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/25-03-2022%20Notice%20of%20Striking%20off.pdf/){:target="_blank"} (10.3KB) and Final Accounts for [Leck Seng Engineering Pte Ltd (SW 9/2021)](/files/SW9-2021%20Final%20Account.pdf/){:target="_blank"} (18.2KB),  [O Builder Pte Ltd (SW 11/2021)](/files/SW11-2021%20Final%20Account.pdf/) and  [ISC Far East Pte Ltd (SW 26/2021)](/files/SW26-2021%20Final%20Account.pdf/) <br>
+ <br>
+ *(3) Notices of Dividend*
+<br>
+[22-Apr-2022 Notice of Dividend for Good Old Taste Pte Ltd (SW 7/2021) ](/files/SW7-2021%20Notice%20of%20Dividend.pdf/){:target="_blank"} (10.19KB)  <br>
 <br>
 **Insolvency, Restructuring and Dissolution (Simplified Debt Restruturing ) Regulations 2021**
 <br>
@@ -55,6 +53,9 @@ NOTICES
 
 *(1) Notices of Application*
 <br>
+[18-Mar-2022 Notice of Application into Simplified Winding Up Programme](/files/18-03-2022%20Application%20SWU.pdf/){:target="_blank"} (31.3KB) 
+<br>
+[04-Mar-2022 Notice of Application into Simplified Winding Up Programme](/files/04-03-2022%20Application%20SWU.pdf/){:target="_blank"} (31.4KB) <br>
 [28-Jan-2022 Notice of Application into Simplified Winding Up Programme](/files/28-01-2022%20Notice%20of%20Application.pdf/){:target="_blank"} (30.1KB) <br>
 [14-Jan-2022 Notice of Application into Simplified Winding Up Programme](/files/14-01-2022%20Application%20SWU.pdf/){:target="_blank"} (30.5KB) <br>
 [17-Dec-2021 Notice of Application into Simplified Winding Up Programme](/files/17-12-2021%20Application%20SWU.pdf/){:target="_blank"} (30.6KB) <br>
@@ -76,6 +77,9 @@ NOTICES
 <br>
 *(2) Notices of Acceptance and Rejection*
 <br>
+[25-Mar-2022 Notice of Rejection for Simplified Winding Up Programme](/files/25-03-2022%20Notice%20of%20Rejection.pdf/){:target="_blank"} (80.9KB) <br>
+[18-Mar-2022 Notice of Acceptance for Simplified Winding Up Programme](/files/18-03-2022%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (81.8KB) 
+<br>[04-Mar-2022 Notice of Acceptance for Simplified Winding Up Programme](/files/04-03-2022%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (81.8KB) <br>
 [25-Feb-2022 Notice of Acceptance for Simplified Winding Up Programme](/files/25-02-2022%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (80.3KB) <br>
 [03-Dec-2021 Notice of Acceptance for Simplified Winding Up Programme](/files/03-12-2021%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (81.8KB) <br>
 [19-Nov-2021 Notice of Acceptance for Simplified Winding Up Programme](/files/19-11-2021%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (80.4KB) <br>
@@ -100,6 +104,7 @@ NOTICES
 <br>
 *(3) Notices of Strking off and Final Accounts*
 <br>
+[25-Mar-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/25-03-2022%20Notice%20of%20Striking%20off.pdf/){:target="_blank"} (10.3KB) and Final Accounts for [Leck Seng Engineering Pte Ltd (SW 9/2021)](/files/SW9-2021%20Final%20Account.pdf/){:target="_blank"} (18.2KB),  [O Builder Pte Ltd (SW 11/2021)](/files/SW11-2021%20Final%20Account.pdf/) and  [ISC Far East Pte Ltd (SW 26/2021)](/files/SW26-2021%20Final%20Account.pdf/) <br>
 [25-Feb-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/25-02-2022%20Notice%20of%20Striking%20off.pdf/){:target="_blank"} (10.3KB) and Final Accounts for [Million Power Electrical Engineering Pte Ltd (SW 27/2021)](/files/SW27-2021%20Final%20Account.pdf/){:target="_blank"} (18.2KB) <br>
 [14-Jan-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/14-01-2022%20Notice%20of%20Striking%20Off.pdf/){:target="_blank"} (10.2KB) and Final Accounts for [Wang Limo Pte Ltd (SW 29/2021)](/files/SW29-2021%20Final%20Account.pdf/){:target="_blank"} (14.8KB) <br>
 [10-Dec-2021 Notice of Striking Off for Simplified Winding Up Programme](/files/10-12-2021%20Notice%20of%20Striking%20Off.pdf/){:target="_blank"} (10.7KB) and Final Accounts for [Aguana Pte Ltd (SW 20/2021)](/files/SW20-2021%20Final%20Accounts.pdf/){:target="_blank"} (12.9KB) and [Fitness Empire (Orchard) Pte Ltd (SW 13/2021)](/files/SW13-2021%20Final%20Accounts.pdf/){:target="_blank"} (14.9KB)<br>
