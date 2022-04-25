@@ -53,8 +53,6 @@ NOTICES
 
 *(1) Notices of Application*
 <br>
-[18-Mar-2022 Notice of Application into Simplified Winding Up Programme](/files/18-03-2022%20Application%20SWU.pdf/){:target="_blank"} (31.3KB) 
-<br>
 [04-Mar-2022 Notice of Application into Simplified Winding Up Programme](/files/04-03-2022%20Application%20SWU.pdf/){:target="_blank"} (31.4KB) <br>
 [28-Jan-2022 Notice of Application into Simplified Winding Up Programme](/files/28-01-2022%20Notice%20of%20Application.pdf/){:target="_blank"} (30.1KB) <br>
 [14-Jan-2022 Notice of Application into Simplified Winding Up Programme](/files/14-01-2022%20Application%20SWU.pdf/){:target="_blank"} (30.5KB) <br>
@@ -119,6 +117,15 @@ NOTICES
 [28-Jan-2022 Notice of Intended Dividend for ISC Far East Pte Ltd (SW 26/2021)](/files/SW26-2021%20NOID.pdf/){:target="_blank"} (33.9KB)<br>
 <br>
 <br>
+**Insolvency, Restructuring and Dissolution (Simplified Debt Restruturing ) Regulations 2021**
+<br>
+
+
+*(1) Notices of Application*
+<br>
+[18-Mar-2022 Notice of Application into Simplified Winding Up Programme](/files/18-03-2022%20Application%20SR.pdf/){:target="_blank"} (31.35KB) 
+<br>
+
 <u><b>OTHER NOTICES </b></u>
 <br>
 
