@@ -5,7 +5,7 @@ description: ""
 image: /images/CCS.jpg
 ---
 <div class="image">
- <img src="/images/ccs.jpg" alt="CCS" title="CCS">
+ <img src="/images/ccs.jpg">
 </div>
 
 With effect from 1 May 2022, Credit Counselling Singapore (CCS) is introducing its Bankruptcy
