@@ -16,5 +16,5 @@ record removed.<br>
 The services offered include general enquiry assistance, employment assistance, counselling
 that helps improve financial, mental, emotional and relationship well-being.<br>
 
-Please visit https://ccs.org.sg/brp to sign up for CCS’s bi-monthly information talk to find out
+Please visit [this link ](https://ccs.org.sg/brp/) to sign up for CCS’s bi-monthly information talk to find out
 more!
