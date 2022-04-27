@@ -3,9 +3,6 @@ title: Bankruptcy Rehabilitation Programme by CCS
 permalink: /bankruptcy/brp
 description: ""
 ---
-Who is the Official Assignee?
----
-
 <div class="image">
  <img src="/images/ccs.png" alt="Bankruptcy2.1" title="Bankruptcy2.1">
 </div>
