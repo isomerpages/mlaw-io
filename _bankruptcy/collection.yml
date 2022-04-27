@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - who-is-the-official-assignee.md
-      - Bankruptcy Rehabilitation Programme by CCS.md
       - pre-bankruptcy.md
+      - Bankruptcy Rehabilitation Programme by CCS.md
       - bankruptcy-notice.md
       - alternatives-to-bankruptcy.md
       - Introduction to Bankruptcy (Video)/.keep
