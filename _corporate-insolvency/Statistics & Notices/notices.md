@@ -21,6 +21,7 @@ NOTICES
 
 *(1) Notices of Acceptance and Rejection*
 <br>
+[29-Apr-2022 Notice of Rejection for Simplified Winding Up Programme](/files/29-04-2022%20Notice%20of%20Rejection.pdf/){:target="_blank"} (80.9KB) <br>
 [22-Apr-2022 Notice of Acceptance for Simplified Winding Up Programme](/files/22-04-2022%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (79.71KB) 
 <br>
 
@@ -32,6 +33,11 @@ NOTICES
  *(3) Notices of Dividend*
 <br>
 [22-Apr-2022 Notice of Dividend for Good Old Taste Pte Ltd (SW 7/2021) ](/files/SW7-2021%20Notice%20of%20Dividend.pdf/){:target="_blank"} (10.19KB)  <br>
+<br>
+*(4) Notices of Intended Dividend*
+<br>
+[29-Apr-2022 Notice of Intended Dividend for Lab Digital Pte Ltd (SW 24/2021)](/files/SW24-2021%20Notice%20of%20Intended%20Dividend.pdf/){:target="_blank"} (34.0KB)<br>
+<br>
 <br>
 **Insolvency, Restructuring and Dissolution (Simplified Debt Restruturing ) Regulations 2021**
 <br>
