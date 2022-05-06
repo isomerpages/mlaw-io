@@ -21,6 +21,7 @@ NOTICES
 
 *(1) Notices of Acceptance and Rejection*
 <br>
+[06-May-2022 Notice of Rejection for Simplified Winding Up Programme](/files/06-05-2022%20Notice%20of%20Rejection.pdf/){:target="_blank"} (81.3KB) <br>
 [29-Apr-2022 Notice of Rejection for Simplified Winding Up Programme](/files/29-04-2022%20Notice%20of%20Rejection.pdf/){:target="_blank"} (81.3KB) <br>
 [22-Apr-2022 Notice of Acceptance for Simplified Winding Up Programme](/files/22-04-2022%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (79.71KB) 
 <br>
