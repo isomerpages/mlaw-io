@@ -33,7 +33,7 @@ NOTICES
  <br>
  *(3) Notices of Intended Dividend*
 <br>
-[06-May-2022 Notice of Intended Dividend for Maxi Mango (Singapore) Pte Ltd (SW 30/2021)](/files/SW30-2021%20Notice%20of%20Intended%20Dividend.pdf/){:target="_blank"} (35.0KB)<br>
+[06-May-2022 Notice of Intended Dividend for Maxi Mango (Singapore) Pte Ltd (SW 30/2021)](/files/SW30-2021%20Notice%20of%20Intended%20Dividend.pdf/){:target="_blank"} (31.38KB)<br>
 [29-Apr-2022 Notice of Intended Dividend for Lab Digital Pte Ltd (SW 24/2021)](/files/SW24-2021%20Notice%20of%20Intended%20Dividend.pdf/){:target="_blank"} (31.2KB)<br>
 <br>
  *(4) Notices of Dividend*
