@@ -17,26 +17,30 @@ NOTICES
 **Insolvency, Restructuring and Dissolution (Simplified Winding Up) Regulations 2021**
 <br>
 
-
-
-*(1) Notices of Acceptance and Rejection*
+*(1) Notices of Application*
 <br>
+[13-May-2022 Notice of Application into Simplified Winding Up Programme](/files/13-05-2022%20Application%20SWU.pdf/){:target="_blank"} (31.4KB) <br>
+
+
+*(2) Notices of Acceptance and Rejection*
+<br>
+[13-May-2022 Notice of Acceptance for Simplified Winding Up Programme](/files/13-05-2022%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (79.71KB) <br>
 [06-May-2022 Notice of Rejection for Simplified Winding Up Programme](/files/06-05-2022%20Notice%20of%20Rejection.pdf/){:target="_blank"} (81.3KB) <br>
 [29-Apr-2022 Notice of Rejection for Simplified Winding Up Programme](/files/29-04-2022%20Notice%20of%20Rejection.pdf/){:target="_blank"} (81.3KB) <br>
 [22-Apr-2022 Notice of Acceptance for Simplified Winding Up Programme](/files/22-04-2022%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (79.71KB) 
 <br>
 
-*(2) Notices of Striking off and Final Accounts*
+*(3) Notices of Striking off and Final Accounts*
 <br>
 [14-Apr-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/14-04-2022%20Notice%20of%20Striking%20off.pdf/){:target="_blank"} (10.19KB) and Final Accounts for [Newbreed Pte Ltd (SW 28/2021)](/files/SW28-2021%20Final%20Account.pdf/){:target="_blank"} (14.86KB) <br>
 [08-Apr-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/08-04-2022%20Notice%20of%20Striking%20off.pdf/){:target="_blank"} (10.3KB) and Final Accounts for [Grandiculus Pte Ltd (SW 8/2021)](/files/SW8-2021%20Final%20Account.pdf/){:target="_blank"} (16.69KB) and [Maxi Mango Pte Ltd Pte Ltd (SW 31/2021)](/files/SW31-2021%20Final%20Account.pdf/){:target="_blank"} (15.23KB)<br>
  <br>
- *(3) Notices of Intended Dividend*
+ *(4) Notices of Intended Dividend*
 <br>
 [06-May-2022 Notice of Intended Dividend for Maxi Mango (Singapore) Pte Ltd (SW 30/2021)](/files/SW30-2021%20Notice%20of%20Intended%20Dividend.pdf/){:target="_blank"} (31.38KB)<br>
 [29-Apr-2022 Notice of Intended Dividend for Lab Digital Pte Ltd (SW 24/2021)](/files/SW24-2021%20Notice%20of%20Intended%20Dividend.pdf/){:target="_blank"} (31.2KB)<br>
 <br>
- *(4) Notices of Dividend*
+ *(5) Notices of Dividend*
 <br>
 [22-Apr-2022 Notice of Dividend for Good Old Taste Pte Ltd (SW 7/2021) ](/files/SW7-2021%20Notice%20of%20Dividend.pdf/){:target="_blank"} (10.19KB)  <br>
 <br>
