@@ -19,7 +19,7 @@ NOTICES
 
 *(1) Notices of Application*
 <br>
-[13-May-2022 Notice of Application into Simplified Winding Up Programme](/files/13-05-2022%20Application%20SWU.pdf/){:target="_blank"} (31.4KB) <br>
+[13-May-2022 Notice of Application into Simplified Winding Up Programme](/files/13-05-2022%20Application%20SWU.pdf/){:target="_blank"} (31.27KB) <br>
 
 
 *(2) Notices of Acceptance and Rejection*
