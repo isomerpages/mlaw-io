@@ -1,12 +1,9 @@
 ---
-title: 'Responsibilities and Rights of a Bankrupt'
+title: Responsibilities and Rights of a Bankrupt
 permalink: /bankruptcy/information-for-bankrupts/impact-of-bankruptcy/responsibilities-and-rights/
-breadcrumb: 'Responsibilities and Rights of a Bankrupt'
-third_nav_title: 'Information for Bankrupts'
-
+breadcrumb: Responsibilities and Rights of a Bankrupt
+third_nav_title: Information for Bankrupts
 ---
-
-
 Duties and Responsibilities of a Bankrupt
 ---
 
@@ -27,7 +24,7 @@ You will be required to submit your Income Declaration declaring information on 
  
 
 <b>(c) What are the payment modes for my monthly instalment payments?</b><br>
-You can make your monthly instalment payment through GIRO, Self-service Automated Machines (SAMs) and at [SingPost counters](https://www.singpost.com/). <br>
+You can make your monthly instalment payments [online](https://eservices.mlaw.gov.sg/ecoll/) [(https://eservices.mlaw.gov.sg/ecoll/)](https://eservices.mlaw.gov.sg/ecoll/), through GIRO, Self-service Automated Machines (SAMs) and at SingPost counters. <br>
 
 
 Please note that the MinLaw Services Centre’s counter operating hours are: <br>
@@ -172,4 +169,3 @@ Other bankruptcy offences include:
 * [Impact of Bankruptcy](/bankruptcy/information-for-bankrupts/impact-of-bankruptcy/) <br> 
 * [Assets of a Bankrupt](/bankruptcy/information-for-bankrupts/assets-of-a-bankrupt/) <br> 
 * [Discharge from Bankruptcy](/bankruptcy/information-for-bankrupts/discharge-from-bankruptcy/) <br>
-
