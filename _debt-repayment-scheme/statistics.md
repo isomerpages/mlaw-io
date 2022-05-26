@@ -10,6 +10,6 @@ breadcrumb: Statistics
 
 **Debt Repayment Scheme**
 
-[Number of In-Progress Completed and Failed Cases](/files/NumberofInProgressCompletedandFailedCasesforDRS(Apr22).pdf
+[Number of In-Progress Completed and Failed Cases](/files/NumberofInProgressCompletedandFailedCasesforDRS(Apr22)[](/files/NumberofInProgressCompletedandFailedCasesforDRS(Apr22).pdf).pdf
 
 [DRS Appeal](/files/DRSAppeal.pdf/){:target="_blank"}
