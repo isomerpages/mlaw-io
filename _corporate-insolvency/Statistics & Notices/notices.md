@@ -34,7 +34,7 @@ NOTICES
 
 *(3) Notices of Striking off and Final Accounts*
 <br>
-[27-May-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/27-05-2022%20Notice%20of%20Striking%20off.pdf/){:target="_blank"} (10.19KB) and Final Accounts for [Starwhizewbreed Pte Ltd (SW 28/2021)](/files/SW28-2021%20Final%20Account.pdf/){:target="_blank"} (14.86KB) <br>
+[27-May-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/27-05-2022%20Notice%20of%20Striking%20off.pdf/){:target="_blank"} (10.19KB) and Final Accounts for [Starwhiz Management Pte Ltd (SW 35/2021)](/files/SW35-2021%20Final%20Account.pdf/){:target="_blank"} (14.86KB) <br>
 [14-Apr-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/14-04-2022%20Notice%20of%20Striking%20off.pdf/){:target="_blank"} (10.19KB) and Final Accounts for [Newbreed Pte Ltd (SW 28/2021)](/files/SW28-2021%20Final%20Account.pdf/){:target="_blank"} (14.86KB) <br>
  <br>
  *(4) Notices of Intended Dividend*
