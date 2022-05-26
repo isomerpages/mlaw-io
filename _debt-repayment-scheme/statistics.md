@@ -3,7 +3,7 @@ title: Statistics
 permalink: /debt-repayment-scheme/statistics/
 breadcrumb: Statistics
 ---
-[](/files/NumberofInProgressCompletedandFailedCasesforDRS(Apr22).pdf)Statistics
+[](/files/NumberofInProgressCompletedandFailedCasesforDRS(Apr22).pdf)[](/files/NumberofInProgressCompletedandFailedCasesforDRS(Apr22).pdf)Statistics
 ---
 
 <u><b>Facts & Figures</b></u>
