@@ -36,20 +36,7 @@ NOTICES
   *(4) Notices of Intended Dividend*
 <br>
 [06-May-2022 Notice of Intended Dividend for Maxi Mango (Singapore) Pte Ltd (SW 30/2021)](/files/SW30-2021%20Notice%20of%20Intended%20Dividend.pdf/){:target="_blank"} (31.38KB)<br>
-[29-Apr-2022 Notice of Intended Dividend for Lab Digital Pte Ltd (SW 24/2021)](/files/SW24-2021%20Notice%20of%20Intended%20Dividend.pdf/){:target="_blank"} (31.2KB)<br>
 <br>
- *(5) Notices of Dividend*
-<br>
-[22-Apr-2022 Notice of Dividend for Good Old Taste Pte Ltd (SW 7/2021) ](/files/SW7-2021%20Notice%20of%20Dividend.pdf/){:target="_blank"} (10.19KB)  <br>
-<br>
-<br>
-**Insolvency, Restructuring and Dissolution (Simplified Debt Restruturing ) Regulations 2021**
-<br>
-<br>
-*(1) Notices of Acceptance and Rejection for Simplified Debt Restructuring Programme*
-<br>
-[14-Apr-2022 Notice of Rejection for Simplified Debt Restructuring Programme](/files/14-04-2022%20Notice%20of%20Rejection%20in%20SR.pdf/){:target="_blank"} (81.04KB) <br>
-
 
 *Past Notices*
 -
@@ -126,18 +113,26 @@ NOTICES
 <br>
 *(4) Notices of Intended Dividend*
 <br>
+[29-Apr-2022 Notice of Intended Dividend for Lab Digital Pte Ltd (SW 24/2021)](/files/SW24-2021%20Notice%20of%20Intended%20Dividend.pdf/){:target="_blank"} (31.2KB)<br>
 [25-Feb-2022 Notice of Intended Dividend for Good Old Taste Pte Ltd (SW 7/2021)](/files/SW7-2021%20Notice%20of%20Intended%20Dividend.pdf/){:target="_blank"} (34.0KB)<br>
 [28-Jan-2022 Notice of Intended Dividend for Leck Seng Engineering Pte Ltd (SW 9/2021)](/files/SW9-2021%20NOID.pdf/){:target="_blank"} (34.0KB)<br>
 [28-Jan-2022 Notice of Intended Dividend for ISC Far East Pte Ltd (SW 26/2021)](/files/SW26-2021%20NOID.pdf/){:target="_blank"} (33.9KB)<br>
+
+ *(5) Notices of Dividend*
+<br>
+[22-Apr-2022 Notice of Dividend for Good Old Taste Pte Ltd (SW 7/2021) ](/files/SW7-2021%20Notice%20of%20Dividend.pdf/){:target="_blank"} (10.19KB)  <br>
 <br>
 <br>
 **Insolvency, Restructuring and Dissolution (Simplified Debt Restruturing ) Regulations 2021**
 <br>
-
-
 *(1) Notices of Application*
 <br>
 [18-Mar-2022 Notice of Application into Simplified Winding Up Programme](/files/18-03-2022%20Application%20SR.pdf/){:target="_blank"} (31.35KB) 
+<br>
+<br>
+*(2) Notices of Acceptance and Rejection for Simplified Debt Restructuring Programme*
+<br>
+[14-Apr-2022 Notice of Rejection for Simplified Debt Restructuring Programme](/files/14-04-2022%20Notice%20of%20Rejection%20in%20SR.pdf/){:target="_blank"} (81.04KB) <br>
 <br>
 
 <u><b>OTHER NOTICES </b></u>
