@@ -1,11 +1,8 @@
 ---
-title: 'Information for Creditors'
+title: Information for Creditors
 permalink: /debt-repayment-scheme/information-for-creditors/
-breadcrumb: 'Information for Creditors'
-
+breadcrumb: Information for Creditors
 ---
-
-
 Information for Creditors
 ---
 **1.	Is it compulsory for me to attend the meeting of creditors?**<br>
@@ -30,7 +27,7 @@ Please refer to the [Checklist to Creditors](/debt-repayment-scheme/forms/) for 
 **4.	When will I receive dividend payments from the OA?**<br>
 The OA may only declare and distribute dividends to creditors who have proven their debts by filing a claim against a debtor. If you have yet to file your Proof of Debt, you will be excluded from any dividends that are distributed.<br>
 
-Dividends declared in this respect are made on a half-yearly basis.
+Dividends declared in this respect are made on a yearly basis.
 
 **5.	May I appeal if I disagree with the Debt Repayment Plan (“DRP”) that the OA has approved?**<br>
 If you disagree with the DRP, you may file a Notice of Appeal with the Appeal Panel. This notice must be received no later than 14 days from the date of notice of the OA’s decision on the approved DRP (or Notice of Commencement of DRP). An Appeal Fee of $100 is chargeable upon each application.
