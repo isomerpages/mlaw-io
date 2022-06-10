@@ -20,14 +20,12 @@ NOTICES
 *(1) Notices of Application*
 <br>
 [27-May-2022 Notice of Application into Simplified Winding Up Programme](/files/27-05-2022%20Application%20SWU.pdf/){:target="_blank"} (30.8KB) <br>
-[13-May-2022 Notice of Application into Simplified Winding Up Programme](/files/13-05-2022%20Application%20SWU.pdf/){:target="_blank"} (31.27KB) <br>
+
 
 
 *(2) Notices of Acceptance and Rejection*
 <br>
 [27-May-2022 Notice of Acceptance for Simplified Winding Up Programme](/files/27-05-2022%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (80.5KB) <br>
-[13-May-2022 Notice of Acceptance for Simplified Winding Up Programme](/files/13-05-2022%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (80.12KB) <br>
-[06-May-2022 Notice of Rejection for Simplified Winding Up Programme](/files/06-05-2022%20Notice%20of%20Rejection.pdf/){:target="_blank"} (81.3KB) <br>
 <br>
 *(3) Notices of Striking off and Final Accounts*
 <br>
@@ -35,7 +33,8 @@ NOTICES
  <br>
   *(4) Notices of Intended Dividend*
 <br>
-[06-May-2022 Notice of Intended Dividend for Maxi Mango (Singapore) Pte Ltd (SW 30/2021)](/files/SW30-2021%20Notice%20of%20Intended%20Dividend.pdf/){:target="_blank"} (31.38KB)<br>
+[10-June-2022 Notice of Intended Dividend for BLAVK Pte Ltd (SW 16/2021)](/files/SW16-2021%20Notice%20of%20Intended%20Dividend.pdf/){:target="_blank"} (31.38KB<br>
+
 <br>
 
 *Past Notices*
@@ -50,6 +49,7 @@ NOTICES
 
 *(1) Notices of Application*
 <br>
+[13-May-2022 Notice of Application into Simplified Winding Up Programme](/files/13-05-2022%20Application%20SWU.pdf/){:target="_blank"} (31.27KB) <br>
 [04-Mar-2022 Notice of Application into Simplified Winding Up Programme](/files/04-03-2022%20Application%20SWU.pdf/){:target="_blank"} (31.4KB) <br>
 [28-Jan-2022 Notice of Application into Simplified Winding Up Programme](/files/28-01-2022%20Notice%20of%20Application.pdf/){:target="_blank"} (30.1KB) <br>
 [14-Jan-2022 Notice of Application into Simplified Winding Up Programme](/files/14-01-2022%20Application%20SWU.pdf/){:target="_blank"} (30.5KB) <br>
@@ -72,6 +72,8 @@ NOTICES
 <br>
 *(2) Notices of Acceptance and Rejection*
 <br>
+[13-May-2022 Notice of Acceptance for Simplified Winding Up Programme](/files/13-05-2022%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (80.12KB) <br>
+[06-May-2022 Notice of Rejection for Simplified Winding Up Programme](/files/06-05-2022%20Notice%20of%20Rejection.pdf/){:target="_blank"} (81.3KB) <br>
 [29-Apr-2022 Notice of Rejection for Simplified Winding Up Programme](/files/29-04-2022%20Notice%20of%20Rejection.pdf/){:target="_blank"} (81.3KB) <br>
 [22-Apr-2022 Notice of Acceptance for Simplified Winding Up Programme](/files/22-04-2022%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (79.71KB) <br>
 [25-Mar-2022 Notice of Rejection for Simplified Winding Up Programme](/files/25-03-2022%20Notice%20of%20Rejection.pdf/){:target="_blank"} (80.9KB) <br>
@@ -113,6 +115,7 @@ NOTICES
 <br>
 *(4) Notices of Intended Dividend*
 <br>
+[06-May-2022 Notice of Intended Dividend for Maxi Mango (Singapore) Pte Ltd (SW 30/2021)](/files/SW30-2021%20Notice%20of%20Intended%20Dividend.pdf/){:target="_blank"} (31.38KB)<br>
 [29-Apr-2022 Notice of Intended Dividend for Lab Digital Pte Ltd (SW 24/2021)](/files/SW24-2021%20Notice%20of%20Intended%20Dividend.pdf/){:target="_blank"} (31.2KB)<br>
 [25-Feb-2022 Notice of Intended Dividend for Good Old Taste Pte Ltd (SW 7/2021)](/files/SW7-2021%20Notice%20of%20Intended%20Dividend.pdf/){:target="_blank"} (34.0KB)<br>
 [28-Jan-2022 Notice of Intended Dividend for Leck Seng Engineering Pte Ltd (SW 9/2021)](/files/SW9-2021%20NOID.pdf/){:target="_blank"} (34.0KB)<br>
