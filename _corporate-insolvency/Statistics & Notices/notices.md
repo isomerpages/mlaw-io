@@ -25,7 +25,7 @@ NOTICES
 
 *(2) Notices of Acceptance and Rejection*
 <br>
-[24-Jun-2022 Notice of Acceptance for Simplified Winding Up Programme](/files/24-06-2022%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (80.5KB) <br>
+[24-Jun-2022 Notice of Acceptance for Simplified Winding Up Programme](/files/24-06-2022%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (79.92KB) <br>
 [27-May-2022 Notice of Acceptance for Simplified Winding Up Programme](/files/27-05-2022%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (80.5KB) <br>
 <br>
 *(3) Notices of Striking off and Final Accounts*
