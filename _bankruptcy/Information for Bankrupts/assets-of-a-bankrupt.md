@@ -1,12 +1,9 @@
 ---
-title: 'Assets of a Bankrupt'
+title: Assets of a Bankrupt
 permalink: /bankruptcy/information-for-bankrupts/assets-of-a-bankrupt/
-breadcrumb: 'Assets of a Bankrupt'
-third_nav_title: 'Information for Bankrupts'
-
+breadcrumb: Assets of a Bankrupt
+third_nav_title: Information for Bankrupts
 ---
-
-
 Assets of a Bankrupt
 ---
 
@@ -36,7 +33,19 @@ The Official Assignee’s consent is not required if you are purchasing a 5 room
 
 In the event that you wish to purchase a HDB executive/maisonette flat, you must submit your [application form](/files/linkclick7ecb.doc){:target="_blank"}(DOC, 102 KB) for the Official Assignee’s consideration. You are required to prove that you have both the means and the need for such a flat. Your conduct and co-operation will also be considered when assessing such applications.<br>
 
-**5. Do I need to pay for the administration of my bankruptcy affairs?**<br>
+**5. Can I use the monies in my CPF Ordinary Account to purchase a private property?<br>
+
+Please note that a bankrupt's private property vest in the Official Assignee or the Private Trustee-In-Bankruptcy, as the case may be, upon the making of the Bankruptcy Order.<br>
+
+With effect from 1 July 2022, you will need to obtain the consent of the Official Assignee or the Private Trustee-In-Bankruptcy before you apply to the Central Provident Fund Board for the use of the monies in your Ordinary Account during the period of your bankruptcy, if you intend to :-<br>
+
+(i) use the monies in your CPF Ordinary Account to pay towards the mortgage for your private property purchased before the making of the Bankruptcy Order, or<br>
+
+(ii) use the monies in your CPF Ordinary Account to purchase a private property during your bankruptcy<br>
+
+You are required to prove that you have the need for the private property and your conduct and cooperation in the administration of your bankruptcy estate will be taken into considering when assessing such an application.<br>
+
+**6. Do I need to pay for the administration of my bankruptcy affairs?**<br>
 You will need to bear the costs incurred by the creditor who commenced the bankruptcy proceedings, i.e. the petitioning creditor's deposit to the Official Assignee, the petitioning creditor’s solicitor's fees and disbursements incurred in making the Bankruptcy Order against you.<br>
 
 The Official Assignee also deducts a fee from proceeds of assets realised, or deposits placed into your bankruptcy estate. The rates of the fees charged are as follows:
