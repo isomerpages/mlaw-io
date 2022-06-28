@@ -33,7 +33,7 @@ The Official Assignee’s consent is not required if you are purchasing a 5 room
 
 In the event that you wish to purchase a HDB executive/maisonette flat, you must submit your [application form](/files/linkclick7ecb.doc){:target="_blank"}(DOC, 102 KB) for the Official Assignee’s consideration. You are required to prove that you have both the means and the need for such a flat. Your conduct and co-operation will also be considered when assessing such applications.<br>
 
-**5. Can I use the monies in my CPF Ordinary Account to purchase a private property?<br>
+**5. Can I use the monies in my CPF Ordinary Account to purchase a private property?**<br>
 
 Please note that a bankrupt's private property vest in the Official Assignee or the Private Trustee-In-Bankruptcy, as the case may be, upon the making of the Bankruptcy Order.<br>
 
