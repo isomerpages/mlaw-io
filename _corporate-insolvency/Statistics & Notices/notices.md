@@ -42,7 +42,7 @@ NOTICES
 <br>
  *(6) Notices of Intended Dissolution and Final Accounts*
 <br>
-[1-Jul-2022 Notice of Intended Dissolution](/files/SW7-2021%20Notice%20of%20Intended%20Dissolution.pdf/){:target="_blank"} (10.19KB)and Final Accounts for [Good Old Taste Pte Ltd (SW 7-2021)](/files/SW7-2021%20Final%20Account.pdf/){:target="_blank"} (20.16KB) <br>  <br>
+[1-Jul-2022 Notice of Intended Dissolution](/files/SW7-2021%20Notice%20of%20Intended%20Dissolution.pdf/){:target="_blank"} (9.559KB)and Final Accounts for [Good Old Taste Pte Ltd (SW 7-2021)](/files/SW7-2021%20Final%20Account.pdf/){:target="_blank"} (20.16KB) <br>  <br>
 
 *Past Notices*
 -
