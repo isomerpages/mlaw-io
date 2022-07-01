@@ -33,7 +33,7 @@ NOTICES
  <br>
   *(4) Notices of Intended Dividend*
 <br>
-[1-Jul-2022 Notice of Intended Dividend for Delight 8 Cafe Pte Ltd (SW 2-2021)](/files/SW2-2021%20Notice%20of%20Intended%20Dividend.pdf/){:target="_blank"} (31.38KB)<br>
+[1-Jul-2022 Notice of Intended Dividend for Delight 8 Cafe Pte Ltd (SW 2-2021)](/files/SW2-2021%20Notice%20of%20Intended%20Dividend.pdf/){:target="_blank"} (11.66KB)<br>
 [10-Jun-2022 Notice of Intended Dividend for BLAVK Pte Ltd (SW 16/2021)](/files/SW16-2021%20Notice%20of%20Intended%20Dividend.pdf/){:target="_blank"} (31.38KB)<br>
 <br>
  *(5) Notices of Dividend*
