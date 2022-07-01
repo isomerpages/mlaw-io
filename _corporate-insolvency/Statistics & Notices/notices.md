@@ -17,28 +17,23 @@ NOTICES
 **Insolvency, Restructuring and Dissolution (Simplified Winding Up) Regulations 2021**
 <br>
 
-*(1) Notices of Application*
-<br>
-[27-May-2022 Notice of Application into Simplified Winding Up Programme](/files/27-05-2022%20Application%20SWU.pdf/){:target="_blank"} (30.8KB) <br>
 
-
-
-*(2) Notices of Acceptance and Rejection*
+*(1) Notices of Acceptance and Rejection*
 <br>
 [24-Jun-2022 Notice of Acceptance for Simplified Winding Up Programme](/files/24-06-2022%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (79.92KB) <br>
-[27-May-2022 Notice of Acceptance for Simplified Winding Up Programme](/files/27-05-2022%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (80.5KB) <br>
 <br>
-*(3) Notices of Striking off and Final Accounts*
+  *(2) Notices of Intended Dividend*
 <br>
-[27-May-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/27-05-2022%20Notice%20of%20Striking%20off.pdf/){:target="_blank"} (10.21KB) and Final Accounts for [Starwhiz Management Pte Ltd (SW 35/2021)](/files/SW35-2021%20Final%20Account.pdf/){:target="_blank"} (23.37KB) <br>
- <br>
-  *(4) Notices of Intended Dividend*
+[1-Jul-2022 Notice of Intended Dividend for Delight 8 Cafe Pte Ltd (SW 2-2021)](/files/SW2-2021%20Notice%20of%20Intended%20Dividend.pdf/){:target="_blank"} (11.66KB)<br>
+[10-Jun-2022 Notice of Intended Dividend for BLAVK Pte Ltd (SW 16/2021)](/files/SW16-2021%20Notice%20of%20Intended%20Dividend.pdf/){:target="_blank"} (31.38KB)<br>
 <br>
-[10-Jun-2022 Notice of Intended Dividend for BLAVK Pte Ltd (SW 16/2021)](/files/SW16-2021%20Notice%20of%20Intended%20Dividend.pdf/){:target="_blank"} (31.38KB<br>
-<br>
- *(5) Notices of Dividend*
+ *(3) Notices of Dividend*
 <br>
 [24-Jun-2022 Notice of Dividend for Lab Digital Pte Ltd (SW 24/2021) ](/files/SW24-2021%20Notice%20of%20Dividend.pdf/){:target="_blank"} (10.19KB)  <br>
+<br>
+ *(4) Notices of Intended Dissolution and Final Accounts*
+<br>
+[1-Jul-2022 Notice of Intended Dissolution](/files/SW7-2021%20Notice%20of%20Intended%20Dissolution.pdf/){:target="_blank"} (9.559KB)and Final Accounts for [Good Old Taste Pte Ltd (SW 7-2021)](/files/SW7-2021%20Final%20Account.pdf/){:target="_blank"} (20.16KB) <br>  <br>
 
 *Past Notices*
 -
@@ -52,6 +47,7 @@ NOTICES
 
 *(1) Notices of Application*
 <br>
+[27-May-2022 Notice of Application into Simplified Winding Up Programme](/files/27-05-2022%20Application%20SWU.pdf/){:target="_blank"} (30.8KB) <br>
 [13-May-2022 Notice of Application into Simplified Winding Up Programme](/files/13-05-2022%20Application%20SWU.pdf/){:target="_blank"} (31.27KB) <br>
 [04-Mar-2022 Notice of Application into Simplified Winding Up Programme](/files/04-03-2022%20Application%20SWU.pdf/){:target="_blank"} (31.4KB) <br>
 [28-Jan-2022 Notice of Application into Simplified Winding Up Programme](/files/28-01-2022%20Notice%20of%20Application.pdf/){:target="_blank"} (30.1KB) <br>
@@ -75,6 +71,7 @@ NOTICES
 <br>
 *(2) Notices of Acceptance and Rejection*
 <br>
+[27-May-2022 Notice of Acceptance for Simplified Winding Up Programme](/files/27-05-2022%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (80.5KB) <br>
 [13-May-2022 Notice of Acceptance for Simplified Winding Up Programme](/files/13-05-2022%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (80.12KB) <br>
 [06-May-2022 Notice of Rejection for Simplified Winding Up Programme](/files/06-05-2022%20Notice%20of%20Rejection.pdf/){:target="_blank"} (81.3KB) <br>
 [29-Apr-2022 Notice of Rejection for Simplified Winding Up Programme](/files/29-04-2022%20Notice%20of%20Rejection.pdf/){:target="_blank"} (81.3KB) <br>
@@ -106,6 +103,7 @@ NOTICES
 <br>
 *(3) Notices of Striking off and Final Accounts*
 <br>
+[27-May-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/27-05-2022%20Notice%20of%20Striking%20off.pdf/){:target="_blank"} (10.21KB) and Final Accounts for [Starwhiz Management Pte Ltd (SW 35/2021)](/files/SW35-2021%20Final%20Account.pdf/){:target="_blank"} (23.37KB)<br>
 [14-Apr-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/14-04-2022%20Notice%20of%20Striking%20off.pdf/){:target="_blank"} (10.19KB) and Final Accounts for [Newbreed Pte Ltd (SW 28/2021)](/files/SW28-2021%20Final%20Account.pdf/){:target="_blank"} (14.86KB)<br>
 [08-Apr-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/08-04-2022%20Notice%20of%20Striking%20off.pdf/){:target="_blank"} (10.3KB) and Final Accounts for [Grandiculus Pte Ltd (SW 8/2021)](/files/SW8-2021%20Final%20Account.pdf/){:target="_blank"} (16.69KB) and [Maxi Mango Pte Ltd Pte Ltd (SW 31/2021)](/files/SW31-2021%20Final%20Account.pdf/){:target="_blank"} (15.23KB)<br>
 [25-Mar-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/25-03-2022%20Notice%20of%20Striking%20off.pdf/){:target="_blank"} (10.3KB) and Final Accounts for [Leck Seng Engineering Pte Ltd (SW 9/2021)](/files/SW9-2021%20Final%20Account.pdf/){:target="_blank"} (18.2KB),  [O Builder Pte Ltd (SW 11/2021)](/files/SW11-2021%20Final%20Account.pdf/) and  [ISC Far East Pte Ltd (SW 26/2021)](/files/SW26-2021%20Final%20Account.pdf/) <br>
