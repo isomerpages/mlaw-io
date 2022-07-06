@@ -29,7 +29,7 @@ NOTICES
 <br>
  *(3) Notices of Dividend*
 <br>
-[6-Jul-2022 Notice of Dividend for Maxi Mangoi (Singapore) Pte Ltd (SW 30/2021) ](/files/SW30-2021%20Notice%20of%20Dividend.pdf/){:target="_blank"} (10.19KB)  <br>
+[6-Jul-2022 Notice of Dividend for Maxi Mango (Singapore) Pte Ltd (SW 30/2021) ](/files/SW30-2021%20Notice%20of%20Dividend.pdf/){:target="_blank"} (30.83KB)  <br>
 [24-Jun-2022 Notice of Dividend for Lab Digital Pte Ltd (SW 24/2021) ](/files/SW24-2021%20Notice%20of%20Dividend.pdf/){:target="_blank"} (10.19KB)  <br>
 <br>
  *(4) Notices of Intended Dissolution and Final Accounts*
