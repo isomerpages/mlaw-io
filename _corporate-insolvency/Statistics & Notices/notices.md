@@ -20,7 +20,7 @@ NOTICES
 
 *(1) Notices of Acceptance and Rejection*
 <br>
-[08-Jul-2022 Notice of Acceptance for Simplified Winding Up Programme](/files/08-07-2022%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (79.92KB) <br>
+[08-Jul-2022 Notice of Acceptance for Simplified Winding Up Programme](/files/08-07-2022%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (81.50KB) <br>
 [24-Jun-2022 Notice of Acceptance for Simplified Winding Up Programme](/files/24-06-2022%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (79.92KB) <br>
 <br>
   *(2) Notices of Intended Dividend*
@@ -35,7 +35,7 @@ NOTICES
 <br>
  *(4) Notices of Intended Dissolution and Final Accounts*
 <br>
-[8-Jul-2022 Notice of Intended Dissolution](/files/SW24-2021%20Notice%20of%20Intended%20Dissolution.pdf/){:target="_blank"} (9.559KB)and Final Accounts for [Lab Digital Pte Ltd (SW 24-2021)](/files/SW24-2021%20Final%20Account.pdf/){:target="_blank"} (20.16KB) <br> [1-Jul-2022 Notice of Intended Dissolution](/files/SW7-2021%20Notice%20of%20Intended%20Dissolution.pdf/){:target="_blank"} (9.559KB)and Final Accounts for [Good Old Taste Pte Ltd (SW 7-2021)](/files/SW7-2021%20Final%20Account.pdf/){:target="_blank"} (20.16KB) <br>  <br>
+[8-Jul-2022 Notice of Intended Dissolution](/files/SW24-2021%20Notice%20of%20Intended%20Dissolution.pdf/){:target="_blank"} (9.636KB)and Final Accounts for [Lab.Digital Pte Ltd (SW 24-2021)](/files/SW24-2021%20Final%20Account.pdf/){:target="_blank"} (23.29KB) <br> [1-Jul-2022 Notice of Intended Dissolution](/files/SW7-2021%20Notice%20of%20Intended%20Dissolution.pdf/){:target="_blank"} (9.559KB)and Final Accounts for [Good Old Taste Pte Ltd (SW 7-2021)](/files/SW7-2021%20Final%20Account.pdf/){:target="_blank"} (20.16KB) <br>  <br>
 
 *Past Notices*
 -
