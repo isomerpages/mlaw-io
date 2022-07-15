@@ -17,23 +17,26 @@ NOTICES
 **Insolvency, Restructuring and Dissolution (Simplified Winding Up) Regulations 2021**
 <br>
 
+*(1) Notices of Application*
+<br>
+[15-Jul-2022 Notice of Application into Simplified Winding Up Programme](/files/15-07-2022%20Application%20SWU.pdf/){:target="_blank"} (31.22KB) <br>
 
-*(1) Notices of Acceptance and Rejection*
+*(2) Notices of Acceptance and Rejection*
 <br>
 [08-Jul-2022 Notice of Acceptance for Simplified Winding Up Programme](/files/08-07-2022%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (81.50KB) <br>
 [24-Jun-2022 Notice of Acceptance for Simplified Winding Up Programme](/files/24-06-2022%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (79.92KB) <br>
 <br>
-  *(2) Notices of Intended Dividend*
+  *(3) Notices of Intended Dividend*
 <br>
 [1-Jul-2022 Notice of Intended Dividend for Delight 8 Cafe Pte Ltd (SW 2-2021)](/files/SW2-2021%20Notice%20of%20Intended%20Dividend.pdf/){:target="_blank"} (11.66KB)<br>
 [10-Jun-2022 Notice of Intended Dividend for BLAVK Pte Ltd (SW 16/2021)](/files/SW16-2021%20Notice%20of%20Intended%20Dividend.pdf/){:target="_blank"} (31.38KB)<br>
 <br>
- *(3) Notices of Dividend*
+ *(4) Notices of Dividend*
 <br>
 [6-Jul-2022 Notice of Dividend for Maxi Mango (Singapore) Pte Ltd (SW 30/2021) ](/files/SW30-2021%20Notice%20of%20Dividend.pdf/){:target="_blank"} (30.83KB)  <br>
 [24-Jun-2022 Notice of Dividend for Lab Digital Pte Ltd (SW 24/2021) ](/files/SW24-2021%20Notice%20of%20Dividend.pdf/){:target="_blank"} (10.19KB)  <br>
 <br>
- *(4) Notices of Intended Dissolution and Final Accounts*
+ *(5) Notices of Intended Dissolution and Final Accounts*
 <br>
 [8-Jul-2022 Notice of Intended Dissolution](/files/SW24-2021%20Notice%20of%20Intended%20Dissolution.pdf/){:target="_blank"} (9.636KB)and Final Accounts for [Lab.Digital Pte Ltd (SW 24-2021)](/files/SW24-2021%20Final%20Account.pdf/){:target="_blank"} (23.29KB) <br> [1-Jul-2022 Notice of Intended Dissolution](/files/SW7-2021%20Notice%20of%20Intended%20Dissolution.pdf/){:target="_blank"} (9.559KB)and Final Accounts for [Good Old Taste Pte Ltd (SW 7-2021)](/files/SW7-2021%20Final%20Account.pdf/){:target="_blank"} (20.16KB) <br>  <br>
 
