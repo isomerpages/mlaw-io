@@ -10,7 +10,7 @@ Practice Circulars
 
 <ul>
 <li>
-    <a href="/files/ORPracticeCircular1of2022.pdf/" target="_blank">The Official Receiver Practice Circular No. 1 of 2022  Fee for the Lodgement of Statutory Forms Relating to Receivership and Judicial Management under Insolvency, Restructuring and Dissolution Act 2018 & Changes to the Opening of an Authorised Bank Account</a> (93 KB)
+    <a href="/files/ORPracticeCircular1of2022.pdf/" target="_blank">The Official Receiver Practice Circular No. 1 of 2022  Fee for the Lodgement of Statutory Forms Relating to Receivership and Judicial Management under Insolvency, Restructuring and Dissolution Act 2018 & Changes to the Opening of an Authorised Bank Account</a> (118.7 KB)
   </li><br>
 <li>
     <a href="/files/OR%20Practice%20Circular%202%20of%202020.pdf/" target="_blank">The Official Receiver Practice Circular No. 2 of 2020  Implementation of Insolvency, Restructuring and Dissolution Act 2018</a> (93 KB)
