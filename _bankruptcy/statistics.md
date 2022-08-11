@@ -10,4 +10,4 @@ Statistics
 
 **Individual Insolvency**
 
-[Number of Bankruptcy Applications Orders Made and Discharges as at 30 July 2022](/files/(110822)NumberofBankruptcyApplicationsOrdersMadeandDischarges(July2022).pdf){:target="_blank"}
+[Number of Bankruptcy Applications Orders Made and Discharges as at 30 July 2022](/files/(110822)NumberofBankruptcyApplicationsOrdersMadeandDischarges(July2022).pdf
