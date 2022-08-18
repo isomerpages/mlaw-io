@@ -19,7 +19,7 @@ NOTICES
 
 *(1) Notices of Application*
 <br>
-[19-Aug-2022 Notice of Application into Simplified Winding Up Programme](/files/19-08-2022%20Application%20SWU.pdf/){:target="_blank"} (32.05KB) <br>
+[19-Aug-2022 Notice of Application into Simplified Winding Up Programme](/files/19-08-2022%20Application%20SWU.pdf/){:target="_blank"} (31.20KB) <br>
 [05-Aug-2022 Notice of Application into Simplified Winding Up Programme](/files/05-08-2022%20Application%20SWU.pdf/){:target="_blank"} (32.05KB) <br>
 [22-Jul-2022 Notice of Application into Simplified Winding Up Programme](/files/22-07-2022%20Application%20SWU.pdf/){:target="_blank"} (31.68KB) <br>
 [15-Jul-2022 Notice of Application into Simplified Winding Up Programme](/files/15-07-2022%20Application%20SWU.pdf/){:target="_blank"} (31.22KB) <br>
@@ -31,7 +31,7 @@ NOTICES
  <br>  <br>
 *(3) Notices of Striking off and Final Accounts*
 <br>
-[19-Aug-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/19-08-2022%20Notice%20of%20Striking%20off.pdf/){:target="_blank"} (10.23KB) and Final Accounts for [Cleoo Pte Ltd (SW 1/2022)](/files/SW1-2022%20Final%20Account.pdf/){:target="_blank"} (23KB) and [Coco Khmer International Pte Ltd (SW 3/2022)](/files/SW3-2022%20Final%20Account.pdf/){:target="_blank"} (23KB)<br>
+[19-Aug-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/19-08-2022%20Notice%20of%20Striking%20off.pdf/){:target="_blank"} (10.68KB) and Final Accounts for [Cleoo Pte Ltd (SW 1/2022)](/files/SW1-2022%20Final%20Account.pdf/){:target="_blank"} (15.09KB) and [Coco Khmer International Pte Ltd (SW 3/2022)](/files/SW3-2022%20Final%20Account.pdf/){:target="_blank"} (196.9KB)<br>
 [29-Jul-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/29-07-2022%20Notice%20of%20Striking%20off.pdf/){:target="_blank"} (10.23KB) and Final Accounts for [Afrigrain Trading Private Limited (SW 36/2021)](/files/SW36-2021%20Final%20Account.pdf/){:target="_blank"} (23KB)<br>
 <br>
 <br>
