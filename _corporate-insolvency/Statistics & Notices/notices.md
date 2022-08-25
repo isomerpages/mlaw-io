@@ -26,6 +26,7 @@ NOTICES
 
 
  *(2) Notices of Intended Dissolution and Final Accounts*
+<br>[26-Aug-2022 Notice of Intended Dissolution](/files/SW17-2021%20Notice%20of%20Intended%20Dissolution.pdf/){:target="_blank"} (9.636KB)and Final Accounts for [Blavk Pte. Ltd. (SW 17-2021)](/files/SW17-2021%20Final%20Account.pdf/){:target="_blank"} (19.85KB) 
 <br>
 [29-Jul-2022 Notice of Intended Dissolution](/files/SW30-2021%20Notice%20of%20Intended%20Dissolution.pdf/){:target="_blank"} (9.636KB)and Final Accounts for [Maxi Mango (Singapore) Pte Ltd (SW 30-2021)](/files/SW30-2021%20Final%20Account.pdf/){:target="_blank"} (19.85KB) 
  <br>  <br>
