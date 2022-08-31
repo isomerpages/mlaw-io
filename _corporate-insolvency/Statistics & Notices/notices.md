@@ -34,6 +34,8 @@ NOTICES
 [19-Aug-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/19-08-2022%20Notice%20of%20Striking%20off.pdf/){:target="_blank"} (10.68KB) and Final Accounts for [Cleoo Pte Ltd (SW 1/2022)](/files/SW1-2022%20Final%20Account.pdf/){:target="_blank"} (15.09KB) and [Coco Khmer International Pte Ltd (SW 3/2022)](/files/SW3-2022%20Final%20Account.pdf/){:target="_blank"} (196.9KB)<br>
 [29-Jul-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/29-07-2022%20Notice%20of%20Striking%20off.pdf/){:target="_blank"} (10.23KB) and Final Accounts for [Afrigrain Trading Private Limited (SW 36/2021)](/files/SW36-2021%20Final%20Account.pdf/){:target="_blank"} (23KB)<br>
 <br>
+*(4) Notice of Dividend
+
 <br>
 **Insolvency, Restructuring and Dissolution (Simplified Debt Restruturing) Regulations 2021**
 <br>
