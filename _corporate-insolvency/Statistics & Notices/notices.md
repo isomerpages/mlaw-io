@@ -36,10 +36,10 @@ NOTICES
 <br>
 *(4) Notice of Dividend* 
 <br>
-[1-Sept-2022 Notice of Dividend for Delight 8 Cafe Pte. Ltd (SW 2/2021) ](/files/SW2-2021%20Notice%20of%20Dividend.pdf/){:target="_blank"} (30.5KB)  <br>
+[1-Sept-2022 Notice of Dividend for Delight 8 Cafe Pte. Ltd (SW 2/2021) ](/files/SW 2-2021%20Notice%20of%20Dividend.pdf/){:target="_blank"} (30.5KB)  <br>
 
 <br>
-**Insolvency, Restructuring and Dissolution (Simplified Debt Restruturing) Regulations 2021**
+**Insolvency, Restructuring and Dissolution (Simplified Debt Restructuring) Regulations 2021**
 <br>
 <br>
 *(1) Notices of Application*
