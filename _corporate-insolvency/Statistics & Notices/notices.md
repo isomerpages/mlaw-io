@@ -26,12 +26,10 @@ NOTICES
  *(2) Notices of Intended Dissolution and Final Accounts*
 <br>[26-Aug-2022 Notice of Intended Dissolution](/files/SW16-2021%20Notice%20of%20Intended%20Dissolution.pdf/){:target="_blank"} (9.62KB)and Final Accounts for [Blavk Pte. Ltd. (SW 16-2021)](/files/SW16-2021%20Final%20Account.pdf/){:target="_blank"} (23.1KB) 
 <br>
-[29-Jul-2022 Notice of Intended Dissolution](/files/SW30-2021%20Notice%20of%20Intended%20Dissolution.pdf/){:target="_blank"} (9.636KB)and Final Accounts for [Maxi Mango (Singapore) Pte Ltd (SW 30-2021)](/files/SW30-2021%20Final%20Account.pdf/){:target="_blank"} (19.85KB) 
- <br>  <br>
+<br>
 *(3) Notices of Striking off and Final Accounts*
 <br>
 [19-Aug-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/19-08-2022%20Notice%20of%20Striking%20off.pdf/){:target="_blank"} (10.68KB) and Final Accounts for [Cleoo Pte Ltd (SW 1/2022)](/files/SW1-2022%20Final%20Account.pdf/){:target="_blank"} (15.09KB) and [Coco Khmer International Pte Ltd (SW 3/2022)](/files/SW3-2022%20Final%20Account.pdf/){:target="_blank"} (196.9KB)<br>
-[29-Jul-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/29-07-2022%20Notice%20of%20Striking%20off.pdf/){:target="_blank"} (10.23KB) and Final Accounts for [Afrigrain Trading Private Limited (SW 36/2021)](/files/SW36-2021%20Final%20Account.pdf/){:target="_blank"} (23KB)<br>
 <br>
 *(4) Notice of Dividend* 
 <br>
@@ -119,6 +117,7 @@ NOTICES
 <br>
 *(3) Notices of Striking off and Final Accounts*
 <br>
+[29-Jul-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/29-07-2022%20Notice%20of%20Striking%20off.pdf/){:target="_blank"} (10.23KB) and Final Accounts for [Afrigrain Trading Private Limited (SW 36/2021)](/files/SW36-2021%20Final%20Account.pdf/){:target="_blank"} (23KB)<br>
 [27-May-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/27-05-2022%20Notice%20of%20Striking%20off.pdf/){:target="_blank"} (10.21KB) and Final Accounts for [Starwhiz Management Pte Ltd (SW 35/2021)](/files/SW35-2021%20Final%20Account.pdf/){:target="_blank"} (23.37KB)<br>
 [14-Apr-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/14-04-2022%20Notice%20of%20Striking%20off.pdf/){:target="_blank"} (10.19KB) and Final Accounts for [Newbreed Pte Ltd (SW 28/2021)](/files/SW28-2021%20Final%20Account.pdf/){:target="_blank"} (14.86KB)<br>
 [08-Apr-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/08-04-2022%20Notice%20of%20Striking%20off.pdf/){:target="_blank"} (10.3KB) and Final Accounts for [Grandiculus Pte Ltd (SW 8/2021)](/files/SW8-2021%20Final%20Account.pdf/){:target="_blank"} (16.69KB) and [Maxi Mango Pte Ltd Pte Ltd (SW 31/2021)](/files/SW31-2021%20Final%20Account.pdf/){:target="_blank"} (15.23KB)<br>
@@ -132,7 +131,8 @@ NOTICES
 <br>
 *(4) Notices of Intended Dividend*
 <br>
-[1-Jul-2022 Notice of Intended Dividend for Delight 8 Cafe Pte Ltd (SW 2-2021)](/files/SW2-2021%20Notice%20of%20Intended%20Dividend.pdf/){:target="_blank"} (11.66KB)<br>
+[29-Jul-2022 Notice of Intended Dissolution](/files/SW30-2021%20Notice%20of%20Intended%20Dissolution.pdf/){:target="_blank"} (9.636KB)and Final Accounts for [Maxi Mango (Singapore) Pte Ltd (SW 30-2021)](/files/SW30-2021%20Final%20Account.pdf/){:target="_blank"} (19.85KB) <br>
+ [1-Jul-2022 Notice of Intended Dividend for Delight 8 Cafe Pte Ltd (SW 2-2021)](/files/SW2-2021%20Notice%20of%20Intended%20Dividend.pdf/){:target="_blank"} (11.66KB)<br>
 [10-Jun-2022 Notice of Intended Dividend for BLAVK Pte Ltd (SW 16/2021)](/files/SW16-2021%20Notice%20of%20Intended%20Dividend.pdf/){:target="blank"} (31.38KB)
 <br>
 [06-May-2022 Notice of Intended Dividend for Maxi Mango (Singapore) Pte Ltd (SW 30/2021)](/files/SW30-2021%20Notice%20of%20Intended%20Dividend.pdf/){:target="_blank"} (31.38KB)<br>
