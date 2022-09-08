@@ -33,8 +33,11 @@ NOTICES
 <br>
 *(4) Notice of Dividend* 
 <br>
-[1-Sept-2022 Notice of Dividend for Delight 8 Cafe Pte. Ltd (SW 2/2021) ](/files/SW%202-2021%20Notice%20of%20Dividend.pdf/){:target="_blank"} (30.5KB)  <br>
-
+[1-Sept-2022 Notice of Dividend for Delight 8 Cafe Pte. Ltd (SW 2/2021) ](/files/SW%202-2021%20Notice%20of%20Dividend.pdf/){:target="_blank"} (30.5KB)  
+<br>
+*(5) Notices of Intended Dividend*
+<br>
+[09-Sept-2022 Notice of Intended Dividend for Astral Nanotec Pte. Ltd (SW6 -2022](/files/SW6-2022%20Notice%20of%20Intended%20Dividend.pdf/){:target="_blank"} (11.66KB)
 <br>
 **Insolvency, Restructuring and Dissolution (Simplified Debt Restructuring) Regulations 2021**
 <br>
