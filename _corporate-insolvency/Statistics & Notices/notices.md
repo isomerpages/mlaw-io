@@ -24,7 +24,7 @@ NOTICES
 
 *(2) Notices of Acceptance and Rejection*
 <br>
-[16-Sept-2022 Notice of Acceptance for Simplified Winding Up Programme](/files/16-09-2022%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (81.50KB) <br>
+[16-Sept-2022 Notice of Acceptance for Simplified Winding Up Programme](/files/16-09-2022%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (29.60KB) <br>
 
 *(3) Notices of Intended Dissolution and Final Accounts*
 <br>[26-Aug-2022 Notice of Intended Dissolution](/files/SW16-2021%20Notice%20of%20Intended%20Dissolution.pdf/){:target="_blank"} (9.62KB)and Final Accounts for [Blavk Pte. Ltd. (SW 16-2021)](/files/SW16-2021%20Final%20Account.pdf/){:target="_blank"} (23.1KB) <br>
