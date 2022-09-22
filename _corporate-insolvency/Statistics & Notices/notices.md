@@ -123,6 +123,7 @@ NOTICES
 <br>
 *(3) Notices of Striking off and Final Accounts*
 <br>
+[19-Aug-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/19-08-2022%20Notice%20of%20Striking%20off.pdf/){:target="_blank"} (10.68KB) and Final Accounts for [Cleoo Pte Ltd (SW 1/2022)](/files/SW1-2022%20Final%20Account.pdf/){:target="_blank"} (15.09KB) and [Coco Khmer International Pte Ltd (SW 3/2022)](/files/SW3-2022%20Final%20Account.pdf/){:target="_blank"} (196.9KB)<br>
 [29-Jul-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/29-07-2022%20Notice%20of%20Striking%20off.pdf/){:target="_blank"} (10.23KB) and Final Accounts for [Afrigrain Trading Private Limited (SW 36/2021)](/files/SW36-2021%20Final%20Account.pdf/){:target="_blank"} (23KB)<br>
 [27-May-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/27-05-2022%20Notice%20of%20Striking%20off.pdf/){:target="_blank"} (10.21KB) and Final Accounts for [Starwhiz Management Pte Ltd (SW 35/2021)](/files/SW35-2021%20Final%20Account.pdf/){:target="_blank"} (23.37KB)<br>
 [14-Apr-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/14-04-2022%20Notice%20of%20Striking%20off.pdf/){:target="_blank"} (10.19KB) and Final Accounts for [Newbreed Pte Ltd (SW 28/2021)](/files/SW28-2021%20Final%20Account.pdf/){:target="_blank"} (14.86KB)<br>
@@ -153,12 +154,10 @@ NOTICES
 [24-Jun-2022 Notice of Dividend for Lab Digital Pte Ltd (SW 24/2021) ](/files/SW24-2021%20Notice%20of%20Dividend.pdf/){:target="_blank"} (10.19KB)  <br>
 [22-Apr-2022 Notice of Dividend for Good Old Taste Pte Ltd (SW 7/2021) ](/files/SW7-2021%20Notice%20of%20Dividend.pdf/){:target="_blank"} (10.19KB)  
 <br>
-<br>
  *(6) Notices of Intended Dissolution*
  <br>
 [8-Jul-2022 Notice of Intended Dissolution](/files/SW24-2021%20Notice%20of%20Intended%20Dissolution.pdf/){:target="_blank"} (9.636KB)and Final Accounts for [Lab.Digital Pte Ltd (SW 24-2021)](/files/SW24-2021%20Final%20Account.pdf/){:target="_blank"} (23.29KB) 
 <br> [1-Jul-2022 Notice of Intended Dissolution](/files/SW7-2021%20Notice%20of%20Intended%20Dissolution.pdf/){:target="_blank"} (9.559KB)and Final Accounts for [Good Old Taste Pte Ltd (SW 7-2021)](/files/SW7-2021%20Final%20Account.pdf/){:target="_blank"} (20.16KB)
-
 <br>
 
 **Insolvency, Restructuring and Dissolution (Simplified Debt Restruturing) Regulations 2021**
