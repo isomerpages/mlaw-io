@@ -30,7 +30,7 @@ NOTICES
 <br>
 *(4) Notices of Striking off and Final Accounts*
 <br>
-[23-Sept-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/23-09-2022%20Notice%20of%20Striking%20off.pdf/){:target="_blank"} (10.68KB) and Final Accounts for [AI Base Technology Pte Ltd (SW 8/2021)](/files/SW8-2021%20Final%20Account.pdf/){:target="_blank"} (12.1KB)
+[23-Sept-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/23-09-2022%20Notice%20of%20Striking%20off.pdf/){:target="_blank"} (10.68KB) and Final Accounts for [AI Base Technology Pte Ltd (SW 8/2021)](/files/SW8-2021%20Final%20Account.pdf/){:target="_blank"} (12.1KB) <br>
 <br>
 *(5) Notices of Intended Dividend*
 <br>
