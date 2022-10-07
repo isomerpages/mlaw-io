@@ -27,7 +27,7 @@ NOTICES
 <br>
 *(3) Notices of Intended Dividend*
 <br>
-[09-Sept-2022 Notice of Intended Dividend for Astral Nanotec Pte. Ltd(SW 6/2022)](/files/SW6-2022%20Notice%20of%20Intended%20Dividend.pdf/){:target="_blank"} (31.11KB)<br>
+[09-Sept-2022 Notice of Intended Dividend for Astral Nanotec Pte. Ltd(SW 6/2022)](/files/SW6-2022%20Notice%20of%20Intended%20Dividend.pdf/){:target="_blank"} (31.11KB) <br>
 <br>
 *(4) Notices of Dividend* 
 <br>
