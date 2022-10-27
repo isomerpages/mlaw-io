@@ -27,7 +27,7 @@ NOTICES
 <br>
 *(3) Notices of Intended Dividend*
 <br>
-[28-Oct-2022 Notice of Intended Dividend for Mars Candy Pte. Ltd.(SW 33/2021)](/files/SW33-2021%20Notice%20of%20Intended%20Dividend.pdf/){:target="_blank"} (31.11KB) <br>
+[28-Oct-2022 Notice of Intended Dividend for Mars Candy Pte. Ltd. (SW 33/2021)](/files/SW33-2021%20Notice%20of%20Intended%20Dividend.pdf/){:target="_blank"} (31.11KB) <br>
 <br>
 *(4) Notices of Dividend* 
 <br>
