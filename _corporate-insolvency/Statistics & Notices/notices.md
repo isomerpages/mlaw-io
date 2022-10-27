@@ -34,7 +34,7 @@ NOTICES
 [07-Oct-2022 Notice of Dividend for Astral Nanotec Pte. Ltd. (SW 6/2022) ](/files/SW6-2022%20Notice%20of%20Dividend.pdf/){:target="_blank"} (31.5KB)  
 <br>
 _(6) Notices of Intended Dissolution_  
-[26-Aug-2022 Notice of Intended Dissolution](https://cms.isomer.gov.sg/files/SW16-2021%20Notice%20of%20Intended%20Dissolution.pdf/){:target="\_blank"} (9.62KB)and Final Accounts for [Blavk Pte. Ltd. (SW 16-2021)](https://cms.isomer.gov.sg/files/SW16-2021%20Final%20Account.pdf/){:target="\_blank"} (23.1KB) <br><br>
+[28-Oct-2022 Notice of Intended Dissolution](https://cms.isomer.gov.sg/files/SW6-2022%20Notice%20of%20Intended%20Dissolution.pdf/){:target="\_blank"} (9.62KB)and Final Accounts for [Astral Nanotec Pte. Ltd. (SW 6/2022)](https://cms.isomer.gov.sg/files/SW6-2022%20Final%20Account.pdf/){:target="\_blank"} (23.1KB) <br><br>
 **Insolvency, Restructuring and Dissolution (Simplified Debt Restructuring) Regulations 2021**
 <br>
 <br>
