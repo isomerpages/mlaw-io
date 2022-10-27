@@ -31,9 +31,10 @@ NOTICES
 <br>
 *(4) Notices of Dividend* 
 <br>
-[07-Oct-2022 Notice of Dividend for Astral Nanotec Pte. Ltd. (SW 6/2022) ](/files/SW6-2022%20Notice%20of%20Dividend.pdf/){:target="_blank"} (31.5KB)  <br>
-[01-Sept-2022 Notice of Dividend for Delight 8 Cafe Pte. Ltd. (SW 2/2021) ](/files/SW%202-2021%20Notice%20of%20Dividend.pdf/){:target="_blank"} (30.5KB)  <br>
+[07-Oct-2022 Notice of Dividend for Astral Nanotec Pte. Ltd. (SW 6/2022) ](/files/SW6-2022%20Notice%20of%20Dividend.pdf/){:target="_blank"} (31.5KB)  
 <br>
+_(6) Notices of Intended Dissolution_  
+[26-Aug-2022 Notice of Intended Dissolution](https://cms.isomer.gov.sg/files/SW16-2021%20Notice%20of%20Intended%20Dissolution.pdf/){:target="\_blank"} (9.62KB)and Final Accounts for [Blavk Pte. Ltd. (SW 16-2021)](https://cms.isomer.gov.sg/files/SW16-2021%20Final%20Account.pdf/){:target="\_blank"} (23.1KB) <br><br>
 **Insolvency, Restructuring and Dissolution (Simplified Debt Restructuring) Regulations 2021**
 <br>
 <br>
@@ -147,7 +148,8 @@ NOTICES
 [28-Jan-2022 Notice of Intended Dividend for ISC Far East Pte Ltd (SW 26/2021)](/files/SW26-2021%20NOID.pdf/){:target="_blank"} (33.9KB)<br>
 
  *(5) Notices of Dividend*
-<br>
+ <br>
+[01-Sept-2022 Notice of Dividend for Delight 8 Cafe Pte. Ltd. (SW 2/2021) ](/files/SW%202-2021%20Notice%20of%20Dividend.pdf/){:target="_blank"} (30.5KB)  <br<br>
 [6-Jul-2022 Notice of Dividend for Maxi Mango (Singapore) Pte Ltd (SW 30/2021) ](/files/SW30-2021%20Notice%20of%20Dividend.pdf/){:target="_blank"} (30.83KB)  <br>
 [24-Jun-2022 Notice of Dividend for Lab Digital Pte Ltd (SW 24/2021) ](/files/SW24-2021%20Notice%20of%20Dividend.pdf/){:target="_blank"} (10.19KB)  <br>
 [22-Apr-2022 Notice of Dividend for Good Old Taste Pte Ltd (SW 7/2021) ](/files/SW7-2021%20Notice%20of%20Dividend.pdf/){:target="_blank"} (10.19KB)  
