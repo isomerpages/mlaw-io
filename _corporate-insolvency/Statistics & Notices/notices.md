@@ -16,25 +16,29 @@ NOTICES
 
 **Insolvency, Restructuring and Dissolution (Simplified Winding Up) Regulations 2021**
 <br>
-
-*(1) Notices of Acceptance and Rejection*
+(1) Notices of Application_  
+[28-Oct-2022 Notice of Application into Simplified Winding Up Programme](/files/28-10-2022%20Application%20SWU.pdf/){:target="_blank"} (30.8KB) 
+<br><br>
+(2) Notices of Acceptance and Rejection
 <br>
-[28-Oct-2022 Notice of Acceptance for Simplified Winding Up Programme](/files/28-10-2022%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (29.20KB) <br>
+[4-Nov-2022 Notice of Acceptance for Simplified Winding Up Programme](/files/04-11-2022%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (29.20KB) <br>
 [23-Sept-2022 Notice of Acceptance for Simplified Winding Up Programme](/files/23-09-2022%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (29.20KB) <br><br>
-*(2) Notices of Striking off and Final Accounts*
+(3) Notices of Striking off and Final Accounts
 <br>
+[04-Nov-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/04-11-2022%20Notice%20of%20Striking%20Off.pdf/){:target="_blank"} (13.2KB) and Final Accounts for [Urban Ski Pte. Ltd. (SW 9/2022)](/files/SW9-2022%20Final%20Account.pdf/){:target="_blank"} (14.4KB), [Hooq Digital SG2 Pte. Ltd. (SW 10/2022)](/files/SW10-2022%20Final%20Account.pdf/){:target="_blank"} (13.6KB),  [Saladcraft Pte. Ltd. (SW 13/2022)](/files/SW13-2022%20Final%20Account.pdf/) {:target="_blank"} (200KB) and [Hooq Digital SG1 Pte. Ltd. (SW 14/2022)](/files/SW14-2022%20Final%20Account.pdf/){:target="_blank"} (12.3KB)<br> 
 [23-Sept-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/23-09-2022%20Notice%20of%20Striking%20Off.pdf/){:target="_blank"} (10.68KB) and Final Accounts for [AI Base Technology Pte Ltd (SW 8/2021)](/files/SW8-2021%20Final%20Account.pdf/){:target="_blank"} (12.1KB) <br>
 <br>
-*(3) Notices of Intended Dividend*
+(4) Notices of Intended Dividend
 <br>
 [28-Oct-2022 Notice of Intended Dividend for Mars Candy Pte. Ltd. (SW 33/2021)](/files/SW33-2021%20Notice%20of%20Intended%20Dividend.pdf/){:target="_blank"} (31.11KB) <br>
 <br>
-*(4) Notices of Dividend* 
+(5) Notices of Dividend
 <br>
 [07-Oct-2022 Notice of Dividend for Astral Nanotec Pte. Ltd. (SW 6/2022) ](/files/SW6-2022%20Notice%20of%20Dividend.pdf/){:target="_blank"} (31.5KB)  
 <br>
-_(5) Notices of Intended Dissolution_  
-[28-Oct-2022 Notice of Intended Dissolution](/files/SW6-2022%20Notice%20of%20Intended%20Dissolution.pdf/){:target="\_blank"} (9.62KB)and Final Accounts for [Astral Nanotec Pte. Ltd. (SW 6/2022)](/files/SW6-2022%20Final%20Account.pdf/){:target="\_blank"} (23.1KB) <br><br>
+(6) Notices of Intended Dissolution
+<br>
+[28-Oct-2022 Notice of Intended Dissolution](/files/SW6-2022%20Notice%20of%20Intended%20Dissolution.pdf/){:target="\_blank"} (11.3KB) and Final Accounts for [Astral Nanotec Pte. Ltd. (SW 6/2022)](/files/SW6-2022%20Final%20Account.pdf/){:target="\_blank"} (219.KB) <br><br>
 **Insolvency, Restructuring and Dissolution (Simplified Debt Restructuring) Regulations 2021**
 <br>
 <br>
@@ -55,7 +59,6 @@ _(5) Notices of Intended Dissolution_
 
 *(1) Notices of Application*
 <br>
-[16-Sept-2022 Notice of Acceptance for Simplified Winding Up Programme](/files/16-09-2022%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (29.60KB) <br>
 [19-Aug-2022 Notice of Application into Simplified Winding Up Programme](/files/19-08-2022%20Application%20SWU.pdf/){:target="_blank"} (31.20KB) 
 <br>
 [05-Aug-2022 Notice of Application into Simplified Winding Up Programme](/files/05-08-2022%20Application%20SWU.pdf/){:target="_blank"} (32.05KB) 
@@ -86,7 +89,7 @@ _(5) Notices of Intended Dissolution_
 <br>
 <br>
 *(2) Notices of Acceptance and Rejection*
-<br>
+<br>[16-Sept-2022 Notice of Acceptance for Simplified Winding Up Programme](/files/16-09-2022%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (29.60KB) <br>
 [08-Jul-2022 Notice of Acceptance for Simplified Winding Up Programme](/files/08-07-2022%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (81.50KB) <br>
 [24-Jun-2022 Notice of Acceptance for Simplified Winding Up Programme](/files/24-06-2022%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (79.92KB)<br>
 [27-May-2022 Notice of Acceptance for Simplified Winding Up Programme](/files/27-05-2022%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (80.5KB) <br>
