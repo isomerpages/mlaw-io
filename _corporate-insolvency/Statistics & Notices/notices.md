@@ -17,7 +17,8 @@ NOTICES
 **Insolvency, Restructuring and Dissolution (Simplified Winding Up) Regulations 2021**
 <br>
 _(1) Notices of Application_  
-[16-Sept-2022 Notice of Acceptance for Simplified Winding Up Programme](https://cms.isomer.gov.sg/files/16-09-2022%20Notice%20of%20Acceptance.pdf/){:target="\_blank"} (29.60KB)<br><br>
+[28-Oct-2022 Notice of Application into Simplified Winding Up Programme](/files/28-10-2022%20Application%20SWU.pdf/){:target="_blank"} (31.20KB) 
+<br><br>
 *(1) Notices of Acceptance and Rejection*
 <br>
 [28-Oct-2022 Notice of Acceptance for Simplified Winding Up Programme](/files/28-10-2022%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (29.20KB) <br>
