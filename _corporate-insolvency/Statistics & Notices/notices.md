@@ -37,7 +37,7 @@ NOTICES
 [07-Oct-2022 Notice of Dividend for Astral Nanotec Pte. Ltd. (SW 6/2022) ](/files/SW6-2022%20Notice%20of%20Dividend.pdf/){:target="_blank"} (31.5KB)  
 <br>
 (6) Notices of Intended Dissolution
-[28-Oct-2022 Notice of Intended Dissolution](/files/SW6-2022%20Notice%20of%20Intended%20Dissolution.pdf/){:target="\_blank"} (11.3KB)and Final Accounts for [Astral Nanotec Pte. Ltd. (SW 6/2022)](/files/SW6-2022%20Final%20Account.pdf/){:target="\_blank"} (219.KB) <br><br>
+[28-Oct-2022 Notice of Intended Dissolution](/files/SW6-2022%20Notice%20of%20Intended%20Dissolution.pdf/){:target="\_blank"} (11.3KB) and Final Accounts for [Astral Nanotec Pte. Ltd. (SW 6/2022)](/files/SW6-2022%20Final%20Account.pdf/){:target="\_blank"} (219.KB) <br><br>
 **Insolvency, Restructuring and Dissolution (Simplified Debt Restructuring) Regulations 2021**
 <br>
 <br>
