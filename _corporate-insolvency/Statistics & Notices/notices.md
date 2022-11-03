@@ -19,23 +19,23 @@ NOTICES
 _(1) Notices of Application_  
 [28-Oct-2022 Notice of Application into Simplified Winding Up Programme](/files/28-10-2022%20Application%20SWU.pdf/){:target="_blank"} (31.20KB) 
 <br><br>
-*(1) Notices of Acceptance and Rejection*
+*(2) Notices of Acceptance and Rejection*
 <br>
 [4-Nov-2022 Notice of Acceptance for Simplified Winding Up Programme](/files/04-11-2022%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (29.20KB) <br>
 [23-Sept-2022 Notice of Acceptance for Simplified Winding Up Programme](/files/23-09-2022%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (29.20KB) <br><br>
-*(2) Notices of Striking off and Final Accounts*
+*(3) Notices of Striking off and Final Accounts*
 <br>
 [23-Sept-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/23-09-2022%20Notice%20of%20Striking%20Off.pdf/){:target="_blank"} (10.68KB) and Final Accounts for [AI Base Technology Pte Ltd (SW 8/2021)](/files/SW8-2021%20Final%20Account.pdf/){:target="_blank"} (12.1KB) <br>
 <br>
-*(3) Notices of Intended Dividend*
+*(4) Notices of Intended Dividend*
 <br>
 [28-Oct-2022 Notice of Intended Dividend for Mars Candy Pte. Ltd. (SW 33/2021)](/files/SW33-2021%20Notice%20of%20Intended%20Dividend.pdf/){:target="_blank"} (31.11KB) <br>
 <br>
-*(4) Notices of Dividend* 
+*(5) Notices of Dividend* 
 <br>
 [07-Oct-2022 Notice of Dividend for Astral Nanotec Pte. Ltd. (SW 6/2022) ](/files/SW6-2022%20Notice%20of%20Dividend.pdf/){:target="_blank"} (31.5KB)  
 <br>
-_(5) Notices of Intended Dissolution_  
+_(6) Notices of Intended Dissolution_  
 [28-Oct-2022 Notice of Intended Dissolution](/files/SW6-2022%20Notice%20of%20Intended%20Dissolution.pdf/){:target="\_blank"} (9.62KB)and Final Accounts for [Astral Nanotec Pte. Ltd. (SW 6/2022)](/files/SW6-2022%20Final%20Account.pdf/){:target="\_blank"} (23.1KB) <br><br>
 **Insolvency, Restructuring and Dissolution (Simplified Debt Restructuring) Regulations 2021**
 <br>
