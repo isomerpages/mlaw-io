@@ -15,30 +15,29 @@ NOTICES
 <br>
 
 **Insolvency, Restructuring and Dissolution (Simplified Winding Up) Regulations 2021**
-<br>
-(1) Notices of Application  
-[25-Nov-2022 Notice of Application into Simplified Winding Up Programme](/files/25-11-2022%20Application%20SWU.pdf/){:target="_blank"} (33.1KB) 
 <br><br>
-(2) Notices of Acceptance and Rejection
+(1) Notices of Acceptance and Rejection
 <br>
 [4-Nov-2022 Notice of Acceptance for Simplified Winding Up Programme](/files/04-11-2022%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (81.80KB) <br><br>
-(3) Notices of Striking off and Final Accounts
+
+(2) Notices of Striking off and Final Accounts
 <br>
 [04-Nov-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/04-11-2022%20Notice%20of%20Striking%20Off.pdf/){:target="_blank"} (13.2KB) and Final Accounts for [Urban Ski Pte. Ltd. (SW 9/2022)](/files/SW9-2022%20Final%20Account.pdf/){:target="_blank"} (14.4KB), [Hooq Digital SG2 Pte. Ltd. (SW 10/2022)](/files/SW10-2022%20Final%20Account.pdf/){:target="_blank"} (13.6KB),  [Saladcraft Pte. Ltd. (SW 13/2022)](/files/SW13-2022%20Final%20Account.pdf/){:target="_blank"} (200.2KB) and [Hooq Digital SG1 Pte. Ltd. (SW 14/2022)](/files/SW14-2022%20Final%20Account.pdf/){:target="_blank"} (12.3KB)<br> 
 
-(4) Notices of Intended Dividend
+(3) Notices of Intended Dividend
 <br>
 [28-Oct-2022 Notice of Intended Dividend for Mars Candy Pte. Ltd. (SW 33/2021)](/files/SW33-2021%20Notice%20of%20Intended%20Dividend.pdf/){:target="_blank"} (31.11KB) <br>
 <br>
-(5) Notices of Intended Dissolution
+
+(4) Notices of Intended Dissolution
 <br>
 [28-Oct-2022 Notice of Intended Dissolution](/files/SW6-2022%20Notice%20of%20Intended%20Dissolution.pdf/){:target="\_blank"} (11.3KB) and Final Accounts for [Astral Nanotec Pte. Ltd. (SW 6/2022)](/files/SW6-2022%20Final%20Account.pdf/){:target="\_blank"} (219.KB) <br><br>
+
 **Insolvency, Restructuring and Dissolution (Simplified Debt Restructuring) Regulations 2021**
 <br>
 <br>
 *(1) Notices of Application*
-<br>
-[12-Aug-2022 Notice of Application into Simplified Winding Up Programme](/files/12-08-2022%20Application%20SR.pdf/){:target="_blank"} (31.37KB) 
+<br>[25-Nov-2022 Notice of Application into Simplified Winding Up Programme](/files/25-11-2022%20Application%20SR.pdf/){:target="_blank"} (31.37KB) 
 <br>
 <br>
 *Past Notices*
@@ -164,6 +163,8 @@ NOTICES
 <br>
 
 *(1) Notices of Application*
+<br>
+[12-Aug-2022 Notice of Application into Simplified Winding Up Programme](/files/12-08-2022%20Application%20SR.pdf/){:target="_blank"} (31.37KB) 
 <br>
 [18-Mar-2022 Notice of Application into Simplified Winding Up Programme](/files/18-03-2022%20Application%20SR.pdf/){:target="_blank"} (31.35KB) 
 <br>
