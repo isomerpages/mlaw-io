@@ -17,7 +17,7 @@ NOTICES
 **Insolvency, Restructuring and Dissolution (Simplified Winding Up) Regulations 2021**
 <br>
 (1) Notices of Application  
-[28-Oct-2022 Notice of Application into Simplified Winding Up Programme](/files/28-10-2022%20Application%20SWU.pdf/){:target="_blank"} (30.8KB) 
+[25-Nov-2022 Notice of Application into Simplified Winding Up Programme](/files/25-11-2022%20Application%20SWU.pdf/){:target="_blank"} (30.8KB) 
 <br><br>
 (2) Notices of Acceptance and Rejection
 <br>
