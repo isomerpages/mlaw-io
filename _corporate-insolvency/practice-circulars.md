@@ -8,8 +8,7 @@ Practice Circulars
 
 **Practice Circulars For Corporate Insolvency**
 
- <br>
-  <li>
+   <li>
     <a href="/files/ORPRacticeCircular2of2022.pdf/" target="_blank">The Official Receiver Practice Circular No. 2 of 2022 Cessation of Alternative Arrangements for Meetings from 1 July 2023</a> (30 KB)
   </li><br>
 <li>
