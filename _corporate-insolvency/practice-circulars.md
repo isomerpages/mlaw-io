@@ -10,7 +10,7 @@ Practice Circulars
 
  </li><br>
   <li>
-    <a href="/files/ORPRacticeCircular2of2022.pdf/" target="_blank">Cessation of Alternative Arrangements for Meetings from 1 July 2023</a> (30 KB)
+    <a href="/files/ORPRacticeCircular2of2022.pdf/" target="_blank">The Official Receiver Practice Circular No. 2 of 2022 Cessation of Alternative Arrangements for Meetings from 1 July 2023</a> (30 KB)
   </li><br>
 <li>
     <a href="/files/ORPracticeCircular1of2022.pdf/" target="_blank">The Official Receiver Practice Circular No. 1 of 2022  Fee for the Lodgement of Statutory Forms Relating to Receivership and Judicial Management under Insolvency, Restructuring and Dissolution Act 2018 & Changes to the Opening of an Authorised Bank Account</a> (118.7 KB)
