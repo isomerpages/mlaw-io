@@ -24,7 +24,7 @@ You will be required to submit your Income Declaration declaring information on 
  
 
 <b>(c) What are the payment modes for my monthly instalment payments?</b><br>
-You can make your monthly instalment payments [online](https://eservices.mlaw.gov.sg/ecoll/) [(https://eservices.mlaw.gov.sg/ecoll/)](https://eservices.mlaw.gov.sg/ecoll/), through GIRO, Self-service Automated Machines (SAMs) and at SingPost counters. <br>
+You can make your monthly instalment payments [online](https://go.gov.sg/ecp) [(https://go.gov.sg/ecp)](https://go.gov.sg/ecp) and through GIRO. <br>
 
 
 Please note that the MinLaw Services Centre’s counter operating hours are: <br>
