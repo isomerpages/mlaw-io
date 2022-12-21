@@ -2,11 +2,14 @@
 layout: homepage
 title: Insolvency Office
 notification: Please note that with effect from 7 April 2020, MinLaw Services
-  Centre will no longer accept <u><b>cash payments</b></u>. Cash payments can
-  only be made at Singpost Counters islandwide. Payments by NETS can be made at
-  SAM Kiosk, SAM online or SAM Mobile Applications.<br><br>With effect from 8
-  June 2020, bankrupts can apply for the opening of a personal bank account via
-  our new application form. The instructions and the application form is at <a
+  Centre will no longer accept <u><b>cash payments</b></u>.  With effect from 15
+  January 2023, all services for payment to the Insolvency and Public Trustee’s
+  Office (IPTO) will no longer be available at SingPost, including payments at
+  post offices, through the SingPost mobile app, SAM online and SAM kiosks
+  .<br><br> All payments to IPTO can only be made via Minlaw’s online collection
+  portal (https://go.gov.sg/ecp). <br><br> With effect from 8 June 2020,
+  bankrupts can apply for the opening of a personal bank account via our new
+  application form. The instructions and the application form is at <a
   href="https://io.mlaw.gov.sg/bankruptcy/forms/">https://io.mlaw.gov.sg/bankruptcy/forms/</a>.
 sections:
   - hero:
