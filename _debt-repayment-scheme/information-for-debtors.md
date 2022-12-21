@@ -71,7 +71,6 @@ You may wish to note that the sooner you start on the DRS, the less you will be 
 Once you have made the first payments, the OA will inform you, the Court and your applicant-creditor of the outcome of the DRS assessment and the commencement of your DRP. The bankruptcy application made against you will then be deemed withdrawn.<br>
 
 **9. How do I continue to pay for my monthly instalments and/or bonus?**<br>
-
 Payments can be made through [MinLaw's e-Collection Portal](https://go.gov.sg/ecp).<br>
 
 Please provide your DRS Case Number (e.g. D00XXXX-2015) and the nature of the payment (e.g. instalment or bonus payment).<br>
