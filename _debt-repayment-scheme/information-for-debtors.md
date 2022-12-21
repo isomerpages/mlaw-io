@@ -55,7 +55,7 @@ In your Notice of Introduction on DRS & Filing of Statement of Affairs, you will
 You will be given 14 days to view the Introductory Video and complete the online submission, failing which your case will be referred back to Court for the bankruptcy proceedings to be heard again.<br>
 
 **7. What happens after submission of documents?**<br>
-Once your online submission has been verified and accepted by the DRS administrator, you will be notified to pay the preliminary fee of $350 at [MinLaw's e-Collection Portal](https://go.gov.sg/ecp).<br>
+Once your online submission has been verified and accepted by the DRS administrator, you will be notified to pay the preliminary fee of $350 via our [e-Collection Portal](https://go.gov.sg/ecp).<br>
 
 For a further assessment of your suitability for the DRS, a meeting of creditors will be held in our office. You will be required to make a payment of $250 before the meeting.<br>
 
