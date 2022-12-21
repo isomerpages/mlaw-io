@@ -1,11 +1,8 @@
 ---
-title: 'Information for Debtors'
+title: Information for Debtors
 permalink: /debt-repayment-scheme/information-for-debtors/
-breadcrumb: 'Information for Debtors'
-
+breadcrumb: Information for Debtors
 ---
-
-
 Information for Debtors
 ---
 **1. How do I apply for DRS?**<br>
@@ -58,7 +55,7 @@ In your Notice of Introduction on DRS & Filing of Statement of Affairs, you will
 You will be given 14 days to view the Introductory Video and complete the online submission, failing which your case will be referred back to Court for the bankruptcy proceedings to be heard again.<br>
 
 **7. What happens after submission of documents?**<br>
-Once your online submission has been verified and accepted by the DRS administrator, you will be notified to pay the preliminary fee of $350 at any SAM or Singpost branch.<br>
+Once your online submission has been verified and accepted by the DRS administrator, you will be notified to pay the preliminary fee of $350 at [MinLaw's e-Collection Portal](https://go.gov.sg/ecp).<br>
 
 For a further assessment of your suitability for the DRS, a meeting of creditors will be held in our office. You will be required to make a payment of $250 before the meeting.<br>
 
@@ -74,13 +71,7 @@ You may wish to note that the sooner you start on the DRS, the less you will be 
 Once you have made the first payments, the OA will inform you, the Court and your applicant-creditor of the outcome of the DRS assessment and the commencement of your DRP. The bankruptcy application made against you will then be deemed withdrawn.<br>
 
 **9. How do I continue to pay for my monthly instalments and/or bonus?**<br>
-There are 3 payment methods:<br>
-
-(a)   Payment using any Self-service Automated Machine [(SAM)](/files/GuidetoUsingSAM(PrelimFee).pdf)(1.08MB);<br>
-
-(b)   Payment at SingPost counters (for Cash Payments); and<br>
-
-(c)   Payment using SAM Online.<br>
+Payments can be made through [MinLaw's e-Collection Portal](https://go.gov.sg/ecp).<br>
 
 Please provide your DRS Case Number (e.g. D00XXXX-2015) and the nature of the payment (e.g. instalment or bonus payment).<br>
 
