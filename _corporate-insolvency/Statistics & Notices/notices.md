@@ -24,20 +24,13 @@ NOTICES
 <br><br>
 (2) Notices of Acceptance and Rejection
 <br>
+[30-Dec-2022 Notice of Rejection for Simplified Winding Up Programme](/files/30-12-2022%20Notice%20of%20Rejection.pdf/){:target="_blank"} (83.50KB) 
+<br>
 [4-Nov-2022 Notice of Acceptance for Simplified Winding Up Programme](/files/04-11-2022%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (81.80KB) <br>
 
 (3) Notices of Striking off and Final Accounts
-<br>
+<br>[30-Dec-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/30-12-2022%20Notice%20of%20Striking%20Off.pdf/){:target="_blank"} (12.00KB) and Final Accounts for [Star Freight Services Pte. Ltd. (SW 12/2022)](/files/SW12-2022%20Final%20Account.pdf/){:target="_blank"} (13.3KB) <br>
 [04-Nov-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/04-11-2022%20Notice%20of%20Striking%20Off.pdf/){:target="_blank"} (13.2KB) and Final Accounts for [Urban Ski Pte. Ltd. (SW 9/2022)](/files/SW9-2022%20Final%20Account.pdf/){:target="_blank"} (14.4KB), [Hooq Digital SG2 Pte. Ltd. (SW 10/2022)](/files/SW10-2022%20Final%20Account.pdf/){:target="_blank"} (13.6KB),  [Saladcraft Pte. Ltd. (SW 13/2022)](/files/SW13-2022%20Final%20Account.pdf/){:target="_blank"} (200.2KB) and [Hooq Digital SG1 Pte. Ltd. (SW 14/2022)](/files/SW14-2022%20Final%20Account.pdf/){:target="_blank"} (12.3KB)<br> 
-
-(4) Notices of Intended Dividend
-<br>
-[28-Oct-2022 Notice of Intended Dividend for Mars Candy Pte. Ltd. (SW 33/2021)](/files/SW33-2021%20Notice%20of%20Intended%20Dividend.pdf/){:target="_blank"} (31.11KB) <br>
-
-
-(5) Notices of Intended Dissolution
-<br>
-[28-Oct-2022 Notice of Intended Dissolution](/files/SW6-2022%20Notice%20of%20Intended%20Dissolution.pdf/){:target="\_blank"} (11.3KB) and Final Accounts for [Astral Nanotec Pte. Ltd. (SW 6/2022)](/files/SW6-2022%20Final%20Account.pdf/){:target="\_blank"} (219.KB) <br><br>
 
 **Insolvency, Restructuring and Dissolution (Simplified Debt Restructuring) Regulations 2021**
 <br>
@@ -139,6 +132,7 @@ NOTICES
 <br>
 *(4) Notices of Intended Dividend*
 <br>
+[28-Oct-2022 Notice of Intended Dividend for Mars Candy Pte. Ltd. (SW 33/2021)](/files/SW33-2021%20Notice%20of%20Intended%20Dividend.pdf/){:target="_blank"} (31.11KB) <br>
 [09-Sept-2022 Notice of Intended Dividend for Astral Nanotec Pte. Ltd(SW 6/2022)](/files/SW6-2022%20Notice%20of%20Intended%20Dividend.pdf/){:target="_blank"} (31.11KB) <br>
 [29-Jul-2022 Notice of Intended Dissolution](/files/SW30-2021%20Notice%20of%20Intended%20Dissolution.pdf/){:target="_blank"} (9.636KB)and Final Accounts for [Maxi Mango (Singapore) Pte Ltd (SW 30-2021)](/files/SW30-2021%20Final%20Account.pdf/){:target="_blank"} (19.85KB) <br>
  [1-Jul-2022 Notice of Intended Dividend for Delight 8 Cafe Pte Ltd (SW 2-2021)](/files/SW2-2021%20Notice%20of%20Intended%20Dividend.pdf/){:target="_blank"} (11.66KB)<br>
@@ -158,7 +152,8 @@ NOTICES
 [22-Apr-2022 Notice of Dividend for Good Old Taste Pte Ltd (SW 7/2021) ](/files/SW7-2021%20Notice%20of%20Dividend.pdf/){:target="_blank"} (10.19KB)  
 <br>
  *(6) Notices of Intended Dissolution*
- <br>[26-Aug-2022 Notice of Intended Dissolution](/files/SW16-2021%20Notice%20of%20Intended%20Dissolution.pdf/){:target="_blank"} (9.62KB)and Final Accounts for [Blavk Pte. Ltd. (SW 16-2021)](/files/SW16-2021%20Final%20Account.pdf/){:target="_blank"} (23.1KB) <br>
+ <br>
+[28-Oct-2022 Notice of Intended Dissolution](/files/SW6-2022%20Notice%20of%20Intended%20Dissolution.pdf/){:target="\_blank"} (11.3KB) and Final Accounts for [Astral Nanotec Pte. Ltd. (SW 6/2022)](/files/SW6-2022%20Final%20Account.pdf/){:target="\_blank"} (219.KB) <br>[26-Aug-2022 Notice of Intended Dissolution](/files/SW16-2021%20Notice%20of%20Intended%20Dissolution.pdf/){:target="_blank"} (9.62KB)and Final Accounts for [Blavk Pte. Ltd. (SW 16-2021)](/files/SW16-2021%20Final%20Account.pdf/){:target="_blank"} (23.1KB) <br>
 [8-Jul-2022 Notice of Intended Dissolution](/files/SW24-2021%20Notice%20of%20Intended%20Dissolution.pdf/){:target="_blank"} (9.636KB)and Final Accounts for [Lab.Digital Pte Ltd (SW 24-2021)](/files/SW24-2021%20Final%20Account.pdf/){:target="_blank"} (23.29KB) 
 <br> [1-Jul-2022 Notice of Intended Dissolution](/files/SW7-2021%20Notice%20of%20Intended%20Dissolution.pdf/){:target="_blank"} (9.559KB)and Final Accounts for [Good Old Taste Pte Ltd (SW 7-2021)](/files/SW7-2021%20Final%20Account.pdf/){:target="_blank"} (20.16KB)
 <br>
