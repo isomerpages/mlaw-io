@@ -141,6 +141,7 @@ NOTICES
 <br>
 *(4) Notices of Intended Dividend*
 <br>
+[28-Oct-2022 Notice of Intended Dividend for Mars Candy Pte. Ltd. (SW 33/2021)](/files/SW33-2021%20Notice%20of%20Intended%20Dividend.pdf/){:target="_blank"} (31.11KB) <br>
 [09-Sept-2022 Notice of Intended Dividend for Astral Nanotec Pte. Ltd(SW 6/2022)](/files/SW6-2022%20Notice%20of%20Intended%20Dividend.pdf/){:target="_blank"} (31.11KB) <br>
 [29-Jul-2022 Notice of Intended Dissolution](/files/SW30-2021%20Notice%20of%20Intended%20Dissolution.pdf/){:target="_blank"} (9.636KB)and Final Accounts for [Maxi Mango (Singapore) Pte Ltd (SW 30-2021)](/files/SW30-2021%20Final%20Account.pdf/){:target="_blank"} (19.85KB) <br>
  [1-Jul-2022 Notice of Intended Dividend for Delight 8 Cafe Pte Ltd (SW 2-2021)](/files/SW2-2021%20Notice%20of%20Intended%20Dividend.pdf/){:target="_blank"} (11.66KB)<br>
@@ -160,7 +161,8 @@ NOTICES
 [22-Apr-2022 Notice of Dividend for Good Old Taste Pte Ltd (SW 7/2021) ](/files/SW7-2021%20Notice%20of%20Dividend.pdf/){:target="_blank"} (10.19KB)  
 <br>
  *(6) Notices of Intended Dissolution*
- <br>[26-Aug-2022 Notice of Intended Dissolution](/files/SW16-2021%20Notice%20of%20Intended%20Dissolution.pdf/){:target="_blank"} (9.62KB)and Final Accounts for [Blavk Pte. Ltd. (SW 16-2021)](/files/SW16-2021%20Final%20Account.pdf/){:target="_blank"} (23.1KB) <br>
+ <br>
+[28-Oct-2022 Notice of Intended Dissolution](/files/SW6-2022%20Notice%20of%20Intended%20Dissolution.pdf/){:target="\_blank"} (11.3KB) and Final Accounts for [Astral Nanotec Pte. Ltd. (SW 6/2022)](/files/SW6-2022%20Final%20Account.pdf/){:target="\_blank"} (219.KB) <br>[26-Aug-2022 Notice of Intended Dissolution](/files/SW16-2021%20Notice%20of%20Intended%20Dissolution.pdf/){:target="_blank"} (9.62KB)and Final Accounts for [Blavk Pte. Ltd. (SW 16-2021)](/files/SW16-2021%20Final%20Account.pdf/){:target="_blank"} (23.1KB) <br>
 [8-Jul-2022 Notice of Intended Dissolution](/files/SW24-2021%20Notice%20of%20Intended%20Dissolution.pdf/){:target="_blank"} (9.636KB)and Final Accounts for [Lab.Digital Pte Ltd (SW 24-2021)](/files/SW24-2021%20Final%20Account.pdf/){:target="_blank"} (23.29KB) 
 <br> [1-Jul-2022 Notice of Intended Dissolution](/files/SW7-2021%20Notice%20of%20Intended%20Dissolution.pdf/){:target="_blank"} (9.559KB)and Final Accounts for [Good Old Taste Pte Ltd (SW 7-2021)](/files/SW7-2021%20Final%20Account.pdf/){:target="_blank"} (20.16KB)
 <br>
