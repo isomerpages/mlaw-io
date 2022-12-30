@@ -32,15 +32,6 @@ NOTICES
 <br>[30-Dec-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/30-12-2022%20Notice%20of%20Striking%20Off.pdf/){:target="_blank"} (10.68KB) and Final Accounts for [Star Freight Services Pte. Ltd. (SW 12/2022)](/files/SW12-2022%20Final%20Account.pdf/){:target="_blank"} (12.1KB) <br>
 [04-Nov-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/04-11-2022%20Notice%20of%20Striking%20Off.pdf/){:target="_blank"} (13.2KB) and Final Accounts for [Urban Ski Pte. Ltd. (SW 9/2022)](/files/SW9-2022%20Final%20Account.pdf/){:target="_blank"} (14.4KB), [Hooq Digital SG2 Pte. Ltd. (SW 10/2022)](/files/SW10-2022%20Final%20Account.pdf/){:target="_blank"} (13.6KB),  [Saladcraft Pte. Ltd. (SW 13/2022)](/files/SW13-2022%20Final%20Account.pdf/){:target="_blank"} (200.2KB) and [Hooq Digital SG1 Pte. Ltd. (SW 14/2022)](/files/SW14-2022%20Final%20Account.pdf/){:target="_blank"} (12.3KB)<br> 
 
-(4) Notices of Intended Dividend
-<br>
-[28-Oct-2022 Notice of Intended Dividend for Mars Candy Pte. Ltd. (SW 33/2021)](/files/SW33-2021%20Notice%20of%20Intended%20Dividend.pdf/){:target="_blank"} (31.11KB) <br>
-
-
-(5) Notices of Intended Dissolution
-<br>
-[28-Oct-2022 Notice of Intended Dissolution](/files/SW6-2022%20Notice%20of%20Intended%20Dissolution.pdf/){:target="\_blank"} (11.3KB) and Final Accounts for [Astral Nanotec Pte. Ltd. (SW 6/2022)](/files/SW6-2022%20Final%20Account.pdf/){:target="\_blank"} (219.KB) <br><br>
-
 **Insolvency, Restructuring and Dissolution (Simplified Debt Restructuring) Regulations 2021**
 <br>
 <br>
