@@ -12,9 +12,9 @@ Information on Outstanding Assets of a Defunct Company
 A company becomes defunct after it is either dissolved or struck off from the Register by the Accounting and Corporate Regulatory Authority.
 
 **What is the role of the Official Receiver?**<br>
-Where there are outstanding assets belonging to a defunct company, these are vested in the Official Receiver under section 213 of the Insolvency, Restructuring and Dissolution Act 2018. The Official Receiver will then act as a representative of the defunct company to administer and/or dispose these assets under sections 212 and 216 of the Insolvency, Restructuring and Dissolution Act 2018.
+Where there are outstanding assets belonging to a defunct company, these are vested in the Official Receiver under section 213 of the Insolvency, Restructuring and Dissolution Act 2018. The Official Receiver will then act as a representative of the defunct company to administer and/or dispose of these assets under sections 212 and 216 of the Insolvency, Restructuring and Dissolution Act 2018.
 
-The Official Receiver may represent the company, if it is proven to her satisfaction under section 212(1) of the Insolvency, Restructuring and Dissolution Act 2018 that:
+The Official Receiver may represent the company, if it is proven to his satisfaction under section 212(1) of the Insolvency, Restructuring and Dissolution Act 2018 that:
 
 (i) the company, if still existing, would be legally or equitably bound to carry out, complete or give effect to some  dealing, transaction or matter; and
 
