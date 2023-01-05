@@ -17,7 +17,7 @@ Forms for Administration
 
 [Objection To Bankrupt’s Discharge From Bankruptcy Under Section 125 Bankruptcy Act (Cap. 20)](/files/S125objectiontodischarge.pdf/){:target="_blank"} (289KB)
 
-[Statement of Affairs (Form 11) Bankruptcy Act (Chapter 20](/files/Form11-StatementofAffairs.pdf){:target="_blank"}(790KB)
+[Statement of Affairs (Form 11) Bankruptcy Act (Chapter 20](/files/Form11-StatementofAffairs.pdf){:target="_blank"} (790KB)
 
 [Affidavit Verifying Statement of Affairs (Form 12) Bankruptcy Act (Chapter 20)](/files/Form12AffidavitVerifyingStatementofAffairs.pdf/){:target="_blank"} (11KB)
 
