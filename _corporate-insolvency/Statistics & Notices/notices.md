@@ -34,7 +34,7 @@ NOTICES
 [04-Nov-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/04-11-2022%20Notice%20of%20Striking%20Off.pdf/){:target="_blank"} (13.2KB) and Final Accounts for [Urban Ski Pte. Ltd. (SW 9/2022)](/files/SW9-2022%20Final%20Account.pdf/){:target="_blank"} (14.4KB), [Hooq Digital SG2 Pte. Ltd. (SW 10/2022)](/files/SW10-2022%20Final%20Account.pdf/){:target="_blank"} (13.6KB),  [Saladcraft Pte. Ltd. (SW 13/2022)](/files/SW13-2022%20Final%20Account.pdf/){:target="_blank"} (200.2KB) and [Hooq Digital SG1 Pte. Ltd. (SW 14/2022)](/files/SW14-2022%20Final%20Account.pdf/){:target="_blank"} (12.3KB)<br> 
 
 (4) Notices of Intended Dissolution
-<br> [06-Jan-2023 Notice of Intended Dissolution](/files/06-01-2023%20Notice%20of%20Intended%20Dissolution.pdf/){:target="_blank"} (11.3KB)and Final Accounts for [Delight 8 Cafe Pte. Ltd. (SW 2-2021)](/files/06-01-2023%20Final%20Account.pdf/){:target="_blank"} (20.16KB)
+<br> [06-Jan-2023 Notice of Intended Dissolution](/files/06-01-2023%20Notice%20of%20Intended%20Dissolution.pdf/){:target="_blank"} (11.3KB)and Final Accounts for [Delight 8 Cafe Pte. Ltd. (SW 2-2021)](/files/06-01-2023%20Final%20Account.pdf/){:target="_blank"} (206.KB)
 <br>
 **Insolvency, Restructuring and Dissolution (Simplified Debt Restructuring) Regulations 2021**
 <br>
