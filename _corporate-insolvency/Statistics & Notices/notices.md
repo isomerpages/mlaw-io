@@ -23,8 +23,6 @@ NOTICES
 
 (2) Notices of Acceptance and Rejection
 <br>
-[06-Jan-2023 Notice of Acceptance for Simplified Winding Up Programme](/files/06-01-2023%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (81.3KB) 
-<br>
 [30-Dec-2022 Notice of Rejection for Simplified Winding Up Programme](/files/30-12-2022%20Notice%20of%20Rejection.pdf/){:target="_blank"} (83.50KB) 
 <br>
 
@@ -40,8 +38,7 @@ NOTICES
 <br>
 *(1) Notices of Application*
 <br>
-[06-Jan-2023 Notice of Acceptance for Simplified Debt Restructuring Programme](/files/06-01-2023%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (81.3KB) 
-<br>[25-Nov-2022 Notice of Application into Simplified Debt Restructuring Programme](/files/25-11-2022%20Application%20SR.pdf/){:target="_blank"} (33.1KB) 
+[25-Nov-2022 Notice of Application into Simplified Debt Restructuring Programme](/files/25-11-2022%20Application%20SR.pdf/){:target="_blank"} (33.1KB) 
 <br>
 <br>
 (2) Notices of Acceptance*
