@@ -39,7 +39,9 @@ NOTICES
 <br>
 <br>
 *(1) Notices of Application*
-<br>[25-Nov-2022 Notice of Application into Simplified Winding Up Programme](/files/25-11-2022%20Application%20SR.pdf/){:target="_blank"} (33.1KB) 
+<br>
+[06-Jan-2023 Notice of Acceptance for Simplified Debt Restructuring Programme](/files/06-01-2023%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (81.3KB) 
+<br>[25-Nov-2022 Notice of Application into Simplified Debt Restructuring Programme](/files/25-11-2022%20Application%20SR.pdf/){:target="_blank"} (33.1KB) 
 <br>
 <br>
 *Past Notices*
@@ -54,9 +56,9 @@ NOTICES
 
 *(1) Notices of Application*
 <br>
-[28-Oct-2022 Notice of Application into Simplified Winding Up Programme](/files/28-10-2022%20Application%20SWU.pdf/){:target="_blank"} (30.8KB) 
+[28-Oct-2022 Notice of Application into Simplified Debt Restructuring Programme](/files/28-10-2022%20Application%20SWU.pdf/){:target="_blank"} (30.8KB) 
 <br>
-[19-Aug-2022 Notice of Application into Simplified Winding Up Programme](/files/19-08-2022%20Application%20SWU.pdf/){:target="_blank"} (31.20KB) 
+[19-Aug-2022 Notice of Application into Simplified Debt Restructuring Programme](/files/19-08-2022%20Application%20SWU.pdf/){:target="_blank"} (31.20KB) 
 <br>
 [05-Aug-2022 Notice of Application into Simplified Winding Up Programme](/files/05-08-2022%20Application%20SWU.pdf/){:target="_blank"} (32.05KB) 
 <br>
@@ -169,9 +171,9 @@ NOTICES
 
 *(1) Notices of Application*
 <br>
-[12-Aug-2022 Notice of Application into Simplified Winding Up Programme](/files/12-08-2022%20Application%20SR.pdf/){:target="_blank"} (31.37KB) 
+[12-Aug-2022 Notice of Application into Simplified Debt Restructuring Programme](/files/12-08-2022%20Application%20SR.pdf/){:target="_blank"} (31.37KB) 
 <br>
-[18-Mar-2022 Notice of Application into Simplified Winding Up Programme](/files/18-03-2022%20Application%20SR.pdf/){:target="_blank"} (31.35KB) 
+[18-Mar-2022 Notice of Application into Simplified Debt Restructuring Programme](/files/18-03-2022%20Application%20SR.pdf/){:target="_blank"} (31.35KB) 
 <br>
 <br>
 *(2) Notices of Acceptance and Rejection for Simplified Debt Restructuring Programme*
