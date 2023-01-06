@@ -15,9 +15,9 @@ Forms for Administration
 
 [Form DC2 -- Declaration of Personal Creditor With No Documents to Support Proof of Debt](/files/FormDC2DRS.pdf/){:target="_blank"} (41KB)
 
-[Objection To Bankrupt’s Discharge From Bankruptcy Under Section 125 Bankruptcy Act (Cap. 20)](/files/S125objectiontodischarge.pdf/){:target="_blank"} (289KB)
+[Objection To Bankrupt’s Discharge From Bankruptcy Under Section 125 Bankruptcy Act (Cap. 20)](/files/S125objectiontodischarge.pdf/){:target="_blank"} (289KB) <br>
 
-[Statement of Affairs (Form 11) Bankruptcy Act (Chapter 20)](/files/Form11-StatementofAffairs.pdf){:target="_blank"} (790KB)
+[Statement of Affairs (Form 11) Bankruptcy Act (Chapter 20)](/files/Form11-StatementofAffairs.pdf){:target="_blank"} (790KB)<br>
 
 [Affidavit Verifying Statement of Affairs (Form 12) Bankruptcy Act (Chapter 20)](/files/Form12AffidavitVerifyingStatementofAffairs.pdf/){:target="_blank"} (11KB)
 

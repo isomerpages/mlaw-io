@@ -20,25 +20,31 @@ NOTICES
 <br>
 [02-Dec-2022 Notice of Application into Simplified Winding Up Programme](/files/02-12-2022%20Application%20SWU.pdf/){:target="_blank"} (30.8KB) 
 <br>
-[28-Oct-2022 Notice of Application into Simplified Winding Up Programme](/files/28-10-2022%20Application%20SWU.pdf/){:target="_blank"} (30.8KB) 
-<br><br>
+
 (2) Notices of Acceptance and Rejection
 <br>
 [30-Dec-2022 Notice of Rejection for Simplified Winding Up Programme](/files/30-12-2022%20Notice%20of%20Rejection.pdf/){:target="_blank"} (83.50KB) 
 <br>
-[4-Nov-2022 Notice of Acceptance for Simplified Winding Up Programme](/files/04-11-2022%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (81.80KB) <br>
 
 (3) Notices of Striking off and Final Accounts
-<br>[30-Dec-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/30-12-2022%20Notice%20of%20Striking%20Off.pdf/){:target="_blank"} (12.00KB) and Final Accounts for [Star Freight Services Pte. Ltd. (SW 12/2022)](/files/SW12-2022%20Final%20Account.pdf/){:target="_blank"} (13.3KB) <br>
-[04-Nov-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/04-11-2022%20Notice%20of%20Striking%20Off.pdf/){:target="_blank"} (13.2KB) and Final Accounts for [Urban Ski Pte. Ltd. (SW 9/2022)](/files/SW9-2022%20Final%20Account.pdf/){:target="_blank"} (14.4KB), [Hooq Digital SG2 Pte. Ltd. (SW 10/2022)](/files/SW10-2022%20Final%20Account.pdf/){:target="_blank"} (13.6KB),  [Saladcraft Pte. Ltd. (SW 13/2022)](/files/SW13-2022%20Final%20Account.pdf/){:target="_blank"} (200.2KB) and [Hooq Digital SG1 Pte. Ltd. (SW 14/2022)](/files/SW14-2022%20Final%20Account.pdf/){:target="_blank"} (12.3KB)<br> 
+<br>[30-Dec-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/30-12-2022%20Notice%20of%20Striking%20Off.pdf/){:target="_blank"} (12.00KB) and Final Accounts for [Star Freight Services Pte. Ltd. (SW 12/2022)](/files/SW12-2022%20Final%20Account.pdf/){:target="_blank"} (13.3KB) 
+<br> 
 
+(4) Notices of Intended Dissolution
+<br> [06-Jan-2023 Notice of Intended Dissolution](/files/06-01-2023%20Notice%20of%20Intended%20Dissolution.pdf/){:target="_blank"} (11.3KB) and Final Accounts for [Delight 8 Cafe Pte. Ltd. (SW 2-2021)](/files/06-01-2023%20Final%20Account.pdf/){:target="_blank"} (206.KB)<br>
+<br>
 **Insolvency, Restructuring and Dissolution (Simplified Debt Restructuring) Regulations 2021**
 <br>
 <br>
-*(1) Notices of Application*
-<br>[25-Nov-2022 Notice of Application into Simplified Winding Up Programme](/files/25-11-2022%20Application%20SR.pdf/){:target="_blank"} (33.1KB) 
+(1) Notices of Application
+<br>
+[25-Nov-2022 Notice of Application into Simplified Debt Restructuring Programme](/files/25-11-2022%20Application%20SR.pdf/){:target="_blank"} (33.1KB) 
 <br>
 <br>
+(2) Notices of Acceptance and Rejection
+<br>
+[06-Jan-2023 Notice of Acceptance for Simplified Debt Restructuring Programme](/files/06-01-2023%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (81.3KB) 
+
 *Past Notices*
 -
 <br>
@@ -50,6 +56,8 @@ NOTICES
 <br>
 
 *(1) Notices of Application*
+<br>
+[28-Oct-2022 Notice of Application into Simplified Winding Up Programme](/files/28-10-2022%20Application%20SWU.pdf/){:target="_blank"} (30.8KB) 
 <br>
 [19-Aug-2022 Notice of Application into Simplified Winding Up Programme](/files/19-08-2022%20Application%20SWU.pdf/){:target="_blank"} (31.20KB) 
 <br>
@@ -81,6 +89,7 @@ NOTICES
 <br>
 <br>
 *(2) Notices of Acceptance and Rejection*
+<br>[4-Nov-2022 Notice of Acceptance for Simplified Winding Up Programme](/files/04-11-2022%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (81.80KB)
 <br>[23-Sept-2022 Notice of Acceptance for Simplified Winding Up Programme](/files/23-09-2022%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (29.20KB) <br>[16-Sept-2022 Notice of Acceptance for Simplified Winding Up Programme](/files/16-09-2022%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (29.60KB) <br>
 [08-Jul-2022 Notice of Acceptance for Simplified Winding Up Programme](/files/08-07-2022%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (81.50KB) <br>
 [24-Jun-2022 Notice of Acceptance for Simplified Winding Up Programme](/files/24-06-2022%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (79.92KB)<br>
@@ -116,7 +125,7 @@ NOTICES
 <br>
 *(3) Notices of Striking off and Final Accounts*
 <br>
-[23-Sept-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/23-09-2022%20Notice%20of%20Striking%20Off.pdf/){:target="_blank"} (10.68KB) and Final Accounts for [AI Base Technology Pte Ltd (SW 8/2021)](/files/SW8-2021%20Final%20Account.pdf/){:target="_blank"} (12.1KB) <br>
+[04-Nov-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/04-11-2022%20Notice%20of%20Striking%20Off.pdf/){:target="_blank"} (13.2KB) and Final Accounts for [Urban Ski Pte. Ltd. (SW 9/2022)](/files/SW9-2022%20Final%20Account.pdf/){:target="_blank"} (14.4KB), [Hooq Digital SG2 Pte. Ltd. (SW 10/2022)](/files/SW10-2022%20Final%20Account.pdf/){:target="_blank"} (13.6KB),  [Saladcraft Pte. Ltd. (SW 13/2022)](/files/SW13-2022%20Final%20Account.pdf/){:target="_blank"} (200.2KB) and [Hooq Digital SG1 Pte. Ltd. (SW 14/2022)](/files/SW14-2022%20Final%20Account.pdf/){:target="_blank"} (12.3KB)<br> [23-Sept-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/23-09-2022%20Notice%20of%20Striking%20Off.pdf/){:target="_blank"} (10.68KB) and Final Accounts for [AI Base Technology Pte Ltd (SW 8/2021)](/files/SW8-2021%20Final%20Account.pdf/){:target="_blank"} (12.1KB) <br>
 [19-Aug-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/19-08-2022%20Notice%20of%20Striking%20off.pdf/){:target="_blank"} (10.68KB) and Final Accounts for [Cleoo Pte Ltd (SW 1/2022)](/files/SW1-2022%20Final%20Account.pdf/){:target="_blank"} (15.09KB) and [Coco Khmer International Pte Ltd (SW 3/2022)](/files/SW3-2022%20Final%20Account.pdf/){:target="_blank"} (196.9KB)<br>
 [29-Jul-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/29-07-2022%20Notice%20of%20Striking%20off.pdf/){:target="_blank"} (10.23KB) and Final Accounts for [Afrigrain Trading Private Limited (SW 36/2021)](/files/SW36-2021%20Final%20Account.pdf/){:target="_blank"} (23KB)<br>
 [27-May-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/27-05-2022%20Notice%20of%20Striking%20off.pdf/){:target="_blank"} (10.21KB) and Final Accounts for [Starwhiz Management Pte Ltd (SW 35/2021)](/files/SW35-2021%20Final%20Account.pdf/){:target="_blank"} (23.37KB)<br>
@@ -163,12 +172,12 @@ NOTICES
 
 *(1) Notices of Application*
 <br>
-[12-Aug-2022 Notice of Application into Simplified Winding Up Programme](/files/12-08-2022%20Application%20SR.pdf/){:target="_blank"} (31.37KB) 
+[12-Aug-2022 Notice of Application into Simplified Debt Restructuring Programme](/files/12-08-2022%20Application%20SR.pdf/){:target="_blank"} (31.37KB) 
 <br>
-[18-Mar-2022 Notice of Application into Simplified Winding Up Programme](/files/18-03-2022%20Application%20SR.pdf/){:target="_blank"} (31.35KB) 
+[18-Mar-2022 Notice of Application into Simplified Debt Restructuring Programme](/files/18-03-2022%20Application%20SR.pdf/){:target="_blank"} (31.35KB) 
 <br>
 <br>
-*(2) Notices of Acceptance and Rejection for Simplified Debt Restructuring Programme*
+*(2) Notices of Acceptance and Rejection*
 <br>
 [14-Apr-2022 Notice of Rejection for Simplified Debt Restructuring Programme](/files/14-04-2022%20Notice%20of%20Rejection%20in%20SR.pdf/){:target="_blank"} (81.04KB) <br>
 <br>
