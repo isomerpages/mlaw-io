@@ -177,7 +177,7 @@ NOTICES
 [18-Mar-2022 Notice of Application into Simplified Debt Restructuring Programme](/files/18-03-2022%20Application%20SR.pdf/){:target="_blank"} (31.35KB) 
 <br>
 <br>
-*(2) Notices of Acceptance and Rejection for Simplified Debt Restructuring Programme*
+*(2) Notices of Acceptance and Rejection*
 <br>
 [14-Apr-2022 Notice of Rejection for Simplified Debt Restructuring Programme](/files/14-04-2022%20Notice%20of%20Rejection%20in%20SR.pdf/){:target="_blank"} (81.04KB) <br>
 <br>
