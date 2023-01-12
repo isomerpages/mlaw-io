@@ -18,6 +18,8 @@ NOTICES
 <br><br>
 *(1) Notices of Application*
 <br>
+[13-Jan-2023 Notice of Application into Simplified Winding Up Programme](/files/13-01-2023%20Application%20SWU.pdf/){:target="_blank"} (83.0KB) 
+<br>
 [02-Dec-2022 Notice of Application into Simplified Winding Up Programme](/files/02-12-2022%20Application%20SWU.pdf/){:target="_blank"} (30.8KB) 
 <br>
 
