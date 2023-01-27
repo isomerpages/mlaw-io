@@ -2,7 +2,6 @@ collections:
   bankruptcy:
     output: true
     order:
-      - BKCY.md
       - who-is-the-official-assignee.md
       - pre-bankruptcy.md
       - Bankruptcy Rehabilitation Programme by Credit Counselling Singapore
