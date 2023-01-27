@@ -2,7 +2,6 @@ collections:
   bankruptcy:
     output: true
     order:
-      - For Bank/.keep
       - who-is-the-official-assignee.md
       - pre-bankruptcy.md
       - Bankruptcy Notice.md
