@@ -4,7 +4,6 @@ collections:
     order:
       - who-is-the-official-assignee.md
       - pre-bankruptcy.md
-      - Bankruptcy Notice.md
       - Bankruptcy Rehabilitation Programme by Credit Counselling Singapore
         (CCS).md
       - Bankruptcy Notification/.keep
@@ -15,6 +14,7 @@ collections:
       - Bankruptcy Notification/For Securities Firms.md
       - Bankruptcy Notification/For Telecommunication Service Providers.md
       - Bankruptcy Notification/For Country Clubs.md
+      - Bankruptcy Notice.md
       - alternatives-to-bankruptcy.md
       - Introduction to Bankruptcy (Video)/.keep
       - Introduction to Bankruptcy
