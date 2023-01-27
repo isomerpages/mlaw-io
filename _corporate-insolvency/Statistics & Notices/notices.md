@@ -22,11 +22,10 @@ NOTICES
 <br>
 [13-Jan-2023 Notice of Application into Simplified Winding Up Programme](/files/13-01-2023%20Application%20SWU.pdf/){:target="_blank"} (33.4KB) 
 <br>
-[02-Dec-2022 Notice of Application into Simplified Winding Up Programme](/files/02-12-2022%20Application%20SWU.pdf/){:target="_blank"} (30.8KB) 
-<br>
 
 (2) Notices of Acceptance and Rejection
 <br>
+[27-Jan-2023 Notice of Rejection for Simplified Winding Up Programme](/files/27-01-2023%20Notice%20of%20Rejection.pdf/){:target="_blank"} (83.40KB) <br>
 [13-Jan-2023 Notice of Acceptance for Simplified Winding Up Programme](/files/13-01-2023%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (84.00KB) <br>
 [30-Dec-2022 Notice of Rejection for Simplified Winding Up Programme](/files/30-12-2022%20Notice%20of%20Rejection.pdf/){:target="_blank"} (83.50KB) 
 <br>
@@ -41,12 +40,7 @@ NOTICES
 **Insolvency, Restructuring and Dissolution (Simplified Debt Restructuring) Regulations 2021**
 <br>
 <br>
-(1) Notices of Application
-<br>
-[25-Nov-2022 Notice of Application into Simplified Debt Restructuring Programme](/files/25-11-2022%20Application%20SR.pdf/){:target="_blank"} (33.1KB) 
-<br>
-<br>
-(2) Notices of Acceptance and Rejection
+(1) Notices of Acceptance and Rejection
 <br>
 [06-Jan-2023 Notice of Acceptance for Simplified Debt Restructuring Programme](/files/06-01-2023%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (81.3KB) 
 
@@ -61,6 +55,8 @@ NOTICES
 <br>
 
 *(1) Notices of Application*
+<br>
+[02-Dec-2022 Notice of Application into Simplified Winding Up Programme](/files/02-12-2022%20Application%20SWU.pdf/){:target="_blank"} (30.8KB) 
 <br>
 [28-Oct-2022 Notice of Application into Simplified Winding Up Programme](/files/28-10-2022%20Application%20SWU.pdf/){:target="_blank"} (30.8KB) 
 <br>
@@ -177,7 +173,8 @@ NOTICES
 
 *(1) Notices of Application*
 <br>
-[12-Aug-2022 Notice of Application into Simplified Debt Restructuring Programme](/files/12-08-2022%20Application%20SR.pdf/){:target="_blank"} (31.37KB) 
+[25-Nov-2022 Notice of Application into Simplified Debt Restructuring Programme](/files/25-11-2022%20Application%20SR.pdf/){:target="_blank"} (33.1KB) 
+<br>[12-Aug-2022 Notice of Application into Simplified Debt Restructuring Programme](/files/12-08-2022%20Application%20SR.pdf/){:target="_blank"} (31.37KB) 
 <br>
 [18-Mar-2022 Notice of Application into Simplified Debt Restructuring Programme](/files/18-03-2022%20Application%20SR.pdf/){:target="_blank"} (31.35KB) 
 <br>
