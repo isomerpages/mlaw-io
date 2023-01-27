@@ -2,6 +2,11 @@ collections:
   bankruptcy:
     output: true
     order:
+      - who-is-the-official-assignee.md
+      - pre-bankruptcy.md
+      - Bankruptcy Rehabilitation Programme by Credit Counselling Singapore
+        (CCS).md
+      - Bankruptcy Notification/.keep
       - Bankruptcy Notification/Bankruptcy Notification.md
       - Bankruptcy Notification/For Country Clubs.md
       - Bankruptcy Notification/For Telecommunication Service Providers.md
@@ -10,11 +15,6 @@ collections:
       - Bankruptcy Notification/For Government Departments.md
       - Bankruptcy Notification/For CDP.md
       - Bankruptcy Notification/For Banks.md
-      - Bankruptcy Notification/.keep
-      - who-is-the-official-assignee.md
-      - pre-bankruptcy.md
-      - Bankruptcy Rehabilitation Programme by Credit Counselling Singapore
-        (CCS).md
       - alternatives-to-bankruptcy.md
       - Introduction to Bankruptcy (Video)/.keep
       - Introduction to Bankruptcy
