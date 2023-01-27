@@ -2,6 +2,7 @@ collections:
   bankruptcy:
     output: true
     order:
+      - Bankruptcy Notification/For Banks.md
       - Bankruptcy Notification/Bankruptcy Notification.md
       - Bankruptcy Notification/.keep
       - For CDP/.keep
