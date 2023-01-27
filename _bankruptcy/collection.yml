@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Bankruptcy Notification.md
-      - For Government Departments/.keep
       - For CDP/.keep
       - For Banks/.keep
       - For Banks/Bankruptcy Notification.md
