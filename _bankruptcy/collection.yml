@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Bankruptcy Notification.md
-      - For Country Clubs/.keep
       - For Telco Service Providers/.keep
       - For Securities Firms/.keep
       - For Insurance Companies/.keep
