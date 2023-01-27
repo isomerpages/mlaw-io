@@ -3,8 +3,6 @@ collections:
     output: true
     order:
       - For CDP/.keep
-      - For Bank/Bankruptcy Notification.md
-      - For Bank/.keep
       - For Banks/.keep
       - For Banks/Bankruptcy Notification.md
       - who-is-the-official-assignee.md
