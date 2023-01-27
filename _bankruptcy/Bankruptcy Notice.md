@@ -3,8 +3,6 @@ title: Bankruptcy Notice
 permalink: /bankruptcy/permalink/
 description: ""
 ---
-
-
 # **Bankruptcy Notice**
 
 <u><b>Notice To All Bankrupts</b></u><br> 
