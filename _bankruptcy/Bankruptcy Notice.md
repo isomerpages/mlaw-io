@@ -3,7 +3,7 @@ title: Bankruptcy Notice
 permalink: /bankruptcy/permalink/
 description: ""
 ---
-# **Bankruptcy Notification**
+# **Bankruptcy Notice**
 
 <u><b>Notice To All Bankrupts</b></u><br> 
 Bankrupts under the Official Assignee’s (“OA’s”) administration must submit their Statement of Affairs (“SA”) as advised in the Notice sent to them by the OA.
