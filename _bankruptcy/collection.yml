@@ -2,6 +2,7 @@ collections:
   bankruptcy:
     output: true
     order:
+      - For CDP.md
       - For Banks.md
       - who-is-the-official-assignee.md
       - pre-bankruptcy.md
