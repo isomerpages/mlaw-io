@@ -2,6 +2,7 @@ collections:
   bankruptcy:
     output: true
     order:
+      - Bankruptcy Notification 1/For Telecommunication Service Providers.md
       - Bankruptcy Notification 1/For Securities Firms.md
       - Bankruptcy Notification 1/For Insurance Companies.md
       - Bankruptcy Notification 1/For Government Departments.md
