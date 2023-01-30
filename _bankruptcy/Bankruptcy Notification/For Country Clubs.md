@@ -1,7 +1,8 @@
 ---
 title: For Country Clubs
-permalink: /bankruptcy/Bankruptcy-Notification/permalink/
+permalink: /bankruptcy/BankruptcyNotice/permalink/
 description: ""
 third_nav_title: Bankruptcy Notification
 ---
-<u><b>For Country Clubs</b></u><br>
+
+<u><b>Country Clubs</b></u><br>
