@@ -4,4 +4,4 @@ permalink: /bankruptcy/Bankruptcy-Notification/permalink/
 description: ""
 third_nav_title: Bankruptcy Notification
 ---
-<u><b>Telecommunication Service Providers</b></u><br>
+<u><b>For Telecommunication Service Providers</b></u><br>
