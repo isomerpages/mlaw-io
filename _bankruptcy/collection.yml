@@ -2,11 +2,11 @@ collections:
   bankruptcy:
     output: true
     order:
-      - Bankruptcy notice.md
       - who-is-the-official-assignee.md
       - pre-bankruptcy.md
       - Bankruptcy Rehabilitation Programme by Credit Counselling Singapore
         (CCS).md
+      - Bankruptcy notice.md
       - Bankruptcy Notice.md
       - Bankruptcy Notification/.keep
       - Bankruptcy Notification/For Banks.md
