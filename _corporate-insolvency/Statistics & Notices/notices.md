@@ -146,7 +146,7 @@ NOTICES
 <br>
 [28-Oct-2022 Notice of Intended Dividend for Mars Candy Pte. Ltd. (SW 33/2021)](/files/SW33-2021%20Notice%20of%20Intended%20Dividend.pdf/){:target="_blank"} (31.11KB) <br>
 [09-Sept-2022 Notice of Intended Dividend for Astral Nanotec Pte. Ltd(SW 6/2022)](/files/SW6-2022%20Notice%20of%20Intended%20Dividend.pdf/){:target="_blank"} (31.11KB) <br>
- [1-Jul-2022 Notice of Intended Dividend for Delight 8 Cafe Pte Ltd (SW 2-2021)](/files/SW2-2021%20Notice%20of%20Intended%20Dividend.pdf/){:target="_blank"} (11.66KB)<br>
+ [01-Jul-2022 Notice of Intended Dividend for Delight 8 Cafe Pte Ltd (SW 2-2021)](/files/SW2-2021%20Notice%20of%20Intended%20Dividend.pdf/){:target="_blank"} (11.66KB)<br>
 [10-Jun-2022 Notice of Intended Dividend for BLAVK Pte Ltd (SW 16/2021)](/files/SW16-2021%20Notice%20of%20Intended%20Dividend.pdf/){:target="blank"} (31.38KB)
 <br>
 [06-May-2022 Notice of Intended Dividend for Maxi Mango (Singapore) Pte Ltd (SW 30/2021)](/files/SW30-2021%20Notice%20of%20Intended%20Dividend.pdf/){:target="_blank"} (31.38KB)<br>
