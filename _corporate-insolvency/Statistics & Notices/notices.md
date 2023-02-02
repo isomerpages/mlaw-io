@@ -28,16 +28,11 @@ NOTICES
 [27-Jan-2023 Notice of Rejection for Simplified Winding Up Programme](/files/27-01-2023%20Notice%20of%20Rejection.pdf/){:target="_blank"} (83.40KB) <br>
 [13-Jan-2023 Notice of Acceptance for Simplified Winding Up Programme](/files/13-01-2023%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (84.00KB) <br>
 
-(3) Notices of Striking off and Final Accounts
-<br>
-[30-Dec-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/30-12-2022%20Notice%20of%20Striking%20Off.pdf/){:target="_blank"} (12.00KB) and Final Accounts for [Star Freight Services Pte. Ltd. (SW 12/2022)](/files/SW12-2022%20Final%20Account.pdf/){:target="_blank"} (13.3KB) 
-<br> 
-
-(4) Notices of Intended Dividend
+(3) Notices of Intended Dividend
 <br>
 [03-Feb-2023 Notice of Intended Dividend for Mars Candy Pte. Ltd. (SW 33/2021)](/files/SW332021%20Notice%20of%20Intended%20Dividend.pdf/){:target="_blank"} (32.9KB) <br>
 
-(5) Notices of Intended Dissolution
+(4) Notices of Intended Dissolution
 <br> [06-Jan-2023 Notice of Intended Dissolution](/files/06-01-2023%20Notice%20of%20Intended%20Dissolution.pdf/){:target="_blank"} (11.3KB) and Final Accounts for [Delight 8 Cafe Pte. Ltd. (SW 2-2021)](/files/06-01-2023%20Final%20Account.pdf/){:target="_blank"} (206.KB)<br>
 <br>
 **Insolvency, Restructuring and Dissolution (Simplified Debt Restructuring) Regulations 2021**
