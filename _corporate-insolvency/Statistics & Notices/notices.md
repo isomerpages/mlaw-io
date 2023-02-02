@@ -27,8 +27,6 @@ NOTICES
 <br>
 [27-Jan-2023 Notice of Rejection for Simplified Winding Up Programme](/files/27-01-2023%20Notice%20of%20Rejection.pdf/){:target="_blank"} (83.40KB) <br>
 [13-Jan-2023 Notice of Acceptance for Simplified Winding Up Programme](/files/13-01-2023%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (84.00KB) <br>
-[30-Dec-2022 Notice of Rejection for Simplified Winding Up Programme](/files/30-12-2022%20Notice%20of%20Rejection.pdf/){:target="_blank"} (83.50KB) 
-<br>
 
 (3) Notices of Striking off and Final Accounts
 <br>
@@ -132,6 +130,8 @@ NOTICES
 <br>
 *(3) Notices of Striking off and Final Accounts*
 <br>
+[30-Dec-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/30-12-2022%20Notice%20of%20Striking%20Off.pdf/){:target="_blank"} (12.00KB) and Final Accounts for [Star Freight Services Pte. Ltd. (SW 12/2022)](/files/SW12-2022%20Final%20Account.pdf/){:target="_blank"} (13.3KB) 
+<br> 
 [04-Nov-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/04-11-2022%20Notice%20of%20Striking%20Off.pdf/){:target="_blank"} (13.2KB) and Final Accounts for [Urban Ski Pte. Ltd. (SW 9/2022)](/files/SW9-2022%20Final%20Account.pdf/){:target="_blank"} (14.4KB), [Hooq Digital SG2 Pte. Ltd. (SW 10/2022)](/files/SW10-2022%20Final%20Account.pdf/){:target="_blank"} (13.6KB),  [Saladcraft Pte. Ltd. (SW 13/2022)](/files/SW13-2022%20Final%20Account.pdf/){:target="_blank"} (200.2KB) and [Hooq Digital SG1 Pte. Ltd. (SW 14/2022)](/files/SW14-2022%20Final%20Account.pdf/){:target="_blank"} (12.3KB)<br> [23-Sept-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/23-09-2022%20Notice%20of%20Striking%20Off.pdf/){:target="_blank"} (10.68KB) and Final Accounts for [AI Base Technology Pte Ltd (SW 8/2021)](/files/SW8-2021%20Final%20Account.pdf/){:target="_blank"} (12.1KB) <br>
 [19-Aug-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/19-08-2022%20Notice%20of%20Striking%20off.pdf/){:target="_blank"} (10.68KB) and Final Accounts for [Cleoo Pte Ltd (SW 1/2022)](/files/SW1-2022%20Final%20Account.pdf/){:target="_blank"} (15.09KB) and [Coco Khmer International Pte Ltd (SW 3/2022)](/files/SW3-2022%20Final%20Account.pdf/){:target="_blank"} (196.9KB)<br>
 [29-Jul-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/29-07-2022%20Notice%20of%20Striking%20off.pdf/){:target="_blank"} (10.23KB) and Final Accounts for [Afrigrain Trading Private Limited (SW 36/2021)](/files/SW36-2021%20Final%20Account.pdf/){:target="_blank"} (23KB)<br>
