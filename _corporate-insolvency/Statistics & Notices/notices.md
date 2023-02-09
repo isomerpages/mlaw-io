@@ -39,7 +39,8 @@ NOTICES
 [06-Jan-2023 Notice of Intended Dissolution](/files/06-01-2023%20Notice%20of%20Intended%20Dissolution.pdf/){:target="_blank"} (11.3KB) and Final Accounts for [Delight 8 Cafe Pte. Ltd. (SW 2-2021)](/files/06-01-2023%20Final%20Account.pdf/){:target="_blank"} (206.KB)<br>
 <br>
 **Insolvency, Restructuring and Dissolution (Simplified Debt Restructuring) Regulations 2021**
-<br>
+<br><br>
+
 (1) Notices of Acceptance and Rejection
 <br>
 [10-Feb-2023 Notice of Rejection for Simplified Debt Restructuring Programme](/files/10-02-2023%20Notice%20of%20Rejection.pdf/){:target="_blank"} (83.10KB)
