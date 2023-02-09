@@ -18,14 +18,14 @@ NOTICES
 <br><br>
 *(1) Notices of Application*
 <br>
+[10-Feb-2023 Notice of Application into Simplified Winding Up Programme](/files/10-02-2023%20Application%20SWU.pdf/){:target="_blank"} (32.9KB) 
+<br>
 [20-Jan-2023 Notice of Application into Simplified Winding Up Programme](/files/20-01-2023%20Application%20SWU.pdf/){:target="_blank"} (33.4KB) 
 <br>
 [13-Jan-2023 Notice of Application into Simplified Winding Up Programme](/files/13-01-2023%20Application%20SWU.pdf/){:target="_blank"} (33.4KB) 
 <br>
 
 (2) Notices of Acceptance and Rejection
-<br>
-[10-Feb-2023 Notice of Rejection for Simplified Winding Up Programme](/files/10-02-2023%20Notice%20of%20Rejection.pdf/){:target="_blank"} (83.10KB)
 <br>
 [27-Jan-2023 Notice of Rejection for Simplified Winding Up Programme](/files/27-01-2023%20Notice%20of%20Rejection.pdf/){:target="_blank"} (83.40KB) <br>
 [13-Jan-2023 Notice of Acceptance for Simplified Winding Up Programme](/files/13-01-2023%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (84.00KB) <br>
@@ -40,12 +40,9 @@ NOTICES
 <br>
 **Insolvency, Restructuring and Dissolution (Simplified Debt Restructuring) Regulations 2021**
 <br>
+(1) Notices of Acceptance and Rejection
 <br>
-(1) Notices of Application
-<br>
-[10-Feb-2023 Notice of Application into Simplified Debt Restructuring Programme](/files/10-02-2023%20Application%20SR.pdf/){:target="_blank"} (32.9KB) 
-<br><br>
-(2) Notices of Acceptance and Rejection
+[10-Feb-2023 Notice of Rejection for Simplified Debt Restructuring Programme](/files/10-02-2023%20Notice%20of%20Rejection.pdf/){:target="_blank"} (83.10KB)
 <br>
 [06-Jan-2023 Notice of Acceptance for Simplified Debt Restructuring Programme](/files/06-01-2023%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (81.3KB) 
 
