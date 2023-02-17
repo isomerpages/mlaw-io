@@ -97,7 +97,6 @@ Fees are also levied on dividends distributed to creditors. The rates of the fee
     <td>1.03%</td>
   </tr>
 </table><br>
-
 **7. What happens to my unrealised assets after my discharge from bankruptcy? Do they get revested in me since I have been discharged from bankruptcy?** <br>
 
 Assets which are vested in the Official Assignee at the start of your bankruptcy will continue to vest in the Official Assignee even after your discharge from bankruptcy. Assets which you acquire or devolve on you during your bankruptcy will also continue to be part of your bankruptcy estate. The Official Assignee will therefore lay claim to the monies should any of these assets be converted into cash (e.g., payout from a matured insurance policy, dividends from public listed shares, and proceeds from the sale of a property) after your discharge from bankruptcy.<br>
