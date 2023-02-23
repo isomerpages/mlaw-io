@@ -34,11 +34,15 @@ NOTICES
 [27-Jan-2023 Notice of Rejection for Simplified Winding Up Programme](/files/27-01-2023%20Notice%20of%20Rejection.pdf/){:target="_blank"} (83.40KB) <br>
 [13-Jan-2023 Notice of Acceptance for Simplified Winding Up Programme](/files/13-01-2023%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (84.00KB) <br>
 
-(3) Notices of Intended Dividend
+(3) Notices of Striking off and Final Accounts
+<br>
+[24-Feb-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/24-02-2023%20Notice%20of%20Striking%20Off.pdf/){:target="_blank"} (12.00KB) and Final Accounts for [Athetop Business Pte. Ltd. (SW 17/2022)](/files/SW17-2022%20Final%20Account.pdf/){:target="_blank"} (201KB) 
+<br> <br> 
+(4) Notices of Intended Dividend
 <br>
 [03-Feb-2023 Notice of Intended Dividend for Mars Candy Pte. Ltd. (SW 33/2021)](/files/SW332021%20Notice%20of%20Intended%20Dividend.pdf/){:target="_blank"} (32.9KB) <br>
 
-(4) Notices of Intended Dissolution
+(5) Notices of Intended Dissolution
 <br> 
 [06-Jan-2023 Notice of Intended Dissolution](/files/06-01-2023%20Notice%20of%20Intended%20Dissolution.pdf/){:target="_blank"} (11.3KB) and Final Accounts for [Delight 8 Cafe Pte. Ltd. (SW 2-2021)](/files/06-01-2023%20Final%20Account.pdf/){:target="_blank"} (206.KB)<br>
 <br>
