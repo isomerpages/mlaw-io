@@ -68,6 +68,10 @@ NOTICES
 
 *(1) Notices of Application*
 <br>
+[20-Jan-2023 Notice of Application into Simplified Winding Up Programme](/files/20-01-2023%20Application%20SWU.pdf/){:target="_blank"} (33.4KB) 
+<br>
+[13-Jan-2023 Notice of Application into Simplified Winding Up Programme](/files/13-01-2023%20Application%20SWU.pdf/){:target="_blank"} (33.4KB) 
+<br>
 [02-Dec-2022 Notice of Application into Simplified Winding Up Programme](/files/02-12-2022%20Application%20SWU.pdf/){:target="_blank"} (30.8KB) 
 <br>
 [28-Oct-2022 Notice of Application into Simplified Winding Up Programme](/files/28-10-2022%20Application%20SWU.pdf/){:target="_blank"} (30.8KB) 
@@ -102,7 +106,10 @@ NOTICES
 <br>
 <br>
 *(2) Notices of Acceptance and Rejection*
-<br>[30-Dec-2022 Notice of Rejection for Simplified Winding Up Programme](/files/30-12-2022%20Notice%20of%20Rejection.pdf/){:target="_blank"} (83.50KB) 
+<br>
+[27-Jan-2023 Notice of Rejection for Simplified Winding Up Programme](/files/27-01-2023%20Notice%20of%20Rejection.pdf/){:target="_blank"} (83.40KB) <br>
+[13-Jan-2023 Notice of Acceptance for Simplified Winding Up Programme](/files/13-01-2023%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (84.00KB) <br>
+[30-Dec-2022 Notice of Rejection for Simplified Winding Up Programme](/files/30-12-2022%20Notice%20of%20Rejection.pdf/){:target="_blank"} (83.50KB) 
 <br>[04-Nov-2022 Notice of Acceptance for Simplified Winding Up Programme](/files/04-11-2022%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (81.80KB)
 <br>[23-Sept-2022 Notice of Acceptance for Simplified Winding Up Programme](/files/23-09-2022%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (29.20KB) <br>[16-Sept-2022 Notice of Acceptance for Simplified Winding Up Programme](/files/16-09-2022%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (29.60KB) <br>
 [08-Jul-2022 Notice of Acceptance for Simplified Winding Up Programme](/files/08-07-2022%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (81.50KB) <br>
