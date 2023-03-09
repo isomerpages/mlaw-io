@@ -15,19 +15,11 @@ NOTICES
 <br>
 
 **Insolvency, Restructuring and Dissolution (Simplified Winding Up) Regulations 2021**
-<br><br>
-*(1) Notices of Application*
 <br>
 
-(2) Notices of Acceptance and Rejection
+(1) Notices of Acceptance and Rejection
 <br>
 [03-Mar-2023 Notice of Acceptance for Simplified Winding Up Programme](/files/03-03-2023%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (30.40KB)
-
-
-(3) Notices of Striking off and Final Accounts
-
-
-(4) Notices of Intended Dividend
 
 
 
@@ -39,7 +31,6 @@ NOTICES
 [10-Mar-2023 Notice of Application into Simplified Debt Restructuring Programme](/files/10-03-2023%20Application%20SR.pdf/){:target="_blank"} (33.1KB) 
 <br>
 
-(1) Notices of Acceptance and Rejection
 
 
 *Past Notices*
