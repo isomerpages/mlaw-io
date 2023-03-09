@@ -40,14 +40,16 @@ NOTICES
 [03-Feb-2023 Notice of Intended Dividend for Mars Candy Pte. Ltd. (SW 33/2021)](/files/SW332021%20Notice%20of%20Intended%20Dividend.pdf/){:target="_blank"} (32.9KB) <br>
 
 
-<br>
-**Insolvency, Restructuring and Dissolution (Simplified Debt Restructuring) Regulations 2021**
+<b><br>
+**Insolvency, Restructuring and Dissolution (Simplified Debt Restructuring) Regulations 2021** </b>
 <br><br>
+*(1) Notices of Application*
+<br>
+[10-Mar-2023 Notice of Application into Simplified Debt Restructuring Programme](/files/10-03-2023%20Application%20SR.pdf/){:target="_blank"} (33.1KB) 
+<br>
+
 (1) Notices of Acceptance and Rejection
-<br>
-[10-Feb-2023 Notice of Rejection for Simplified Debt Restructuring Programme](/files/10-02-2023%20Notice%20of%20Rejection.pdf/){:target="_blank"} (83.10KB)
-<br>
-[06-Jan-2023 Notice of Acceptance for Simplified Debt Restructuring Programme](/files/06-01-2023%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (81.3KB) 
+
 
 *Past Notices*
 -
@@ -197,6 +199,8 @@ NOTICES
 <br>
 <br>
 *(2) Notices of Acceptance and Rejection*
+<br>
+[10-Feb-2023 Notice of Rejection for Simplified Debt Restructuring Programme](/files/10-02-2023%20Notice%20of%20Rejection.pdf/){:target="_blank"} (83.10KB)
 <br>
 [06-Jan-2023 Notice of Acceptance for Simplified Debt Restructuring Programme](/files/06-01-2023%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (81.3KB) <br>
 [14-Apr-2022 Notice of Rejection for Simplified Debt Restructuring Programme](/files/14-04-2022%20Notice%20of%20Rejection%20in%20SR.pdf/){:target="_blank"} (81.04KB) <br>
