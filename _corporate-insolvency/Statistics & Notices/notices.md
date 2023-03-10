@@ -22,7 +22,7 @@ NOTICES
 [03-Mar-2023 Notice of Acceptance for Simplified Winding Up Programme](/files/03-03-2023%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (30.40KB)
 
 *(2) Notices of Dividend*
- <br>[10-Mar-2023 Notice of Dividend for Mars Candy Pte. Ltd. (SW 33/2021) ](/files/SW33-2021%20Notice%20of%20Dividend.pdf/){:target="_blank"} (31.5KB)  
+ <br>[10-Mar-2023 Notice of Dividend for Mars Candy Pte. Ltd. (SW 33/2021) ](/files/SW33-2021%20Notice%20of%20Dividend.pdf/){:target="_blank"} (31.84KB)  
 
 
 <b><br>
