@@ -19,11 +19,16 @@ NOTICES
 
 (1) Notices of Acceptance and Rejection
 <br>
+[17-Mar-2023 Notice of Rejection for Simplified Winding Up Programme](/files/17-03-2023%20Notice%20of%20Rejection.pdf/){:target="_blank"} (83.40KB)
+<br>
 [03-Mar-2023 Notice of Acceptance for Simplified Winding Up Programme](/files/03-03-2023%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (30.40KB)
 
 *(2) Notices of Dividend*
  <br>[10-Mar-2023 Notice of Dividend for Mars Candy Pte. Ltd. (SW 33/2021) ](/files/SW33-2021%20Notice%20of%20Dividend.pdf/){:target="_blank"} (31.84KB)  
 
+ *(3) Notices of Intended Dissolution*
+ <br>
+ [17-Mar-2023 Notice of Intended Dissolution](/files/SW33-2021%20Notice%20of%20Intended%20Dissolution.pdf/){:target="_blank"} (10.13KB) and Final Accounts for [Mars Candy Pte. Ltd. (SW 33-2021)](/files/SW33-2021%20Final%20Account.pdf/){:target="_blank"} (201.2KB)<br>
 
 <b><br>
 **Insolvency, Restructuring and Dissolution (Simplified Debt Restructuring) Regulations 2021** </b>
