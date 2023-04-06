@@ -34,10 +34,11 @@ NOTICES
 <br>
 [29-Jul-2022 Notice of Striking Off for Simplified Winding Up Programme](/files/29-07-2022%20Notice%20of%20Striking%20off.pdf/){:target="_blank"} (10.23KB) and Final Accounts for [Afrigrain Trading Private Limited (SW 36/2021)](/files/SW36-2021%20Final%20Account.pdf/){:target="_blank"} (23KB)<br><br>
 
-*(3) Notices of Dividend*
- <br>[10-Mar-2023 Notice of Dividend for Mars Candy Pte. Ltd. (SW 33/2021) ](/files/SW33-2021%20Notice%20of%20Dividend.pdf/){:target="_blank"} (31.84KB)  
+*(4) Notices of Dividend*
+ <br>
+ [10-Mar-2023 Notice of Dividend for Mars Candy Pte. Ltd. (SW 33/2021) ](/files/SW33-2021%20Notice%20of%20Dividend.pdf/){:target="_blank"} (31.84KB)  
 
- *(4) Notices of Intended Dissolution*
+ *(5) Notices of Intended Dissolution*
  <br>
  [17-Mar-2023 Notice of Intended Dissolution](/files/SW33-2021%20Notice%20of%20Intended%20Dissolution.pdf/){:target="_blank"} (10.13KB) and Final Accounts for [Mars Candy Pte. Ltd. (SW 33-2021)](/files/SW33-2021%20Final%20Account.pdf/){:target="_blank"} (201.2KB)<br>
 
