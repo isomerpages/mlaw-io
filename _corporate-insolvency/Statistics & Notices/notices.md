@@ -27,7 +27,7 @@ NOTICES
 <br>
 [17-Mar-2023 Notice of Rejection for Simplified Winding Up Programme](/files/17-03-2023%20Notice%20of%20Rejection.pdf/){:target="_blank"} (83.40KB)
 <br>
-[03-Mar-2023 Notice of Acceptance for Simplified Winding Up Programme](/files/03-03-2023%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (30.40KB)<br>
+[03-Mar-2023 Notice of Acceptance for Simplified Winding Up Programme](/files/03-03-2023%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (30.40KB)
 
 *(3) Notices of Striking off and Final Accounts*
 <br>
