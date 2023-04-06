@@ -2,7 +2,7 @@
 title: Notices
 permalink: /corporate-insolvency/notices/
 breadcrumb: Notices
-third_nav_title: Statistics & Notices
+third_nav_title: Statistics &amp; Notices
 ---
 NOTICES 
 ---
@@ -15,9 +15,13 @@ NOTICES
 <br>
 
 **Insolvency, Restructuring and Dissolution (Simplified Winding Up) Regulations 2021**
+<br><br>
+*(1) Notices of Application*
+<br>
+[06-Apr-2023 Notice of Application into Simplified Winding Up Programme](/files/06-04-2023%20Application%20SWU.pdf/){:target="_blank"} (33.0KB) 
 <br>
 
-(1) Notices of Acceptance and Rejection
+(2) Notices of Acceptance and Rejection
 <br>
 [24-Mar-2023 Notice of Acceptance for Simplified Winding Up Programme](/files/24-03-2023%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (82.10KB)
 <br>
@@ -25,10 +29,15 @@ NOTICES
 <br>
 [03-Mar-2023 Notice of Acceptance for Simplified Winding Up Programme](/files/03-03-2023%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (30.40KB)
 
-*(2) Notices of Dividend*
- <br>[10-Mar-2023 Notice of Dividend for Mars Candy Pte. Ltd. (SW 33/2021) ](/files/SW33-2021%20Notice%20of%20Dividend.pdf/){:target="_blank"} (31.84KB)  
+*(3) Notices of Striking off and Final Accounts*
+<br>
+[06-Apr-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/06-04-2023%20Notice%20of%20Striking%20off.pdf/){:target="_blank"} (12.00KB) and Final Accounts for [Black Spartans Pte. Ltd. (SW 21/2022)](/files/SW21-2022%20Final%20Account.pdf/){:target="_blank"} (14.5KB)<br>
 
- *(3) Notices of Intended Dissolution*
+*(4) Notices of Dividend*
+ <br>
+ [10-Mar-2023 Notice of Dividend for Mars Candy Pte. Ltd. (SW 33/2021) ](/files/SW33-2021%20Notice%20of%20Dividend.pdf/){:target="_blank"} (31.84KB)  
+
+ *(5) Notices of Intended Dissolution*
  <br>
  [17-Mar-2023 Notice of Intended Dissolution](/files/SW33-2021%20Notice%20of%20Intended%20Dissolution.pdf/){:target="_blank"} (10.13KB) and Final Accounts for [Mars Candy Pte. Ltd. (SW 33-2021)](/files/SW33-2021%20Final%20Account.pdf/){:target="_blank"} (201.2KB)<br>
 
@@ -181,7 +190,7 @@ NOTICES
  *(6) Notices of Intended Dissolution*
  <br>
  [06-Jan-2023 Notice of Intended Dissolution](/files/06-01-2023%20Notice%20of%20Intended%20Dissolution.pdf/){:target="_blank"} (11.3KB) and Final Accounts for [Delight 8 Cafe Pte. Ltd. (SW 2-2021)](/files/06-01-2023%20Final%20Account.pdf/){:target="_blank"} (206.KB)<br>
-[28-Oct-2022 Notice of Intended Dissolution](/files/SW6-2022%20Notice%20of%20Intended%20Dissolution.pdf/){:target="\_blank"} (11.3KB) and Final Accounts for [Astral Nanotec Pte. Ltd. (SW 6/2022)](/files/SW6-2022%20Final%20Account.pdf/){:target="\_blank"} (219.KB) <br>[26-Aug-2022 Notice of Intended Dissolution](/files/SW16-2021%20Notice%20of%20Intended%20Dissolution.pdf/){:target="_blank"} (9.62KB)and Final Accounts for [Blavk Pte. Ltd. (SW 16-2021)](/files/SW16-2021%20Final%20Account.pdf/){:target="_blank"} (23.1KB) <br>
+[28-Oct-2022 Notice of Intended Dissolution](/files/SW6-2022%20Notice%20of%20Intended%20Dissolution.pdf/){:target="\_blank"} (11.3KB) and Final Accounts for&nbsp;[Astral Nanotec Pte. Ltd. (SW 6/2022)](/files/SW6-2022%20Final%20Account.pdf/){:target="\_blank"} (219.KB) <br>[26-Aug-2022 Notice of Intended Dissolution](/files/SW16-2021%20Notice%20of%20Intended%20Dissolution.pdf/){:target="_blank"} (9.62KB)and Final Accounts for [Blavk Pte. Ltd. (SW 16-2021)](/files/SW16-2021%20Final%20Account.pdf/){:target="_blank"} (23.1KB) <br>
 [29-Jul-2022 Notice of Intended Dissolution](/files/SW30-2021%20Notice%20of%20Intended%20Dissolution.pdf/){:target="_blank"} (9.636KB)and Final Accounts for [Maxi Mango (Singapore) Pte Ltd (SW 30-2021)](/files/SW30-2021%20Final%20Account.pdf/){:target="_blank"} (19.85KB) <br>
 [08-Jul-2022 Notice of Intended Dissolution](/files/SW24-2021%20Notice%20of%20Intended%20Dissolution.pdf/){:target="_blank"} (9.636KB)and Final Accounts for [Lab.Digital Pte Ltd (SW 24-2021)](/files/SW24-2021%20Final%20Account.pdf/){:target="_blank"} (23.29KB) 
 <br> [01-Jul-2022 Notice of Intended Dissolution](/files/SW7-2021%20Notice%20of%20Intended%20Dissolution.pdf/){:target="_blank"} (9.559KB)and Final Accounts for [Good Old Taste Pte Ltd (SW 7-2021)](/files/SW7-2021%20Final%20Account.pdf/){:target="_blank"} (20.16KB)
