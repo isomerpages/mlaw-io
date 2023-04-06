@@ -31,7 +31,7 @@ NOTICES
 
 *(3) Notices of Striking off and Final Accounts*
 <br>
-[06-Apr-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/06-04-2023%20Notice%20of%20Striking%20off.pdf/){:target="_blank"} (12.00KB) and Final Accounts for [Black Spartans Pte Ltd (SW 21/2022)](/files/SW21-2022%20Final%20Account.pdf/){:target="_blank"} (14.5KB)<br>
+[06-Apr-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/06-04-2023%20Notice%20of%20Striking%20off.pdf/){:target="_blank"} (12.00KB) and Final Accounts for [Black Spartans Pte. Ltd. (SW 21/2022)](/files/SW21-2022%20Final%20Account.pdf/){:target="_blank"} (14.5KB)<br>
 
 *(4) Notices of Dividend*
  <br>
