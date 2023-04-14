@@ -27,10 +27,10 @@ NOTICES
 <br>
 [17-Mar-2023 Notice of Rejection for Simplified Winding Up Programme](/files/17-03-2023%20Notice%20of%20Rejection.pdf/){:target="_blank"} (83.40KB)
 <br>
-[03-Mar-2023 Notice of Acceptance for Simplified Winding Up Programme](/files/03-03-2023%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (30.40KB)
 
 *(3) Notices of Striking off and Final Accounts*
 <br>
+[14-Apr-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/14-04-2023%20Notice%20of%20Striking%20off.pdf/){:target="_blank"} (12.00KB) and Final Accounts for [Sol Ventures Pte. Ltd. (SW 20/2022)](/files/SW20-2022%20Final%20Account.pdf/){:target="_blank"} (12.0KB)<br>
 [06-Apr-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/06-04-2023%20Notice%20of%20Striking%20off.pdf/){:target="_blank"} (12.00KB) and Final Accounts for [Black Spartans Pte. Ltd. (SW 21/2022)](/files/SW21-2022%20Final%20Account.pdf/){:target="_blank"} (14.5KB)<br>
 
 *(4) Notices of Dividend*
@@ -105,6 +105,8 @@ NOTICES
 <br>
 <br>
 *(2) Notices of Acceptance and Rejection*
+<br>
+[03-Mar-2023 Notice of Acceptance for Simplified Winding Up Programme](/files/03-03-2023%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (30.40KB)
 <br>
 [24-Feb-2023 Notice of Acceptance for Simplified Winding Up Programme](/files/24-02-2023%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (30.40KB) <br>
 [17-Feb-2023 Notice of Acceptance for Simplified Winding Up Programme](/files/17-02-2023%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (30.40KB) <br>
