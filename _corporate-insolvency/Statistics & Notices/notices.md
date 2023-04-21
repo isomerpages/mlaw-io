@@ -29,15 +29,6 @@ NOTICES
 <br>
 [14-Apr-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/14-04-2023%20Notice%20of%20Striking%20off.pdf/){:target="_blank"} (12.00KB) and Final Accounts for [Sol Ventures Pte. Ltd. (SW 20/2022)](/files/SW20-2022%20Final%20Account.pdf/){:target="_blank"} (12.0KB)<br>
 [06-Apr-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/06-04-2023%20Notice%20of%20Striking%20off.pdf/){:target="_blank"} (12.00KB) and Final Accounts for [Black Spartans Pte. Ltd. (SW 21/2022)](/files/SW21-2022%20Final%20Account.pdf/){:target="_blank"} (14.5KB)<br>
-
-
-
-<b><br>
-**Insolvency, Restructuring and Dissolution (Simplified Debt Restructuring) Regulations 2021** </b>
-<br><br>
-*(1) Notices of Application*
-<br>
-[10-Mar-2023 Notice of Application into Simplified Debt Restructuring Programme](/files/10-03-2023%20Application%20SR.pdf/){:target="_blank"} (33.1KB) 
 <br>
 
 
@@ -202,6 +193,8 @@ NOTICES
 
 *(1) Notices of Application*
 <br>
+[10-Mar-2023 Notice of Application into Simplified Debt Restructuring Programme](/files/10-03-2023%20Application%20SR.pdf/){:target="_blank"} (33.1KB) 
+<br>
 [25-Nov-2022 Notice of Application into Simplified Debt Restructuring Programme](/files/25-11-2022%20Application%20SR.pdf/){:target="_blank"} (33.1KB) 
 <br>[12-Aug-2022 Notice of Application into Simplified Debt Restructuring Programme](/files/12-08-2022%20Application%20SR.pdf/){:target="_blank"} (31.37KB) 
 <br>
@@ -214,11 +207,3 @@ NOTICES
 <br>
 [06-Jan-2023 Notice of Acceptance for Simplified Debt Restructuring Programme](/files/06-01-2023%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (81.3KB) <br>
 [14-Apr-2022 Notice of Rejection for Simplified Debt Restructuring Programme](/files/14-04-2022%20Notice%20of%20Rejection%20in%20SR.pdf/){:target="_blank"} (81.04KB) <br>
-<br>
-
-<u><b>OTHER NOTICES </b></u>
-<br>
-
-**UE 800001/2021 Singapore Technologies Electronics Employees' Union**<br>
-[21-Oct-2021 List of Members](/files/UE%20800001%202021%20members.pdf/){:target="_blank"} (334KB) <br>
-<br>
