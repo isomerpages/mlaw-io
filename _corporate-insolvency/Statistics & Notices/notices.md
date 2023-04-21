@@ -18,35 +18,17 @@ NOTICES
 <br><br>
 *(1) Notices of Application*
 <br>
+[21-Apr-2023 Notice of Application into Simplified Winding Up Programme](/files/21-04-2023%20Application%20SWU.pdf/){:target="_blank"} (33.0KB) 
+<br>
 [06-Apr-2023 Notice of Application into Simplified Winding Up Programme](/files/06-04-2023%20Application%20SWU.pdf/){:target="_blank"} (33.0KB) 
 <br>
 
-(2) Notices of Acceptance and Rejection
-<br>
-[24-Mar-2023 Notice of Acceptance for Simplified Winding Up Programme](/files/24-03-2023%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (82.10KB)
-<br>
-[17-Mar-2023 Notice of Rejection for Simplified Winding Up Programme](/files/17-03-2023%20Notice%20of%20Rejection.pdf/){:target="_blank"} (83.40KB)
-<br>
 
-*(3) Notices of Striking off and Final Accounts*
+
+*(2) Notices of Striking off and Final Accounts*
 <br>
 [14-Apr-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/14-04-2023%20Notice%20of%20Striking%20off.pdf/){:target="_blank"} (12.00KB) and Final Accounts for [Sol Ventures Pte. Ltd. (SW 20/2022)](/files/SW20-2022%20Final%20Account.pdf/){:target="_blank"} (12.0KB)<br>
 [06-Apr-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/06-04-2023%20Notice%20of%20Striking%20off.pdf/){:target="_blank"} (12.00KB) and Final Accounts for [Black Spartans Pte. Ltd. (SW 21/2022)](/files/SW21-2022%20Final%20Account.pdf/){:target="_blank"} (14.5KB)<br>
-
-*(4) Notices of Dividend*
- <br>
- [10-Mar-2023 Notice of Dividend for Mars Candy Pte. Ltd. (SW 33/2021) ](/files/SW33-2021%20Notice%20of%20Dividend.pdf/){:target="_blank"} (31.84KB)  
-
- *(5) Notices of Intended Dissolution*
- <br>
- [17-Mar-2023 Notice of Intended Dissolution](/files/SW33-2021%20Notice%20of%20Intended%20Dissolution.pdf/){:target="_blank"} (10.13KB) and Final Accounts for [Mars Candy Pte. Ltd. (SW 33-2021)](/files/SW33-2021%20Final%20Account.pdf/){:target="_blank"} (201.2KB)<br>
-
-<b><br>
-**Insolvency, Restructuring and Dissolution (Simplified Debt Restructuring) Regulations 2021** </b>
-<br><br>
-*(1) Notices of Application*
-<br>
-[10-Mar-2023 Notice of Application into Simplified Debt Restructuring Programme](/files/10-03-2023%20Application%20SR.pdf/){:target="_blank"} (33.1KB) 
 <br>
 
 
@@ -105,6 +87,10 @@ NOTICES
 <br>
 <br>
 *(2) Notices of Acceptance and Rejection*
+<br>
+[24-Mar-2023 Notice of Acceptance for Simplified Winding Up Programme](/files/24-03-2023%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (82.10KB)
+<br>
+[17-Mar-2023 Notice of Rejection for Simplified Winding Up Programme](/files/17-03-2023%20Notice%20of%20Rejection.pdf/){:target="_blank"} (83.40KB)
 <br>
 [03-Mar-2023 Notice of Acceptance for Simplified Winding Up Programme](/files/03-03-2023%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (30.40KB)
 <br>
@@ -183,14 +169,18 @@ NOTICES
 [28-Jan-2022 Notice of Intended Dividend for ISC Far East Pte Ltd (SW 26/2021)](/files/SW26-2021%20NOID.pdf/){:target="_blank"} (33.9KB)<br>
 
  *(5) Notices of Dividend*
- <br>[07-Oct-2022 Notice of Dividend for Astral Nanotec Pte. Ltd. (SW 6/2022) ](/files/SW6-2022%20Notice%20of%20Dividend.pdf/){:target="_blank"} (31.5KB)  
+  <br>
+ [10-Mar-2023 Notice of Dividend for Mars Candy Pte. Ltd. (SW 33/2021) ](/files/SW33-2021%20Notice%20of%20Dividend.pdf/){:target="_blank"} (31.84KB) 
+ <br>
+ [07-Oct-2022 Notice of Dividend for Astral Nanotec Pte. Ltd. (SW 6/2022) ](/files/SW6-2022%20Notice%20of%20Dividend.pdf/){:target="_blank"} (31.5KB)  
 [01-Sept-2022 Notice of Dividend for Delight 8 Cafe Pte. Ltd. (SW 2/2021) ](/files/SW%202-2021%20Notice%20of%20Dividend.pdf/){:target="_blank"} (30.5KB)  <br>
 [06-Jul-2022 Notice of Dividend for Maxi Mango (Singapore) Pte Ltd (SW 30/2021) ](/files/SW30-2021%20Notice%20of%20Dividend.pdf/){:target="_blank"} (30.83KB)  <br>
 [24-Jun-2022 Notice of Dividend for Lab Digital Pte Ltd (SW 24/2021) ](/files/SW24-2021%20Notice%20of%20Dividend.pdf/){:target="_blank"} (10.19KB)  <br>
 [22-Apr-2022 Notice of Dividend for Good Old Taste Pte Ltd (SW 7/2021) ](/files/SW7-2021%20Notice%20of%20Dividend.pdf/){:target="_blank"} (10.19KB)  
 <br>
  *(6) Notices of Intended Dissolution*
- <br>
+<br>
+ [17-Mar-2023 Notice of Intended Dissolution](/files/SW33-2021%20Notice%20of%20Intended%20Dissolution.pdf/){:target="_blank"} (10.13KB) and Final Accounts for [Mars Candy Pte. Ltd. (SW 33-2021)](/files/SW33-2021%20Final%20Account.pdf/){:target="_blank"} (201.2KB)<br>
  [06-Jan-2023 Notice of Intended Dissolution](/files/06-01-2023%20Notice%20of%20Intended%20Dissolution.pdf/){:target="_blank"} (11.3KB) and Final Accounts for [Delight 8 Cafe Pte. Ltd. (SW 2-2021)](/files/06-01-2023%20Final%20Account.pdf/){:target="_blank"} (206.KB)<br>
 [28-Oct-2022 Notice of Intended Dissolution](/files/SW6-2022%20Notice%20of%20Intended%20Dissolution.pdf/){:target="\_blank"} (11.3KB) and Final Accounts for&nbsp;[Astral Nanotec Pte. Ltd. (SW 6/2022)](/files/SW6-2022%20Final%20Account.pdf/){:target="\_blank"} (219.KB) <br>[26-Aug-2022 Notice of Intended Dissolution](/files/SW16-2021%20Notice%20of%20Intended%20Dissolution.pdf/){:target="_blank"} (9.62KB)and Final Accounts for [Blavk Pte. Ltd. (SW 16-2021)](/files/SW16-2021%20Final%20Account.pdf/){:target="_blank"} (23.1KB) <br>
 [29-Jul-2022 Notice of Intended Dissolution](/files/SW30-2021%20Notice%20of%20Intended%20Dissolution.pdf/){:target="_blank"} (9.636KB)and Final Accounts for [Maxi Mango (Singapore) Pte Ltd (SW 30-2021)](/files/SW30-2021%20Final%20Account.pdf/){:target="_blank"} (19.85KB) <br>
@@ -202,6 +192,8 @@ NOTICES
 <br>
 
 *(1) Notices of Application*
+<br>
+[10-Mar-2023 Notice of Application into Simplified Debt Restructuring Programme](/files/10-03-2023%20Application%20SR.pdf/){:target="_blank"} (33.1KB) 
 <br>
 [25-Nov-2022 Notice of Application into Simplified Debt Restructuring Programme](/files/25-11-2022%20Application%20SR.pdf/){:target="_blank"} (33.1KB) 
 <br>[12-Aug-2022 Notice of Application into Simplified Debt Restructuring Programme](/files/12-08-2022%20Application%20SR.pdf/){:target="_blank"} (31.37KB) 
@@ -215,11 +207,3 @@ NOTICES
 <br>
 [06-Jan-2023 Notice of Acceptance for Simplified Debt Restructuring Programme](/files/06-01-2023%20Notice%20of%20Acceptance.pdf/){:target="_blank"} (81.3KB) <br>
 [14-Apr-2022 Notice of Rejection for Simplified Debt Restructuring Programme](/files/14-04-2022%20Notice%20of%20Rejection%20in%20SR.pdf/){:target="_blank"} (81.04KB) <br>
-<br>
-
-<u><b>OTHER NOTICES </b></u>
-<br>
-
-**UE 800001/2021 Singapore Technologies Electronics Employees' Union**<br>
-[21-Oct-2021 List of Members](/files/UE%20800001%202021%20members.pdf/){:target="_blank"} (334KB) <br>
-<br>
