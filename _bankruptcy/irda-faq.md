@@ -1,6 +1,6 @@
 ---
 title: IRDA-FAQ
-permalink: /bankruptcy/IRDA-FAQ/
+permalink: /bankruptcy/irda-faq/
 breadcrumb: IRDA-FAQ
 
 ---

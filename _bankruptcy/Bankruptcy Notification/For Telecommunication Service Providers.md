@@ -1,6 +1,6 @@
 ---
 title: For Telecommunication Service Providers
-permalink: /bankruptcy/BankruptcyNotification/forTelecommunicationServiceProviders/
+permalink: /bankruptcy/bankruptcynotification/fortelecommunicationserviceproviders/
 description: ""
 third_nav_title: Bankruptcy Notification
 ---

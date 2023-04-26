@@ -1,6 +1,6 @@
 ---
 title: 'Forms - Insolvency, Restructuring and Dissolution Act (wef 30 July 2020)'
-permalink: /debt-repayment-scheme/Forms-IRDA/
+permalink: /debt-repayment-scheme/forms-irda/
 breadcrumb: Forms
 third_nav_title: Forms
 

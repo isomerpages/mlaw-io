@@ -1,6 +1,6 @@
 ---
 title: For Banks
-permalink: /bankruptcy/bankruptcynotification/forBanks/
+permalink: /bankruptcy/bankruptcynotification/forbanks/
 description: ""
 third_nav_title: Bankruptcy Notification
 ---

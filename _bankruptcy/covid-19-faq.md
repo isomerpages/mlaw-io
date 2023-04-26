@@ -1,6 +1,6 @@
 ---
 title: 'COVID-19 FAQ'
-permalink: /bankruptcy/COVID-19-FAQ/
+permalink: /bankruptcy/covid-19-faq/
 breadcrumb: 'COVID-19 FAQ'
 
 ---
