@@ -29,7 +29,7 @@ You can make your monthly instalment payments [online](https://go.gov.sg/ecp) [(
 
 Please note that the MinLaw Services Centre’s counter operating hours are: <br>
 Monday to Friday: 8.30am to 5.00pm <br>
-(Closed on Weekends & Public Holidays) <br>
+(Closed on Weekends &amp; Public Holidays) <br>
 
 <b>(d) How can I find out how much I have to paid into my bankruptcy account altogether?</b> <br>
 You may access the e-services portal (Individual Insolvency Administration Information) at our [website](https://www.mlaw.gov.sg/eservices/io/) and obtain the information, at no charge.
@@ -37,7 +37,7 @@ You may access the e-services portal (Individual Insolvency Administration Infor
 <b>2. Travelling Overseas</b> <br>
 
 <b>(a) Can I travel overseas? </b> <br>
-You are allowed to leave Singapore or remain overseas after obtaining the approval of the Official Assignee. If you attempt to travel overseas <u><b>without</b></u> the Official Assignee's permission, you may be stopped by the Controller of Immigration from leaving Singapore and your passport may be impounded by the Immigration & Checkpoints Authority.<br>
+You are allowed to leave Singapore or remain overseas after obtaining the approval of the Official Assignee. If you attempt to travel overseas <u><b>without</b></u> the Official Assignee's permission, you may be stopped by the Controller of Immigration from leaving Singapore and your passport may be impounded by the Immigration &amp; Checkpoints Authority.<br>
 
 <b>(b) How do I apply for permission to travel overseas?</b><br>
 If you wish to leave Singapore, you should apply online at least 14 days before your departure date to obtain the Official Assignee’s permission, stating the reason for your travel, your destination of travel and your period of travel.<br>
@@ -92,60 +92,9 @@ The Official Assignee may refuse the application or approve the application subj
 <b>(d) How do I find out the status of my application to manage a business or corporation?</b> <br>
 You may access the e-services portal (Individual Insolvency Administration Information) at our [website](https://www.mlaw.gov.sg/eservices/io/) and obtain the information at no charge. <br>
 
-<b>4. Categorising and Zones</b> <br>
 
-<b>(a) Will I be categorised based on my conduct in bankruptcy?</b> <br>
-Yes. This categorisation helps to streamline case administration and allows bankrupts who display satisfactory conduct to have certain privileges in relation to their applications to travel abroad and in buying an HDB flat that is greater than a 5 room flat. This streamlining will also facilitate bankrupts in their discharge from bankruptcy. <br>
 
-<b>(b) What factors* do the Official Assignee consider when categorising bankrupts?</b> <br>
-<b> Green Zone </b> <br>
-
-* Statement of Affairs filed on time
-* Gainfully employed
-* Regular in making instalment payments
-* Instalment amount commensurates with income and needs of family
-* Timely submission of Income and Expenditure statements
-* Co-operative with the Official Assignee
-* No pending warrant of arrest
-* No pending prosecution action
-* No complaint under investigation
-* No offences committed under the Bankruptcy Act (Chapter 20)
-* Full disclosure of assets (both local and overseas)
- 
-
-<b> Red Zone </b> <br>
-
-* Statement of Affairs not filed on time
-* Unemployed (with no good reason for unemployment)
-* Irregular in making instalment payments or no payments made at all
-* Instalment amount does not commensurate with income and needs of family
-* Irregular submission of Income and Expenditure statements
-* Uncooperative with the Official Assignee
-* Outstanding warrant of arrest
-* Pending prosecution action
-* Complaint under investigation
-* Committed offences under the Bankruptcy Act (Chapter 20)
-* Non-disclosure of assets (both local and overseas)
- 
-
-*These factors are not exhaustive and not determinative of a bankrupt’s categorisation. <br>
-
- 
-
-<b>(c) What are the benefits of being in the Green Zone? </b>
-* The bankrupt may be granted a travel permit of more than a month to any country.
-
-* A review of the bankrupt’s case conducted after 5 years in bankruptcy to assess suitability for a discharge from bankruptcy.
-
- 
-
-<b>(d) What are the disincentives to those in the Red Zone?</b> <br>
-* The bankrupt will generally not be granted permission to travel overseas.
-* The bankrupt will not be given permission to manage a business or act as a director.
-* A review of the bankrupt’s case to assess suitability for a discharge after more than five years in bankruptcy.
- 
-
-<b>5. Other Duties and Responsibilities of a Bankrupt</b> <br>
+<b>4. Other Duties and Responsibilities of a Bankrupt</b> <br>
 
 <b>(a) Can I commence or continue any court action? </b><br>
 You cannot commence or continue any court action, other than an action for damages or compensation in respect of personal injuries or wrongful acts against you, without the prior consent of the Official Assignee.
