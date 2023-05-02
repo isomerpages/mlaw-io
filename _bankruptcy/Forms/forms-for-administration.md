@@ -21,7 +21,7 @@ Forms for Administration
 
 [Affidavit Verifying Statement of Affairs (Form 12) Bankruptcy Act (Chapter 20)](/files/Form12AffidavitVerifyingStatementofAffairs.pdf/){:target="_blank"} (11KB)
 
-[Form C -- Agreement On Petitioner's Costs & Disbursements Of Bankruptcy Proceedings](/files/FormC_CAA25Jul17.pdf/){:target="_blank"} (232KB)
+[Form C -- Agreement On Petitioner's Costs &amp; Disbursements Of Bankruptcy Proceedings](/files/FormC_CAA25Jul17.pdf/){:target="_blank"} (232KB)
 
 [Application for Interbank GIRO Form -- (For Bankruptcy Instalments)](/files/DirectDebitApplicationFormApr2018.pdf/){:target="_blank"} (214KB)
 
@@ -32,8 +32,6 @@ Forms for Administration
 [Statement of Account of Moneys and Property Received - BA cases](/files/SMP-BA(7Sep21).pdf/){:target="_blank"} (868KB)
 
 [Statement of Account of Moneys and Property Received - IRDA cases](/files/SMP-IRDA(7Sep21).pdf/){:target="_blank"} (869KB)
-
-[Request to Reduce Monthly Instalment](/files/ReduceMIMC-IID.pdf/){:target="_blank"} (103KB)
 
 [Indemnity Form](/files/IndemnityForm.pdf/){:target="_blank"} (478KB)<br>
 
