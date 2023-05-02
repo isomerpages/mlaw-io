@@ -1,6 +1,6 @@
 ---
 title: IRDA-FAQ
-permalink: /debt-repayment-scheme/IRDA-FAQ/
+permalink: /debt-repayment-scheme/irda-faq/
 breadcrumb: IRDA-FAQ
 
 ---

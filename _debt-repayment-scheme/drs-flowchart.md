@@ -1,6 +1,6 @@
 ---
 title: 'DRS Flowchart'
-permalink: /debt-repayment-scheme/DRS-Flowchart/
+permalink: /debt-repayment-scheme/drs-flowchart/
 breadcrumb: DRS-Flowchart
 
 ---

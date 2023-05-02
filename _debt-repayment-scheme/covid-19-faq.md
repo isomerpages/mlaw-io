@@ -1,6 +1,6 @@
 ---
 title: 'COVID-19 FAQ'
-permalink: /debt-repayment-scheme/COVID-19-FAQ/
+permalink: /debt-repayment-scheme/covid-19-faq/
 breadcrumb: 'COVID-19 FAQ'
 
 ---

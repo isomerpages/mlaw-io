@@ -1,6 +1,6 @@
 ---
 title: 'SIP FAQ'
-permalink: /corporate-insolvency/SIP-FAQ/
+permalink: /corporate-insolvency/sip-faq/
 breadcrumb: 'SIP FAQ'
 
 ---

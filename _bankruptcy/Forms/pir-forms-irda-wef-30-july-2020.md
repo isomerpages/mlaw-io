@@ -1,6 +1,6 @@
 ---
 title: 'PIR Forms – IRDA (wef 30 July 2020)'
-permalink: /bankruptcy/PIRFORMS/
+permalink: /bankruptcy/pirforms/
 breadcrumb: 'PIR Forms – IRDA (wef 30 July 2020)'
 third_nav_title: Forms
 

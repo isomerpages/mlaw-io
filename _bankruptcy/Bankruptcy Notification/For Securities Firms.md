@@ -1,6 +1,6 @@
 ---
 title: For Securities Firms
-permalink: /bankruptcy/BankruptcyNotification/ForSecuritiesFirms/
+permalink: /bankruptcy/bankruptcynotification/forsecuritiesfirms/
 description: ""
 third_nav_title: Bankruptcy Notification
 ---

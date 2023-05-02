@@ -1,6 +1,6 @@
 ---
 title: 'IRDA FAQ'
-permalink: /corporate-insolvency/IRDA-FAQ/
+permalink: /corporate-insolvency/irda-faq/
 breadcrumb: 'IRDA FAQ'
 
 ---

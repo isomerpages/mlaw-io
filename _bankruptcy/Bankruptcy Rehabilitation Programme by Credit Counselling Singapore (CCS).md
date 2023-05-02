@@ -1,6 +1,6 @@
 ---
 title: Bankruptcy Rehabilitation Programme by Credit Counselling Singapore (CCS)
-permalink: /bankruptcy/brp
+permalink: /bankruptcy/brp/
 description: ""
 image: /images/CCS.jpg
 ---

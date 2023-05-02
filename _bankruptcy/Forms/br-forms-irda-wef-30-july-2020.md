@@ -1,6 +1,6 @@
 ---
 title: 'BR Forms – IRDA (wef 30 July 2020)'
-permalink: /bankruptcy/BRForms/
+permalink: /bankruptcy/brforms/
 breadcrumb: 'BR Forms – IRDA (wef 30 July 2020)'
 third_nav_title: Forms
 
