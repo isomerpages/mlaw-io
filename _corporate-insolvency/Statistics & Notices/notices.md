@@ -18,18 +18,16 @@ NOTICES
 <br><br>
 *(1) Notices of Application*
 <br>
+[05-May-2023 Notice of Application into Simplified Winding Up Programme](/files/05-05-2023%20Application%20SWU.pdf/){:target="_blank"} (33.0KB) 
+<br>
 [21-Apr-2023 Notice of Application into Simplified Winding Up Programme](/files/21-04-2023%20Application%20SWU.pdf/){:target="_blank"} (33.0KB) 
-<br>
-[06-Apr-2023 Notice of Application into Simplified Winding Up Programme](/files/06-04-2023%20Application%20SWU.pdf/){:target="_blank"} (33.0KB) 
-<br>
+
 
 
 
 *(2) Notices of Striking off and Final Accounts*
 <br>
-[14-Apr-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/14-04-2023%20Notice%20of%20Striking%20off.pdf/){:target="_blank"} (12.00KB) and Final Accounts for [Sol Ventures Pte. Ltd. (SW 20/2022)](/files/SW20-2022%20Final%20Account.pdf/){:target="_blank"} (12.0KB)<br>
-[06-Apr-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/06-04-2023%20Notice%20of%20Striking%20off.pdf/){:target="_blank"} (12.00KB) and Final Accounts for [Black Spartans Pte. Ltd. (SW 21/2022)](/files/SW21-2022%20Final%20Account.pdf/){:target="_blank"} (14.5KB)<br>
-<br>
+[14-Apr-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/14-04-2023%20Notice%20of%20Striking%20off.pdf/){:target="_blank"} (12.00KB) and Final Accounts for [Sol Ventures Pte. Ltd. (SW 20/2022)](/files/SW20-2022%20Final%20Account.pdf/){:target="_blank"} (12.0KB)
 
 
 
@@ -44,6 +42,8 @@ NOTICES
 <br>
 
 *(1) Notices of Application*
+<br>
+[06-Apr-2023 Notice of Application into Simplified Winding Up Programme](/files/06-04-2023%20Application%20SWU.pdf/){:target="_blank"} (33.0KB) 
 <br>
 [24-Feb-2023 Notice of Application into Simplified Winding Up Programme](/files/24-02-2023%20Application%20SWU.pdf/){:target="_blank"} (33.0KB) 
 <br>
@@ -135,6 +135,8 @@ NOTICES
 [14-May-2021 Notice of Rejection for Simplified Winding Up Programme](/files/14-05-2021%20Notice%20of%20Rejection.pdf/){:target="_blank"} (282KB) <br>
 <br>
 *(3) Notices of Striking off and Final Accounts*
+<br>
+[06-Apr-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/06-04-2023%20Notice%20of%20Striking%20off.pdf/){:target="_blank"} (12.00KB) and Final Accounts for [Black Spartans Pte. Ltd. (SW 21/2022)](/files/SW21-2022%20Final%20Account.pdf/){:target="_blank"} (14.5KB)
 <br>
 [24-Feb-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/24-02-2023%20Notice%20of%20Striking%20Off.pdf/){:target="_blank"} (12.00KB) and Final Accounts for [Athetop Business Pte. Ltd. (SW 17/2022)](/files/SW%2017-2022%20Final%20Account.pdf/){:target="_blank"} (201KB) 
 <br>
