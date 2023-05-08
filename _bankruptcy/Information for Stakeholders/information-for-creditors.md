@@ -1,11 +1,9 @@
 ---
-title: 'Information for Creditors'
+title: Information for Creditors
 permalink: /bankruptcy/information-for-stakeholders/information-for-creditors/
-breadcrumb: 'Information for Creditors'
-third_nav_title: 'Information for Stakeholders'
-
+breadcrumb: Information for Creditors
+third_nav_title: Information for Stakeholders
 ---
-
 Information for Creditors
 ---
 
@@ -81,7 +79,7 @@ You are advised to write to the Official Assignee before you do. <br>
 
 <b>9. What are my rights as a secured creditor?</b> <br>
 
-If you hold security over a bankrupt’s property or goods, you have a right to sell the property or goods if the bankrupt does not continue to meet the payments when they are due. You should realise the security <u>within six months</u> from the date of the making of the bankruptcy order or such extended time as the Official Assignee may allow. After the granted extension, you will not be entitled to claim any interest in respect of your debts subsequent to the date of the making of the Bankruptcy Order. <br>
+If you hold security over a bankrupt’s property or goods, you have a right to sell the property or goods if the bankrupt does not continue to meet the payments when they are due. You should notify the Official Assignee <u>within 30 days</u> after the date of the bankruptcy order of your intention to claim interest in respect of your debt  and (a) realise your security within 12 months after the date of the bankruptcy order i.e. the realisation period or (b) such period as the Official Assignee may determine on your application made at least 30 days (or such shorter period as the Official Assignee may allow) before the expiry of the realisation period. <br>
 
 If the property or goods are worth more than the outstanding loan secured against it, any balance from the proceeds of sale after discharging the security will be remitted to the Official Assignee for distribution as dividends to the bankrupt's creditors. <br>
 
