@@ -27,9 +27,9 @@ You may lay your claim as a shareholder or a creditor of the defunct company:<br
 (ii) as a creditor, you need to prove your debt.<br>
 
 **A** <u><b>Instructions to Applicant</b></u><br>
-(i) You are required to complete the Application Form (click [here](/files/ApplicationFormtotheOfficialReceivertoLayClaims.docx/){:target="_blank"}(DOC, 37 KB));
+(i) You are required to complete the Application Form (click [here](/files/ApplicationFormtotheOfficialReceivertoLayClaims.docx){:target="_blank"}(DOC, 37 KB));
 
-(ii) You are required to liaise with the director(s) and / or shareholder(s) of the Defunct Company to complete the Declaration Form (click [here](/files/DeclarationFormtotheOfficialReceivertoLayClaims.docx/){:target="_blank"}(DOC, 33 KB)). If the Declaration Form cannot be completed, you must provide a full explanation as to why this cannot be completed;
+(ii) You are required to liaise with the director(s) and / or shareholder(s) of the Defunct Company to complete the Declaration Form (click [here](/files/DeclarationFormtotheOfficialReceivertoLayClaims.docx){:target="_blank"}(DOC, 33 KB)). If the Declaration Form cannot be completed, you must provide a full explanation as to why this cannot be completed;
 
 (iii) You must furnish the documents in paragraph B below to support the application; 
 
