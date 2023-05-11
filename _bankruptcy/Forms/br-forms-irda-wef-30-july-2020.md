@@ -52,6 +52,6 @@ Forms - Insolvency, Restructuring and Dissolution Act (wef 30 July 2020)
 
 <a href="/files/FormBR-10-Trustee'sReport.pdf" target="_blank">Form BR-10 - Trustee's Report</a> (270KB)<br>
 
-<a href="/files/FormBR-10.xlsx/" target="_blank">Form BR-10</a> (11.7KB)</td>
+<a href="/files/FormBR-10.xlsx" target="_blank">Form BR-10</a> (11.7KB)</td>
 </tr>
 </table>
