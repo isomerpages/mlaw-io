@@ -18,7 +18,7 @@ Forms - Insolvency, Restructuring and Dissolution Act (wef 30 July 2020)
    <b>Insolvency, Restructuring and Dissolution (Voluntary Arrangements) Regulations 2020</b> <br><br>
     Form VA-1 – Statement of Affairs Form</td>
   <td>
-   <a href="/files/FormVA-1-StatementofAffairsForm.pdf/" target="_blank">Form VA-1 – Statement of Affairs Form</a> (266KB)</td>
+   <a href="/files/FormVA-1-StatementofAffairsForm.pdf" target="_blank">Form VA-1 – Statement of Affairs Form</a> (266KB)</td>
  </tr>
  <tr>
   <td>2</td>
@@ -44,13 +44,13 @@ Forms - Insolvency, Restructuring and Dissolution Act (wef 30 July 2020)
   Form BR-17 – Notice to Creditors of Intention to Declare Dividend<BR></td>
   
   <td>
-<a href="/files/FormsBR-1-BR-9,BR11-BR-17.pdf/" target="_blank">Forms BR-1 - BR-9 & BR-11 - BR-17</a> (545KB)<br>
+<a href="/files/FormsBR-1-BR-9,BR11-BR-17.pdf" target="_blank">Forms BR-1 - BR-9 & BR-11 - BR-17</a> (545KB)<br>
 
-<a href="/files/FormBR-7-Bankrupt.pdf/" target="_blank">Form BR-7 - Bankrupt (WEF 24/12/2020)</a> (130KB)<br>
+<a href="/files/FormBR-7-Bankrupt.pdf" target="_blank">Form BR-7 - Bankrupt (WEF 24/12/2020)</a> (130KB)<br>
 
-<a href="/files/FormBR-7-Creditor.pdf/" target="_blank">Form BR-7 - Creditor (WEF 24/12/2020)</a> (158KB)<br>
+<a href="/files/FormBR-7-Creditor.pdf" target="_blank">Form BR-7 - Creditor (WEF 24/12/2020)</a> (158KB)<br>
 
-<a href="/files/FormBR-10-Trustee'sReport.pdf/" target="_blank">Form BR-10 - Trustee's Report</a> (270KB)<br>
+<a href="/files/FormBR-10-Trustee'sReport.pdf" target="_blank">Form BR-10 - Trustee's Report</a> (270KB)<br>
 
 <a href="/files/FormBR-10.xlsx/" target="_blank">Form BR-10</a> (11.7KB)</td>
 </tr>

@@ -9,33 +9,33 @@ Forms for Administration
 
 **Forms For Bankruptcy**
 
-[Checklist to creditors for supporting documents](/files/ChecklisttoCreditorsforSupportingDocuments_revisedversion20062018.pdf/){:target="_blank"} (324KB)
+[Checklist to creditors for supporting documents](/files/ChecklisttoCreditorsforSupportingDocuments_revisedversion20062018.pdf){:target="_blank"} (324KB)
 
-[Form DC1 -- Declaration of Creditor Whose Supporting Documents Can Only Be Furnished to the Official Assignee Within 14 Days of Filing of Proof of Debt](/files/FormDC1DRS.pdf/){:target="_blank"} (45KB)
+[Form DC1 -- Declaration of Creditor Whose Supporting Documents Can Only Be Furnished to the Official Assignee Within 14 Days of Filing of Proof of Debt](/files/FormDC1DRS.pdf){:target="_blank"} (45KB)
 
-[Form DC2 -- Declaration of Personal Creditor With No Documents to Support Proof of Debt](/files/FormDC2DRS.pdf/){:target="_blank"} (41KB)
+[Form DC2 -- Declaration of Personal Creditor With No Documents to Support Proof of Debt](/files/FormDC2DRS.pdf){:target="_blank"} (41KB)
 
-[Objection To Bankrupt’s Discharge From Bankruptcy Under Section 125 Bankruptcy Act (Cap. 20)](/files/S125objectiontodischarge.pdf/){:target="_blank"} (289KB) <br>
+[Objection To Bankrupt’s Discharge From Bankruptcy Under Section 125 Bankruptcy Act (Cap. 20)](/files/S125objectiontodischarge.pdf){:target="_blank"} (289KB) <br>
 
 [Statement of Affairs (Form 11) Bankruptcy Act (Chapter 20)](/files/Form11-StatementofAffairs.pdf){:target="_blank"} (790KB)<br>
 
-[Affidavit Verifying Statement of Affairs (Form 12) Bankruptcy Act (Chapter 20)](/files/Form12AffidavitVerifyingStatementofAffairs.pdf/){:target="_blank"} (11KB)
+[Affidavit Verifying Statement of Affairs (Form 12) Bankruptcy Act (Chapter 20)](/files/Form12AffidavitVerifyingStatementofAffairs.pdf){:target="_blank"} (11KB)
 
 [Form C -- Agreement On Petitioner's Costs &amp; Disbursements Of Bankruptcy Proceedings](/files/FormC_CAA25Jul17.pdf){:target="_blank"} (232KB)
 
-[Application for Interbank GIRO Form -- (For Bankruptcy Instalments)](/files/DirectDebitApplicationFormApr2018.pdf/){:target="_blank"} (214KB)
+[Application for Interbank GIRO Form -- (For Bankruptcy Instalments)](/files/DirectDebitApplicationFormApr2018.pdf){:target="_blank"} (214KB)
 
 [FIR -- Filing of complaint against bankrupt](/files/FIRSTINFORMATIONREPORT.docx/){:target="_blank"} (DOC, 21KB)
 
-[Application for Official Assignee's Permission to Leave Singapore](/files/ApplicationforOfficialAssigneePermissiontoLeaveSingapore.pdf/){:target="_blank"} (41KB)
+[Application for Official Assignee's Permission to Leave Singapore](/files/ApplicationforOfficialAssigneePermissiontoLeaveSingapore.pdf){:target="_blank"} (41KB)
 
-[Statement of Account of Moneys and Property Received - BA cases](/files/SMP-BA(7Sep21).pdf/){:target="_blank"} (868KB)
+[Statement of Account of Moneys and Property Received - BA cases](/files/SMP-BA(7Sep21).pdf){:target="_blank"} (868KB)
 
-[Statement of Account of Moneys and Property Received - IRDA cases](/files/SMP-IRDA(7Sep21).pdf/){:target="_blank"} (869KB)
+[Statement of Account of Moneys and Property Received - IRDA cases](/files/SMP-IRDA(7Sep21).pdf){:target="_blank"} (869KB)
 
-[Indemnity Form](/files/IndemnityForm.pdf/){:target="_blank"} (478KB)<br>
+[Indemnity Form](/files/IndemnityForm.pdf){:target="_blank"} (478KB)<br>
 
-[Application to open a Savings Bank Account Form](/files/BankApplication.pdf/){:target="_blank"} (192KB)<br>
+[Application to open a Savings Bank Account Form](/files/BankApplication.pdf){:target="_blank"} (192KB)<br>
 <br><br>
 **Note**: For the following applications, please submit via the Insolvency Office E-Services Portal by clicking on the "eServices" menu on the task bar above.
 

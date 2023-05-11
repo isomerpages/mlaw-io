@@ -35,7 +35,7 @@ You may lay your claim as a shareholder or a creditor of the defunct company:<br
 
 (iv) The completed Application Form Application Form, Declaration Form and supporting documents must be sent to the Official Receiver's office; and 
 
-(v) You need not fill in the Deed of Indemnity on your own (click [here](/files/IndemnityFormtotheOfficialReceivertoLayClaimsforDFCases.pdf/)(74 KB)). Upon submission of the Application Form and the required documents, the Official Receiver will contact you to attend at our office to execute the Deed of Indemnity, before paying out the moneys. You are however advised to read and take such measures to understand the terms of the Deed of Indemnity before attending at our office to execute it.<br>
+(v) You need not fill in the Deed of Indemnity on your own (click [here](/files/IndemnityFormtotheOfficialReceivertoLayClaimsforDFCases.pdf)(74 KB)). Upon submission of the Application Form and the required documents, the Official Receiver will contact you to attend at our office to execute the Deed of Indemnity, before paying out the moneys. You are however advised to read and take such measures to understand the terms of the Deed of Indemnity before attending at our office to execute it.<br>
 
 **B** <b>Documents Required to Support Application</b><br>
 
@@ -61,7 +61,7 @@ Proof of debt form with the relevant supporting documents to substantiate the cl
 
 Documents evidencing that there is no outstanding debt or liability owing by the Defunct Company that is payable now or in the future.
 
-For more information, please refer to the attached instructions (click [here](/files/GuidelinestoLayClaimsforDFCases.pdf/)(319 KB)).<br>
+For more information, please refer to the attached instructions (click [here](/files/GuidelinestoLayClaimsforDFCases.pdf)(319 KB)).<br>
 
 **What if I have assets belonging to a defunct company that I need the Official Receiver to administer?**<br>
 Plaese write in to the Official Receiver via https://eservices.mlaw.gov.sg/enquiry/ with full details of the assets and all relevant supporting documents. Please state any other instructions or information relevant to the administration, disposal or transfer of the assets.<br> 

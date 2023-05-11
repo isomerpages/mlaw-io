@@ -77,7 +77,7 @@ Section 125 of the Insolvency, Restructuring and Dissolution Act 2018 states all
 
 **What are the stages involved in a compulsory liquidation?**<br>
 
-Click [here](/images/MainStagesofLiquidationgeneralrevised.jpg/){:target="_blank"} to view the major stages involved in a compulsory liquidation.
+Click [here](/images/MainStagesofLiquidationgeneralrevised.jpg){:target="_blank"} to view the major stages involved in a compulsory liquidation.
 
 **What effects does liquidation have on the company and creditors?**<br>
 

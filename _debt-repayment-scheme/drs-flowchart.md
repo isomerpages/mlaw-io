@@ -8,4 +8,4 @@ breadcrumb: DRS-Flowchart
 DRS Flowchart
 ---
 
-[DRS Flowchart](/files/DRSFlowchart.pdf/) <br>
+[DRS Flowchart](/files/DRSFlowchart.pdf) <br>

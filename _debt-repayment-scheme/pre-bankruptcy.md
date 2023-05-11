@@ -62,7 +62,7 @@ If you are still in doubt and would like to find out more about the Debt Repayme
 </details>
 
 <br>
-[Infographics of A Debtor's Journey ](/files/ADebtorsJourney.pdf/) <br>
+[Infographics of A Debtor's Journey ](/files/ADebtorsJourney.pdf) <br>
 
 
 <iframe src="https://anchor.fm/minlaw-confidential/embed/episodes/Misleading-Debt-Consultancy-Ads-e16kskn/a-a6ef792" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
