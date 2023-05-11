@@ -8,4 +8,4 @@ breadcrumb: Bankruptcy-Flowchart
 Bankruptcy Flowchart
 ---
 
-[Bankruptcy Flowchart](/files/BankruptcyFlowchart.pdf/) <br>
+[Bankruptcy Flowchart](/files/BankruptcyFlowchart.pdf) <br>

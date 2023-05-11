@@ -92,7 +92,7 @@ The Official Assignee will require any proceeds of sale exceeding that of the va
 
  
 <b> 8. All my bank accounts have been closed. How can I open a new savings account?</b>  <br>
-Upon the making of a Bankruptcy Order, all existing bank accounts of the bankrupt will be closed. Every bankrupt is allowed to maintain only one savings account with approval from the Official Assignee or the Private Trustees-in-Bankruptcy. To seek the Official Assignee’s approval to open a new savings account, click [here](/files/BankApplication.pdf/).
+Upon the making of a Bankruptcy Order, all existing bank accounts of the bankrupt will be closed. Every bankrupt is allowed to maintain only one savings account with approval from the Official Assignee or the Private Trustees-in-Bankruptcy. To seek the Official Assignee’s approval to open a new savings account, click [here](/files/BankApplication.pdf).
 <br>
 
 If a Private Trustee-in-Bankruptcy is appointed to administer your bankruptcy estate, please approach your Private Trustee-in-Bankruptcy for the approval.<br>

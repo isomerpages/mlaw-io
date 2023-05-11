@@ -12,4 +12,4 @@ breadcrumb: Statistics
 
 [DRS Stats as at 30 Apr 2023](/files/(090523)drsstatsforwebsite.pdf)
 
-[DRS Appeal](/files/DRSAppeal.pdf/){:target="_blank"}
+[DRS Appeal](/files/DRSAppeal.pdf){:target="_blank"}
