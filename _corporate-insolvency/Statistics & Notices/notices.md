@@ -24,15 +24,22 @@ NOTICES
 <br>
 [21-Apr-2023 Notice of Application into Simplified Winding Up Programme](/files/21-04-2023%20Application%20SWU.pdf){:target="_blank"} (33.0KB) 
 
-<br>*(2) Notices of Acceptance and Rejection*
+*(2) Notices of Acceptance and Rejection*
 <br>
 [12-May-2023 Notice of Acceptance for Simplified Winding Up Programme](/files/12-05-2023%20Notice%20of%20Acceptance.pdf){:target="_blank"} (33.0KB) 
 
 *(3) Notices of Striking off and Final Accounts*
 <br>
 [14-Apr-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/14-04-2023%20Notice%20of%20Striking%20off.pdf){:target="_blank"} (12.00KB) and Final Accounts for [Sol Ventures Pte. Ltd. (SW 20/2022)](/files/SW20-2022%20Final%20Account.pdf){:target="_blank"} (12.0KB)
+<br>
 
+<br>**Insolvency, Restructuring and Dissolution (Simplified Debt Restruturing) Regulations 2021**
+<br>
 
+*(1) Notice of Acceptance*
+<br>
+[12-May-2023 Notice of Acceptance for Simplified Debt Restructurin Programme](/files/12-05-2023%20Notice%of%20Acceptance%20SDR.pdf){:target="_blank"} (33.1KB) 
+<br>
 
 *Past Notices*
 -
