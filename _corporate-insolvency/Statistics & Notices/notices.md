@@ -38,7 +38,7 @@ NOTICES
 
 *(1) Notice of Acceptance*
 <br>
-[12-May-2023 Notice of Acceptance for Simplified Debt Restructurin Programme](/files/12-05-2023%20Notice%of%20Acceptance%20SDR.pdf){:target="_blank"} (33.1KB) 
+[12-May-2023 Notice of Acceptance for Simplified Debt Restructurin Programme](/files/12-05-2023%20Notice%20of%20Acceptance%20SDR.pdf){:target="_blank"} (33.1KB) 
 <br>
 
 *Past Notices*
