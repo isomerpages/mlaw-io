@@ -21,14 +21,13 @@ NOTICES
 [12-May-2023 Notice of Application into Simplified Winding Up Programme](/files/12-05-2023%20Application%20SWU.pdf){:target="_blank"} (33.0KB) 
 <br>
 [05-May-2023 Notice of Application into Simplified Winding Up Programme](/files/05-05-2023%20Application%20SWU.pdf){:target="_blank"} (33.0KB) 
-<br>
-[21-Apr-2023 Notice of Application into Simplified Winding Up Programme](/files/21-04-2023%20Application%20SWU.pdf){:target="_blank"} (33.0KB) 
+
 
 *(2) Notices of Acceptance and Rejection*
 <br>
 [12-May-2023 Notice of Acceptance for Simplified Winding Up Programme](/files/12-05-2023%20Notice%20of%20Acceptance.pdf){:target="_blank"} (33.0KB) 
 
-*(3) Notices of Striking off and Final Accounts*
+
 
 <br>**Insolvency, Restructuring and Dissolution (Simplified Debt Restruturing) Regulations 2021**
 <br>
@@ -50,6 +49,7 @@ NOTICES
 
 *(1) Notices of Application*
 <br>
+[21-Apr-2023 Notice of Application into Simplified Winding Up Programme](/files/21-04-2023%20Application%20SWU.pdf){:target="_blank"} (33.0KB) <br>
 [06-Apr-2023 Notice of Application into Simplified Winding Up Programme](/files/06-04-2023%20Application%20SWU.pdf){:target="_blank"} (33.0KB) 
 <br>
 [24-Feb-2023 Notice of Application into Simplified Winding Up Programme](/files/24-02-2023%20Application%20SWU.pdf){:target="_blank"} (33.0KB) 
