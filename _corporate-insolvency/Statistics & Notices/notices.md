@@ -214,7 +214,7 @@ NOTICES
 <br>
 *(2) Notices of Acceptance and Rejection*
 <br>
-[10-Feb-2023 Notice of Rejection for Simplified Debt Restructuring Programme](/files/10-02-2023%20Notice%20of%20Rejection.pdf){:target="_blank"} (83.10KB)
+[10-Feb-2023 Notice of Rejection for Simplified Debt Restructuring Programme](/files/10-02-2023%20Notice%20Of%20Rejection.pdf){:target="_blank"} (83.10KB)
 <br>
 [06-Jan-2023 Notice of Acceptance for Simplified Debt Restructuring Programme](/files/06-01-2023%20Notice%20of%20Acceptance.pdf){:target="_blank"} (81.3KB) <br>
 [14-Apr-2022 Notice of Rejection for Simplified Debt Restructuring Programme](/files/14-04-2022%20Notice%20of%20Rejection%20in%20SR.pdf){:target="_blank"} (81.04KB) <br>
