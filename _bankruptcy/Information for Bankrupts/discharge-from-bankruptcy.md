@@ -1,11 +1,9 @@
 ---
-title: 'Discharge from Bankruptcy'
+title: Discharge from Bankruptcy
 permalink: /bankruptcy/information-for-bankrupts/discharge-from-bankruptcy/
-breadcrumb: 'Discharge from Bankruptcy'
-third_nav_title: 'Information for Bankrupts'
-
+breadcrumb: Discharge from Bankruptcy
+third_nav_title: Information for Bankrupts
 ---
-
 Discharge from Bankruptcy
 ---
 
@@ -20,12 +18,12 @@ There is <b><u>no automatic discharge</u></b> from bankruptcy in Singapore. Howe
 <b>2. What is an annulment?</b> <br>
 When a bankrupt repays his debt in full or makes a settlement offer which is accepted by a majority (in number) of his creditors representing at least 75% of the total debt owed, the Bankruptcy Order made against him will be annulled.<br>
 
-In the case of a settlement offer, the outcome of the annulment is dependent on the creditors. If the creditors accept the proposal, a Certificate of Annulment will be issued under Section 95A of the Bankruptcy Act (Chapter 20).<br>
+In the case of a settlement offer, the outcome of the annulment is dependent on the creditors. If the creditors accept the proposal, a Certificate of Annulment will be issued under section 95A of the Bankruptcy Act Cap. 20, 2009 Rev Ed or section 358 of the Insolvency, Restructuring and Dissolution Act 2018.<br>
 
 The annulment of the Bankruptcy Order has the effect of putting the debtor in the same position as if no Bankruptcy Order had been made against him, but it does not release the debtor from any provable debts which have not been filed against him when the bankruptcy was in force.<br>
  
 <b>3. What is a Discharge by the High Court?</b><br>
-A bankrupt may apply to the High Court to grant him an Order of Discharge. The Official Assignee may also apply to the High Court for the bankrupt’s discharge under Section 124 of the Bankruptcy Act (Chapter 20) if the proven debts exceed S$500,000.<br>
+A bankrupt may apply to the High Court to grant him an Order of Discharge. The Official Assignee may also apply to the High Court for the bankrupt’s discharge under section 124 of the Bankruptcy Act Cap. 20, 2009 Rev Ed or section 394 of the Insolvency, Restructuring and Dissolution Act 2018.<br>
 
 The High Court will take into consideration the views of the Official Assignee and the bankrupt’s creditors before deciding whether to discharge him from bankruptcy. The High Court will consider facts such as the bankrupt’s age, earning capacity and his assets before deciding whether to discharge him. In addition, the High Court will also consider the amount of monthly instalment payments the bankrupt has contributed to his bankruptcy estate for the benefit of his creditors, whether any bankruptcy offences were committed, and generally, whether the bankrupt has co-operated fully with the Official Assignee in the administration of the bankruptcy estate.<br>
 
