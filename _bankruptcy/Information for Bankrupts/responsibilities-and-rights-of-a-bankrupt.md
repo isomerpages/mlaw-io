@@ -106,7 +106,7 @@ You may obtain further credit, but you must disclose your bankruptcy status to t
 You are disqualified from being appointed or acting as a trustee or personal representative in respect of any trust, estate or settlement unless you obtain the permission of the High Court to do so.
 
 <b>(d) Are there offences under bankruptcy?</b> <br>
-The failure to seek necessary permission as well as the non-disclosure of the relevant information in the items 1-5 listed above may result in offences committed under the Bankruptcy Act (Chapter 20).
+The failure to seek necessary permission as well as the non-disclosure of the relevant information in the items 1-5 listed above may result in offences committed under the         Bankruptcy Act Cap. 20, 2009 Rev Ed or the Insolvency, Restructuring and Dissolution Act 2018.
 
 Other bankruptcy offences include:
 * the failure to file your Income and Expenditure statements;
