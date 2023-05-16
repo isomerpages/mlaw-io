@@ -39,7 +39,7 @@ NOTICES
 
 *(2) Notice of Court Application*
 <br>
-[16-May-2023 Notice of Court Application (Scheme of Arrangement) for Simplified Debt Restructuring Programme](/files/16-05-2023%20Notice%20of%20Court%20Application.pdf){:target="_blank"} (33.1KB)  
+[16-May-2023 Notice of Court Application (Scheme of Arrangement) for Simplified Debt Restructuring Programme](/files/16-05-2023%20Notice%20of%20Court%20Application){:target="_blank"} (33.1KB)  
 <br>
 *Past Notices*
 -
