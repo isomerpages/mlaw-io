@@ -25,14 +25,14 @@ NOTICES
 
 *(2) Notices of Acceptance and Rejection*
 <br>
-[09-June-2023 Notice of Acceptance for Simplified Winding Up Programme](/files/09-06-2023%20Notice%20of%20Acceptance.pdf){:target="_blank"}(33.0KB)
+[09-June-2023 Notice of Acceptance for Simplified Winding Up Programme](/files/09-06-2023%20notice%20of%20acceptance.pdf){:target="_blank"}(33.0KB)
 <br>
 [12-May-2023 Notice of Acceptance for Simplified Winding Up Programme](/files/12-05-2023%20notice%20of%20acceptance.pdf){:target="_blank"} (33.0KB) 
 <br>
 
 *(3) Notices of Intended Dividend*
 <br>
-[09-June 2023 Notice of Intended Dividend for A Phat Pinball Pte Ltd (SW 15/2021)](/files/SW15-2021%20Notice%20of%20Intended%20Dividend.pdf){:target="_blank"} (32.9KB) <br>
+[09-June 2023 Notice of Intended Dividend for A Phat Pinball Pte Ltd (SW 15/2021)](/files/SW15-2021%20notice%20of%20intended%20dividend.pdf){:target="_blank"} (32.9KB) <br>
 
 **Insolvency, Restructuring and Dissolution (Simplified Debt Restruturing) Regulations 2021**
 <br>
