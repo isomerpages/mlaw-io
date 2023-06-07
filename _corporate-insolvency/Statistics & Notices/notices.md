@@ -25,7 +25,7 @@ NOTICES
 
 *(2) Notices of Acceptance and Rejection*
 <br>
-[09-June-2023 Notice of Acceptance for Simplified Winding Up Programme](/files/09-06-2023%20notice%20of%20acceptance.pdf){:target="_blank"} (33.0KB) 
+[09-June-2023 Notice of Acceptance for Simplified Winding Up Programme](/files/09-06-2023%20Notice%20of%20Acceptance.pdf){:target="_blank"} (33.0KB) 
 <br>
 [12-May-2023 Notice of Acceptance for Simplified Winding Up Programme](/files/12-05-2023%20notice%20of%20acceptance.pdf){:target="_blank"} (33.0KB) 
 <br>
