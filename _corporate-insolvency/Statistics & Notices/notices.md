@@ -33,7 +33,6 @@ NOTICES
 *(3) Notices of Intended Dividend*
 <br>
 [09-June 2023 Notice of Intended Dividend for A Phat Pinball Pte Ltd (SW 15/2021)](files/SW15-2021%20Notice%20of%20Intended%20Dividend.pdf){:target="_blank"} (32.9KB) <br>
-<br>
 [09-June-2023 Notice of Intended Dividend for A Phat Pinball Pte Ltd (SW 15/2021)](/files/SW15-2021%20Notice%20of%20Intended%20Dividend.pdf){:target="_blank"} (32.9KB)
 <br>
 
