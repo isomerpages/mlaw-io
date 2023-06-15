@@ -33,7 +33,7 @@ NOTICES
 
 *(3) Notices of Striking off and Final Accounts*
 <br>
-[16-June-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/16-06-2023%20notice%20of%20striking%20off.pdf){:target="_blank"} (12.00KB) and Final Accounts for [Eximchain Pte. Ltd. (SW 10/2021)](/files/sw10-2022%20final%20account.pdf){:target="_blank"} (16.0KB) and Final Accounts for [La Cantina Pte. Ltd. (SW 18/2022](/files/sw18-2022%20final%20account.pdf){:target="_blank"} (16.0KB) 
+[16-June-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/16-06-2023%20notice%20of%20striking%20off.pdf){:target="_blank"} (12.00KB) and Final Accounts for [Eximchain Pte. Ltd. (SW 10/2021)](/files/sw10-2021%20final%20account.pdf){:target="_blank"} (16.0KB) and Final Accounts for [La Cantina Pte. Ltd. (SW 18/2022](/files/sw18-2022%20final%20account.pdf){:target="_blank"} (16.0KB) 
 <br>
 
 *(4) Notices of Intended Dividend*
