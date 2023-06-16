@@ -35,12 +35,7 @@ NOTICES
 <br>
 [09-June 2023 Notice of Intended Dividend for A Phat Pinball Pte Ltd (SW 15/2021)](/files/sw15-2021%20notice%20of%20intended%20dividend.pdf){:target="_blank"} (32.9KB) <br>
 
-**Insolvency, Restructuring and Dissolution (Simplified Debt Restruturing) Regulations 2021**
-<br>
-<br>
-*(1) Notice of Court Application*
-<br>
-[16-May-2023 Notice of Court Application (Scheme of Arrangement) for Simplified Debt Restructuring Programme](/files/16-05-2023%20notice%20of%20court%20application.pdf){:target="_blank"} (33.1KB)  
+  
 <br>
 *Past Notices*
 -
@@ -231,3 +226,9 @@ NOTICES
 <br>
 [06-Jan-2023 Notice of Acceptance for Simplified Debt Restructuring Programme](/files/06-01-2023%20Notice%20of%20Acceptance.pdf){:target="_blank"} (81.3KB) <br>
 [14-Apr-2022 Notice of Rejection for Simplified Debt Restructuring Programme](/files/14-04-2022%20Notice%20of%20Rejection%20in%20SR.pdf){:target="_blank"} (81.04KB) <br>
+
+<br>
+*(3) Notice of Court Application*
+<br>
+[16-May-2023 Notice of Court Application (Scheme of Arrangement) for Simplified Debt Restructuring Programme](/files/16-05-2023%20notice%20of%20court%20application.pdf){:target="_blank"} (33.1KB)  
+<br>
