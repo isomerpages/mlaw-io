@@ -16,22 +16,22 @@ NOTICES
 
 **Insolvency, Restructuring and Dissolution (Simplified Winding Up) Regulations 2021**
 <br><br>
-*(1) Notices of Application*
+*(1) Notice of Application*
 <br>
 [16-June-2023 Notice of Application into Simplified Winding Up Programme](/files/16-06-2023%20application%20swu.pdf){:target="_blank"} (33.4KB) 
 <br>
 
-*(2) Notices of Acceptance and Rejection*
+*(2) Notice of Acceptance and Rejection*
 <br>
 [09-June-2023 Notice of Acceptance for Simplified Winding Up Programme](/files/09-06-2023%20notice%20of%20acceptance.pdf){:target="_blank"}(33.0KB)
 <br>
 
-*(3) Notices of Striking off and Final Accounts*
+*(3) Notice of Striking off and Final Accounts*
 <br>
 [16-June-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/16-06-2023%20notice%20of%20striking%20off.pdf){:target="_blank"} (12.00KB) and Final Accounts for [Eximchain Pte. Ltd. (SW 10/2021)](/files/sw10-2021%20final%20account.pdf){:target="_blank"} (16.0KB) and Final Accounts for [La Cantina Pte. Ltd. (SW 18/2022)](/files/sw18-2022%20final%20account.pdf){:target="_blank"} (16.0KB) 
 <br>
 
-*(4) Notices of Intended Dividend*
+*(4) Notice of Intended Dividend*
 <br>
 [09-June 2023 Notice of Intended Dividend for A Phat Pinball Pte Ltd (SW 15/2021)](/files/sw15-2021%20notice%20of%20intended%20dividend.pdf){:target="_blank"} (32.9KB) <br>
 
