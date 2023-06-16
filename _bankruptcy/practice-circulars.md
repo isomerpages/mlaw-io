@@ -1,11 +1,8 @@
 ---
-title: 'Practice Circulars'
+title: Practice Circulars
 permalink: /bankruptcy/practice-circulars/
-breadcrumb: 'Practice Circulars'
-
+breadcrumb: Practice Circulars
 ---
-
-
 Practice Circulars
 ---
 
@@ -46,3 +43,5 @@ Practice Circulars
 [OA Practice Circular No. 1 of 2009](/files/linkclick157c.pdf){:target="_blank"} (312KB)
 
 [OA Practice Circular No. 1 of 2008](/files/linkclick717a.pdf){:target="_blank"} (77KB)
+
+[ OA Practice Circular No. 1 of 2022](/files/(160623)%20oa%20pc%20no%201%20of%202022%20and%20or%20pc%20no%202%20of%202022.pdf){:target="_blank"}(105KB)
