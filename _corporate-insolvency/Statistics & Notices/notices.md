@@ -37,13 +37,7 @@ NOTICES
 
 **Insolvency, Restructuring and Dissolution (Simplified Debt Restruturing) Regulations 2021**
 <br>
-
-*(1) Notice of Acceptance*
-<br>
-[12-May-2023 Notice of Acceptance for Simplified Debt Restructuring Programme](/files/12-05-2023%20notice%20of%20acceptance%20sdr.pdf){:target="_blank"} (33.1KB) 
-<br>
-
-*(2) Notice of Court Application*
+*(1) Notice of Court Application*
 <br>
 [16-May-2023 Notice of Court Application (Scheme of Arrangement) for Simplified Debt Restructuring Programme](/files/16-05-2023%20notice%20of%20court%20application.pdf){:target="_blank"} (33.1KB)  
 <br>
@@ -229,6 +223,8 @@ NOTICES
 <br>
 <br>
 *(2) Notices of Acceptance and Rejection*
+<br>
+[12-May-2023 Notice of Acceptance for Simplified Debt Restructuring Programme](/files/12-05-2023%20notice%20of%20acceptance%20sdr.pdf){:target="_blank"} (33.1KB) 
 <br>
 [10-Feb-2023 Notice of Rejection for Simplified Debt Restructuring Programme](/files/10-02-2023%20Notice%20Of%20Rejection.pdf){:target="_blank"} (83.10KB)
 <br>
