@@ -37,8 +37,8 @@ NOTICES
 
 **Insolvency, Restructuring and Dissolution (Simplified Debt Restruturing) Regulations 2021**
 <br>
-*(1) Notice of Court Application*
 <br>
+*(1) Notice of Court Application*
 <br>
 [16-May-2023 Notice of Court Application (Scheme of Arrangement) for Simplified Debt Restructuring Programme](/files/16-05-2023%20notice%20of%20court%20application.pdf){:target="_blank"} (33.1KB)  
 <br>
