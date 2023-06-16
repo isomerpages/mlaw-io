@@ -1,15 +1,14 @@
 ---
-title: 'Practice Circulars'
+title: Practice Circulars
 permalink: /bankruptcy/practice-circulars/
-breadcrumb: 'Practice Circulars'
-
+breadcrumb: Practice Circulars
 ---
-
-
 Practice Circulars
 ---
 
 **Practice Circulars For Individual Insolvency**
+
+[OA Practice Circular No. 1 of 2022](/files/(160623)%20oa%20pc%20no%201%20of%202022%20and%20or%20pc%20no%202%20of%202022.pdf) {:target="_blank"}(105KB)
 
 [OA Practice Circular No. 1 of 2021](/files/OAPracticeCircularNo.1of2021.pdf){:target="_blank"} (377KB)
 
