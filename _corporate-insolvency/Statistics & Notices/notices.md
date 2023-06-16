@@ -16,35 +16,26 @@ NOTICES
 
 **Insolvency, Restructuring and Dissolution (Simplified Winding Up) Regulations 2021**
 <br><br>
-*(1) Notices of Application*
+*(1) Notice of Application*
 <br>
-[12-May-2023 Notice of Application into Simplified Winding Up Programme](/files/12-05-2023%20application%20swu.pdf){:target="_blank"} (33.0KB) 
+[16-June-2023 Notice of Application into Simplified Winding Up Programme](/files/16-06-2023%20application%20swu.pdf){:target="_blank"} (33.4KB) 
 <br>
-[05-May-2023 Notice of Application into Simplified Winding Up Programme](/files/05-05-2023%20application%20swu.pdf){:target="_blank"} (32.0KB) 
 
-
-*(2) Notices of Acceptance and Rejection*
+*(2) Notice of Acceptance and Rejection*
 <br>
 [09-June-2023 Notice of Acceptance for Simplified Winding Up Programme](/files/09-06-2023%20notice%20of%20acceptance.pdf){:target="_blank"}(33.0KB)
 <br>
-[12-May-2023 Notice of Acceptance for Simplified Winding Up Programme](/files/12-05-2023%20notice%20of%20acceptance.pdf){:target="_blank"} (33.0KB) 
+
+*(3) Notice of Striking off and Final Accounts*
+<br>
+[16-June-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/16-06-2023%20notice%20of%20striking%20off.pdf){:target="_blank"} (12.00KB) and Final Accounts for [Eximchain Pte. Ltd. (SW 10/2021)](/files/sw10-2021%20final%20account.pdf){:target="_blank"} (16.0KB) and Final Accounts for [La Cantina Pte. Ltd. (SW 18/2022)](/files/sw18-2022%20final%20account.pdf){:target="_blank"} (16.0KB) 
 <br>
 
-*(3) Notices of Intended Dividend*
+*(4) Notice of Intended Dividend*
 <br>
 [09-June 2023 Notice of Intended Dividend for A Phat Pinball Pte Ltd (SW 15/2021)](/files/sw15-2021%20notice%20of%20intended%20dividend.pdf){:target="_blank"} (32.9KB) <br>
 
-**Insolvency, Restructuring and Dissolution (Simplified Debt Restruturing) Regulations 2021**
-<br>
-
-*(1) Notice of Acceptance*
-<br>
-[12-May-2023 Notice of Acceptance for Simplified Debt Restructuring Programme](/files/12-05-2023%20notice%20of%20acceptance%20sdr.pdf){:target="_blank"} (33.1KB) 
-<br>
-
-*(2) Notice of Court Application*
-<br>
-[16-May-2023 Notice of Court Application (Scheme of Arrangement) for Simplified Debt Restructuring Programme](/files/16-05-2023%20notice%20of%20court%20application.pdf){:target="_blank"} (33.1KB)  
+  
 <br>
 *Past Notices*
 -
@@ -57,6 +48,10 @@ NOTICES
 <br>
 
 *(1) Notices of Application*
+<br>
+[12-May-2023 Notice of Application into Simplified Winding Up Programme](/files/12-05-2023%20application%20swu.pdf){:target="_blank"} (33.0KB) 
+<br>
+[05-May-2023 Notice of Application into Simplified Winding Up Programme](/files/05-05-2023%20application%20swu.pdf){:target="_blank"} (32.0KB) 
 <br>
 [21-Apr-2023 Notice of Application into Simplified Winding Up Programme](/files/21-04-2023%20application%20swu.pdf){:target="_blank"} (33.0KB) <br>
 [06-Apr-2023 Notice of Application into Simplified Winding Up Programme](/files/06-04-2023%20application%20swu.pdf){:target="_blank"} (33.0KB) 
@@ -103,6 +98,8 @@ NOTICES
 <br>
 <br>
 *(2) Notices of Acceptance and Rejection*
+<br>
+[12-May-2023 Notice of Acceptance for Simplified Winding Up Programme](/files/12-05-2023%20notice%20of%20acceptance.pdf){:target="_blank"} (33.0KB) 
 <br>
 [24-Mar-2023 Notice of Acceptance for Simplified Winding Up Programme](/files/24-03-2023%20Notice%20of%20Acceptance.pdf){:target="_blank"} (82.10KB)
 <br>
@@ -223,7 +220,15 @@ NOTICES
 <br>
 *(2) Notices of Acceptance and Rejection*
 <br>
+[12-May-2023 Notice of Acceptance for Simplified Debt Restructuring Programme](/files/12-05-2023%20notice%20of%20acceptance%20sdr.pdf){:target="_blank"} (33.1KB) 
+<br>
 [10-Feb-2023 Notice of Rejection for Simplified Debt Restructuring Programme](/files/10-02-2023%20Notice%20Of%20Rejection.pdf){:target="_blank"} (83.10KB)
 <br>
 [06-Jan-2023 Notice of Acceptance for Simplified Debt Restructuring Programme](/files/06-01-2023%20Notice%20of%20Acceptance.pdf){:target="_blank"} (81.3KB) <br>
 [14-Apr-2022 Notice of Rejection for Simplified Debt Restructuring Programme](/files/14-04-2022%20Notice%20of%20Rejection%20in%20SR.pdf){:target="_blank"} (81.04KB) <br>
+
+<br>
+*(3) Notice of Court Application*
+<br>
+[16-May-2023 Notice of Court Application (Scheme of Arrangement) for Simplified Debt Restructuring Programme](/files/16-05-2023%20notice%20of%20court%20application.pdf){:target="_blank"} (33.1KB)  
+<br>
