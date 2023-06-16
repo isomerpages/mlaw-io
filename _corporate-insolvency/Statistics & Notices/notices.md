@@ -18,11 +18,8 @@ NOTICES
 <br><br>
 *(1) Notices of Application*
 <br>
-[12-May-2023 Notice of Application into Simplified Winding Up Programme](/files/12-05-2023%20application%20swu.pdf){:target="_blank"} (33.0KB) 
-<br>
-[05-May-2023 Notice of Application into Simplified Winding Up Programme](/files/05-05-2023%20application%20swu.pdf){:target="_blank"} (32.0KB) 
-<br>
 [16-June-2023 Notice of Application into Simplified Winding Up Programme](/files/16-06-2023%20application%20swu.pdf){:target="_blank"} (33.4KB) 
+<br>
 
 *(2) Notices of Acceptance and Rejection*
 <br>
@@ -63,6 +60,12 @@ NOTICES
 <br>
 
 *(1) Notices of Application*
+<br>
+[05-May-2023 Notice of Application into Simplified Winding Up Programme](/files/05-05-2023%20application%20swu.pdf){:target="_blank"} (32.0KB)
+<br>
+[12-May-2023 Notice of Application into Simplified Winding Up Programme](/files/12-05-2023%20application%20swu.pdf){:target="_blank"} (33.0KB) 
+<br>
+[05-May-2023 Notice of Application into Simplified Winding Up Programme](/files/05-05-2023%20application%20swu.pdf){:target="_blank"} (32.0KB) 
 <br>
 [21-Apr-2023 Notice of Application into Simplified Winding Up Programme](/files/21-04-2023%20application%20swu.pdf){:target="_blank"} (33.0KB) <br>
 [06-Apr-2023 Notice of Application into Simplified Winding Up Programme](/files/06-04-2023%20application%20swu.pdf){:target="_blank"} (33.0KB) 
