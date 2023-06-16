@@ -8,6 +8,8 @@ Practice Circulars
 
 **Practice Circulars For Individual Insolvency**
 
+[OA Practice Circular No. 1 of 2022](/files/(160623)%20oa%20pc%20no%201%20of%202022%20and%20or%20pc%20no%202%20of%202022.pdf) {:target="_blank"}(105KB)
+
 [OA Practice Circular No. 1 of 2021](/files/OAPracticeCircularNo.1of2021.pdf){:target="_blank"} (377KB)
 
 [OA Practice Circular No. 3 of 2020](/files/OAPC3of2020.pdf){:target="_blank"} (79.3KB)
@@ -44,4 +46,3 @@ Practice Circulars
 
 [OA Practice Circular No. 1 of 2008](/files/linkclick717a.pdf){:target="_blank"} (77KB)
 
-[ OA Practice Circular No. 1 of 2022](/files/(160623)%20oa%20pc%20no%201%20of%202022%20and%20or%20pc%20no%202%20of%202022.pdf){:target="_blank"}(105KB)
