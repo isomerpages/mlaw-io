@@ -39,11 +39,11 @@ The SIP will start on 29 Jan 2021.<br>
 
 **4. How can a company apply for the Simplified Insolvency Programme (“SIP”)?**<br>
 
-A company may apply for the SIP by submitting an online application, together with the required documents and information, via the MinLaw website at <a href="https://eservices.mlaw.gov.sg/io/">https://eservices.mlaw.gov.sg/io/</a><br>
+A company may apply for the SIP by submitting a completed application form, together with the required documents and information, to the Official Reciever via the MinLaw website at <a href="https://eservices.mlaw.gov.sg/enquiry/">https://eservices.mlaw.gov.sg/enquiry/</a><br>
 <br>
-Before submitting an application, please refer to the following applicable guides:<br>
-   (a) <a href="https://io.mlaw.gov.sg/files/Guide%20to%20SDRP%20Appln.pdf">Simplified Debt Restructuring Programme</a> <br>
-   (b) <a href="https://io.mlaw.gov.sg/files/Guide%20to%20SWUP%20Appln.pdf">Simplified Winding Up Programme</a> <br>
+Please use the following application forms for respective programmes:<br>
+   (a) <a href="https://io.mlaw.gov.sg//SDRP%20appln%20form.docx">Simplified Debt Restructuring Programme</a> <br>
+   (b) <a href="https://io.mlaw.gov.sg/files/SWUP%20appln%20form.docx">Simplified Winding Up Programme</a> <br>
 
 **5. Can a company apply for both the Simplified Debt Restructuring Programme (“SDRP”) and the Simplified Winding Up Programme (“SWUP”) at the same time?**<br>
 
