@@ -33,7 +33,7 @@ NOTICES
 
 *(1) Notices of Discharge*
 <br>
-[07-Mar-2023 Notice of Application into Simplified Debt Restructuring Programme](/files/10-03-2023%20Application%20SR.pdf){:target="_blank"} (33.1KB) 
+[07-July-2023 Notice of Discharge from Simplified Debt Restructuring Programme](/files/07-07-2023%20notice%20of%20discharge.pdf){:target="_blank"} (33.1KB) 
 <br>
  
 <br>
