@@ -18,26 +18,24 @@ NOTICES
 <br><br>
 *(1) Notice of Application*
 <br>
-[16-June-2023 Notice of Application into Simplified Winding Up Programme](/files/16-06-2023%20application%20swu.pdf){:target="_blank"} (33.4KB) 
+[07-July-2023 Notice of Application into Simplified Winding Up Programme](/files/07-07-2023%20application%20swu.pdf){:target="_blank"} (33.4KB) 
 <br>
 
 *(2) Notice of Acceptance and Rejection*
 <br>
-[23-June-2023 Notice of Acceptance for Simplified Winding Up Programme](/files/23-06-2023%20notice%20of%20acceptance.pdf){:target="_blank"}(32.0KB)
-<br>
-[09-June-2023 Notice of Acceptance for Simplified Winding Up Programme](/files/09-06-2023%20notice%20of%20acceptance.pdf){:target="_blank"}(33.0KB)
+[07-July-2023 Notice of Acceptance for Simplified Winding Up Programme](/files/07-07-2023%20notice%20of%20acceptance.pdf)
+
+
+
+
+ **Insolvency, Restructuring and Dissolution (Simplified Debt Restruturing) Regulations 2021**
 <br>
 
-*(3) Notice of Striking off and Final Accounts*
+*(1) Notices of Discharge*
 <br>
-[16-June-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/16-06-2023%20notice%20of%20striking%20off.pdf){:target="_blank"} (12.00KB) and Final Accounts for [Eximchain Pte. Ltd. (SW 10/2021)](/files/sw10-2021%20final%20account.pdf){:target="_blank"} (16.0KB) and Final Accounts for [La Cantina Pte. Ltd. (SW 18/2022)](/files/sw18-2022%20final%20account.pdf){:target="_blank"} (16.0KB) 
+[07-July-2023 Notice of Discharge from Simplified Debt Restructuring Programme](/files/07-07-2023%20notice%20of%20discharge.pdf){:target="_blank"} (33.1KB) 
 <br>
-
-*(4) Notice of Intended Dividend*
-<br>
-[09-June 2023 Notice of Intended Dividend for A Phat Pinball Pte Ltd (SW 15/2021)](/files/sw15-2021%20notice%20of%20intended%20dividend.pdf){:target="_blank"} (32.9KB) <br>
-
-  
+ 
 <br>
 *Past Notices*
 -
@@ -50,6 +48,8 @@ NOTICES
 <br>
 
 *(1) Notices of Application*
+<br>
+[16-June-2023 Notice of Application into Simplified Winding Up Programme](/files/16-06-2023%20application%20swu.pdf){:target="_blank"} (33.4KB) 
 <br>
 [12-May-2023 Notice of Application into Simplified Winding Up Programme](/files/12-05-2023%20application%20swu.pdf){:target="_blank"} (33.0KB) 
 <br>
@@ -100,6 +100,9 @@ NOTICES
 <br>
 <br>
 *(2) Notices of Acceptance and Rejection*
+<br>[23-June-2023 Notice of Acceptance for Simplified Winding Up Programme](/files/23-06-2023%20notice%20of%20acceptance.pdf){:target="_blank"}(32.0KB)
+<br>
+[09-June-2023 Notice of Acceptance for Simplified Winding Up Programme](/files/09-06-2023%20notice%20of%20acceptance.pdf){:target="_blank"}(33.0KB)
 <br>
 [12-May-2023 Notice of Acceptance for Simplified Winding Up Programme](/files/12-05-2023%20notice%20of%20acceptance.pdf){:target="_blank"} (33.0KB) 
 <br>
@@ -151,6 +154,8 @@ NOTICES
 <br>
 *(3) Notices of Striking off and Final Accounts*
 <br>
+[16-June-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/16-06-2023%20notice%20of%20striking%20off.pdf){:target="_blank"} (12.00KB) and Final Accounts for [Eximchain Pte. Ltd. (SW 10/2021)](/files/sw10-2021%20final%20account.pdf){:target="_blank"} (16.0KB) and Final Accounts for [La Cantina Pte. Ltd. (SW 18/2022)](/files/sw18-2022%20final%20account.pdf){:target="_blank"} (16.0KB) 
+<br>
 [14-Apr-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/14-04-2023%20notice%20of%20striking%20off.pdf){:target="_blank"} (12.00KB) and Final Accounts for [Sol Ventures Pte. Ltd. (SW 20/2022)](/files/sw20-2022%20final%20account.pdf){:target="_blank"} (12.0KB)
 <br>
 [06-Apr-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/06-04-2023%20notice%20of%20striking%20off.pdf){:target="_blank"} (12.00KB) and Final Accounts for [Black Spartans Pte. Ltd. (SW 21/2022)](/files/sw21-2022%20final%20account.pdf){:target="_blank"} (14.5KB)
@@ -175,6 +180,7 @@ NOTICES
 <br>
 *(4) Notices of Intended Dividend*
 <br>
+[09-June 2023 Notice of Intended Dividend for A Phat Pinball Pte Ltd (SW 15/2021)](/files/sw15-2021%20notice%20of%20intended%20dividend.pdf){:target="_blank"} (32.9KB) <br>
 [03-Feb-2023 Notice of Intended Dividend for Mars Candy Pte. Ltd. (SW 33/2021)](/files/SW332021%20Notice%20of%20Intended%20Dividend.pdf){:target="_blank"} (32.9KB) <br>
 [28-Oct-2022 Notice of Intended Dividend for Mars Candy Pte. Ltd. (SW 33/2021)](/files/SW33-2021%20Notice%20of%20Intended%20Dividend.pdf){:target="_blank"} (31.11KB) <br>
 [09-Sept-2022 Notice of Intended Dividend for Astral Nanotec Pte. Ltd(SW 6/2022)](/files/SW6-2022%20Notice%20of%20Intended%20Dividend.pdf){:target="_blank"} (31.11KB) <br>
@@ -228,7 +234,6 @@ NOTICES
 <br>
 [06-Jan-2023 Notice of Acceptance for Simplified Debt Restructuring Programme](/files/06-01-2023%20Notice%20of%20Acceptance.pdf){:target="_blank"} (81.3KB) <br>
 [14-Apr-2022 Notice of Rejection for Simplified Debt Restructuring Programme](/files/14-04-2022%20Notice%20of%20Rejection%20in%20SR.pdf){:target="_blank"} (81.04KB) <br>
-
 <br>
 *(3) Notice of Court Application*
 <br>
