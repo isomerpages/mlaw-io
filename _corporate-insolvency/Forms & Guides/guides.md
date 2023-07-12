@@ -11,7 +11,7 @@ Guides
 
 1. [Guide to viewing of Statement of Account in e-Service](/files/guide%20to%20statement%20of%20accounts%20eservice.pdf){:target="_blank"} (313KB)<br>
 
-2. [Guide to submitting Payment Requisitions via e-Service](/files/guide%20to%20payment%20requsition%20eservice.pdf){:target="_blank"} (746KB)<br>
+2. [Guide to submitting Payment Requisitions via e-Service](/files/guide%20to%20payment%20requisition%20eservice.pdf){:target="_blank"} (746KB)<br>
 <br>
 
 
