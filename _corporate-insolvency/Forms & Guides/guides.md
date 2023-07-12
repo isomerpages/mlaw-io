@@ -12,7 +12,7 @@ Guides
 1. [Guide to viewing of Statement of Account in e-Service](/files/guide%20to%20statement%20of%20accounts%20eservice.pdf){:target="_blank"} (540KB)<br>
 
 2. [Guide to submitting Payment Requisitions via e-Service](/files/guide%20to%20payment%20requisition%20eservice.pdf){:target="_blank"} (1.34MB)<br>
-3. [Guide to submitting Advertisement on Holding a Final Meeting for Voluntary Winding Up Cases](/files/guide%20to%20payment%20requisition%20eservice.pdf){:target="_blank"} (980KB)<br>
+3. [Guide to submitting Advertisement on Holding a Final Meeting for Voluntary Winding Up Cases](/files/guide%20to%20submitt%20advert%20final%20meeting%vw.pdf){:target="_blank"} (980KB)<br>
 4. [Guide to submitting Payment Requisitions via e-Service]{:target="_blank"} (746KB)<br> 
 <br>
 
