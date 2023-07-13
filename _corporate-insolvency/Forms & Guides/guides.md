@@ -12,13 +12,13 @@ Guides
 1. [Guide to view Statement of Accounts](/files/guide%20to%20statement%20of%20accounts%20eservice.pdf){:target="_blank"} (540KB)<br>
 2. [Guide to submit Depository Request](/files/guide%20depository%20request.pdf){:target="_blank"} (1.67MB)<br>
 3. [Guide to submit Payment Requisition](/files/guide%20to%20payment%20requisition%20eservice.pdf){:target="_blank"} (1.34MB)<br>
-4. [Guide to submit Liquidator's Accounts and Receipts and Statement of Winding Up](/files/guide%20to%20submit%20liquidator%20accounts%20and%receipts.pdf){:target="_blank"} (1.5MB)<br>
+4. [Guide to submit Liquidator's Accounts and Receipts and Statement of Winding Up](/files/guide%20to%20submit%20liquidator%20account%20of%20receipts%20and%20payments.pdf){:target="_blank"} (1.5MB)<br>
 5.  [Guide to submit Preliminary Report](/files/guide%20to%20submit%20preliminary%20report.pdf){:target="_blank"} (1.67MB)<br>
 6. [Guide to submit Early Dissolution Report](/files/guide%20to%20submit%20early%20dissolution%20report.pdf){:target="_blank"} (1.04MB)<br>
 7. [Guide to submit Gazette and Newspaper Advert](/files/guide%20to%20submit%20gazette%20and%20newspaper%20advert.pdf){:target="_blank"} (1.04MB)<br>
 8. [Guide to submit Unclaimed Assets to be Paid to the Official Receiver](/files/guide%20to%20submit%20unclaimed%20assets%20to%20be%20paid%20to%20official%20receiver.pdf){:target="_blank"} (1.01MB)<br>
 9. [Guide to submit Statement of Concurrence](/files/guide%20to%20submit%20statement%20of%20concurrence.pdf){:target="_blank"} (1.30MB)<br>
-10. [Guide to submit Advertisement on Holding of a Final Meeting for Voluntary Winding Up Cases](/files/guide%20to%20submit%20final%20meeting%20advert%20vw.pdf){:target="_blank"} (980KB)<br>
+10. [Guide to submit Advertisement on Holding of a Final Meeting](/files/guide%20to%20submit%20final%20meeting%20advert%20vw.pdf){:target="_blank"} (980KB)<br>
 <br>
 <br>
 
