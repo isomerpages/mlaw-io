@@ -18,7 +18,7 @@ Guides
 7. [Guide to submit Gazette and Newspaper Advert](/files/guide%20to%20submit%20gazette%20and%20newspaper%20advert.pdf){:target="_blank"} (1.04MB)<br>
 8. [Guide to submit Unclaimed Assets to be Paid to the Official Receiver](/files/guide%20to%20submit%20unclalimed%20assets%20to%20official%20receiver.pdf){:target="_blank"} (1.04MB)<br>
 9. [Guide to submit Statement of Concurrence](/files/guide%20to%20submit%20statement%20of%20concurrence.pdf){:target="_blank"} (1.04MB)<br>
-10. [Guide to submit Advertisement on Holding of a Final Meeting for Voluntary Winding Up Cases](/files/guide%20to%20submit%20final%20meetingof%20advert%20vw.pdf){:target="_blank"} (1.04MB)<br>
+10. [Guide to submit Advertisement on Holding of a Final Meeting for Voluntary Winding Up Cases](/files/guide%20to%20submit%20final%20meetingof%20advert%20vw.pdf){:target="_blank"} (980KB)<br>
 11. [Guide to submit Notice of Appointment as Scheme Manager](/files/guide%20to%20submit%20notice%20of%20appointment%20as%20schem%20manager.pdf){:target="_blank"} (964KB)<br>
 <br>
 <br>
