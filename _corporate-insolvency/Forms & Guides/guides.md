@@ -18,7 +18,7 @@ Guides
 7. [Guide to submit Gazette and Newspaper Advert](/files/guide%20to%20submit%20gazette%20and%20newspaper%20advert.pdf){:target="_blank"} (1.04MB)<br>
 8. [Guide to submit Unclaimed Assets to be Paid to the Official Receiver](/files/guide%20to%20submit%20unclaimed%20assets%20to%20be%20paid%20to%20the%20official%20receiver.pdf){:target="_blank"} (1.01MB)<br>
 9. [Guide to submit Statement of Concurrence](/files/guide%20to%20submit%20statement%20of%20concurrence.pdf){:target="_blank"} (1.30MB)<br>
-10. [Guide to submit Advertisement on Holding of a Final Meeting](/files/guide%20to%20submit%20advert%20final%20meeting%20vw.pdf){:target="_blank"} (980KB)<br>
+10. [Guide to submit Advertisement on Holding of a Final Meeting](/files/guide%20to%20submit%advert%20final%20meeting%20vw.pdf){:target="_blank"} (980KB)<br>
 <br>
 <br>
 
