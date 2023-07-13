@@ -14,6 +14,8 @@ Guides
 2. [Guide to submitting Payment Requisitions via e-Service](/files/guide%20to%20payment%20requisition%20eservice.pdf){:target="_blank"} (1.34MB)<br>
 3. [Guide to submitting Advertisement on Holding a Final Meeting for Voluntary Winding Up Cases](/files/guide%20to%20submitt%20advert%20final%20meeting%vw.pdf){:target="_blank"} (980KB)<br>
 4. [Guide to submitting Depository Request](/files/guide%20depository%20request.pdf){:target="_blank"} (1.67MB)<br>
+5. [Guide to submitting Gazette and Newspaper Advert](/files/guide%20to%20submit%20gazette%20and%20newspaper%20advert.pdf){:target="_blank"} (1.04MB)<br>
+<br>
 <br>
 
 
