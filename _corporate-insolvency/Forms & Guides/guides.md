@@ -16,6 +16,7 @@ Guides
 5. [Guide to submitting Gazette and Newspaper Advert](/files/guide%20to%20submit%20gazette%20and%20newspaper%20advert.pdf){:target="_blank"} (1.04MB)<br>
 6. [Guide to submitting Gazette and Newspaper Advert](/files/guide%20to%20submit%20gazette%20and%20newspaper%20advert.pdf){:target="_blank"} (1.04MB)<br>
 7. [Guide to submitting Early Dissolution Report](/files/guide%20to%20submit%20early%20dissolution%20report.pdf){:target="_blank"} (1.04MB)<br>
+8. [Guide to submitting Statement of Concurrence](/files/guide%20to%20submit%20statement%20of%20concurrence.pdf){:target="_blank"} (1.04MB)<br>
 <br>
 <br>
 
