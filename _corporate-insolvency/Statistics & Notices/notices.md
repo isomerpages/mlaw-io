@@ -27,7 +27,7 @@ NOTICES
 
 *(3) Notices of Striking off and Final Accounts*
 <br>
-[14-July-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/14-07-2023%20notice%20of%20striking%20off.pdf){:target="_blank"} (12.00KB) and Final Accounts for [Prive Nightlife Concepts Pte. Ltd. (SW 32/2021)](/files/sw32-2021%20Final%20Accounts.pdf){:target="_blank"} (16.0KB) and Final Accounts for [The Consulting Boutique Pte. Ltd. (SW 1/2023)](/files/sw1-2023%20Final%20Accounts.pdf){:target="_blank"} (16.0KB) 
+[14-July-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/14-07-2023%20notice%20of%20striking%20off.pdf){:target="_blank"} (12.00KB) and Final Accounts for [Prive Nightlife Concepts Pte. Ltd. (SW 32/2021)](/files/SW32-2021%20Final%20Accounts.pdf){:target="_blank"} (16.0KB) and Final Accounts for [The Consulting Boutique Pte. Ltd. (SW 1/2023)](/files/SW1-2023%20Final%20Accounts.pdf){:target="_blank"} (16.0KB) 
 <br>
 
 
