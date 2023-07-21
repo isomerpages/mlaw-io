@@ -52,13 +52,13 @@ For forms relating to the Insolvency, Restructuring and Dissolution (Corporate I
 **Forms for Simplified Insolvency Programme**
 
 *Simplified Debt Restructuring Programme*<br>
-   
+  1. [Application form for Simplified Debt Restructuring Programme](https://go.gov.sg/uxq6q2) 
 1. [Business Plan Template](/files/SDRP_Business%20Plan%20Template.docx){:target="_blank"} (DOCX, 84KB) <br>
 
 2. [Annex A - List of creditors](/files/SDRP_Annex%20A_List%20of%20creditors.xls){:target="_blank"} (XLS, 31KB)<br>
 
 *Simplified Winding Up Programme*<br>
-
+1. [Application form for Simplified Winding Up Programme](https://go.gov.sg/im8d1j)
 1. Statement of Affairs for simplified winding up matters<br>
    (a) [Detailed Statement of Affairs](/files/SWUP_Statement%20of%20Affairs.xls){:target="_blank"} (XLS, 141KB)<br>
    (b) [Explanatory notes](/files/SWUP_SA%20Explanatory%20notes.pdf){:target="_blank"} (118KB)<br>
