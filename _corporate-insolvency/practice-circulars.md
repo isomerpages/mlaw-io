@@ -12,7 +12,7 @@ Practice Circulars
     <a href="/files/ORPracticeCircular2of2022.pdf" target="_blank">The Official Receiver Practice Circular No. 2 of 2022 Cessation of Alternative Arrangements for Meetings from 1 July 2023</a> (93.5 KB)
   </li><br>
 <li>
-    <a href="/files/ORPracticeCircular1of2022.pdf" target="_blank">The Official Receiver Practice Circular No. 1 of 2022  Fee for the Lodgement of Statutory Forms Relating to Receivership and Judicial Management under Insolvency, Restructuring and Dissolution Act 2018 & Changes to the Opening of an Authorised Bank Account</a> (118.7 KB)
+    <a href="/files/ORPracticeCircular1of2022.pdf" target="_blank">The Official Receiver Practice Circular No. 1 of 2022  Fee for the Lodgement of Statutory Forms Relating to Receivership and Judicial Management under Insolvency, Restructuring and Dissolution Act 2018 &amp; Changes to the Opening of an Authorised Bank Account</a> (118.7 KB)
   </li><br>
 <li>
     <a href="/files/OR%20Practice%20Circular%202%20of%202020.pdf" target="_blank">The Official Receiver Practice Circular No. 2 of 2020  Implementation of Insolvency, Restructuring and Dissolution Act 2018</a> (93 KB)
@@ -25,7 +25,7 @@ Practice Circulars
     <a href="/files/ORPracticeCircular1of2018.pdf" target="_blank">The Official Receiver Practice Circular No. 1 of 2018 Administration of Compulsory Winding Up Cases </a>(119 KB)
     <ul>
       <li>
-        <a href="/files/PC1_2018_PaymentRequisitionForm.xlsx/" target="_blank">Payment Requisition Form</a> (XLS, 11KB)
+        <a href="https://go.gov.sg/n18yul" target="_blank">Payment Requisition Form</a> (XLS, 11KB)
       </li>
     </ul>
   </li><br>
@@ -39,7 +39,7 @@ Practice Circulars
     <a href="/files/ORPracticeCircular1of2017.pdf" target="_blank">The Official Receiver Practice Circular No. 1 of 2017 Administration Costs and Fees under the Fees (Winding Up and Dissolution of Companies and other Bodies) (Amendment) Order 2017 </a>(109 KB)
   </li><br>
   <li>
-    <a href="/files/PracticeCircular1of2016-PaymentofRemunerationandExpensesofJudicalManager.pdf" target="_blank">The Official Receiver Practice Circular No. 1 of 2016 Judicial Manager's Remuneration & Expenses incurred in Judicial Management </a> (196 KB)
+    <a href="/files/PracticeCircular1of2016-PaymentofRemunerationandExpensesofJudicalManager.pdf" target="_blank">The Official Receiver Practice Circular No. 1 of 2016 Judicial Manager's Remuneration &amp; Expenses incurred in Judicial Management </a> (196 KB)
   </li><br>
   <li>
     <a href="/files/ORPracticeCircular1of2015.pdf" target="_blank">The Official Receiver Practice Circular No. 1 of 2015 Reimbursement of the Applicant-Plaintiffs' Costs in the Winding Up of a Company by the Court </a> (334 KB)
@@ -80,4 +80,3 @@ Practice Circulars
   </li><br>
   <li><a href="/files/linkclicke862.pdf" target="_blank">314 Companies Act - Companies (Amendment No. 2) Regulations 2001 25 Jun 2001 </a>(107 KB)</li><br>
   <li><a href="/files/linkclickb9b8.pdf" target="_blank">315 Companies Act - Companies (Winding Up) (Amendment No. 2) Rules 2001 25 Jun 2001 </a>(28 KB)</li>
-</ul>
