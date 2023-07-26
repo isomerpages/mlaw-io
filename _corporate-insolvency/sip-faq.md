@@ -1,17 +1,14 @@
 ---
-title: 'SIP FAQ'
+title: SIP FAQ
 permalink: /corporate-insolvency/sip-faq/
-breadcrumb: 'SIP FAQ'
-
+breadcrumb: SIP FAQ
 ---
-
-
 SIMPLIFIED INSOLVENCY PROGRAMME FAQ
 ---
-**QUESTIONS & ANSWERS** 
+**QUESTIONS &amp; ANSWERS** 
 
 **THE SIMPLIFIED INSOLVENCY PROGRAMME UNDER THE INSOLVENCY, RESTRUCTURING AND DISSOLUTION (AMENDMENT) ACT 2020**<br>
-<BR>
+<br>
 
 *BACKGROUND*
 
@@ -42,8 +39,8 @@ The SIP will start on 29 Jan 2021.<br>
 A company may apply for the SIP by submitting a completed application form, together with the required documents and information, to the Official Reciever via the MinLaw website at <a href="https://eservices.mlaw.gov.sg/enquiry/">https://eservices.mlaw.gov.sg/enquiry/</a><br>
 <br>
 Please use the following application forms for respective programmes:<br>
-   (a) <a href="https://io.mlaw.gov.sg/files/SDRP%20appln%20form.docx">Simplified Debt Restructuring Programme </a> <br>
-   (b) <a href="https://io.mlaw.gov.sg/files/SWUP%20appln%20form.docx">Simplified Winding Up Programme</a> <br>
+   (a) [Simplified Debt Restructuring Programme](https://go.gov.sg/uxq6q2)  <br>
+   (b) [Simplified Winding Up Programme](https://go.gov.sg/im8d1j)  <br>
 
 **5. Can a company apply for both the Simplified Debt Restructuring Programme (“SDRP”) and the Simplified Winding Up Programme (“SWUP”) at the same time?**<br>
 
@@ -74,7 +71,7 @@ These fees will be paid directly by the AC to the service provider they have eng
 
 The fee structure is summarised in the table below:  <br>
 <table>
-<tr>
+<tbody><tr>
   <td><b>Applicable fees under the SIP</b></td>
   <td align="center"><b>SDRP</b></td>
   <td align="center"><b>SWUP</b></td>
@@ -94,9 +91,9 @@ The fee structure is summarised in the table below:  <br>
  <tr>
   <td>Fees for additional services, e.g. legal advice, valuation etc.<br>
   <i>[To be paid directly to the service provider.]</i></td>
-  <td colspan=2 align="center">To be borne entirely by the company as incurred. </td>
+  <td colspan="2" align="center">To be borne entirely by the company as incurred. </td>
  </tr>
-</table>
+</tbody></table>
 
   <br>
 
@@ -163,11 +160,11 @@ The Official Receiver (“OR”) may accept the company’s application for the 
 **12. What supporting documents are required in an Applicant Company’s (“AC”) application for the Simplified Debt Restructuring Programme (“SDRP”)?**<br>
 
 <table>
-<tr>
+<tbody><tr>
   <td><b>Mandatory Supporting Documents for submission </b></td>
   </tr>
  <tr>
-  <td>(a) AC’s Business Plan with a 90-day cashflow projection and a 24-month projected Profit & Loss Statement;<br>
+  <td>(a) AC’s Business Plan with a 90-day cashflow projection and a 24-month projected Profit &amp; Loss Statement;<br>
   (b) The latest audited / unaudited financial statements made up to the last financial year;<br>
   (c) The list of creditors and amounts owed to each creditor; and<br>
   (d) A special resolution passed by the AC in general meeting authorising the making of the application for the SDRP.<br>
@@ -184,7 +181,7 @@ The Official Receiver (“OR”) may accept the company’s application for the 
   </td>
  </tr>   
 
-</table><br>
+</tbody></table><br>
 
 **13. Will an incomplete set of supporting documents be accepted in the application for the Simplified Debt Restructuring Programme (“SDRP”)?**<br>
 
@@ -194,7 +191,7 @@ The Official Receiver (“OR”) may request for further supporting documents an
 
 ACs that require assistance in completing the Business Plan template for the SDRP can approach the various SME Centres and their business advisors for help. To make an appointment with a business advisor, please visit <a href="https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/network-of-partners/sme-centres/overview">this website</a>.<br>
 
-ACs are advised to seek the assistance of the company accountant or finance personnel to complete the templates for the 90-day cashflow projection and 24-month projected Profit & Loss Statement.<br>
+ACs are advised to seek the assistance of the company accountant or finance personnel to complete the templates for the 90-day cashflow projection and 24-month projected Profit &amp; Loss Statement.<br>
 <br>
 
 *ASSESSMENT OF APPLICATION - SIMPLIFIED DEBT RESTRUCTURING PROGRAMME*<br>
@@ -318,7 +315,7 @@ The broad differences are:<br>
 **24. What supporting documents are required in an Applicant Company’s (“AC”) application for the Simplified Winding Up Programme (“SWUP”)?**<br>
 
 <table>
-<tr>
+<tbody><tr>
   <td><b>Mandatory Supporting Documents for submission </b></td>
   </tr>
  <tr>
@@ -336,7 +333,7 @@ The broad differences are:<br>
   </td>
  </tr>   
 
-</table><br>
+</tbody></table><br>
 
    The application has to be submitted by an officer of the AC, i.e. the director or secretary of the AC. If you are making the application and submitting the Statement of Affairs on behalf of the officer of the AC, please attach a Letter of Authorisation from the company officer.<br>
    <br>
@@ -390,6 +387,5 @@ Upon the realisation of the assets of the AC and upon the assessment that there 
 
 **31. Are GST-registered companies required to apply for deregistration from GST before applying for the Simplified Winding Up Programme (“SWUP”)?**<br>
 
-GST-registered companies who intend to apply for the SWUP are advised to cancel their GST registration before submitting their application for the SWUP. This is to facilitate the eventual liquidation process. Applicant Comapnies may visit IRAS website on <a href="https://www.iras.gov.sg/irashome/GST/GST-registered-businesses/Other-services/Cancelling-GST-Registration/">Cancelling GST Registration</a> for more information and apply online to cancel GST registration via <a href="https://mytax.iras.gov.sg/ESVWeb/default.aspx">*myTax Portal*</a>  (Click on GST > Apply for Cancellation of GST Registration).<br>
+GST-registered companies who intend to apply for the SWUP are advised to cancel their GST registration before submitting their application for the SWUP. This is to facilitate the eventual liquidation process. Applicant Comapnies may visit IRAS website on <a href="https://www.iras.gov.sg/irashome/GST/GST-registered-businesses/Other-services/Cancelling-GST-Registration/">Cancelling GST Registration</a> for more information and apply online to cancel GST registration via <a href="https://mytax.iras.gov.sg/ESVWeb/default.aspx">*myTax Portal*</a>  (Click on GST &gt; Apply for Cancellation of GST Registration).<br>
 <br>
-
