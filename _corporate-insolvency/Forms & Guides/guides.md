@@ -19,12 +19,12 @@ Guides
 8. [Guide to submit Unclaimed Assets to be Paid to the Official Receiver](/files/guide%20to%20submit%20unclaimed%20assets%20to%20be%20paid%20to%20the%20official%20receiver.pdf){:target="_blank"} (1.01MB)<br>
 9. [Guide to submit Statement of Concurrence](/files/guide%20to%20submit%20statement%20of%20concurrence.pdf){:target="_blank"} (1.30MB)<br>
 10. [Guide to submit Advertisement on Holding of a Final Meeting for Voluntary Winding Up cases](/files/guide%20to%20submit%20advert%20final%20meeting%20vw.pdf){:target="_blank"} (980KB)<br>
-<br>
+<br><br>
 
 
 **Guides relating to e-Services for scheme managers**<br>
 
-1. [Guide to submit Notice of Appointment as Scheme Manager](/files/guide%20to%20submit%20notice%20of%20appointment%20as%20scheme%20manager.pdf){:target="_blank"} (964KB)<br><br>
+1. [Guide to submit Notice of Appointment as Scheme Manager](/files/guide%20to%20submit%20notice%20of%20appointment%20as%20scheme%20manager.pdf){:target="_blank"} (964KB)<br><br><br>
 
 
 
