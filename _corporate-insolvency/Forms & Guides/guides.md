@@ -25,4 +25,10 @@ Guides
 
 **Guides relating to e-Services for scheme managers**<br>
 
-1. [Guide to submit Notice of Appointment as Scheme Manager](/files/guide%20to%20submit%20notice%20of%20appointment%20as%20scheme%20manager.pdf){:target="_blank"} (964KB)<br>
+1. [Guide to submit Notice of Appointment as Scheme Manager](/files/guide%20to%20submit%20notice%20of%20appointment%20as%20scheme%20manager.pdf){:target="_blank"} (964KB)<br><br>
+
+
+
+**Guides relating to e-Services- Others**<br>
+
+1. [Guide to Corporate Insolvency Search](/files/guide%20to%20corporate%20insolvency%20search.pdf){:target="_blank"} (1.32MB)<br>
