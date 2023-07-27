@@ -20,7 +20,6 @@ Guides
 9. [Guide to submit Statement of Concurrence](/files/guide%20to%20submit%20statement%20of%20concurrence.pdf){:target="_blank"} (1.30MB)<br>
 10. [Guide to submit Advertisement on Holding of a Final Meeting for Voluntary Winding Up cases](/files/guide%20to%20submit%20advert%20final%20meeting%20vw.pdf){:target="_blank"} (980KB)<br>
 <br>
-<br>
 
 
 **Guides relating to e-Services for scheme managers**<br>
