@@ -7,7 +7,7 @@ third_nav_title: Forms & Guides
 Guides
 ---
 
-**Guides relating to e-Services for private liquidators**<br>
+**Guides relating to e-Services for Private Liquidators**<br>
 
 1. [Guide to view Statement of Accounts](/files/guide%20to%20statement%20of%20accounts%20eservice.pdf){:target="_blank"} (540KB)<br>
 2. [Guide to submit Depository Request](/files/guide%20depository%20request.pdf){:target="_blank"} (1.67MB)<br>
@@ -22,7 +22,7 @@ Guides
 <br>
 
 
-**Guides relating to e-Services for scheme managers**<br>
+**Guides relating to e-Services for Scheme Managers**<br>
 
 1. [Guide to submit Notice of Appointment as Scheme Manager](/files/guide%20to%20submit%20notice%20of%20appointment%20as%20scheme%20manager.pdf){:target="_blank"} (964KB)<br><br>
 
