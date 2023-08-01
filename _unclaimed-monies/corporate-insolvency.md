@@ -13,7 +13,7 @@ All unclaimed dividends and monies paid to the Official Receiver are transferred
 **STEPS TO RECOVER UNCLAIMED MONIES FROM THE OFFICIAL RECEIVER'S OFFICE**
 
 <table>
- <tr>
+ <tbody><tr>
   <th colspan="2">If you think you have monies held by the Official Receiver:</th>
  </tr>
  <tr>
@@ -50,11 +50,11 @@ b) Any other document evidencing that you are entitled to the unclaimed monies.
  <tr>
   <td colspan="2">The Official Receiver will check the claimant’s details against the case file to see if the claim is valid and arrange for payment to be made to the claimant once the claim is verified.</td>
  </tr>
-</table>
+</tbody></table>
 
 **Unclaimed Monies Held By:**
 
 **Official Receiver**<br>
-* [Unpresented Cheques](/files/CWUnpresentedCheques30092022.pdf){:target="_blank"}(429KB)<br>
-* [Unclaimed Monies from Winding Up Cases](/files/CWUnclaimedAssets30092022.pdf){:target="_blank"}(461KB)<br>
-* [Outstanding Monies belonging to Defunct Companies](/files/CWOutstandingAssets30092022.pdf){:target="_blank"}(1.56MB)<br>
+* [Unpresented Cheques](/files/cw%20unpresented%20cheques.pdf){:target="_blank"}(429KB)<br>
+* [Unclaimed Monies from Winding Up Cases](/files/cw%20unclaimed%20assets.pdf){:target="_blank"}(461KB)<br>
+* [Outstanding Monies belonging to Defunct Companies](/files/cw%20outstanding%20assets%20defunct.pdf){:target="_blank"}(1.56MB)<br>
