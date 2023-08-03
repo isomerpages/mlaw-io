@@ -29,6 +29,7 @@ NOTICES
 [07-July-2023 Notice of Acceptance for Simplified Winding Up Programme](/files/07-07-2023%20notice%20of%20acceptance.pdf)
 
 *(3) Notices of Striking off and Final Accounts*
+<br>[04-Aug-2023 Notice of Striking Off from Simplified Winding Up Programme](/files/04-08-2023%20notice%20of%20striking%20off.pdf) and Final Accounts for [Unicable (S) Pte Ltd](/files/sw%203-2023%20final%20accounts.pdf)
 <br>
 [28-07-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/28-07-2023%20notice%20of%20striking%20off.pdf) and Final Accounts for [Farquhar Pte Ltd (SW 7-2022)](/files/sw%207-2022%20final%20accounts.pdf)
 <br>
