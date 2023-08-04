@@ -31,3 +31,10 @@ Guides
 **Guides relating to e-Services- Others**<br>
 
 1. [Guide to Corporate Insolvency Search](/files/guide%20to%20corporate%20insolvency%20search.pdf){:target="_blank"} (1.32MB)<br>
+<br>
+
+**Guides relating to e-Services for Creditors**<br>
+
+1. [Guide to submit Proof of Debt](/files/submit%20proof%20of%20debt.pdf)<br>
+2. [Guide to submit Application to Lay Claim on Assets of Dissolved or Struck Off Company](/files/submit%20application%20to%20lay%20claim%20on%20assets%20of%20dissolved%20or%20struck%20off%20company%20v2.pdf)
+3. [Guide to submit Renunciation on Rights to Claim Share of Assets of Defunct Company](/files/submit%20renunciation%20on%20rights%20to%20claim%20share%20of%20assets%20of%20defunct%20company.pdf)
