@@ -17,21 +17,19 @@ NOTICES
 **Insolvency, Restructuring and Dissolution (Simplified Winding Up) Regulations 2021**
 <br><br>
 *(1) Notice of Application*
+<br>[04-Aug-2023 Notice of Application into Simplified Winding Up Programme](/files/04-08-2023%20application%20swu.pdf)
 <br>[28-July-2023 Notice of Application into Simplified Winding UP Programme](/files/28-07-2023%20application%20swu.pdf)
-<br>[21-July -2023 Notice of Application into Simplified Winding Up Programme](/files/21-07-2023%20application%20swu.pdf)<br>
-[07-July-2023 Notice of Application into Simplified Winding Up Programme](/files/07-07-2023%20application%20swu.pdf){:target="_blank"} (33.4KB) 
-<br>
+
 
 *(2) Notice of Acceptance and Rejection*
-<br>[21-07-2023 Notice of Acceptance into Simplified Winding Up Programme](/files/21-07-2023%20notice%20of%20acceptance.pdf)<br>
-[07-July-2023 Notice of Acceptance for Simplified Winding Up Programme](/files/07-07-2023%20notice%20of%20acceptance.pdf)
+<br>[04-Aug-2023 Notice of Acceptance into Simplified Winding Up Programme](/files/04-08-2023%20notice%20of%20acceptance.pdf)
+
 
 *(3) Notices of Striking off and Final Accounts*
+<br>[04-Aug-2023 Notice of Striking Off from Simplified Winding Up Programme](/files/04-08-2023%20notice%20of%20striking%20off.pdf) and Final Accounts for [Unicable (S) Pte Ltd (SW 3/2023)](/files/sw%203-2023%20final%20accounts.pdf) and Final Accounts for [The Blind Group Pte Ltd (SW 6/2023)](/files/sw%206-2023%20final%20accounts.pdf)
 <br>
 [28-07-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/28-07-2023%20notice%20of%20striking%20off.pdf) and Final Accounts for [Farquhar Pte Ltd (SW 7-2022)](/files/sw%207-2022%20final%20accounts.pdf)
-<br>
-[14-July-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/14-07-2023%20notice%20of%20striking%20off.pdf) and Final Accounts for [Prive Nightlife Concepts Pte. Ltd. (SW 32/2021)](/files/sw32-2021%20final%20accounts.pdf) and Final Accounts for [The Consulting Boutique Pte. Ltd. (SW 1/2023)](/files/sw1-2023%20final%20accounts.pdf) 
-<br>
+
 
 *(4) Notices of Dividend*
 <br>
@@ -58,8 +56,10 @@ NOTICES
 <br>
 
 *(1) Notices of Application*
+<br>[21-July -2023 Notice of Application into Simplified Winding Up Programme](/files/21-07-2023%20application%20swu.pdf)<br>
+[07-July-2023 Notice of Application into Simplified Winding Up Programme](/files/07-07-2023%20application%20swu.pdf) 
 <br>
-[16-June-2023 Notice of Application into Simplified Winding Up Programme](/files/16-06-2023%20application%20swu.pdf){:target="_blank"} (33.4KB) 
+[16-June-2023 Notice of Application into Simplified Winding Up Programme](/files/16-06-2023%20application%20swu.pdf) 
 <br>
 [12-May-2023 Notice of Application into Simplified Winding Up Programme](/files/12-05-2023%20application%20swu.pdf){:target="_blank"} (33.0KB) 
 <br>
@@ -110,7 +110,8 @@ NOTICES
 <br>
 <br>
 *(2) Notices of Acceptance and Rejection*
-<br>[23-June-2023 Notice of Acceptance for Simplified Winding Up Programme](/files/23-06-2023%20notice%20of%20acceptance.pdf){:target="_blank"}(32.0KB)
+<br>[21-Jul-2023 Notice of Acceptance into Simplified Winding Up Programme](/files/21-07-2023%20notice%20of%20acceptance.pdf)<br>
+[07-July-2023 Notice of Acceptance for Simplified Winding Up Programme](/files/07-07-2023%20notice%20of%20acceptance.pdf)<br>[23-June-2023 Notice of Acceptance for Simplified Winding Up Programme](/files/23-06-2023%20notice%20of%20acceptance.pdf){:target="_blank"}(32.0KB)
 <br>
 [09-June-2023 Notice of Acceptance for Simplified Winding Up Programme](/files/09-06-2023%20notice%20of%20acceptance.pdf){:target="_blank"}(33.0KB)
 <br>
@@ -164,7 +165,8 @@ NOTICES
 <br>
 *(3) Notices of Striking off and Final Accounts*
 <br>
-[16-June-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/16-06-2023%20notice%20of%20striking%20off.pdf){:target="_blank"} (12.00KB) and Final Accounts for [Eximchain Pte. Ltd. (SW 10/2021)](/files/sw10-2021%20final%20account.pdf){:target="_blank"} (16.0KB) and Final Accounts for [La Cantina Pte. Ltd. (SW 18/2022)](/files/sw18-2022%20final%20account.pdf){:target="_blank"} (16.0KB) 
+[14-July-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/14-07-2023%20notice%20of%20striking%20off.pdf) and Final Accounts for [Prive Nightlife Concepts Pte. Ltd. (SW 32/2021)](/files/sw32-2021%20final%20accounts.pdf) and Final Accounts for [The Consulting Boutique Pte. Ltd. (SW 1/2023)](/files/sw1-2023%20final%20accounts.pdf) 
+<br>[16-June-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/16-06-2023%20notice%20of%20striking%20off.pdf){:target="_blank"} (12.00KB) and Final Accounts for [Eximchain Pte. Ltd. (SW 10/2021)](/files/sw10-2021%20final%20account.pdf){:target="_blank"} (16.0KB) and Final Accounts for [La Cantina Pte. Ltd. (SW 18/2022)](/files/sw18-2022%20final%20account.pdf){:target="_blank"} (16.0KB) 
 <br>
 [14-Apr-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/14-04-2023%20notice%20of%20striking%20off.pdf){:target="_blank"} (12.00KB) and Final Accounts for [Sol Ventures Pte. Ltd. (SW 20/2022)](/files/sw20-2022%20final%20account.pdf){:target="_blank"} (12.0KB)
 <br>
