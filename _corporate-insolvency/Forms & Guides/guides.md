@@ -38,3 +38,13 @@ Guides
 1. [Guide to submit Proof of Debt](/files/submit%20proof%20of%20debt.pdf)<br>
 2. [Guide to submit Application to Lay Claim on Assets of Dissolved or Struck Off Company](/files/submit%20application%20to%20lay%20claim%20on%20assets%20of%20dissolved%20or%20struck%20off%20company%20v2.pdf)
 3. [Guide to submit Renunciation on Rights to Claim Share of Assets of Defunct Company](/files/submit%20renunciation%20on%20rights%20to%20claim%20share%20of%20assets%20of%20defunct%20company.pdf)
+
+
+
+**Guides relating to e-Services for Company Officers**<br>
+
+1. [Guide to submit Preliminary Information](/files/submit%20preliminary%20information.pdf)<br>
+2. [Guide to submit Statement of Affairs](/files/submit%20statement%20of%20affairs.pdf)
+3. [Guide to submit Statement of Assets and Liabilities](/files/submit%20statement%20of%20assets%20and%20liabilities.pdf)
+4. [Guide to Request for Statement of Affairs Extension](/files/request%20for%20statement%20of%20affairs%20extension.pdf)
+5. [Guide to submit Statutory Declaration on Company's Inability to Continue Business by Reason of its Liabilities](/files/statutory%20declaration%20on%20company’s%20inability%20to%20continue%20business%20by%20reason%20of%20its%20liabilities.pdf)
