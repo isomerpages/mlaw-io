@@ -29,9 +29,7 @@ NOTICES
 <br>[04-Aug-2023 Notice of Striking Off from Simplified Winding Up Programme](/files/04-08-2023%20notice%20of%20striking%20off.pdf) and Final Accounts for [Unicable (S) Pte Ltd (SW 3/2023)](/files/sw%203-2023%20final%20accounts.pdf) and Final Accounts for [The Blind Group Pte Ltd (SW 6/2023)](/files/sw%206-2023%20final%20accounts.pdf)
 <br>
 [28-07-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/28-07-2023%20notice%20of%20striking%20off.pdf) and Final Accounts for [Farquhar Pte Ltd (SW 7-2022)](/files/sw%207-2022%20final%20accounts.pdf)
-<br>
-[14-July-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/14-07-2023%20notice%20of%20striking%20off.pdf) and Final Accounts for [Prive Nightlife Concepts Pte. Ltd. (SW 32/2021)](/files/sw32-2021%20final%20accounts.pdf) and Final Accounts for [The Consulting Boutique Pte. Ltd. (SW 1/2023)](/files/sw1-2023%20final%20accounts.pdf) 
-<br>
+
 
 *(4) Notices of Dividend*
 <br>
@@ -167,7 +165,8 @@ NOTICES
 <br>
 *(3) Notices of Striking off and Final Accounts*
 <br>
-[16-June-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/16-06-2023%20notice%20of%20striking%20off.pdf){:target="_blank"} (12.00KB) and Final Accounts for [Eximchain Pte. Ltd. (SW 10/2021)](/files/sw10-2021%20final%20account.pdf){:target="_blank"} (16.0KB) and Final Accounts for [La Cantina Pte. Ltd. (SW 18/2022)](/files/sw18-2022%20final%20account.pdf){:target="_blank"} (16.0KB) 
+[14-July-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/14-07-2023%20notice%20of%20striking%20off.pdf) and Final Accounts for [Prive Nightlife Concepts Pte. Ltd. (SW 32/2021)](/files/sw32-2021%20final%20accounts.pdf) and Final Accounts for [The Consulting Boutique Pte. Ltd. (SW 1/2023)](/files/sw1-2023%20final%20accounts.pdf) 
+<br>[16-June-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/16-06-2023%20notice%20of%20striking%20off.pdf){:target="_blank"} (12.00KB) and Final Accounts for [Eximchain Pte. Ltd. (SW 10/2021)](/files/sw10-2021%20final%20account.pdf){:target="_blank"} (16.0KB) and Final Accounts for [La Cantina Pte. Ltd. (SW 18/2022)](/files/sw18-2022%20final%20account.pdf){:target="_blank"} (16.0KB) 
 <br>
 [14-Apr-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/14-04-2023%20notice%20of%20striking%20off.pdf){:target="_blank"} (12.00KB) and Final Accounts for [Sol Ventures Pte. Ltd. (SW 20/2022)](/files/sw20-2022%20final%20account.pdf){:target="_blank"} (12.0KB)
 <br>
