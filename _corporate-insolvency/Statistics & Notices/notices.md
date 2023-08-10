@@ -28,10 +28,15 @@ NOTICES
 *(3) Notices of Striking off and Final Accounts*
 <br>[04-Aug-2023 Notice of Striking Off from Simplified Winding Up Programme](/files/04-08-2023%20notice%20of%20striking%20off.pdf) and Final Accounts for [Unicable (S) Pte Ltd (SW 3/2023)](/files/sw%203-2023%20final%20accounts.pdf) and Final Accounts for [The Blind Group Pte Ltd (SW 6/2023)](/files/sw%206-2023%20final%20accounts.pdf)
 <br>
-[28-07-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/28-07-2023%20notice%20of%20striking%20off.pdf) and Final Accounts for [Farquhar Pte Ltd (SW 7-2022)](/files/sw%207-2022%20final%20accounts.pdf)
+[28-July-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/28-07-2023%20notice%20of%20striking%20off.pdf) and Final Accounts for [Farquhar Pte Ltd (SW 7-2022)](/files/sw%207-2022%20final%20accounts.pdf)
 
 
-*(4) Notices of Dividend*
+*(4) Notices of Intended Dividend*
+<br>
+[11-Aug-2023 Notice of Intended Dividend for Green Food Concepts (Pte. Ltd.)](/files/sw2-2023%20notice%20of%20intended%20dividend.pdf)
+
+
+*(5) Notices of Dividend*
 <br>
 [28-July-2023 Notice of Dividend for A Phant Pinball Pte. Ltd. (SW 15/2021)](/files/sw15-2021%20notice%20of%20dividend.pdf)
 
@@ -39,12 +44,10 @@ NOTICES
  **Insolvency, Restructuring and Dissolution (Simplified Debt Restruturing) Regulations 2021**
 <br>
 
-*(1) Notices of Discharge*
-<br>
-[07-July-2023 Notice of Discharge from Simplified Debt Restructuring Programme](/files/07-07-2023%20notice%20of%20discharge.pdf){:target="_blank"} (33.1KB) 
+
 <br>
  
-<br>
+
 *Past Notices*
 -
 <br>
@@ -55,7 +58,8 @@ NOTICES
 **Insolvency, Restructuring and Dissolution (Simplified Winding Up) Regulations 2021**
 <br>
 
-*(1) Notices of Application*
+
+*(2) Notices of Application*
 <br>[21-July -2023 Notice of Application into Simplified Winding Up Programme](/files/21-07-2023%20application%20swu.pdf)<br>
 [07-July-2023 Notice of Application into Simplified Winding Up Programme](/files/07-07-2023%20application%20swu.pdf) 
 <br>
@@ -109,7 +113,7 @@ NOTICES
 [16-Apr-2021 Notice of Application into Simplified Winding Up Programme](/files/16-04-2021%20Application%20SWU.pdf){:target="_blank"} (286KB)
 <br>
 <br>
-*(2) Notices of Acceptance and Rejection*
+*(3) Notices of Acceptance and Rejection*
 <br>[21-Jul-2023 Notice of Acceptance into Simplified Winding Up Programme](/files/21-07-2023%20notice%20of%20acceptance.pdf)<br>
 [07-July-2023 Notice of Acceptance for Simplified Winding Up Programme](/files/07-07-2023%20notice%20of%20acceptance.pdf)<br>[23-June-2023 Notice of Acceptance for Simplified Winding Up Programme](/files/23-06-2023%20notice%20of%20acceptance.pdf){:target="_blank"}(32.0KB)
 <br>
@@ -163,7 +167,7 @@ NOTICES
 [21-May-2021 Notice of Rejection for Simplified Winding Up Programme](/files/21-05-2021%20Notice%20of%20Rejection.pdf){:target="_blank"} (282KB) <br>
 [14-May-2021 Notice of Rejection for Simplified Winding Up Programme](/files/14-05-2021%20Notice%20of%20Rejection.pdf){:target="_blank"} (282KB) <br>
 <br>
-*(3) Notices of Striking off and Final Accounts*
+*(4) Notices of Striking off and Final Accounts*
 <br>
 [14-July-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/14-07-2023%20notice%20of%20striking%20off.pdf) and Final Accounts for [Prive Nightlife Concepts Pte. Ltd. (SW 32/2021)](/files/sw32-2021%20final%20accounts.pdf) and Final Accounts for [The Consulting Boutique Pte. Ltd. (SW 1/2023)](/files/sw1-2023%20final%20accounts.pdf) 
 <br>[16-June-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/16-06-2023%20notice%20of%20striking%20off.pdf){:target="_blank"} (12.00KB) and Final Accounts for [Eximchain Pte. Ltd. (SW 10/2021)](/files/sw10-2021%20final%20account.pdf){:target="_blank"} (16.0KB) and Final Accounts for [La Cantina Pte. Ltd. (SW 18/2022)](/files/sw18-2022%20final%20account.pdf){:target="_blank"} (16.0KB) 
@@ -190,7 +194,7 @@ NOTICES
 [05-Nov-2021 Notice of Striking Off for Simplified Winding Up Programme](/files/05-11-2021%20Notice%20of%20Striking%20Off.pdf){:target="_blank"} (10.6KB) and Final Accounts for [Eisele Connectors Asia Pte Ltd (SW 6/2021)](/files/SW6-2021%20Final%20Accounts.pdf){:target="_blank"} (22.8KB)<br>
 [29-Oct-2021 Notice of Striking Off for Simplified Winding Up Programme](/files/29-10-2021%20Notice%20of%20Striking%20Off.pdf){:target="_blank"} (10.6KB) and Final Accounts for [The Dance Capital Pte Ltd (SW 19/2021)](/files/SW19-2021%20Final%20Accounts.pdf){:target="_blank"} (13.3KB)<br>
 <br>
-*(4) Notices of Intended Dividend*
+*(5) Notices of Intended Dividend*
 <br>
 [09-June 2023 Notice of Intended Dividend for A Phat Pinball Pte Ltd (SW 15/2021)](/files/sw15-2021%20notice%20of%20intended%20dividend.pdf){:target="_blank"} (32.9KB) <br>
 [03-Feb-2023 Notice of Intended Dividend for Mars Candy Pte. Ltd. (SW 33/2021)](/files/SW332021%20Notice%20of%20Intended%20Dividend.pdf){:target="_blank"} (32.9KB) <br>
@@ -205,7 +209,7 @@ NOTICES
 [28-Jan-2022 Notice of Intended Dividend for Leck Seng Engineering Pte Ltd (SW 9/2021)](/files/SW9-2021%20NOID.pdf){:target="_blank"} (34.0KB)<br>
 [28-Jan-2022 Notice of Intended Dividend for ISC Far East Pte Ltd (SW 26/2021)](/files/SW26-2021%20NOID.pdf){:target="_blank"} (33.9KB)<br>
 
- *(5) Notices of Dividend*
+ *(6) Notices of Dividend*
   <br>
  [10-Mar-2023 Notice of Dividend for Mars Candy Pte. Ltd. (SW 33/2021) ](/files/SW33-2021%20Notice%20of%20Dividend.pdf){:target="_blank"} (31.84KB) 
  <br>
@@ -215,7 +219,7 @@ NOTICES
 [24-Jun-2022 Notice of Dividend for Lab Digital Pte Ltd (SW 24/2021) ](/files/SW24-2021%20Notice%20of%20Dividend.pdf){:target="_blank"} (10.19KB)  <br>
 [22-Apr-2022 Notice of Dividend for Good Old Taste Pte Ltd (SW 7/2021) ](/files/SW7-2021%20Notice%20of%20Dividend.pdf){:target="_blank"} (10.19KB)  
 <br>
- *(6) Notices of Intended Dissolution*
+ *(7) Notices of Intended Dissolution*
 <br>
  [17-Mar-2023 Notice of Intended Dissolution](/files/SW33-2021%20Notice%20of%20Intended%20Dissolution.pdf){:target="_blank"} (10.13KB) and Final Accounts for [Mars Candy Pte. Ltd. (SW 33-2021)](/files/SW33-2021%20Final%20account.pdf){:target="_blank"} (201.2KB)<br>
  [06-Jan-2023 Notice of Intended Dissolution](/files/06-01-2023%20Notice%20of%20Intended%20Dissolution.pdf){:target="_blank"} (11.3KB) and Final Accounts for [Delight 8 Cafe Pte. Ltd. (SW 2-2021)](/files/06-01-2023%20Final%20Account.pdf){:target="_blank"} (206.KB)<br>
@@ -251,3 +255,6 @@ NOTICES
 <br>
 [16-May-2023 Notice of Court Application (Scheme of Arrangement) for Simplified Debt Restructuring Programme](/files/16-05-2023%20notice%20of%20court%20application.pdf){:target="_blank"} (33.1KB)  
 <br>
+*(4) Notices of Discharge*
+<br>
+[07-July-2023 Notice of Discharge from Simplified Debt Restructuring Programme](/files/07-07-2023%20notice%20of%20discharge.pdf)
