@@ -29,9 +29,13 @@ The GIRO deductions from the bank account into your bankruptcy estate account wi
 Please therefore ensure that you maintain sufficient funds in the bank account before the 3rd or before the 16th day of each month for the deductions.<br>
 
 **4. Can I buy a HDB flat?**<br>
-The Official Assignee’s consent is not required if you are purchasing a 5 room HDB flat or smaller.
+ The Official Assignee’s consent is not required if you are purchasing a 5 room HDB flat or smaller.<br> 
+  
+In the event you wish to purchase a HDB flat that is bigger than 5-room, a 3-Gen flat or has a net purchase price of $500,000.00 and above, please apply to obtain the written consent of the trustee-in-bankruptcy.<br>
 
-In the event that you wish to purchase a HDB executive/maisonette flat, you must submit your [application form](/files/linkclick7ecb.doc){:target="_blank"}(DOC, 102 KB) for the Official Assignee’s consideration. You are required to prove that you have both the means and the need for such a flat. Your conduct and co-operation will also be considered when assessing such applications.<br>
+You are required to prove that you have both the means and the need for such a flat. Your conduct and co-operation will also be considered when assessing such applications.<br>
+
+Bankrupts whose bankruptcy estates are administered by the Official Assignee can apply for such consent through the Insolvent Person’s portal in [https://go.gov.sg/bankruptcy](https://go.gov.sg/bankruptcy)<br>
 
 **5. Can I use the monies in my CPF Ordinary Account to purchase a private property?**<br>
 
@@ -51,7 +55,7 @@ You will need to bear the costs incurred by the creditor who commenced the bankr
 The Official Assignee also deducts a fee from proceeds of assets realised, or deposits placed into your bankruptcy estate. The rates of the fees charged are as follows:
 <table>
   
-  <tr>
+  <tbody><tr>
     <th>On the first S$10,000</th>
     <th>10.30%</th>
   </tr>
@@ -68,15 +72,15 @@ The Official Assignee also deducts a fee from proceeds of assets realised, or de
     <td>4.12%</td>
   </tr>
   <tr>
-    <td>On all further sums > S$100,000</td>
+    <td>On all further sums &gt; S$100,000</td>
     <td>2.06%</td>
   </tr>
-</table>
+</tbody></table>
 
 Fees are also levied on dividends distributed to creditors. The rates of the fees charged are:
 
 <table>
-  <tr>
+  <tbody><tr>
     <th>On the first S$10,000</th>
     <th>5.15%</th>
   </tr>
@@ -93,10 +97,10 @@ Fees are also levied on dividends distributed to creditors. The rates of the fee
     <td>2.06%</td>
   </tr>
   <tr>
-    <td>On all further sums > S$100,000</td>
+    <td>On all further sums &gt; S$100,000</td>
     <td>1.03%</td>
   </tr>
-</table><br>
+</tbody></table><br>
 
 **7. What happens to my unrealised assets after my discharge from bankruptcy? Do they get revested in me since I have been discharged from bankruptcy?** <br>
 
