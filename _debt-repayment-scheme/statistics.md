@@ -10,6 +10,6 @@ breadcrumb: Statistics
 
 **Debt Repayment Scheme**
 
-[DRS Stats as at 30 Jun 2023](/files/25july2023drsstatsforwebsiteasat30jun2023.pdf)
+[DRS Stats as at 31 July 2023](/files/(140823)drsstatsforwebsiteasat31jul2023.pdf)
 
 [DRS Appeal](/files/DRSAppeal.pdf){:target="_blank"}
