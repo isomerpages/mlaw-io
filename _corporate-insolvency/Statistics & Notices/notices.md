@@ -42,7 +42,7 @@ NOTICES
 [28-July-2023 Notice of Dividend for A Phant Pinball Pte. Ltd. (SW 15/2021)](/files/sw15-2021%20notice%20of%20dividend.pdf)
 
 
- **Insolvency, Restructuring and Dissolution (Simplified Debt Restruturing) Regulations 2021**
+
 <br>
 
 
