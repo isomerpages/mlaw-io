@@ -26,6 +26,7 @@ NOTICES
 
 
 *(3) Notices of Striking off and Final Accounts*
+<br>[18-Aug-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/18-08-2023%20notice%20of%20striking%20off.pdf) and Final Accounts for [Novo Acai &amp; Granola Pte. Ltd. (SW4-2023)](/files/sw4-2023%20final%20accounts.pdf)
 <br>[04-Aug-2023 Notice of Striking Off from Simplified Winding Up Programme](/files/04-08-2023%20notice%20of%20striking%20off.pdf) and Final Accounts for [Unicable (S) Pte Ltd (SW 3/2023)](/files/sw%203-2023%20final%20accounts.pdf) and Final Accounts for [The Blind Group Pte Ltd (SW 6/2023)](/files/sw%206-2023%20final%20accounts.pdf)
 <br>
 [28-July-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/28-07-2023%20notice%20of%20striking%20off.pdf) and Final Accounts for [Farquhar Pte Ltd (SW 7-2022)](/files/sw%207-2022%20final%20accounts.pdf)
