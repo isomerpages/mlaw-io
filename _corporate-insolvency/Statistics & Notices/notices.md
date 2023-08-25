@@ -18,7 +18,7 @@ NOTICES
 <br><br>
 *(1) Notice of Application*
 <br>[04-Aug-2023 Notice of Application into Simplified Winding Up Programme](/files/04-08-2023%20application%20swu.pdf)
-<br>[28-July-2023 Notice of Application into Simplified Winding UP Programme](/files/28-07-2023%20application%20swu.pdf)
+
 
 
 *(2) Notice of Acceptance and Rejection*
@@ -29,8 +29,7 @@ NOTICES
 <br>[25-Aug-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/25-08-2023%20notice%20of%20striking%20off.pdf) and Final Accounts for [Nomad Two Worlds Global Holdings Pte. Ltd.](/files/sw19-2022%20final%20accounts.pdf) , Final Accounts for [Green Cleaning Solutions Pte. Ltd.](/files/sw10-2023%20final%20accounts.pdf) and Final Accounts for [Green Millennium Services Pte. Ltd.](/files/sw9-2023%20final%20accounts.pdf)
 <br>[18-Aug-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/18-08-2023%20notice%20of%20striking%20off.pdf) and Final Accounts for [Novo Acai &amp; Granola Pte. Ltd. (SW4-2023)](/files/sw4-2023%20final%20accounts.pdf)
 <br>[04-Aug-2023 Notice of Striking Off from Simplified Winding Up Programme](/files/04-08-2023%20notice%20of%20striking%20off.pdf) and Final Accounts for [Unicable (S) Pte Ltd (SW 3/2023)](/files/sw%203-2023%20final%20accounts.pdf) and Final Accounts for [The Blind Group Pte Ltd (SW 6/2023)](/files/sw%206-2023%20final%20accounts.pdf)
-<br>
-[28-July-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/28-07-2023%20notice%20of%20striking%20off.pdf) and Final Accounts for [Farquhar Pte Ltd (SW 7-2022)](/files/sw%207-2022%20final%20accounts.pdf)
+
 
 
 *(4) Notices of Intended Dividend*
@@ -63,6 +62,7 @@ NOTICES
 
 
 *(2) Notices of Application*
+<br>[28-July-2023 Notice of Application into Simplified Winding UP Programme](/files/28-07-2023%20application%20swu.pdf)
 <br>[21-July -2023 Notice of Application into Simplified Winding Up Programme](/files/21-07-2023%20application%20swu.pdf)<br>
 [07-July-2023 Notice of Application into Simplified Winding Up Programme](/files/07-07-2023%20application%20swu.pdf) 
 <br>
@@ -172,7 +172,7 @@ NOTICES
 <br>
 *(4) Notices of Striking off and Final Accounts*
 <br>
-[14-July-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/14-07-2023%20notice%20of%20striking%20off.pdf) and Final Accounts for [Prive Nightlife Concepts Pte. Ltd. (SW 32/2021)](/files/sw32-2021%20final%20accounts.pdf) and Final Accounts for [The Consulting Boutique Pte. Ltd. (SW 1/2023)](/files/sw1-2023%20final%20accounts.pdf) 
+[28-July-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/28-07-2023%20notice%20of%20striking%20off.pdf) and Final Accounts for [Farquhar Pte Ltd (SW 7-2022)](/files/sw%207-2022%20final%20accounts.pdf)<br>[14-July-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/14-07-2023%20notice%20of%20striking%20off.pdf) and Final Accounts for [Prive Nightlife Concepts Pte. Ltd. (SW 32/2021)](/files/sw32-2021%20final%20accounts.pdf) and Final Accounts for [The Consulting Boutique Pte. Ltd. (SW 1/2023)](/files/sw1-2023%20final%20accounts.pdf) 
 <br>[16-June-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/16-06-2023%20notice%20of%20striking%20off.pdf){:target="_blank"} (12.00KB) and Final Accounts for [Eximchain Pte. Ltd. (SW 10/2021)](/files/sw10-2021%20final%20account.pdf){:target="_blank"} (16.0KB) and Final Accounts for [La Cantina Pte. Ltd. (SW 18/2022)](/files/sw18-2022%20final%20account.pdf){:target="_blank"} (16.0KB) 
 <br>
 [14-Apr-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/14-04-2023%20notice%20of%20striking%20off.pdf){:target="_blank"} (12.00KB) and Final Accounts for [Sol Ventures Pte. Ltd. (SW 20/2022)](/files/sw20-2022%20final%20account.pdf){:target="_blank"} (12.0KB)
