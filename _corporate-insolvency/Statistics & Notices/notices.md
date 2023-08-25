@@ -34,8 +34,9 @@ NOTICES
 
 
 *(4) Notices of Intended Dividend*
-<br>
-[11-Aug-2023 Notice of Intended Dividend for Green Food Concepts (Pte. Ltd.)](/files/sw2-2023%20notice%20of%20intended%20dividend.pdf)
+<br>[25-Aug-2023 Notice of Intended Dividend for Glow Digital Media Pte Ltd](/files/sw5-2021%20notice%20of%20intended%20dividend.pdf))
+<br>[25-Aug-2023 Notice of Intended Dividend for Also Dominie Pte. Ltd.](/files/sw22-2021%20notice%20of%20intended%20dividend.pdf)
+<br>[11-Aug-2023 Notice of Intended Dividend for Green Food Concepts (Pte. Ltd.)](/files/sw2-2023%20notice%20of%20intended%20dividend.pdf)
 
 
 *(5) Notices of Dividend*
