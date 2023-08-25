@@ -26,6 +26,7 @@ NOTICES
 
 
 *(3) Notices of Striking off and Final Accounts*
+<br>[25-Aug-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/25-08-2023%20notice%20of%20striking%20off.pdf) and Final Accounts for [Nomad Two Worlds Global Holdings Pte. Ltd.](/files/sw19-2022%20final%20accounts.pdf) , Final Accounts for [Green Cleaning Solutions Pte. Ltd.](/files/sw10-2023%20final%20accounts.pdf) and Final Accounts for [Green Millennium Services Pte. Ltd.](/files/sw9-2023%20final%20accounts.pdf)
 <br>[18-Aug-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/18-08-2023%20notice%20of%20striking%20off.pdf) and Final Accounts for [Novo Acai &amp; Granola Pte. Ltd. (SW4-2023)](/files/sw4-2023%20final%20accounts.pdf)
 <br>[04-Aug-2023 Notice of Striking Off from Simplified Winding Up Programme](/files/04-08-2023%20notice%20of%20striking%20off.pdf) and Final Accounts for [Unicable (S) Pte Ltd (SW 3/2023)](/files/sw%203-2023%20final%20accounts.pdf) and Final Accounts for [The Blind Group Pte Ltd (SW 6/2023)](/files/sw%206-2023%20final%20accounts.pdf)
 <br>
