@@ -106,7 +106,17 @@ You may obtain further credit, but you must disclose your bankruptcy status to t
 You are disqualified from being appointed or acting as a trustee or personal representative in respect of any trust, estate or settlement unless you obtain the permission of the High Court to do so.
 
 <b>(d) Are there offences under bankruptcy?</b> <br>
-The failure to seek necessary permission as well as the non-disclosure of the relevant information in the items 1-5 listed above may result in offences committed under the         Bankruptcy Act Cap. 20, 2009 Rev Ed or the Insolvency, Restructuring and Dissolution Act 2018.
+The failure to seek necessary permission as well as the non-disclosure of the relevant information in the items 1-5 listed above may result in offences committed under the         Bankruptcy Act Cap. 20, 2009 Rev Ed or the Insolvency, Restructuring and Dissolution Act 2018.|
+
+<b>(e) Can I go to the casinos in Singapore?</b><b>
+	        
+You are automatically placed under an Exclusion by law which will prohibit you from entering the casinos in Singapore and any jackpot machine rooms operated by private clubs in Singapore. You will also not be allowed to access Singapore Pools account-related services or open a betting account with Singapore Pools if you are not an existing betting account holder.
+
+If you are required to work in the casinos or jackpot machine rooms, you may contact the National Council on Problem Gambling (NCPG) at 6354 8154 or [admin@ncpg.org.sg](mailto:admin@ncpg.org.sg) to apply for an exemption.
+
+Once you are discharged from bankruptcy, this Exclusion by Law will be automatically revoked two weeks from the date of your discharge.
+
+For more information, you may contact NCPG at 6354 8154 or [admin@ncpg.org.sg](mailto:admin@ncpg.org.sg).
 
 Other bankruptcy offences include:
 * the failure to file your Income and Expenditure statements;
@@ -117,4 +127,4 @@ Other bankruptcy offences include:
 <b>Other Information for bankrupts</b><br>
 * [Impact of Bankruptcy](/bankruptcy/information-for-bankrupts/impact-of-bankruptcy/) <br> 
 * [Assets of a Bankrupt](/bankruptcy/information-for-bankrupts/assets-of-a-bankrupt/) <br> 
-* [Discharge from Bankruptcy](/bankruptcy/information-for-bankrupts/discharge-from-bankruptcy/) <br>
+* [Discharge from Bankruptcy](/bankruptcy/information-for-bankrupts/discharge-from-bankruptcy/) <br></b>
