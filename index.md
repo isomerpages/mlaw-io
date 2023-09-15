@@ -1,6 +1,7 @@
 ---
 layout: homepage
 title: Insolvency Office
+permalink: /
 notification: Please note that with effect from 7 April 2020, MinLaw Services
   Centre will no longer accept <u><b>cash payments</b></u>. With effect from 15
   January 2023, all services for payment to the Insolvency and Public Trustee’s
