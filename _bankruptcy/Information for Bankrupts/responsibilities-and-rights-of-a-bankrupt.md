@@ -32,7 +32,7 @@ Monday to Friday: 8.30am to 5.00pm <br>
 (Closed on Weekends &amp; Public Holidays) <br>
 
 <b>(d) How can I find out how much I have to paid into my bankruptcy account altogether?</b> <br>
-You may access the e-services portal (Individual Insolvency Administration Information) at our [website](https://www.mlaw.gov.sg/eservices/io/) and obtain the information, at no charge.
+You may access the e-services portal (Individual Insolvency Administration Information) at our [website](https://go.gov.sg/bankruptcy ) and obtain the information, at no charge.
 
 <b>2. Travelling Overseas</b> <br>
 
@@ -45,13 +45,13 @@ If you wish to leave Singapore, you should apply online at least 14 days before 
 You will also need to submit documents in respect of your travel application if required by the Official Assignee. For example, if you are travelling for employment purposes, you need to submit your letter of employment or a company letter supporting the reason for your travel.
 
 <b>(c) What if I need to travel urgently?</b> <br>
-If you need to travel urgently, you are still required to apply for permission [online](https://www.mlaw.gov.sg/eservices/io/) and thereafter contact your officer to obtain confirmation on the approval status of your travel application. <br>
+If you need to travel urgently, you are still required to apply for permission [online](https://go.gov.sg/bankruptcy ) and thereafter contact your officer to obtain confirmation on the approval status of your travel application. <br>
 
 <b>(d) What if I need to travel frequently?</b> <br>
 If you have to travel frequently, you may apply for block periods of travel subject to your conduct in bankruptcy. <br>
 
 <b>(e) How do I find out the status of my latest travel application?</b> <br>
-You may access the e-services portal (Individual Insolvency Administration Information) at our [website](https://www.mlaw.gov.sg/eservices/io/) and obtain the information at no charge. <br>
+You may access the e-services portal (Individual Insolvency Administration Information) at our [website](https://go.gov.sg/bankruptcy ) and obtain the information at no charge. <br>
 
 <b>3. Managing a Business or Becoming a Director</b> <br>
 
@@ -90,7 +90,7 @@ The Official Assignee may refuse the application or approve the application subj
  
 
 <b>(d) How do I find out the status of my application to manage a business or corporation?</b> <br>
-You may access the e-services portal (Individual Insolvency Administration Information) at our [website](https://www.mlaw.gov.sg/eservices/io/) and obtain the information at no charge. <br>
+You may access the e-services portal (Individual Insolvency Administration Information) at our [website](https://go.gov.sg/bankruptcy )and obtain the information at no charge. <br>
 
 
 
