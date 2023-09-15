@@ -198,7 +198,7 @@ NOTICES
 [29-Oct-2021 Notice of Striking Off for Simplified Winding Up Programme](/files/29-10-2021%20Notice%20of%20Striking%20Off.pdf) and Final Accounts for [The Dance Capital (Pte. Ltd.) (SW 19/2021)](/files/SW19-2021%20Final%20Accounts.pdf)<br>
 <br>
 *(5) Notices of Intended Dividend*
-<br>[11-Aug-2023 Notice of Intended Dividend for Green Food Concepts (Pte. Ltd.)](/files/sw2-2023%20notice%20of%20intended%20dividend.pdf)
+<br>[11-Aug-2023 Notice of Intended Dividend for Green Food Concepts (Pte. Ltd.) (SW 2/2023)](/files/sw2-2023%20notice%20of%20intended%20dividend.pdf)
 <br>
 [09-June 2023 Notice of Intended Dividend for A Phat Pinball Pte Ltd (SW 15/2021)](/files/sw15-2021%20notice%20of%20intended%20dividend.pdf){:target="_blank"} (32.9KB) <br>
 [03-Feb-2023 Notice of Intended Dividend for Mars Candy Pte. Ltd. (SW 33/2021)](/files/SW332021%20Notice%20of%20Intended%20Dividend.pdf){:target="_blank"} (32.9KB) <br>
