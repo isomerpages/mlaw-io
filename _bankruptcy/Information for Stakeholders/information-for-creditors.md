@@ -110,7 +110,7 @@ Insolvency Office <br>
 The URA Centre (East Wing)<br>
 Singapore 069118<br>
 Please send in your enquiries/feedback at *[Contact Us @ OneMinLaw](https://www.mlaw.gov.sg/eservices/enquiry/)*<br>
-Alternatively, you may visit us at our website at [ https://go.gov.sg/bankruptcy]( https://go.gov.sg/bankruptcy) or contact us at 1800-2255-529 (during office hours).<br>
+Alternatively, you may visit us at our website at [https://io.mlaw.gov.sg/](https://io.mlaw.gov.sg/) or contact us at 1800-2255-529 (during office hours).<br>
 
  
 
