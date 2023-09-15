@@ -17,7 +17,7 @@ Please refer to : <br>
 
 Once a debtor is declared bankrupt by the High Court, you can no longer commence or continue with any legal action against the bankrupt to recover monetary claims that arose before the bankruptcy. <br>
 
-Creditors who are owed debts which arose before the bankruptcy are advised to file a Proof of Debt with the Official Assignee [online](https://www.mlaw.gov.sg/eservices/io/). <br>
+Creditors who are owed debts which arose before the bankruptcy are advised to file a Proof of Debt with the Official Assignee [online](https://go.gov.sg/bankruptcy). <br>
 
 <b>3. How do I recover my claims against a bankrupt?</b> <br>
 
@@ -29,7 +29,7 @@ Debts that are incurred after the date of the making of the Bankruptcy Order are
 
 <b>4. How do I file a Proof of Debt (Form 23)?</b> <br>
 
-The filing of a Proof of Debt is done online here. It costs $5.00 to file each Proof of Debt. If you would like to lodge your claim electronically, you may do so [here](https://www.mlaw.gov.sg/eservices/io/). <br>
+The filing of a Proof of Debt is done online here. It costs $5.00 to file each Proof of Debt. If you would like to lodge your claim electronically, you may do so [here](https://go.gov.sg/bankruptcy). <br>
 
 <b>5. What information is needed when filing a Proof of Debt (Form 23)?</b> <br>
 

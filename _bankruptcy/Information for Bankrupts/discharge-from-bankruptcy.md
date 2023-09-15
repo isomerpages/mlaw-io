@@ -51,7 +51,7 @@ Upon the expiry of the advertisement, the Official Assignee will adjudicate the 
 <b>6. What is adjudication and do I have a role to play in it?</b><br>
 Adjudication is a process where the Official Assignee examines every Proof of Debt filed against the bankruptcy estate and the basis of the claim before admitting or rejecting the Proof of Debt, in whole or in part. <br>
 
-After receiving the Proofs of Debt, you will be asked to examine these claims at our e-services [website](https://www.mlaw.gov.sg/eservices/io/). <br>
+After receiving the Proofs of Debt, you will be asked to examine these claims at our e-services [website]( https://go.gov.sg/bankruptcy). <br>
 
 You will be asked to admit to or dispute the claims. In the event that you dispute the claim filed, you will be required to provide supporting documents to substantiate your dispute. The Official Assignee will then ascertain the extent of your liability after going through the documents. You may also be required to attend at the Official Assignee’s office to provide more details about why you are disputing the claim or the amount. <br>
 
