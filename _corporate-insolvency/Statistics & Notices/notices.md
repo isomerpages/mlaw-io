@@ -195,7 +195,7 @@ NOTICES
 [10-Dec-2021 Notice of Striking Off for Simplified Winding Up Programme](/files/10-12-2021%20Notice%20of%20Striking%20Off.pdf){:target="_blank"} (10.7KB) and Final Accounts for [Aguana Pte Ltd (SW 20/2021)](/files/SW20-2021%20Final%20Accounts.pdf){:target="_blank"} (12.9KB) and [Fitness Empire (Orchard) Pte Ltd (SW 13/2021)](/files/SW13-2021%20Final%20Accounts.pdf){:target="_blank"} (14.9KB)<br>
 [19-Nov-2021 Notice of Striking Off for Simplified Winding Up Programme](/files/19-11-2021%20Notice%20of%20Striking%20Off.pdf){:target="_blank"} (10.3KB) and Final Accounts for [H2SG Technology Pte Ltd (SW 4/2021)](/files/SW4-2021%20Final%20Accounts.pdf):target="_blank"} (190KB)<br>
 [05-Nov-2021 Notice of Striking Off for Simplified Winding Up Programme](/files/05-11-2021%20Notice%20of%20Striking%20Off.pdf){:target="_blank"} (10.6KB) and Final Accounts for [Eisele Connectors Asia Pte Ltd (SW 6/2021)](/files/SW6-2021%20Final%20Accounts.pdf){:target="_blank"} (22.8KB)<br>
-[29-Oct-2021 Notice of Striking Off for Simplified Winding Up Programme](/files/29-10-2021%20Notice%20of%20Striking%20Off.pdf){:target="_blank"} (10.6KB) and Final Accounts for [The Dance Capital Pte Ltd (SW 19/2021)](/files/SW19-2021%20Final%20Accounts.pdf){:target="_blank"} (13.3KB)<br>
+[29-Oct-2021 Notice of Striking Off for Simplified Winding Up Programme](/files/29-10-2021%20Notice%20of%20Striking%20Off.pdf){:target="_blank"} (10.6KB) Food Concepts (Pte. Ltd.)](/files/sw2-2023%20notice%20of%20intended%20dividend.pdf)<br>
 <br>
 *(5) Notices of Intended Dividend*
 <br>
