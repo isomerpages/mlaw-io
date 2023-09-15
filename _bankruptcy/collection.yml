@@ -2,13 +2,13 @@ collections:
   bankruptcy:
     output: true
     order:
-      - Annulment and Discharge Listings.md
       - who-is-the-official-assignee.md
       - pre-bankruptcy.md
       - Bankruptcy Rehabilitation Programme by Credit Counselling Singapore
         (CCS).md
       - Bankruptcy Notice.md
       - Bankruptcy Orders Made.md
+      - Annulment and Discharge Listings.md
       - Bankruptcy Notification/.keep
       - Bankruptcy Notification/Discharge and Annulment listings.md
       - alternatives-to-bankruptcy.md
