@@ -3,7 +3,6 @@ title: Bankruptcy Notice
 permalink: /bankruptcy/permalink/
 description: ""
 ---
-
 # **Bankruptcy Notice**
 
 <u><b>Notice To All Bankrupts</b></u><br> 
@@ -21,10 +20,10 @@ It is an offence for a bankrupt to:
 *   leave or remain outside Singapore without the OA’s / his Private Trustee’s prior permission;
 *   conceal, dispose, fail to deliver or leave Singapore with his property (except property that is protected against creditors by law) as it vests in the OA / his Private Trustee.
 
-For more information on the duties and responsibilities of a bankrupt, please refer to [Duties and Responsibilities of a Bankrupt](https://io.mlaw.gov.sg/bankruptcy/information-for-bankrupts/impact-of-bankruptcy/responsibilities-and-rights/) .
+For more information on the duties and responsibilities of a bankrupt, please refer to&nbsp;[Duties and Responsibilities of a Bankrupt](https://io.mlaw.gov.sg/bankruptcy/information-for-bankrupts/impact-of-bankruptcy/responsibilities-and-rights/)&nbsp;.
 
-<u><b>Notice To Creditors, Debtors, Asset Holders & Interested Persons</b></u><br>  
-Creditors of bankrupts should file their Proof of Debts with the OA / Private Trustees at [https://www.mlaw.gov.sg/eservices/io/](https://www.mlaw.gov.sg/eservices/io/) within 6 months from the date of the Bankruptcy Order or any other date as instructed by the OA / Private Trustees.
+<u><b>Notice To Creditors, Debtors, Asset Holders &amp; Interested Persons</b></u><br>  
+Creditors of bankrupts should file their Proof of Debts with the OA / Private Trustees at&nbsp;[https://go.gov.sg/bankruptcy](https://go.gov.sg/bankruptcy) within 6 months from the date of the Bankruptcy Order or any other date as instructed by the OA / Private Trustees.
 
 All debts due to the bankrupts should be remitted to the OA.
 
@@ -33,7 +32,7 @@ All persons holding assets belonging to bankrupts or who have relevant informati
 *   the OA, if the bankrupts are under the OA’s administration;
 *   the respective Private Trustee, if the bankrupts are under the Private Trustee’s administration.
 
-For more information for creditors, please refer to [Information for Creditors](https://io.mlaw.gov.sg/bankruptcy/information-for-stakeholders/information-for-creditors/) .
+For more information for creditors, please refer to&nbsp;[Information for Creditors](https://io.mlaw.gov.sg/bankruptcy/information-for-stakeholders/information-for-creditors/)&nbsp;.
 
 <u><b>New Bankrupt, Creditor and PTIB portals in Q4 2019</b></u><br>  
 The Insolvency Office is constantly looking into ways to provide you with better online experience for our services.
