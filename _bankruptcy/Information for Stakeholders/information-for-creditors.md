@@ -17,7 +17,7 @@ Please refer to : <br>
 
 Once a debtor is declared bankrupt by the High Court, you can no longer commence or continue with any legal action against the bankrupt to recover monetary claims that arose before the bankruptcy. <br>
 
-Creditors who are owed debts which arose before the bankruptcy are advised to file a Proof of Debt with the Official Assignee [online](https://www.mlaw.gov.sg/eservices/io/). <br>
+Creditors who are owed debts which arose before the bankruptcy are advised to file a Proof of Debt with the Official Assignee [online](https://go.gov.sg/bankruptcy). <br>
 
 <b>3. How do I recover my claims against a bankrupt?</b> <br>
 
