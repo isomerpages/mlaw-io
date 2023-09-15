@@ -1,6 +1,6 @@
 ---
 title: Bankruptcy Orders made
-permalink: /bankruptcy/bankruptcy-notification/permalink/
+permalink: /bankruptcy/bankruptcy-notification/bankruptcyordersmade/
 description: ""
 third_nav_title: Bankruptcy Notification
 ---
