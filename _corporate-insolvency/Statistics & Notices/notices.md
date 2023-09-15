@@ -17,7 +17,7 @@ NOTICES
 **Insolvency, Restructuring and Dissolution (Simplified Winding Up) Regulations 2021**
 <br><br>
 *(1) Notice of Application*
-<br>[04-Aug-2023 Notice of Application into Simplified Winding Up Programme](/files/04-08-2023%20application%20swu.pdf)
+
 
 
 
@@ -40,8 +40,7 @@ NOTICES
 
 
 *(5) Notices of Dividend*
-<br>
-[28-July-2023 Notice of Dividend for A Phant Pinball Pte. Ltd. (SW 15/2021)](/files/sw15-2021%20notice%20of%20dividend.pdf)
+
 
 
 
@@ -63,6 +62,7 @@ NOTICES
 
 
 *(2) Notices of Application*
+<br>[04-Aug-2023 Notice of Application into Simplified Winding Up Programme](/files/04-08-2023%20application%20swu.pdf)
 <br>[28-July-2023 Notice of Application into Simplified Winding UP Programme](/files/28-07-2023%20application%20swu.pdf)
 <br>[21-July -2023 Notice of Application into Simplified Winding Up Programme](/files/21-07-2023%20application%20swu.pdf)<br>
 [07-July-2023 Notice of Application into Simplified Winding Up Programme](/files/07-07-2023%20application%20swu.pdf) 
@@ -217,6 +217,8 @@ NOTICES
 
  *(6) Notices of Dividend*
   <br>
+[28-July-2023 Notice of Dividend for A Phant Pinball Pte. Ltd. (SW 15/2021)](/files/sw15-2021%20notice%20of%20dividend.pdf)
+<br>
  [10-Mar-2023 Notice of Dividend for Mars Candy Pte. Ltd. (SW 33/2021) ](/files/SW33-2021%20Notice%20of%20Dividend.pdf){:target="_blank"} (31.84KB) 
  <br>
  [07-Oct-2022 Notice of Dividend for Astral Nanotec Pte. Ltd. (SW 6/2022) ](/files/SW6-2022%20Notice%20of%20Dividend.pdf){:target="_blank"} (31.5KB)  
