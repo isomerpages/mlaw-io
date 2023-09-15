@@ -35,7 +35,7 @@ In the event you wish to purchase a HDB flat that is bigger than 5-room, a 3-Gen
 
 You are required to prove that you have both the means and the need for such a flat. Your conduct and co-operation will also be considered when assessing such applications.<br>
 
-Bankrupts whose bankruptcy estates are administered by the Official Assignee can apply for such consent through the Insolvent Person’s portal in [https://go.gov.sg/bankruptcy](https://go.gov.sg/bankruptcy)<br>
+Bankrupts whose bankruptcy estates are administered by the Official Assignee can apply for such consent through the Insolvent Person’s portal in [https://go.gov.sg/bankruptcy](https://go.gov.sg/bankruptcy).<br>
 
 **5. Can I use the monies in my CPF Ordinary Account to purchase a private property?**<br>
 
