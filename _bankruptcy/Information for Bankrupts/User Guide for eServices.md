@@ -1,6 +1,6 @@
 ---
 title: User Guide for eServices
-permalink: /bankruptcy/information-for-bankrupts/permalink/
+permalink: /bankruptcy/information-for-bankrupts/userguides/
 description: ""
 third_nav_title: Information for Bankrupts
 ---
