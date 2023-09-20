@@ -1,11 +1,9 @@
 ---
-title: 'Impact of Bankruptcy'
+title: Impact of Bankruptcy
 permalink: /bankruptcy/information-for-bankrupts/impact-of-bankruptcy/
-breadcrumb: 'Impact of Bankruptcy'
-third_nav_title: 'Information for Bankrupts'
-
+breadcrumb: Impact of Bankruptcy
+third_nav_title: Information for Bankrupts
 ---
-
 Bankruptcy Application and Impact of Bankruptcy
 ---
 <b> 1. Does the Official Assignee have appointed agents to file bankruptcy applications in the High Court?</b> <br>
@@ -21,13 +19,12 @@ If you are a partner in firm which has been made bankrupt, you will have to subm
 * a Statement of Affairs stating the bankrupt firm's assets and liabilities (unless it has already been submitted by another partner of the firm).  <br>
  
 If you, without reasonable excuse, fail to submit a Statement of Affairs to the Official Assignee or submit a Statement of Affairs which is false, misleading or contains any material omission, it is an offence punishable with a fine not exceeding S$10,000 or an imprisonment for a term not exceeding two years or both.  <br>
-
  
-
 <b> 3. How do I contact my case officer? </b>  <br>
 You may contact us at:  <br>
 
-[Contact Us @ OneMinLaw](https://www.mlaw.gov.sg/eservices/enquiry/){:target="_blank"} <br>
+[Contact Us @ OneMinLaw ](https://go.gov.sg/contactminlaw)
+<br>
 or  <br>
 MinLaw Service Centre  <br>
 45 Maxwell Road  <br>
@@ -122,7 +119,7 @@ To help bankrupt individuals in their job search, the Insolvency Office advises 
 
 This includes referring individuals to Workforce Singapore (WSG) or NTUC-Employment and Employability Institute (NTUC’s e2i) to seek career advice. <br>
 
-Through the Adapt and Grow (A&G) initiative, WSG and NTUC’s e2i offer employment facilitation services such as career coaching, employability workshops, job fairs and job matching. <br>
+Through the Adapt and Grow (A&amp;G) initiative, WSG and NTUC’s e2i offer employment facilitation services such as career coaching, employability workshops, job fairs and job matching. <br>
 
 They also provide a suite of employment support programmes to help jobseekers take up new jobs and careers. <br>
 
