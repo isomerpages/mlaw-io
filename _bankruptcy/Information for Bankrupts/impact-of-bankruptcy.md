@@ -25,9 +25,8 @@ If you, without reasonable excuse, fail to submit a Statement of Affairs to the 
 <b> 3. How do I contact my case officer? </b>  <br>
 You may contact us at:  <br>
 
-[Contact Us @ OneMinLaw]
-
-[https://go.gov.sg/contactminlaw](https://go.gov.sg/contactminlaw){:target="_blank"} <br>
+[Contact Us @ OneMinLaw ](https://go.gov.sg/contactminlaw)
+<br>
 or  <br>
 MinLaw Service Centre  <br>
 45 Maxwell Road  <br>
