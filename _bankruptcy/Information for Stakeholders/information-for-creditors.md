@@ -11,7 +11,7 @@ Information for Creditors
 
 Please refer to : <br>
 [Alternatives to Bankruptcy](/bankruptcy/alternatives-to-bankruptcy/) <br>
-[Filing for Bankruptcy](/bankruptcy/alternatives-to-bankruptcy/) <br>
+[Filing for Bankruptcy](https://io.mlaw.gov.sg/bankruptcy/permalink/) <br>
 
 <b>2. Can I get a debtor who has been made a bankrupt repay his loan?</b> <br>
 
