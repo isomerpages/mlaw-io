@@ -49,7 +49,7 @@ The supporting documents shall be sent to the Official Assignee within 14 days f
 
 (c) By facsimile at 6325 1417; or <br>
 
-(d) Or at *[Contact Us @ OneMinLaw](https://www.mlaw.gov.sg/eservices/enquiry/)* <br>
+(d) Or at *[Contact Us @ OneMinLaw ](https://go.gov.sg/contactminlaw)*<br>
 
 The sample declaration (Form DC1) can be downloaded from our e-services website [here](https://www.mlaw.gov.sg/eservices/io/). <br>
 
@@ -109,7 +109,7 @@ Insolvency Office <br>
 #07-11<br>
 The URA Centre (East Wing)<br>
 Singapore 069118<br>
-Please send in your enquiries/feedback at *[Contact Us @ OneMinLaw](https://www.mlaw.gov.sg/eservices/enquiry/)*<br>
+Please send in your enquiries/feedback at *[Contact Us @ OneMinLaw ](https://go.gov.sg/contactminlaw)*<br>
 Alternatively, you may visit us at our website at [https://io.mlaw.gov.sg/](https://io.mlaw.gov.sg/) or contact us at 1800-2255-529 (during office hours).<br>
 
  
