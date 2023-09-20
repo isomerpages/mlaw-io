@@ -10,7 +10,7 @@ Assets of a Bankrupt
 **1. Can I open a bank account?**<br>
 Yes. The Official Assignee will assist you in opening a new savings account. This account will allow you to arrange for GIRO payment, make cash withdrawals and access the Automated Teller Machine facilities.
 
-he following conditions will be imposed when you open the new savings account:
+The following conditions will be imposed when you open the new savings account:
 
 * You have to pay your monthly instalments towards your bankruptcy estate using GIRO through that account; and
 
