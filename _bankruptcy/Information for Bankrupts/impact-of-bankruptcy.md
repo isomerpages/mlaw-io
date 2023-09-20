@@ -19,9 +19,7 @@ If you are a partner in firm which has been made bankrupt, you will have to subm
 * a Statement of Affairs stating the bankrupt firm's assets and liabilities (unless it has already been submitted by another partner of the firm).  <br>
  
 If you, without reasonable excuse, fail to submit a Statement of Affairs to the Official Assignee or submit a Statement of Affairs which is false, misleading or contains any material omission, it is an offence punishable with a fine not exceeding S$10,000 or an imprisonment for a term not exceeding two years or both.  <br>
-
  
-
 <b> 3. How do I contact my case officer? </b>  <br>
 You may contact us at:  <br>
 
