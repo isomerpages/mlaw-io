@@ -1,11 +1,8 @@
 ---
-title: 'Alternatives to Bankruptcy'
+title: Alternatives to Bankruptcy
 permalink: /bankruptcy/alternatives-to-bankruptcy/
-breadcrumb: 'Alternatives to Bankruptcy'
-
+breadcrumb: Alternatives to Bankruptcy
 ---
-
-
 Alternatives to Bankruptcy
 ---
 <b> 1. Advice for Debtors </b> <br>
@@ -122,7 +119,7 @@ The DRS is triggered by a bankruptcy application. When such an application is ma
  
 
 <b> 11. Further Queries </b><br>
-If you have any further queries on bankruptcy, please send in you enquiries/feedback at *[Contact Us @ OneMinLaw](https://www.mlaw.gov.sg/eservices/enquiry/)* <br>
+If you have any further queries on bankruptcy, please send in your enquiries/feedback at *[Contact Us @ OneMinLaw](https://go.gov.sg/contactminlaw)* <br>
 
  
 
@@ -136,7 +133,7 @@ A Bankruptcy Application is filed in the High Court by either the debtor or a cr
  
 
 **2. Debtor's own application for bankruptcy** <br>
-The Official Assignee does not provide advice on the procedure for a debtor to file his own application for bankruptcy. Debtors may also wish to refer to the Supreme Court’s website [https://www.supremecourt.gov.sg](https://www.supremecourt.gov.sg) for further details on bankruptcy proceedings. <br>
+The Official Assignee does not provide advice on the procedure for a debtor to file his own application for bankruptcy. Debtors may also wish to refer to the Supreme Court’s website [https://www.supremecourt.gov.sg](https://www.judiciary.gov.sg) for further details on bankruptcy proceedings. <br>
 
  
 
