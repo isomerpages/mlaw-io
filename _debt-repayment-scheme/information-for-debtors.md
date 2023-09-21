@@ -154,7 +154,9 @@ Singapore 069118<br>
 
 Please send in your enquiries/feedback at [Contact Us @ OneMinLaw ](https://go.gov.sg/contactminlaw)
 
-Alternatively, you may visit us at our website at [www.mlaw.gov.sg](https://www.mlaw.gov.sg/) or contact us at 1800-2255-529 (during office hours).
+Alternatively, you may visit us at our website at
+[https://go.gov.sg/io](https://go.gov.sg/io)
+or contact us at 1800-2255-529 (during office hours).
 
 **13. Other Frequently Asked Questions**<br>
 For other frequently asked questions on the Debt Repayment Scheme ("DRS"), [click here](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx){:target="_blank"}.
