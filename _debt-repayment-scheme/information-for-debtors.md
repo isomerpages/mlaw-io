@@ -46,9 +46,9 @@ Services rendered by the e-service helpers are chargeable. Click [here](https://
 If we do not receive your online submission by the given deadline and/or you do not meet the eligibility criteria, you may be found unsuitable for the DRS and your case will be referred back to Court for the bankruptcy proceedings to be heard again.<br>
 
 **6. What are the documents to be submitted for suitability assessment?**<br>
-In your Notice of Introduction on DRS & Filing of Statement of Affairs, you will be notified to submit the following documents [online](https://www.mlaw.gov.sg/eservices/io/):<br>
+In your Notice of Introduction on DRS &amp; Filing of Statement of Affairs, you will be notified to submit the following documents [online](https://www.mlaw.gov.sg/eservices/io/):<br>
 (a)    Statement of Affairs;<br>
-(b)   Income & Expenditure Statement;<br>
+(b)   Income &amp; Expenditure Statement;<br>
 (c)    Debt Repayment Plan; and<br>
 (d)   Supporting documents as per Annex B<br>
 
@@ -94,7 +94,7 @@ You are expected to adhere to the following:<br>
 The fees payable under the Insolvency, Restructuring and Dissolution (Official Assignee's Fees) Regulations 2020 for assessment and administration of cases are set out below.<br>
 
 <table>
-  <tr>
+  <tbody><tr>
     <th colspan="2">Fees</th>
     <th>Amount</th>
     <th>Due</th>
@@ -142,17 +142,17 @@ The fees payable under the Insolvency, Restructuring and Dissolution (Official A
     <td colspan="2">Distribution fee by the OA of dividends to creditors</td>
     <td colspan="2">3% of amount distributed</td>
   </tr>
-</table>
+</tbody></table>
 
 **12. Contact DRS**<br>
 Insolvency Office (IO)<br>
-Individual Insolvency & Debt Repayment Scheme Division<br>
+Individual Insolvency &amp; Debt Repayment Scheme Division<br>
 The URA Centre (East Wing)<br>
 45 Maxwell Road<br>
 #07-11<br>
 Singapore 069118<br>
 
-Please send in your enquiries/feedback at [Contact Us @ OneMinLaw](https://www.mlaw.gov.sg/eservices/enquiry/){:target="_blank"}
+Please send in your enquiries/feedback at [Contact Us @ OneMinLaw ](https://go.gov.sg/contactminlaw)
 
 Alternatively, you may visit us at our website at [www.mlaw.gov.sg](https://www.mlaw.gov.sg/) or contact us at 1800-2255-529 (during office hours).
 
