@@ -42,7 +42,7 @@ The URA Centre (East Wing)<br>
 #07-11<br>
 Singapore 069118<br>
 
-Services rendered by the e-service helpers are chargeable. Click [here](https://io.mlaw.gov.sg/files/IIDRSDPriceList.pdf) to view the Price List.<br>
+
 If we do not receive your online submission by the given deadline and/or you do not meet the eligibility criteria, you may be found unsuitable for the DRS and your case will be referred back to Court for the bankruptcy proceedings to be heard again.<br>
 
 **6. What are the documents to be submitted for suitability assessment?**<br>
