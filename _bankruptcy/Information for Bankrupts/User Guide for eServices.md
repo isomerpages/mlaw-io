@@ -13,7 +13,7 @@ third_nav_title: Information for Bankrupts
 
 [How to file Statement of Affairs or Supplementary Information](/files/(180923)howtofilestatementofaffairsorsupplementaryinformation.pdf) <br>
   
-[How to make payments via eCollection Portal](/files/(200923)howtomakepaymentsviaecollectionportal.pdf)<br>
+[How to make payments via eCollection Portal](/files/(210923)howtomakepaymenstviaecollectionportal.pdf)<br>
 
 [How to retrieve Case Information (IIAI)](/files/(180923)howtoretrievecaseinformation(iiai).pdf)<br>
      
