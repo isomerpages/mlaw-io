@@ -9,7 +9,7 @@ Information for Creditors
 You may choose not to attend the meeting of creditors. However, if you wish to raise questions in relation to the debtor’s Statement of Affairs, Income and Expenditure Statement and the Debt Repayment Plan, you must submit your list of questions to the Official Assignee at least 3 working days before the meeting. The OA will examine the questions to determine if they are relevant, and will disallow questions which are irrelevant,  frivolous or which cannot be substantiated.
 
 **2.	How do I file a Proof of Debt and how much does it cost?**<br>
-You may file your Proof of Debt electronically [here](https://www.mlaw.gov.sg/eservices/io/) at a fee of $5. You must attach your supporting documents to substantiate the claim when doing so.
+You may file your Proof of Debt electronically [here](https://eservices.mlaw.gov.sg/io/) at a fee of $5. You must attach your supporting documents to substantiate the claim when doing so.
 
 **3.	Do I need to submit any documents to support my claim?**<br>
 To assist us with the assessment of your claim, you need to provide us with a statement of account indicating the following:
@@ -39,7 +39,7 @@ In the event that there are third party payments made towards the debt owed to y
 **Pursuant to Insolvency, Restructuring and Dissolution (Official Assignee's Fees) Regulations 2020, the following fees are payable by creditors:**<br>
 
 <table>
-  <tr>
+  <tbody><tr>
     <th>Fees</th>
     <th>Amount</th>
   </tr>
@@ -63,4 +63,4 @@ In the event that there are third party payments made towards the debt owed to y
       $1 per page
     </td>
   </tr>
-</table>
+</tbody></table>
