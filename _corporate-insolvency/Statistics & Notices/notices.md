@@ -17,19 +17,21 @@ NOTICES
 **Insolvency, Restructuring and Dissolution (Simplified Winding Up) Regulations 2021**
 <br><br>
 
+*(1) Notices of Application*
+<br>[22-Sep-2023 Notice of Application into Simplified Winding Up Programme](/files/22-09-2023%20application%20swu.pdf)
 
 
-*(1) Notice of Acceptance and Rejection*
+*(2) Notice of Acceptance and Rejection*
 <br>[15-Sep-2023 Notice of acceptance into Simplified Winding Up Programme](/files/15-09-2023%20notice%20of%20acceptance.pdf)
 
 
 
-*(2) Notices of Striking off and Final Accounts*
+*(3) Notices of Striking off and Final Accounts*
 <br>[25-Aug-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/25-08-2023%20notice%20of%20striking%20off.pdf) and Final Accounts for [Nomad Two Worlds Global Holdings Pte. Ltd.](/files/sw19-2022%20final%20accounts.pdf) , Final Accounts for [Green Cleaning Solutions Pte. Ltd.](/files/sw10-2023%20final%20accounts.pdf) and Final Accounts for [Green Millennium Services Pte. Ltd.](/files/sw9-2023%20final%20accounts.pdf)
 
 
 
-*(3) Notices of Intended Dividend*
+*(4) Notices of Intended Dividend*
 <br>[25-Aug-2023 Notice of Intended Dividend for Glow Digital Media Pte Ltd](/files/sw5-2021%20notice%20of%20intended%20dividend.pdf)
 <br>[25-Aug-2023 Notice of Intended Dividend for Also Dominie Pte. Ltd.](/files/sw22-2021%20notice%20of%20intended%20dividend.pdf)
 )
@@ -56,7 +58,7 @@ NOTICES
 <br>
 
 
-*(2) Notices of Application*
+*(1) Notices of Application*
 <br>[04-Aug-2023 Notice of Application into Simplified Winding Up Programme](/files/04-08-2023%20application%20swu.pdf)
 <br>[28-July-2023 Notice of Application into Simplified Winding UP Programme](/files/28-07-2023%20application%20swu.pdf)
 <br>[21-July -2023 Notice of Application into Simplified Winding Up Programme](/files/21-07-2023%20application%20swu.pdf)<br>
@@ -112,7 +114,7 @@ NOTICES
 [16-Apr-2021 Notice of Application into Simplified Winding Up Programme](/files/16-04-2021%20Application%20SWU.pdf){:target="_blank"} (286KB)
 <br>
 <br>
-*(3) Notices of Acceptance and Rejection*
+*(2) Notices of Acceptance and Rejection*
 <br>
 [04-Aug-2023 Notice of Acceptance into Simplified Winding Up Programme](/files/04-08-2023%20notice%20of%20acceptance.pdf)
 <br>[21-Jul-2023 Notice of Acceptance into Simplified Winding Up Programme](/files/21-07-2023%20notice%20of%20acceptance.pdf)<br>
@@ -168,7 +170,7 @@ NOTICES
 [21-May-2021 Notice of Rejection for Simplified Winding Up Programme](/files/21-05-2021%20Notice%20of%20Rejection.pdf){:target="_blank"} (282KB) <br>
 [14-May-2021 Notice of Rejection for Simplified Winding Up Programme](/files/14-05-2021%20Notice%20of%20Rejection.pdf){:target="_blank"} (282KB) <br>
 <br>
-*(4) Notices of Striking off and Final Accounts*
+*(3) Notices of Striking off and Final Accounts*
 <br>[18-Aug-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/18-08-2023%20notice%20of%20striking%20off.pdf) and Final Accounts for [Novo Acai &amp; Granola Pte. Ltd. (SW4-2023)](/files/sw4-2023%20final%20accounts.pdf)
 <br>[04-Aug-2023 Notice of Striking Off from Simplified Winding Up Programme](/files/04-08-2023%20notice%20of%20striking%20off.pdf) and Final Accounts for [Unicable (S) Pte Ltd (SW 3/2023)](/files/sw%203-2023%20final%20accounts.pdf) and Final Accounts for [The Blind Group Pte Ltd (SW 6/2023)](/files/sw%206-2023%20final%20accounts.pdf)
 <br>
