@@ -11,5 +11,7 @@ Forms - Insolvency, Restructuring and Dissolution Act (wef 30 July 2020)
 
 | Form | Description | Attachment |
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
+| VA-1     | Statement of Affairs Form     | [Form VA-1](/files/(sep23_va1)formva-1-statementofaffairsform.pdf)   
+
+<br>
 
