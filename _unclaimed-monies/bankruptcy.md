@@ -2,22 +2,19 @@
 title: Bankruptcy
 permalink: /unclaimed-monies/bankruptcy/
 breadcrumb: Bankruptcy
-
 ---
-
-
 Unclaimed Monies
 ---
 
 **STEPS TO RECOVER UNCLAIMED MONIES FROM THE INSOLVENCY OFFICE**
 
 <table>
-  <tr>
+  <tbody><tr>
     <th colspan="2">If you think you have monies held by the Official Assignee:</th>
   </tr>
   <tr>
     <td><b>Step 1</b></td>
-    <td>Click on the specific listing of unclaimed monies (i.e. Dividends & Refunds, Unproved & Untraced Dividends etc.)</td>
+    <td>Click on the specific listing of unclaimed monies (i.e. Dividends &amp; Refunds, Unproved &amp; Untraced Dividends etc.)</td>
   </tr>
   <tr>
     <td><b>Step 2</b></td>
@@ -27,9 +24,9 @@ Unclaimed Monies
     <td><b>Step 3</b></td>
     <td>
       	
-Contact the Insolvency Office at <a href="https://www.mlaw.gov.sg/eservices/enquiry/">Contact Us @ OneMinLaw</a> if you have documentary proof that you are the rightful owner of the monies.
+Contact the Insolvency Office at [Contact Us @ OneMinLaw](https://go.gov.sg/contactminlaw) if you have documentary proof that you are the rightful owner of the monies.
 
-Alternatively, you may visit us at our website at <a href="https://www.mlaw.gov.sg/">www.mlaw.gov.sg</a> or contact us at 1800-2255-529 (during office hours).<br><br>
+Alternatively, you may visit us at our [website](https://io.mlaw.gov.sg/) or contact us at 1800-2255-529 (during office hours).<br><br>
 
 Insolvency Office<br>
 45 Maxwell Road<br>
@@ -53,14 +50,14 @@ d) Any other documents evidencing that the claimant is entitled to the amount.
   <tr>
     <td colspan="2">IPTO will check the claimant’s details against the case file to see if the claim is valid and arrange for payment to be made to the claimant once the claim is verified.</td>
   </tr>
-</table>
+</tbody></table>
 
 **The Official Assignee**
 
 **Unclaimed Monies**
 
-[Bankruptcy Estate (Dividends & Refunds)](/files/Bankruptcy-UnclaimedMonies(DividendsRefunds)Mar21.pdf){:target="_blank"} (82.6 KB)<br>
-[Bankruptcy Estate (Unproved & Untraced Dividends)](/files/Bankruptcy-UnclaimedMonies(UnprovedandUntracedDividends)Mar21.pdf){:target="_blank"} (133 KB)<br>
+[Bankruptcy Estate (Dividends &amp; Refunds)](/files/Bankruptcy-UnclaimedMonies(DividendsRefunds)Mar21.pdf){:target="_blank"} (82.6 KB)<br>
+[Bankruptcy Estate (Unproved &amp; Untraced Dividends)](/files/Bankruptcy-UnclaimedMonies(UnprovedandUntracedDividends)Mar21.pdf){:target="_blank"} (133 KB)<br>
 [Bankruptcy Estate (Unknown Monies Deposited)](/files/DebtRepaymentScheme_Unknownmoniesdeposited.pdf){:target="_blank"} (28 KB)<br>
-[Debt Repayment Scheme (Dividends & Refunds)](/files/DRSDividends&Refunds.pdf){:target="_blank"} (44 KB)<br>
+[Debt Repayment Scheme (Dividends &amp; Refunds)](/files/DRSDividends&amp;Refunds.pdf){:target="_blank"} (44 KB)<br>
 [Debt Repayment Scheme (Unknown Monies Deposited)](/files/Unknownmoniesdeposited.pdf){:target="_blank"} (26 KB)
