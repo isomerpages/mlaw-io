@@ -7,7 +7,7 @@ third_nav_title: Forms
 Forms for Administration
 ---
 **For debtors**<br>
-[Annex B - Debtor's List of Supporting Documents](/files/(250923)annexbver2023.pdf){:target="_blank"}(171KB)<br>
+[Annex B - Debtor's List of Supporting Documents](/files/(250923)annexbver2023.pdf){:target="_blank"} (171KB)<br>
 [Debtor's Guide to Using DRS e-Services](/files/(21062022)Debtor'sGuidetoUsingDRSe-Services_v1-compressed.pdf) (4MB)<br>
 [Debtor's Guide to Using Skype](/files/SkypeGuide.pdf){:target="blank"}   (362KB)<br>
  
