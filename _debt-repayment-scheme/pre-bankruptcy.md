@@ -60,4 +60,3 @@ If you are still in doubt and would like to find out more about the Debt Repayme
 </details>
 
 <br>
-[Infographics of A Debtor's Journey ](/files/ADebtorsJourney.pdf) <br>
