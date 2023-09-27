@@ -25,7 +25,7 @@ Forms for Administration
 
 [Application for Interbank GIRO Form - (For Bankruptcy Instalments)](/files/directdebitapplicationformapr2018(27092023).pdf){:target="_blank"} (214KB)
 
-[FIR -- Filing of complaint against bankrupt](/files/FIRSTINFORMATIONREPORT.docx){:target="_blank"} (DOC, 21KB)
+[FIR -- Filing of complaint against bankrupt](/files/(27092023)firstinformationreport.pdf {:target="_blank"} (21KB)
 
 [Application for Official Assignee's Permission to Leave Singapore](/files/ApplicationforOfficialAssigneePermissiontoLeaveSingapore.pdf){:target="_blank"} (41KB)
 
