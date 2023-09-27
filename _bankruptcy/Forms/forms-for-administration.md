@@ -31,7 +31,7 @@ Forms for Administration
 
 [Statement of Account of Moneys and Property Received - BA cases](/files/smp-ba(7sep21)(27092023).pdf){:target="_blank"} (868KB)
 
-[Statement of Account of Moneys and Property Received - IRDA cases](/files/SMP-IRDA(7Sep21).pdf){:target="_blank"} (869KB)
+[Statement of Account of Moneys and Property Received - IRDA cases](/files/smp-irda(7sep21)(27092023).pdf){:target="_blank"} (869KB)
 
 [Indemnity Form](/files/IndemnityForm.pdf){:target="_blank"} (478KB)<br>
 
