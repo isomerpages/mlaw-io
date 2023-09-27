@@ -33,7 +33,7 @@ Forms for Administration
 
 [Statement of Account of Moneys and Property Received - IRDA cases](/files/smp-irda(7sep21)(27092023).pdf){:target="_blank"} (869KB)
 
-[Indemnity Form](/files/IndemnityForm.pdf){:target="_blank"} (478KB)<br>
+[Indemnity Form](/files/indemnityform(amended27sept2023).pdf){:target="_blank"} (478KB)<br>
 
 [Application to open a Savings Bank Account Form](/files/BankApplication.pdf){:target="_blank"} (192KB)<br>
 <br><br>
