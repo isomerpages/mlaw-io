@@ -9,8 +9,7 @@ PIR Forms – IRDA (wef 30 July 2020)
 
 The Bankruptcy Act and the forms under the Bankruptcy Rules have been repealed on 30 July 2020.
 
-Please refer to the table below for the forms.<br>
-
+<b>1. Insolvency, Restructuring and Dissolution (Personal Insolvency) Rules 2020<b><br>
 
 
 | Form | Description | Attachment |
@@ -43,5 +42,11 @@ Please refer to the table below for the forms.<br>
 | PIR-26     | Order for Administration of Estate of Deceased Debtor     |[Form PIR-26](/files/(sep23_pir26)formpir-26.pdf)
 
 <br>
+<b>2. Applicant Creditor's Declaration under section 36 of the IRDA<b><br>
 
-| 2 | Applicant Creditor's Declaration under section 36 of the IRDA |[Applicant Creditor's Declaration (s36 IRDA)](/files/ApplicantCreditor'sDeclaration(s36IRDA).pdf)
+
+| Description | Attachment |<br>
+| -------- | -------- | -------- |
+| Applicant Creditor's Declaration      | [Applicant Creditor's Declaration (s36 IRDA)](/files/ApplicantCreditor'sDeclaration(s36IRDA).pdf)     |
+
+</b></b></b></b>
