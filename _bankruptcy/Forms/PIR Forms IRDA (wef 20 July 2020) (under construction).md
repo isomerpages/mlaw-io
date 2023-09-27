@@ -44,7 +44,4 @@ Please refer to the table below for the forms.<br>
 
 <br>
 
-| 2 | Applicant Creditor's Declaration under section 36 of the IRDA |[Applicant Creditor's Declaration (s36 IRDA)](/files/ApplicantCreditor'sDeclaration(s36IRDA).pdf)  |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
+| 2 | Applicant Creditor's Declaration under section 36 of the IRDA |[Applicant Creditor's Declaration (s36 IRDA)](/files/ApplicantCreditor'sDeclaration(s36IRDA).pdf)  
