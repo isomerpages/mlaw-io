@@ -1,12 +1,10 @@
 ---
-title: 'PIR Forms – IRDA (wef 30 July 2020)'
-permalink: /bankruptcy/pirforms/
-breadcrumb: 'PIR Forms – IRDA (wef 30 July 2020)'
+title: PIR Forms – IRDA (wef 30 July 2020)
+permalink: /bankruptcy/pirforms/permalink/
+breadcrumb: PIR Forms – IRDA (wef 30 July 2020)
 third_nav_title: Forms
-
+description: ""
 ---
-
-
 PIR Forms – IRDA (wef 30 July 2020)
 ---
 
@@ -14,7 +12,7 @@ The Bankruptcy Act and the forms under the Bankruptcy Rules have been repealed o
  
 Please refer to the table below for the new forms. <br>
 <table>
- <tr>
+ <tbody><tr>
   <td>1</td>
   <td>
    
@@ -57,4 +55,4 @@ Please refer to the table below for the new forms. <br>
  <td>
 <a href="/files/ApplicantCreditor'sDeclaration(s36IRDA).pdf" target="_blank">Applicant Creditor's Declaration Form</a> (677KB)<br>
  </td>
-</table>
+</tr></tbody></table>
