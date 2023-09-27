@@ -41,3 +41,10 @@ Please refer to the table below for the forms.<br>
 | PIR-24     | Creditor's Application for Administration of Estate of Deceased Debtor under Section 419 of Insolvency, Restructuring and Dissolution Act 2018     |[Form PIR-24](/files/(sep23_pir24)formpir-24.pdf)
 | PIR-25     | Affidavit in Support of Creditor's Application for Administration of Estate of Deceased Debtor under Section 419 of Insolvency, Restructuring and Dissolution Act 2018     |[Form PIR-25](/files/(sep23_pir25)formpir-25.pdf)
 | PIR-26     | Order for Administration of Estate of Deceased Debtor     |[Form PIR-26](/files/(sep23_pir26)formpir-26.pdf)
+
+<br>
+
+| 2 | Applicant Creditor's Declaration under section 36 of the IRDA |[Applicant Creditor's Declaration (s36 IRDA)](/files/ApplicantCreditor'sDeclaration(s36IRDA).pdf)  |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
