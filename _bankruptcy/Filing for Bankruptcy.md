@@ -1,6 +1,6 @@
 ---
 title: Filing for Bankruptcy
-permalink: /bankruptcy/permalink/
+permalink: /bankruptcy/filingforbankruptcy/
 description: ""
 ---
 #### **Filing for Bankruptcy**

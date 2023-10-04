@@ -1,6 +1,6 @@
 ---
 title: Bankruptcy Notice
-permalink: /bankruptcy/permalink/
+permalink: /bankruptcy/bankruptcynotice/
 description: ""
 ---
 # **Bankruptcy Notice**
