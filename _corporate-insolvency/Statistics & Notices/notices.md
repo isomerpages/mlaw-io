@@ -27,23 +27,6 @@ NOTICES
 <br>[29-Sep-2023 Notice of acceptance into Simplified Winding Up Programme](/files/29-09-2023%20notice%20of%20acceptance.pdf)
 <br>[15-Sep-2023 Notice of acceptance into Simplified Winding Up Programme](/files/15-09-2023%20notice%20of%20acceptance.pdf)
 
-
-
-*(3) Notices of Striking off and Final Accounts*
-<br>[25-Aug-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/25-08-2023%20notice%20of%20striking%20off.pdf) and Final Accounts for [Nomad Two Worlds Global Holdings Pte. Ltd.](/files/sw19-2022%20final%20accounts.pdf) , Final Accounts for [Green Cleaning Solutions Pte. Ltd.](/files/sw10-2023%20final%20accounts.pdf) and Final Accounts for [Green Millennium Services Pte. Ltd.](/files/sw9-2023%20final%20accounts.pdf)
-
-
-
-*(4) Notices of Intended Dividend*
-<br>[25-Aug-2023 Notice of Intended Dividend for Glow Digital Media Pte Ltd](/files/sw5-2021%20notice%20of%20intended%20dividend.pdf)
-<br>[25-Aug-2023 Notice of Intended Dividend for Also Dominie Pte. Ltd.](/files/sw22-2021%20notice%20of%20intended%20dividend.pdf)
-)
-
-
-
-
-
-
 <br>
 
 **Insolvency, Restructuring and Dissolution (Simplified Debt Restruturing) Regulations 2021**
