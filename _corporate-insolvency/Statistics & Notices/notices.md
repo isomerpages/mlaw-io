@@ -46,7 +46,13 @@ NOTICES
 
 <br>
 
+**Insolvency, Restructuring and Dissolution (Simplified Debt Restruturing) Regulations 2021**
+<br>
 
+*(1) Notices of Application*
+<br>
+[06-Oct-2023 Notice of Application into Simplified Debt Restructuring Programme](/files/06-10-2023%20Application%20SR.pdf){:target="_blank"} (349KB) 
+<br>
 <br>
  
 
@@ -174,6 +180,7 @@ NOTICES
 [14-May-2021 Notice of Rejection for Simplified Winding Up Programme](/files/14-05-2021%20Notice%20of%20Rejection.pdf){:target="_blank"} (282KB) <br>
 <br>
 *(3) Notices of Striking off and Final Accounts*
+<br>[25-Aug-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/25-08-2023%20notice%20of%20striking%20off.pdf) and Final Accounts for [Nomad Two Worlds Global Holdings Pte. Ltd.](/files/sw19-2022%20final%20accounts.pdf) , Final Accounts for [Green Cleaning Solutions Pte. Ltd.](/files/sw10-2023%20final%20accounts.pdf) and Final Accounts for [Green Millennium Services Pte. Ltd.](/files/sw9-2023%20final%20accounts.pdf)
 <br>[18-Aug-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/18-08-2023%20notice%20of%20striking%20off.pdf) and Final Accounts for [Novo Acai &amp; Granola Pte. Ltd. (SW4-2023)](/files/sw4-2023%20final%20accounts.pdf)
 <br>[04-Aug-2023 Notice of Striking Off from Simplified Winding Up Programme](/files/04-08-2023%20notice%20of%20striking%20off.pdf) and Final Accounts for [Unicable (S) Pte Ltd (SW 3/2023)](/files/sw%203-2023%20final%20accounts.pdf) and Final Accounts for [The Blind Group Pte Ltd (SW 6/2023)](/files/sw%206-2023%20final%20accounts.pdf)
 <br>
@@ -203,6 +210,8 @@ NOTICES
 [29-Oct-2021 Notice of Striking Off for Simplified Winding Up Programme](/files/29-10-2021%20Notice%20of%20Striking%20Off.pdf) and Final Accounts for [The Dance Capital (Pte. Ltd.) (SW 19/2021)](/files/SW19-2021%20Final%20Accounts.pdf)<br>
 <br>
 *(5) Notices of Intended Dividend*
+<br>[25-Aug-2023 Notice of Intended Dividend for Glow Digital Media Pte Ltd](/files/sw5-2021%20notice%20of%20intended%20dividend.pdf)
+<br>[25-Aug-2023 Notice of Intended Dividend for Also Dominie Pte. Ltd.](/files/sw22-2021%20notice%20of%20intended%20dividend.pdf)
 <br>[11-Aug-2023 Notice of Intended Dividend for Green Food Concepts (Pte. Ltd.) (SW 2/2023)](/files/sw2-2023%20notice%20of%20intended%20dividend.pdf)
 <br>
 [09-June 2023 Notice of Intended Dividend for A Phat Pinball Pte Ltd (SW 15/2021)](/files/sw15-2021%20notice%20of%20intended%20dividend.pdf){:target="_blank"} (32.9KB) <br>
