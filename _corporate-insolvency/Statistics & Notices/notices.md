@@ -23,7 +23,7 @@ NOTICES
 <br>[22-Sep-2023 Notice of Application into Simplified Winding Up Programme](/files/22-09-2023%20application%20swu.pdf)
 
 
-*(2) Notice of Acceptance and Rejection*
+*(2) Notices of Acceptance and Rejection*
 <br>[29-Sep-2023 Notice of acceptance into Simplified Winding Up Programme](/files/29-09-2023%20notice%20of%20acceptance.pdf)
 <br>[15-Sep-2023 Notice of acceptance into Simplified Winding Up Programme](/files/15-09-2023%20notice%20of%20acceptance.pdf)
 
@@ -32,7 +32,7 @@ NOTICES
 **Insolvency, Restructuring and Dissolution (Simplified Debt Restruturing) Regulations 2021**
 <br>
 
-*(1) Notices of Application*
+*(1) Notice of Application*
 <br>
 [06-Oct-2023 Notice of Application into Simplified Debt Restructuring Programme](/files/06-10-2023%20application%20sr.pdf){:target="_blank"} (349KB) 
 <br>
