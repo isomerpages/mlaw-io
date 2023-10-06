@@ -10,3 +10,5 @@ description: ""
 [Bankruptcy Orders made on 14 September (Week 38)](/files/(230923)bankruptcyordersmadeweek38.pdf)<br>
 
 [Bankruptcy Orders made on 21 September (Week 39)](/files/(280923)bankruptcyordersmadeon21september(week39).pdf)<br>
+
+[Bankruptcy Orders made on 28 September (Week 40)](/files/(6oct2023)bankruptcyordersmadeon28september(week40).pdf)<br>
