@@ -1,5 +1,5 @@
 ---
-title: BR Forms IRDA wef 30 July 2020 (under construction)
+title: BR Forms IRDA wef 30 July 2020
 permalink: /bankruptcy/brforms/
 description: ""
 third_nav_title: Forms
