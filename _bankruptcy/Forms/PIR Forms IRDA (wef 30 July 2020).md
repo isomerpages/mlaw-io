@@ -47,4 +47,6 @@ The Bankruptcy Act and the forms under the Bankruptcy Rules have been repealed o
 
 | Description | Attachment |<br>
 | -------- | -------- | -------- |
-| Applicant Creditor's Declaration      | [Applicant Creditor's Declaration (s36 IRDA)](/files/ApplicantCreditor'sDeclaration(s36IRDA).pdf)     </b></b></b></b>
+| Applicant Creditor's Declaration      | [Applicant Creditor's Declaration (s36 IRDA)](/files/ApplicantCreditor'sDeclaration(s36IRDA).pdf)    
+
+</b></b></b></b>
