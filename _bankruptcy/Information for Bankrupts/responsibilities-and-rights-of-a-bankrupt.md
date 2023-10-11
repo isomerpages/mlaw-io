@@ -126,6 +126,6 @@ Other bankruptcy offences include:
  
 
 <b>Other Information for bankrupts</b><br>
-* [Impact of Bankruptcy](/bankruptcy/information-for-bankrupts/impact-of-bankruptcy/) <br> 
-* [Assets of a Bankrupt](/bankruptcy/information-for-bankrupts/assets-of-a-bankrupt/) <br> 
+* [Impact of Bankruptcy](/bankruptcy/information-for-bankrupts/impact-of-bankruptcy/)
+* [Assets of a Bankrupt](/bankruptcy/information-for-bankrupts/assets-of-a-bankrupt/)
 * [Discharge from Bankruptcy](/bankruptcy/information-for-bankrupts/discharge-from-bankruptcy/)</b>
