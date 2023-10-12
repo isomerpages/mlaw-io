@@ -27,14 +27,20 @@ NOTICES
 <br>[29-Sep-2023 Notice of Acceptance into Simplified Winding Up Programme](/files/29-09-2023%20notice%20of%20acceptance.pdf)
 <br>[15-Sep-2023 Notice of Acceptance into Simplified Winding Up Programme](/files/15-09-2023%20notice%20of%20acceptance.pdf)
 
+ *(3) Notice of Dividend*
+  <br>
+[12-Oct-2023 Notice of Dividend for Green Food Concepts (Pte. Ltd.) (SW 2/2023)](/files/sw2-2023%20notice%20of%20dividend.pdf)
+<br>
 <br>
 
 **Insolvency, Restructuring and Dissolution (Simplified Debt Restruturing) Regulations 2021**
-<br>
+<br><br>
 
 *(1) Notice of Application*
 <br>
-[06-Oct-2023 Notice of Application into Simplified Debt Restructuring Programme](/files/06-10-2023%20application%20sr.pdf){:target="_blank"} (349KB) 
+[13-Oct-2023 Notice of Application into Simplified Debt Restructuring Programme](/files/13-10-2023%20application%20sr.pdf)
+<br>
+[06-Oct-2023 Notice of Application into Simplified Debt Restructuring Programme](/files/06-10-2023%20application%20sr.pdf)
 <br>
 <br>
  
