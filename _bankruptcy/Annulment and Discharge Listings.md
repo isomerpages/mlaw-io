@@ -5,8 +5,6 @@ description: ""
 ---
 **Please click on the links below for more information**&nbsp;:<br>
 
-[Annulment and Discharge Listings (Week 37)](/files/(150923)dischargeannulmentlistingweek37.pdf)<br>
-
 [Annulment and Discharge Listings (Week 38)](/files/(230923)dischargeannulmentlistingweek38.pdf)<br>
 
 [Annulment and Discharge Listings (Week 39)](/files/(280923)annulmentanddischargelistings(week39).pdf)<br>
@@ -14,4 +12,3 @@ description: ""
 [Annulment and Discharge Listings (Week 40)](/files/(6oct2023)annulmentanddischargelistings(week40).pdf)<br>
 
 [Annulment and Discharge Listings (Week 41)](/files/(121023)annulmentanddischargelistings(week41).pdf)<br>
-
