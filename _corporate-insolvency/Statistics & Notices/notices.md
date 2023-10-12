@@ -38,9 +38,9 @@ NOTICES
 
 *(1) Notice of Application*
 <br>
-[13-Oct-2023 Notice of Application into Simplified Debt Restructuring Programme](/files/13-10-2023%20application%20sr.pdf){:target="_blank"} (349KB) 
+[13-Oct-2023 Notice of Application into Simplified Debt Restructuring Programme](/files/13-10-2023%20application%20sr.pdf)
 <br>
-[06-Oct-2023 Notice of Application into Simplified Debt Restructuring Programme](/files/06-10-2023%20application%20sr.pdf){:target="_blank"} (349KB) 
+[06-Oct-2023 Notice of Application into Simplified Debt Restructuring Programme](/files/06-10-2023%20application%20sr.pdf)
 <br>
 <br>
  
