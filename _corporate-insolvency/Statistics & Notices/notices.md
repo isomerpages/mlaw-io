@@ -238,7 +238,7 @@ NOTICES
 <br> [01-Jul-2022 Notice of Intended Dissolution](/files/SW7-2021%20Notice%20of%20Intended%20Dissolution.pdf){:target="_blank"} (9.559KB)and Final Accounts for [Good Old Taste Pte Ltd (SW 7-2021)](/files/SW7-2021%20Final%20Account.pdf){:target="_blank"} (20.16KB)
 <br>
 
-**Insolvency, Restructuring and Dissolution (Simplified Debt Restruturing) Regulations 2021**
+**Insolvency, Restructuring and Dissolution (Simplified Debt Restructuring) Regulations 2021**
 <br>
 
 *(1) Notices of Application*
