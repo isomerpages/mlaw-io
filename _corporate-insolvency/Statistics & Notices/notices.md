@@ -33,7 +33,7 @@ NOTICES
 <br>
 <br>
 
-**Insolvency, Restructuring and Dissolution (Simplified Debt Restruturing) Regulations 2021**
+**Insolvency, Restructuring and Dissolution (Simplified Debt Restructuring) Regulations 2021**
 <br><br>
 
 *(1) Notice of Application*
