@@ -29,14 +29,14 @@ NOTICES
 
  *(3) Notice of Dividend*
   <br>
-[12-Oct-2023 Notice of Dividend for Green Food Concepts (Pte. Ltd.) (SW 2/2023)](/files/sw2-2023%20notice%20of%20dividend.pdf)
+[13-Oct-2023 Notice of Dividend for Green Food Concepts (Pte. Ltd.) (SW 2/2023)](/files/sw2-2023%20notice%20of%20dividend.pdf)
 <br>
 <br>
 
-**Insolvency, Restructuring and Dissolution (Simplified Debt Restruturing) Regulations 2021**
+**Insolvency, Restructuring and Dissolution (Simplified Debt Restructuring) Regulations 2021**
 <br><br>
 
-*(1) Notice of Application*
+*(1) Notices of Application*
 <br>
 [13-Oct-2023 Notice of Application into Simplified Debt Restructuring Programme](/files/13-10-2023%20application%20sr.pdf)
 <br>
@@ -238,7 +238,7 @@ NOTICES
 <br> [01-Jul-2022 Notice of Intended Dissolution](/files/SW7-2021%20Notice%20of%20Intended%20Dissolution.pdf){:target="_blank"} (9.559KB)and Final Accounts for [Good Old Taste Pte Ltd (SW 7-2021)](/files/SW7-2021%20Final%20Account.pdf){:target="_blank"} (20.16KB)
 <br>
 
-**Insolvency, Restructuring and Dissolution (Simplified Debt Restruturing) Regulations 2021**
+**Insolvency, Restructuring and Dissolution (Simplified Debt Restructuring) Regulations 2021**
 <br>
 
 *(1) Notices of Application*
@@ -264,6 +264,6 @@ NOTICES
 <br>
 [16-May-2023 Notice of Court Application (Scheme of Arrangement) for Simplified Debt Restructuring Programme](/files/16-05-2023%20notice%20of%20court%20application.pdf){:target="_blank"} (33.1KB)  
 <br>
-*(4) Notices of Discharge*
+*(4) Notice of Discharge*
 <br>
 [07-July-2023 Notice of Discharge from Simplified Debt Restructuring Programme](/files/07-07-2023%20notice%20of%20discharge.pdf)
