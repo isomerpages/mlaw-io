@@ -22,19 +22,20 @@ NOTICES
 [27-Oct-2023 Notice of Application into Simplified Winding Up Programme](/files/27-10-2023%20application%20swu.pdf)
 <br>
 [29-Sep-2023 Notice of Application into Simplified Winding Up Programme](/files/29-09-2023%20application%20swu.pdf)
-<br>[22-Sep-2023 Notice of Application into Simplified Winding Up Programme](/files/22-09-2023%20application%20swu.pdf)
+
 
 
 *(2) Notices of Acceptance and Rejection*
 <br>[29-Sep-2023 Notice of Acceptance into Simplified Winding Up Programme](/files/29-09-2023%20notice%20of%20acceptance.pdf)
-<br>[15-Sep-2023 Notice of Acceptance into Simplified Winding Up Programme](/files/15-09-2023%20notice%20of%20acceptance.pdf)
+
 
  *(3) Notice of Dividend*
    <br>
 [27-Oct-2023 Notice of Dividend for Also Dominie Pte. Ltd. (SW 22/2021)](/files/sw22-2021%20notice%20of%20dividend.pdf)
  <br>
 [13-Oct-2023 Notice of Dividend for Green Food Concepts (Pte. Ltd.) (SW 2/2023)](/files/sw2-2023%20notice%20of%20dividend.pdf)
-<br><br>
+<br>
+<br>
 *(4) Notices of Striking off and Final Accounts*
 <br>[27-Oct-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/27-10-2023%20notice%20of%20striking%20off.pdf) and Final Accounts for [Fufo Pte. Ltd.](/files/sw15-2023%20final%20accounts.pdf) 
 <br>
