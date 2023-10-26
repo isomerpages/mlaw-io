@@ -30,7 +30,9 @@ NOTICES
 <br>[15-Sep-2023 Notice of Acceptance into Simplified Winding Up Programme](/files/15-09-2023%20notice%20of%20acceptance.pdf)
 
  *(3) Notice of Dividend*
-  <br>
+   <br>
+[27-Oct-2023 Notice of Dividend for Also Dominie Pte. Ltd. (SW 22/2021)](/files/sw22-2021%20notice%20of%20dividend.pdf)
+ <br>
 [13-Oct-2023 Notice of Dividend for Green Food Concepts (Pte. Ltd.) (SW 2/2023)](/files/sw2-2023%20notice%20of%20dividend.pdf)
 <br>
 <br>
