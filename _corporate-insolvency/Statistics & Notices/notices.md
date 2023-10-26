@@ -29,7 +29,7 @@ NOTICES
 <br>[29-Sep-2023 Notice of Acceptance into Simplified Winding Up Programme](/files/29-09-2023%20notice%20of%20acceptance.pdf)
 
 
- *(3) Notice of Dividend*
+ *(3) Notices of Dividend*
    <br>
 [27-Oct-2023 Notice of Dividend for Also Dominie Pte. Ltd. (SW 22/2021)](/files/sw22-2021%20notice%20of%20dividend.pdf)
  <br>
