@@ -19,13 +19,13 @@ NOTICES
 
 *(1) Notices of Application*
 <br>
-[27-Oct-2023 Notice of Application into Simplified Winding Up Programme](/files/27-10-2023%20application%20swu.pdf)
-<br>
 [29-Sep-2023 Notice of Application into Simplified Winding Up Programme](/files/29-09-2023%20application%20swu.pdf)
 
 
 
 *(2) Notices of Acceptance and Rejection*
+<br>
+[27-Oct-2023 Notice of Acceptance into Simplified Winding Up Programme](/files/27-10-2023%20application%20swu.pdf)
 <br>[29-Sep-2023 Notice of Acceptance into Simplified Winding Up Programme](/files/29-09-2023%20notice%20of%20acceptance.pdf)
 
 
