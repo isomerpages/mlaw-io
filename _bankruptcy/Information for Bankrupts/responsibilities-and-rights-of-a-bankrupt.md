@@ -125,7 +125,7 @@ Other bankruptcy offences include:
 * leaving or attempting to leave Singapore with your property in order to defraud your creditors.
  
 
-Other Information for bankrupts
+<br>Other Information for bankrupts<br>
 * [Impact of Bankruptcy](/bankruptcy/information-for-bankrupts/impact-of-bankruptcy/)
 * [Assets of a Bankrupt](/bankruptcy/information-for-bankrupts/assets-of-a-bankrupt/)
-* [Discharge from Bankruptcy](/bankruptcy/information-for-bankrupts/discharge-from-bankruptcy/)<br>
+* [Discharge from Bankruptcy](/bankruptcy/information-for-bankrupts/discharge-from-bankruptcy/)
