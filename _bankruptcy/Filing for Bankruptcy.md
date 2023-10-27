@@ -3,13 +3,19 @@ title: Filing for Bankruptcy
 permalink: /bankruptcy/filingforbankruptcy/
 description: ""
 ---
-#### **Filing for Bankruptcy**
+#### **Applying for Bankruptcy**
+
+Procedure
+
+For your easy reference, the various steps in the Application Procedure are set out in the following:
+
+a)    Click <br>
 
 **1\. How does a debtor become a bankrupt?**  
 A Bankruptcy Application is filed in the High Court by either the debtor or a creditor. The debtor owes debts of at least $15,000 which he cannot repay. The High Court may then declare him a bankrupt at the court hearing.
 
 **2\. Debtor’s own application for bankruptcy**  
-The Official Assignee does not provide advice on the procedure for a debtor to file his own application for bankruptcy. Debtors may also wish to refer to the Supreme Court’s website [https://www.judiciary.gov.sg](https://www.judiciary.gov.sg/) for further details on bankruptcy proceedings.
+The Official Assignee does not provide advice on the procedure for a debtor to file his own application for bankruptcy. Debtors may also wish to refer to the Supreme Court’s website&nbsp;[https://www.judiciary.gov.sg](https://www.judiciary.gov.sg/)&nbsp;for further details on bankruptcy proceedings.
 
 Applying for one’s bankruptcy should not be viewed as an easy solution to one’s debts woes. Debtors should look for alternative solutions to settle their debts before considering applying for their own bankruptcy.
 
