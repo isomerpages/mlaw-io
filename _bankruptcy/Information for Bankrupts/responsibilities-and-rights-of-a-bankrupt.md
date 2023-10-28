@@ -109,7 +109,7 @@ You are disqualified from being appointed or acting as a trustee or personal rep
 <b>(d) Are there offences under bankruptcy?</b> <br>
 The failure to seek necessary permission as well as the non-disclosure of the relevant information in the items 1-5 listed above may result in offences committed under the         Bankruptcy Act Cap. 20, 2009 Rev Ed or the Insolvency, Restructuring and Dissolution Act 2018.|
 
-<b>(e) Can I go to the casinos in Singapore?</b><b>
+<b>(e) Can I go to the casinos in Singapore?</b><br>
 	        
 You are automatically placed under an Exclusion by law which will prohibit you from entering the casinos in Singapore and any jackpot machine rooms operated by private clubs in Singapore. You will also not be allowed to access Singapore Pools account-related services or open a betting account with Singapore Pools if you are not an existing betting account holder.
 
@@ -125,7 +125,7 @@ Other bankruptcy offences include:
 * leaving or attempting to leave Singapore with your property in order to defraud your creditors.
  
 
-<b>Other Information for bankrupts</b><br>
+<br>Other Information for bankrupts<br>
 * [Impact of Bankruptcy](/bankruptcy/information-for-bankrupts/impact-of-bankruptcy/)
 * [Assets of a Bankrupt](/bankruptcy/information-for-bankrupts/assets-of-a-bankrupt/)
-* [Discharge from Bankruptcy](/bankruptcy/information-for-bankrupts/discharge-from-bankruptcy/)</b>
+* [Discharge from Bankruptcy](/bankruptcy/information-for-bankrupts/discharge-from-bankruptcy/)
