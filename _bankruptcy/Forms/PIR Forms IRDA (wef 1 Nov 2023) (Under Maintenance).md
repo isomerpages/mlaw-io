@@ -24,7 +24,7 @@ The Bankruptcy Act and the forms under the Bankruptcy Rules have been repealed o
 | PIR-7     | Notice to Debtor of Order of Adjournment of Hearing of Bankruptcy Application     | [Form PIR-7](/files/(sep23_pir7)formpir-7.pdf)
 | PIR-8     | Order for Substitute of Plaintiff on Creditor's Bankruptcy Application     | [Form PIR-8](/files/(sep23_pir8)formpir-8.pdf)
 | PIR-9     | Debtor's Bankruptcy Application     |[Form PIR-9](/files/(sep23_pir9)formpir-9.pdf) 
-| PIR-10     | Affidavit in support of Debtor's Bankruptcy Application     |[Form PIR-10](/files/(sep23_pir10)formpir-10.pdf)
+| PIR-10     | Affidavit in support of Debtor's Bankruptcy Application     |[Form PIR-10](/files/(1nov2023)formpir-10(002).pdf)
 | PIR-11     | Statement of Affairs     |[Form PIR-11](/files/(sep23_pir11)formpir-11.pdf)
 | PIR-12     | Affidavit Verifying Statement of Affairs     |[Form PIR-12](/files/(sep23_pir12)formpir-12.pdf)
 | PIR-13     | Bankruptcy Order on Creditor's Application     |[Form PIR-13](/files/(sep23_pir13)formpir-13.pdf)
