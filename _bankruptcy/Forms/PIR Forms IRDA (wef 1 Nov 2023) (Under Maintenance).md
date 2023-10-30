@@ -8,8 +8,6 @@ PIR Forms – IRDA (wef 1 November 2023)
 -----------------------------------
 
 
-The Bankruptcy Act and the forms under the Bankruptcy Rules have been repealed on 30 July 2020.
-
 <b>1. Insolvency, Restructuring and Dissolution (Personal Insolvency) Rules 2020</b><br>
 
 
