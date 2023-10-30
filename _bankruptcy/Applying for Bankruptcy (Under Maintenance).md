@@ -1,6 +1,6 @@
 ---
 title: Applying for Bankruptcy (Under Maintenance)
-permalink: /bankruptcy/filingforbankruptcy/
+permalink: /bankruptcy/applyingforbankruptcy/
 description: ""
 ---
 #### **Applying for Bankruptcy (This page is under maintenance and will be ready by 31 October 2023)**
