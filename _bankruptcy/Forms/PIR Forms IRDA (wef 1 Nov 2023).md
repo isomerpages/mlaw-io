@@ -1,5 +1,5 @@
 ---
-title: PIR Forms IRDA (wef 1 Nov 2023) (Under Maintenance)
+title: PIR Forms IRDA (wef 1 Nov 2023)
 permalink: /bankruptcy/pirformsirdawef1nov2023/
 description: ""
 third_nav_title: Forms
