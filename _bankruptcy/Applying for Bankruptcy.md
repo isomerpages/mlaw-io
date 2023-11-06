@@ -2,6 +2,7 @@
 title: Applying for Bankruptcy
 permalink: /bankruptcy/applyingforbankruptcy/
 description: ""
+variant: markdown
 ---
 #### **Applying for Bankruptcy**
 
@@ -12,4 +13,4 @@ a)    Click [here](/files/(30oct23-new)generalguideforcreditorapplication.pdf) t
 
 b)    Click [here](/files/(30oct23-new)generalguidefordebtorapplication.pdf) to view the guide for a Debtor Application Procedure in general.
 
-Click [here](/files/(2nov23)listofprivatetrusteesinbankruptcy(2nov2023).pdf) to view the listing of registered Private Trustees in Bankruptcy.
+Click [here](/files/(061123)listofprivatetrusteesinbankruptcy(v1-3-6nov2023).pdf) to view the listing of registered Private Trustees in Bankruptcy.
