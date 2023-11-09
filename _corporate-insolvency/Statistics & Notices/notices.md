@@ -49,7 +49,11 @@ variant: markdown
 <br>
 <br>
  
-
+*(3) Notice of Discharge*
+<br>
+[10-Nov-2023 Notice of Discharge from Simplified Debt Restructuring Programme](/files/10-11-2023%20notice%20of%20discharge.pdf)
+<br>
+<br>
 *Past Notices*
 -
 <br>
