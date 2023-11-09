@@ -18,33 +18,25 @@ NOTICES
 **Insolvency, Restructuring and Dissolution (Simplified Winding Up) Regulations 2021**
 <br><br>
 
-*(1) Notice of Application*
-<br>
-[29-Sep-2023 Notice of Application into Simplified Winding Up Programme](/files/29-09-2023%20application%20swu.pdf)
-
-
-
-*(2) Notices of Acceptance and Rejection*
+*(1) Notices of Acceptance and Rejection*
 <br>
 [27-Oct-2023 Notice of Acceptance into Simplified Winding Up Programme](/files/27-10-2023%20application%20swu.pdf)
-<br>[29-Sep-2023 Notice of Acceptance into Simplified Winding Up Programme](/files/29-09-2023%20notice%20of%20acceptance.pdf)
 
-
- *(3) Notices of Dividend*
+ *(2) Notices of Dividend*
    <br>
 [27-Oct-2023 Notice of Dividend for Also Dominie Pte. Ltd. (SW 22/2021)](/files/sw22-2021%20notice%20of%20dividend.pdf)
  <br>
 [13-Oct-2023 Notice of Dividend for Green Food Concepts (Pte. Ltd.) (SW 2/2023)](/files/sw2-2023%20notice%20of%20dividend.pdf)
 <br>
 <br>
-*(4) Notices of Striking off and Final Accounts*
+*(3) Notices of Striking off and Final Accounts*
 <br>[27-Oct-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/27-10-2023%20notice%20of%20striking%20off.pdf) and Final Accounts for [Fufo Pte. Ltd.](/files/sw15-2023%20final%20accounts.pdf) 
 <br>
 <br>
-*(7) Notices of Intended Dissolution*
+*(4) Notices of Intended Dissolution*
 <br>
- [17-Mar-2023 Notice of Intended Dissolution](/files/SW33-2021%20Notice%20of%20Intended%20Dissolution.pdf){:target="_blank"} (10.13KB) and Final Accounts for [Mars Candy Pte. Ltd. (SW 33-2021)](/files/SW33-2021%20Final%20account.pdf){:target="_blank"} (201.2KB)<br>
- [06-Jan-2023 Notice of Intended Dissolution](/files/06-01-2023%20Notice%20of%20Intended%20Dissolution.pdf){:target="_blank"} (11.3KB) and Final Accounts for [Delight 8 Cafe Pte. Ltd. (SW 2-2021)](/files/06-01-2023%20Final%20Account.pdf){:target="_blank"} (206.KB)<br>
+ [17-Mar-2023 Notice of Intended Dissolution](/files/SW33-2021%20Notice%20of%20Intended%20Dissolution.pdf) and Final Accounts for [Mars Candy Pte. Ltd. (SW 33-2021)](/files/SW33-2021%20Final%20account.pdf)<br>
+
 
 **Insolvency, Restructuring and Dissolution (Simplified Debt Restructuring) Regulations 2021**
 <br><br>
