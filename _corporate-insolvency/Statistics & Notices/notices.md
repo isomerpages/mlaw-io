@@ -35,7 +35,7 @@ NOTICES
 <br>
 *(4) Notices of Intended Dissolution*
 <br>
- [17-Mar-2023 Notice of Intended Dissolution](/files/SW33-2021%20Notice%20of%20Intended%20Dissolution.pdf) and Final Accounts for [Mars Candy Pte. Ltd. (SW 33-2021)](/files/SW33-2021%20Final%20account.pdf)<br>
+ [10-Nov-2023 Notice of Intended Dissolution](/files/SW33-2021%20Notice%20of%20Intended%20Dissolution.pdf) and Final Accounts for [Mars Candy Pte. Ltd. (SW 33-2021)](/files/sw2-2023%20final%20account.pdf)<br>
 
 
 **Insolvency, Restructuring and Dissolution (Simplified Debt Restructuring) Regulations 2021**
