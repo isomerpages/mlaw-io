@@ -5,7 +5,7 @@ breadcrumb: Notices
 third_nav_title: Statistics & Notices
 variant: markdown
 ---
-NOTICES 
+2NOTICES 
 ---
 
 *Current Notices*
@@ -35,7 +35,7 @@ NOTICES
 <br>
 *(4) Notices of Intended Dissolution*
 <br>
- [10-Nov-2023 Notice of Intended Dissolution](/files/SW33-2021%20Notice%20of%20Intended%20Dissolution.pdf) and Final Accounts for [Mars Candy Pte. Ltd. (SW 33-2021)](/files/sw2-2023%20final%20account.pdf)<br>
+ [10-Nov-2023 Notice of Intended Dissolution](/files/sw2-2023%20notice%20of%20intended%20dissolution.pdf) and Final Accounts for Green Food Concepts (Pte. Ltd.) (SW 2-2023)](/files/sw2-2023%20final%20account.pdf)<br>
 
 
 **Insolvency, Restructuring and Dissolution (Simplified Debt Restructuring) Regulations 2021**
