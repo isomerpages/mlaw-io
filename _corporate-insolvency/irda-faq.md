@@ -22,7 +22,7 @@ Pursuant to rule 64 of the IRD (Corporate Insolvency and Restructuring) Rules 20
 
 **4. How do I pay the winding up deposit?**<br>
 
-You may pay the winding up deposit via our eCollection Portal at (www.eservices.mlaw.gov.sg/ecoll). Upon successful payment via the eCollection Portal, you will receive an auto-generated payment summary as proof of payment of the winding up application.  
+You may pay the winding up deposit via our eCollection Portal at <a href="https://eservices.mlaw.gov.sg/ecoll/">https://eservices.mlaw.gov.sg/ecoll/</a>. Upon successful payment via the eCollection Portal, you will receive an auto-generated payment summary as proof of payment of the winding up application.  
 
 **5. Will the IRDA provisions apply to a company that is wound up under the Companies Act (Cap. 50) (“CA”)?**<br>
 
