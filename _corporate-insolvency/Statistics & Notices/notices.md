@@ -30,7 +30,7 @@ variant: markdown
 <br>
 <br>
 *(3) Notices of Striking off and Final Accounts*
-<br>[27-Oct-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/27-10-2023%20notice%20of%20striking%20off.pdf) and Final Accounts for [Fufo Pte. Ltd.](/files/sw15-2023%20final%20accounts.pdf) 
+<br>[27-Oct-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/27-10-2023%20notice%20of%20striking%20off.pdf) and Final Accounts for [Fufo Pte. Ltd. (SW15-2023)](/files/sw15-2023%20final%20accounts.pdf) 
 <br>
 <br>
 *(4) Notices of Intended Dissolution*
@@ -51,7 +51,7 @@ variant: markdown
 [10-Nov-2023 Notice of Rejection for Simplified Debt Restructuring Programme](/files/10-11-2023%20notice%20of%20acceptance%20sdr.pdf)
 <br>
 <br>
-*(3) Notice of Discharge*
+*(3) Notices of Discharge*
 <br>
 [10-Nov-2023 Notice of Discharge from Simplified Debt Restructuring Programme](/files/10-11-2023%20notice%20of%20discharge.pdf)
 <br>
