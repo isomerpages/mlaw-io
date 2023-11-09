@@ -138,7 +138,7 @@ Pursuant to rule 139(1) of the IRD (Corporate Insolvency and Restructuring) Rule
     a) the realisable assets of the company are insufficient to cover the expenses of the winding up; and<br>
     b) the affairs of the company do not require any further investigation.<br>
  <br>
-  All applications shall be sent to the OR via the online enquiry form on our website at <a href="https://eservices.mlaw.gov.sg/enquiry/">https://eservices.mlaw.gov.sg/enquiry/</a>.
+  All applications shall be sent to the OR via the Insolvency Office e-Services at <a href="https://eservices.mlaw.gov.sg/io/">https://eservices.mlaw.gov.sg/io/</a> under "Corporate Insolvency". Upon successful login, click on E-Services and select "Submit Early Dissolution Report". 
   </td>
  </tr>   
 </tbody></table><br>
