@@ -5,8 +5,7 @@ breadcrumb: Notices
 third_nav_title: Statistics & Notices
 variant: markdown
 ---
-2NOTICES 
----
+
 
 *Current Notices*
 -
@@ -48,7 +47,7 @@ variant: markdown
 <br>
 *(2) Notices of Acceptance and Rejection*
 <br>
-[10-Nov-2023 Notice of Rejection for Simplified Debt Restructuring Programme](/files/10-11-2023%20notice%20of%20acceptance%20sdr.pdf)
+[10-Nov-2023 Notice of Rejection for Simplified Debt Restructuring Programme](/files/10-11-2023%20notice%20of%20rejection%20sdr.pdf)
 <br>
 <br>
 *(3) Notices of Discharge*
