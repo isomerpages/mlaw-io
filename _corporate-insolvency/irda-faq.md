@@ -1,14 +1,12 @@
 ---
-title: 'IRDA FAQ'
+title: IRDA FAQ
 permalink: /corporate-insolvency/irda-faq/
-breadcrumb: 'IRDA FAQ'
-
+breadcrumb: IRDA FAQ
+variant: markdown
 ---
-
-
 IRDA FAQ
 ---
-**QUESTIONS & ANSWERS RELATING TO THE INSOLVENCY, RESTRUCTURING & DISSOLUTION ACT 2018 (No. 40 of 2018) ("IRDA")**<br>
+**QUESTIONS &amp; ANSWERS RELATING TO THE INSOLVENCY, RESTRUCTURING &amp; DISSOLUTION ACT 2018 (No. 40 of 2018) ("IRDA")**<br>
 
 **1. Are there any changes to the role of the Official Receiver under the IRDA?**<br>
 
@@ -24,9 +22,7 @@ Pursuant to rule 64 of the IRD (Corporate Insolvency and Restructuring) Rules 20
 
 **4. How do I pay the winding up deposit?**<br>
 
-You may pay the winding up deposit via bank transfer or PayNow to the Official Receiver’s account. Please email [FINANCE@mlaw.gov.sg](mailto:FINANCE@mlaw.gov.sg) to request for our bank account details and the Deposit Form. <br>
-<br>
-An Official Receipt will be issued via email to you within 4 working days upon receiving the completed Deposit Form. You are required to exhibit the Official Receipt as part of your winding up application.<br>
+You may pay the winding up deposit via our eCollection Portal at (www.eservices.mlaw.gov.sg/ecoll). Upon successful payment via the eCollection Portal, you will receive an auto-generated payment summary as proof of payment of the winding up application.  
 
 **5. Will the IRDA provisions apply to a company that is wound up under the Companies Act (Cap. 50) (“CA”)?**<br>
 
@@ -47,7 +43,7 @@ A list of the changes is summarised in the table below: <br>
 **Voluntary Winding Up**<br>
 
 <table>
-<tr>
+<tbody><tr>
   <td>Subject Matter</td>
   <td>Requirements under Companies Act</td>
   <td>Requirements under IRDA</td>
@@ -79,12 +75,12 @@ Payment of the lodgment fee shall be made online.
 </td>
 </tr>
   
-</table><br>
+</tbody></table><br>
 
 **Voluntary and Compulsory Winding Up**<br>
 
 <table>
-<tr>
+<tbody><tr>
   <td>Subject Matter</td>
   <td>Requirements under Companies Act</td>
   <td>Requirements under IRDA</td>
@@ -98,12 +94,12 @@ Pursuant to section 192(1) of the IRDA, every liquidator must lodge <b>with the 
 Within <b>7 days</b> after lodging the account and statement with the OR, the liquidator must lodge with the ROC a notice in the prescribed form of the lodgment of that account and statement.</td>
  </tr>
    
-</table><br>
+</tbody></table><br>
 
 **Compulsory Winding Up**<br>
 
 <table>
-<tr>
+<tbody><tr>
   <td>Subject Matter</td>
   <td>Requirements under Companies Act</td>
   <td>Requirements under IRDA</td>
@@ -145,7 +141,7 @@ Pursuant to rule 139(1) of the IRD (Corporate Insolvency and Restructuring) Rule
   All applications shall be sent to the OR via the online enquiry form on our website at <a href="https://eservices.mlaw.gov.sg/enquiry/">https://eservices.mlaw.gov.sg/enquiry/</a>.
   </td>
  </tr>   
-</table><br>
+</tbody></table><br>
 
 **9. Are there any new e-Services introduced to support the filing requirements under the IRDA?**<br>
 
