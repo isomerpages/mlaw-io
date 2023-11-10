@@ -3,9 +3,9 @@ title: Notices
 permalink: /corporate-insolvency/notices/
 breadcrumb: Notices
 third_nav_title: Statistics & Notices
+variant: markdown
 ---
-NOTICES 
----
+
 
 *Current Notices*
 -
@@ -17,29 +17,25 @@ NOTICES
 **Insolvency, Restructuring and Dissolution (Simplified Winding Up) Regulations 2021**
 <br><br>
 
-*(1) Notice of Application*
-<br>
-[29-Sep-2023 Notice of Application into Simplified Winding Up Programme](/files/29-09-2023%20application%20swu.pdf)
-
-
-
-*(2) Notices of Acceptance and Rejection*
+*(1) Notices of Acceptance and Rejection*
 <br>
 [27-Oct-2023 Notice of Acceptance into Simplified Winding Up Programme](/files/27-10-2023%20application%20swu.pdf)
-<br>[29-Sep-2023 Notice of Acceptance into Simplified Winding Up Programme](/files/29-09-2023%20notice%20of%20acceptance.pdf)
 
-
- *(3) Notices of Dividend*
+ *(2) Notices of Dividend*
    <br>
 [27-Oct-2023 Notice of Dividend for Also Dominie Pte. Ltd. (SW 22/2021)](/files/sw22-2021%20notice%20of%20dividend.pdf)
  <br>
 [13-Oct-2023 Notice of Dividend for Green Food Concepts (Pte. Ltd.) (SW 2/2023)](/files/sw2-2023%20notice%20of%20dividend.pdf)
 <br>
 <br>
-*(4) Notices of Striking off and Final Accounts*
-<br>[27-Oct-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/27-10-2023%20notice%20of%20striking%20off.pdf) and Final Accounts for [Fufo Pte. Ltd.](/files/sw15-2023%20final%20accounts.pdf) 
+*(3) Notices of Striking off and Final Accounts*
+<br>[27-Oct-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/27-10-2023%20notice%20of%20striking%20off.pdf) and Final Accounts for [Fufo Pte. Ltd. (SW15-2023)](/files/sw15-2023%20final%20accounts.pdf) 
 <br>
 <br>
+*(4) Notices of Intended Dissolution*
+<br>
+ [10-Nov-2023 Notice of Intended Dissolution](/files/sw2-2023%20notice%20of%20intended%20dissolution.pdf) and Final Accounts for [Green Food Concepts (Pte. Ltd.) (SW 2-2023)](/files/sw2-2023%20final%20account.pdf)<br>
+
 
 **Insolvency, Restructuring and Dissolution (Simplified Debt Restructuring) Regulations 2021**
 <br><br>
@@ -48,11 +44,17 @@ NOTICES
 <br>
 [13-Oct-2023 Notice of Application into Simplified Debt Restructuring Programme](/files/13-10-2023%20application%20sr.pdf)
 <br>
-[06-Oct-2023 Notice of Application into Simplified Debt Restructuring Programme](/files/06-10-2023%20application%20sr.pdf)
+<br>
+*(2) Notices of Acceptance and Rejection*
+<br>
+[10-Nov-2023 Notice of Rejection for Simplified Debt Restructuring Programme](/files/10-11-2023%20notice%20of%20rejection.pdf)
 <br>
 <br>
- 
-
+*(3) Notices of Discharge*
+<br>
+[10-Nov-2023 Notice of Discharge from Simplified Debt Restructuring Programme](/files/10-11-2023%20notice%20of%20discharge.pdf)
+<br>
+<br>
 *Past Notices*
 -
 <br>
@@ -65,6 +67,8 @@ NOTICES
 
 
 *(1) Notices of Application*
+<br>
+[29-Sep-2023 Notice of Application into Simplified Winding Up Programme](/files/29-09-2023%20application%20swu.pdf)
 <br>[22-Sep-2023 Notice of Application into Simplified Winding Up Programme](/files/22-09-2023%20application%20swu.pdf)
 <br>[04-Aug-2023 Notice of Application into Simplified Winding Up Programme](/files/04-08-2023%20application%20swu.pdf)
 <br>[28-July-2023 Notice of Application into Simplified Winding UP Programme](/files/28-07-2023%20application%20swu.pdf)
@@ -122,6 +126,8 @@ NOTICES
 <br>
 <br>
 *(2) Notices of Acceptance and Rejection*
+<br>
+[29-Sep-2023 Notice of Application into Simplified Winding Up Programme](/files/29-09-2023%20application%20swu.pdf)
 <br>[15-Sep-2023 Notice of Acceptance into Simplified Winding Up Programme](/files/15-09-2023%20notice%20of%20acceptance.pdf)
 <br>
 [04-Aug-2023 Notice of Acceptance into Simplified Winding Up Programme](/files/04-08-2023%20notice%20of%20acceptance.pdf)
@@ -252,6 +258,8 @@ NOTICES
 <br>
 
 *(1) Notices of Application*
+<br>
+[06-Oct-2023 Notice of Application into Simplified Debt Restructuring Programme](/files/06-10-2023%20application%20sr.pdf)
 <br>
 [10-Mar-2023 Notice of Application into Simplified Debt Restructuring Programme](/files/10-03-2023%20Application%20SR.pdf){:target="_blank"} (33.1KB) 
 <br>
