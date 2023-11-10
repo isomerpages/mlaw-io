@@ -13,4 +13,4 @@ With effect from 1 May 2022, Credit Counselling Singapore (CCS) is introducing i
 
 The services offered include general enquiry assistance, assistance with filing Statement of Affairs, employment assistance, counselling that helps improve financial, mental, emotional and relationship well-being. 
 
-Please visit [this link](https://ccs.org.sg/bsp/)(https://ccs.org.sg/brp/) to sign up for CCS’s bi-monthly information talk to find out more! <br>
+Please visit [this link](https://ccs.org.sg/bsp/)(https://ccs.org.sg/brp/) to sign up for CCS’s information talk conducted monthly to find out more!<br>
