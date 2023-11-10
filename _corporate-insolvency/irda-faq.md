@@ -22,7 +22,7 @@ Pursuant to rule 64 of the IRD (Corporate Insolvency and Restructuring) Rules 20
 
 **4. How do I pay the winding up deposit?**<br>
 
-You may pay the winding up deposit via our eCollection Portal at <a href="https://eservices.mlaw.gov.sg/ecoll/">https://eservices.mlaw.gov.sg/ecoll/</a>. Upon successful payment via the eCollection Portal, you will receive an auto-generated payment summary as proof of payment of the winding up application.  
+You may pay the winding up deposit via MinLaw e-services eCollection Portal at <a href="https://eservices.mlaw.gov.sg/io">https://eservices.mlaw.gov.sg/io</a>. Upon successful payment via the eCollection Portal, you will receive an auto-generated payment summary as proof of payment of the winding up application.  
 
 **5. Will the IRDA provisions apply to a company that is wound up under the Companies Act (Cap. 50) (“CA”)?**<br>
 
@@ -54,7 +54,7 @@ A list of the changes is summarised in the table below: <br>
   <td>
 Pursuant to section 161(1) of the IRDA, where the directors of a company have made and lodge with the OR a statutory declaration in the prescribed form, the directors must immediately appoint a licensed insolvency practitioner to be the provisional liquidator. <br>
 <br>
-This statutory declaration must be lodged with the OR via the Insolvency Office e-Services at <a href="https://eservices.mlaw.gov.sg/io/">https://eservices.mlaw.gov.sg/io/</a> under "Corporate Insolvency". Upon successful login, click on E-Services and select "Submit Statutory Declaration on Company's Inability to Continue Business by Reason of its Liabilities".<br>
+This statutory declaration must be lodged with the OR via the Insolvency Office e-Services at <a href="https://eservices.mlaw.gov.sg/io/">https://eservices.mlaw.gov.sg/io/</a> under "For Company Officers". Upon successful login, click on E-Services and select "Submit Statutory Declaration on Company's Inability to Continue Business by Reason of its Liabilities".<br>
 <br>
 Payment of the lodgment fee shall be made online.
 </td>
@@ -66,7 +66,7 @@ Payment of the lodgment fee shall be made online.
   <td>The liquidator is not required to send a copy of the said advertisement to the OR.</td>
   <td>Pursuant to section 180(2)(d) of the IRDA, the liquidator must send to the OR a copy of the advertisement on the holding of a final meeting within 7 days after its publication. <br>
 <br>
-    The liquidator must submit a copy of the advertisement to the OR via the Insolvency Office e-Services at <a href="https://eservices.mlaw.gov.sg/io/">https://eservices.mlaw.gov.sg/io/</a> under "Corporate Insolvency". Upon successful login, click on E-Services and select "Submit Advertisement on Holding of a Final Meeting Voluntary Winding Up".</td>
+    The liquidator must submit a copy of the advertisement to the OR via the Insolvency Office e-Services at <a href="https://eservices.mlaw.gov.sg/io/">https://eservices.mlaw.gov.sg/io/</a> under "For Liquidators/ Scheme Managers". Upon successful login, click on E-Services and select "Submit Advertisement on Holding of a Final Meeting Voluntary Winding Up".</td>
  </tr>
  <tr>
   <td>Advertisement on Holding of a Final Meeting (Voluntary Winding Up) <br>(Cont’d) </td>
@@ -138,7 +138,7 @@ Pursuant to rule 139(1) of the IRD (Corporate Insolvency and Restructuring) Rule
     a) the realisable assets of the company are insufficient to cover the expenses of the winding up; and<br>
     b) the affairs of the company do not require any further investigation.<br>
  <br>
-  All applications shall be sent to the OR via the Insolvency Office e-Services at <a href="https://eservices.mlaw.gov.sg/io/">https://eservices.mlaw.gov.sg/io/</a> under "Corporate Insolvency". Upon successful login, click on E-Services and select "Submit Early Dissolution Report". 
+  All applications shall be sent to the OR via the Insolvency Office e-Services at <a href="https://eservices.mlaw.gov.sg/io/">https://eservices.mlaw.gov.sg/io/</a> under "For Liquidators/ Scheme Managers". Upon successful login, click on E-Services and select "Submit Early Dissolution Report". 
   </td>
  </tr>   
 </tbody></table><br>
@@ -146,15 +146,20 @@ Pursuant to rule 139(1) of the IRD (Corporate Insolvency and Restructuring) Rule
 **9. Are there any new e-Services introduced to support the filing requirements under the IRDA?**<br>
 
 Yes, the following new e-Services are introduced to support the filing requirements under the IRDA: <br>
+For Company Officers:<br>
+1) Director’s Statutory Declaration on Company’s Inability to Continue Business by Reason of its Liabilities (VW Case)<br>
+
+For Liquidators/ Scheme Managers<br>
 1) Statement of Concurrence (CW Case) <br>
 2) Preliminary Report by Liquidator (CW Case) <br>
 3) Unclaimed assets to be paid to the OR (CW/VW Case) <br>
 4) Liquidator’s Accounts (CW Case) <br>
-5) Director’s Statutory Declaration on Company’s Inability to Continue Business by Reason of its Liabilities (VW Case)<br>
-6) Advertisement on Holding of a Final Meeting (Voluntary Winding Up) (VW Case) <br>
-7) Appointment as Scheme Manager (SA Case) <br>
+5) Advertisement on Holding of a Final Meeting (Voluntary Winding Up) (VW Case) <br>
+6) Appointment as Scheme Manager (SA Case) <br>
 
-You may access these e-Services at [https://eservices.mlaw.gov.sg/io/](https://eservices.mlaw.gov.sg/io/){:target="_blank"} under "Corporate Insolvency".<br>
+You may access these e-Services at [https://eservices.mlaw.gov.sg/io/](https://eservices.mlaw.gov.sg/io/){:target="_blank"}.<br>
+
+The guides to the above e-services can be found at [https://io.mlaw.gov.sg/corporate-insolvency/guides/](https://io.mlaw.gov.sg/corporate-insolvency/guides/){:target="_blank"}.<br>
 
 **10. Are any of the new e-Services available for use by companies that are wound up under the Companies Act (Cap. 50) (“CA”)?**<br>
 
