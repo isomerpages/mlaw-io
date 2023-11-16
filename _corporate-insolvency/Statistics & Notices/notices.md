@@ -262,6 +262,8 @@ variant: markdown
 
 *(1) Notices of Application*
 <br>
+[13-Oct-2023 Notice of Application into Simplified Debt Restructuring Programme](/files/13-10-2023%20application%20sr.pdf)
+<br>
 [06-Oct-2023 Notice of Application into Simplified Debt Restructuring Programme](/files/06-10-2023%20application%20sr.pdf)
 <br>
 [10-Mar-2023 Notice of Application into Simplified Debt Restructuring Programme](/files/10-03-2023%20Application%20SR.pdf){:target="_blank"} (33.1KB) 
