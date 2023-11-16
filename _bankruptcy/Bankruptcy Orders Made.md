@@ -6,11 +6,6 @@ variant: markdown
 ---
 **Please click on the links below for more information**&nbsp;:<br>
 
-
-[Bankruptcy Orders made on 12 October (Week 42)](/files/(20oct23)bankruptcyordersmadeon12%20october(week42).pdf)<br>
-
-[Bankruptcy Orders made on 13 October (Week 42)](/files/(20oct23)bankruptcyordersmadeon13october(week42).pdf)<br>
-
 [Bankruptcy Orders made on 18 October (Week 43)](/files/(271023)bankruptcyordersmadeon18october(week43).pdf)<br>
 
 [Bankruptcy Orders made on 19 October (Week 43)](/files/(271023)bankruptcyordersmadeon19october(week43).pdf)<br>
@@ -19,7 +14,7 @@ variant: markdown
 
 [Bankruptcy Orders made on 2 November (Week 45)](/files/(091123)bankruptcyordersmadeon2november(week45).pdf)<br>
 
-[Bankruptcy Orders made on 9 November (Week 46)](/files/_161123_BankruptcyOrdersmadeon9November_Week46_.pdf)
+[Bankruptcy Orders made on 9 November (Week 46)](/files/_161123_BankruptcyOrdersmadeon9November_Week46_.pdf)<br>
 
 
 
