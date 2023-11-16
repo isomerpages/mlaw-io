@@ -40,17 +40,12 @@ variant: markdown
 **Insolvency, Restructuring and Dissolution (Simplified Debt Restructuring) Regulations 2021**
 <br><br>
 
-*(1) Notices of Application*
-<br>
-[13-Oct-2023 Notice of Application into Simplified Debt Restructuring Programme](/files/13-10-2023%20application%20sr.pdf)
-<br>
-<br>
-*(2) Notices of Acceptance and Rejection*
+*(1) Notices of Acceptance and Rejection*
 <br>
 [10-Nov-2023 Notice of Rejection for Simplified Debt Restructuring Programme](/files/10-11-2023%20notice%20of%20rejection.pdf)
 <br>
 <br>
-*(3) Notices of Discharge*
+*(2) Notices of Discharge*
 <br>
 [10-Nov-2023 Notice of Discharge from Simplified Debt Restructuring Programme](/files/10-11-2023%20notice%20of%20discharge.pdf)
 <br>
