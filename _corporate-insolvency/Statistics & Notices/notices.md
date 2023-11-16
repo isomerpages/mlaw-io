@@ -5,8 +5,6 @@ breadcrumb: Notices
 third_nav_title: Statistics & Notices
 variant: markdown
 ---
-
-
 *Current Notices*
 -
 <br>
@@ -24,15 +22,17 @@ variant: markdown
  *(2) Notices of Dividend*
    <br>
 [27-Oct-2023 Notice of Dividend for Also Dominie Pte. Ltd. (SW 22/2021)](/files/sw22-2021%20notice%20of%20dividend.pdf)
- <br>
-[13-Oct-2023 Notice of Dividend for Green Food Concepts (Pte. Ltd.) (SW 2/2023)](/files/sw2-2023%20notice%20of%20dividend.pdf)
 <br>
 <br>
 *(3) Notices of Striking off and Final Accounts*
+<br>
+[17-Nov-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/17_11_2023_notice_of_striking_off.pdf) and Final Accounts for [Refreshing Moment Pte. Ltd. (SW17-2023)](/files/sw17_2023_final_accounts.pdf) 
 <br>[27-Oct-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/27-10-2023%20notice%20of%20striking%20off.pdf) and Final Accounts for [Fufo Pte. Ltd. (SW15-2023)](/files/sw15-2023%20final%20accounts.pdf) 
 <br>
 <br>
 *(4) Notices of Intended Dissolution*
+<br>
+[17-Nov-2023 Notice of Intended Dissolution](/files/sw15_2021_notice_of_intended_dissolution.pdf) and Final Accounts for [A Phat Phinball Pte. Ltd. (SW 15-2021)](/files/sw15_2021_final_account.pdf)
 <br>
  [10-Nov-2023 Notice of Intended Dissolution](/files/sw2-2023%20notice%20of%20intended%20dissolution.pdf) and Final Accounts for [Green Food Concepts (Pte. Ltd.) (SW 2-2023)](/files/sw2-2023%20final%20account.pdf)<br>
 
@@ -40,17 +40,12 @@ variant: markdown
 **Insolvency, Restructuring and Dissolution (Simplified Debt Restructuring) Regulations 2021**
 <br><br>
 
-*(1) Notices of Application*
-<br>
-[13-Oct-2023 Notice of Application into Simplified Debt Restructuring Programme](/files/13-10-2023%20application%20sr.pdf)
-<br>
-<br>
-*(2) Notices of Acceptance and Rejection*
+*(1) Notices of Acceptance and Rejection*
 <br>
 [10-Nov-2023 Notice of Rejection for Simplified Debt Restructuring Programme](/files/10-11-2023%20notice%20of%20rejection.pdf)
 <br>
 <br>
-*(3) Notices of Discharge*
+*(2) Notices of Discharge*
 <br>
 [10-Nov-2023 Notice of Discharge from Simplified Debt Restructuring Programme](/files/10-11-2023%20notice%20of%20discharge.pdf)
 <br>
@@ -234,6 +229,8 @@ variant: markdown
 
  *(6) Notices of Dividend*
   <br>
+[13-Oct-2023 Notice of Dividend for Green Food Concepts (Pte. Ltd.) (SW 2/2023)](/files/sw2-2023%20notice%20of%20dividend.pdf)
+ <br>
 [28-July-2023 Notice of Dividend for A Phant Pinball Pte. Ltd. (SW 15/2021)](/files/sw15-2021%20notice%20of%20dividend.pdf)
 <br>
  [10-Mar-2023 Notice of Dividend for Mars Candy Pte. Ltd. (SW 33/2021) ](/files/SW33-2021%20Notice%20of%20Dividend.pdf){:target="_blank"} (31.84KB) 
@@ -258,6 +255,8 @@ variant: markdown
 <br>
 
 *(1) Notices of Application*
+<br>
+[13-Oct-2023 Notice of Application into Simplified Debt Restructuring Programme](/files/13-10-2023%20application%20sr.pdf)
 <br>
 [06-Oct-2023 Notice of Application into Simplified Debt Restructuring Programme](/files/06-10-2023%20application%20sr.pdf)
 <br>
