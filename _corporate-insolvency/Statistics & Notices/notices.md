@@ -233,6 +233,8 @@ variant: markdown
 
  *(6) Notices of Dividend*
   <br>
+[13-Oct-2023 Notice of Dividend for Green Food Concepts (Pte. Ltd.) (SW 2/2023)](/files/sw2-2023%20notice%20of%20dividend.pdf)
+ <br>
 [28-July-2023 Notice of Dividend for A Phant Pinball Pte. Ltd. (SW 15/2021)](/files/sw15-2021%20notice%20of%20dividend.pdf)
 <br>
  [10-Mar-2023 Notice of Dividend for Mars Candy Pte. Ltd. (SW 33/2021) ](/files/SW33-2021%20Notice%20of%20Dividend.pdf){:target="_blank"} (31.84KB) 
