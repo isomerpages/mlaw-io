@@ -28,7 +28,7 @@ variant: markdown
 <br>
 *(3) Notices of Striking off and Final Accounts*
 <br>
-[17-Nov-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/17-11-2023%20notice%20of%20striking%20off.pdf) and Final Accounts for [Refreshing Moment Pte. Ltd. (SW17-2023)](/files/sw17-2023%20final%20accounts.pdf) 
+[17-Nov-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/17_11_2023_notice_of_striking_off.pdf) and Final Accounts for [Refreshing Moment Pte. Ltd. (SW17-2023)](/files/sw17-2023%20final%20accounts.pdf) 
 <br>[27-Oct-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/27-10-2023%20notice%20of%20striking%20off.pdf) and Final Accounts for [Fufo Pte. Ltd. (SW15-2023)](/files/sw15-2023%20final%accounts.pdf) 
 <br>
 <br>
