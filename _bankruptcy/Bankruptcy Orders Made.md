@@ -14,8 +14,3 @@ variant: markdown
 
 [Bankruptcy Orders made on 2 November (Week 45)](/files/(091123)bankruptcyordersmadeon2november(week45).pdf)<br>
 
-[Bankruptcy Orders made on 9 November (Week 46)](/files/_161123_BankruptcyOrdersmadeon9November_Week46_.pdf)<br>
-
-
-
-
