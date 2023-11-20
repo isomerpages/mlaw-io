@@ -2,6 +2,7 @@
 title: Statistics
 permalink: /bankruptcy/statistics/
 breadcrumb: Statistics
+variant: markdown
 ---
 Statistics
 ---
@@ -10,4 +11,4 @@ Statistics
 
 **Individual Insolvency**
 
-[Number of Bankruptcy Applications Orders Made and Discharges (September 2023)](/files/(24oct23)numberofbankruptcyapplicationsordersmadeanddischarges(october2023).pdf)(224 KB)
+[Number of Bankruptcy Applications, Orders Made and Discharges (October 2023)](/files/201123numberofbankruptcyapplicationsordersmadeanddischargesoctober2023.pdf)
