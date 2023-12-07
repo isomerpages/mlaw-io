@@ -27,7 +27,7 @@ variant: markdown
 
 *(3) Notices of Striking off and Final Accounts*
 <br>
-[08-Dec-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/08122023noticeofstrikingoff.pdf) and Final Accounts for [Posh Asia Investment Pte. Ltd. (SW12-2023)](/files/sw122023finalaccounts.pdf) 
+[08-Dec-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/08122023noticeofstrikingoff.pdf) and Final Accounts for [Posh Asia Investment Pte. Ltd. (SW12-2023)](/files/08122023sw122023finalaccounts.pdf) 
 <br>
 [17-Nov-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/17_11_2023_notice_of_striking_off.pdf) and Final Accounts for [Refreshing Moment Pte. Ltd. (SW17-2023)](/files/sw17_2023_final_accounts.pdf) 
 <br>
