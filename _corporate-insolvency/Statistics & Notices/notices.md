@@ -15,6 +15,11 @@ variant: markdown
 **Insolvency, Restructuring and Dissolution (Simplified Winding Up) Regulations 2021**
 <br><br>
 
+*(1) Notices of Application*
+<br>
+[08-Dec-2023 Notice of Application into Simplified Winding Up Programme](/files/08122023applicationswu.pdf)
+<br>
+
 *(1) Notices of Acceptance and Rejection*
 <br>
 [27-Oct-2023 Notice of Acceptance into Simplified Winding Up Programme](/files/27-10-2023%20application%20swu.pdf)
