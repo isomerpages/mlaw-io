@@ -23,16 +23,13 @@ variant: markdown
 *(2) Notices of Acceptance and Rejection*
 <br>
 [08-Dec-2023 Notice of Acceptance into Simplified Winding Up Programme](/files/08122023acceptanceswu.pdf)
+<br>
 
- *(2) Notices of Dividend*
-   <br>
-[27-Oct-2023 Notice of Dividend for Also Dominie Pte. Ltd. (SW 22/2021)](/files/sw22-2021%20notice%20of%20dividend.pdf)
-<br>
-<br>
 *(3) Notices of Striking off and Final Accounts*
 <br>
+[08-Dec-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/08122023noticeofstrikingoff.pdf) and Final Accounts for [Posh Asia Investment Pte. Ltd. (SW12-2023)](/files/sw122023finalaccounts.pdf) 
+<br>
 [17-Nov-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/17_11_2023_notice_of_striking_off.pdf) and Final Accounts for [Refreshing Moment Pte. Ltd. (SW17-2023)](/files/sw17_2023_final_accounts.pdf) 
-<br>[27-Oct-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/27-10-2023%20notice%20of%20striking%20off.pdf) and Final Accounts for [Fufo Pte. Ltd. (SW15-2023)](/files/sw15-2023%20final%20accounts.pdf) 
 <br>
 <br>
 *(4) Notices of Intended Dissolution*
@@ -187,6 +184,7 @@ variant: markdown
 [14-May-2021 Notice of Rejection for Simplified Winding Up Programme](/files/14-05-2021%20Notice%20of%20Rejection.pdf){:target="_blank"} (282KB) <br>
 <br>
 *(3) Notices of Striking off and Final Accounts*
+<br>[27-Oct-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/27-10-2023%20notice%20of%20striking%20off.pdf) and Final Accounts for [Fufo Pte. Ltd. (SW15-2023)](/files/sw15-2023%20final%20accounts.pdf) 
 <br>[25-Aug-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/25-08-2023%20notice%20of%20striking%20off.pdf) and Final Accounts for [Nomad Two Worlds Global Holdings Pte. Ltd.](/files/sw19-2022%20final%20accounts.pdf) , Final Accounts for [Green Cleaning Solutions Pte. Ltd.](/files/sw10-2023%20final%20accounts.pdf) and Final Accounts for [Green Millennium Services Pte. Ltd.](/files/sw9-2023%20final%20accounts.pdf)
 <br>[18-Aug-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/18-08-2023%20notice%20of%20striking%20off.pdf) and Final Accounts for [Novo Acai &amp; Granola Pte. Ltd. (SW4-2023)](/files/sw4-2023%20final%20accounts.pdf)
 <br>[04-Aug-2023 Notice of Striking Off from Simplified Winding Up Programme](/files/04-08-2023%20notice%20of%20striking%20off.pdf) and Final Accounts for [Unicable (S) Pte Ltd (SW 3/2023)](/files/sw%203-2023%20final%20accounts.pdf) and Final Accounts for [The Blind Group Pte Ltd (SW 6/2023)](/files/sw%206-2023%20final%20accounts.pdf)
@@ -236,6 +234,8 @@ variant: markdown
 
  *(6) Notices of Dividend*
   <br>
+[27-Oct-2023 Notice of Dividend for Also Dominie Pte. Ltd. (SW 22/2021)](/files/sw22-2021%20notice%20of%20dividend.pdf)
+<br>
 [13-Oct-2023 Notice of Dividend for Green Food Concepts (Pte. Ltd.) (SW 2/2023)](/files/sw2-2023%20notice%20of%20dividend.pdf)
  <br>
 [28-July-2023 Notice of Dividend for A Phant Pinball Pte. Ltd. (SW 15/2021)](/files/sw15-2021%20notice%20of%20dividend.pdf)
