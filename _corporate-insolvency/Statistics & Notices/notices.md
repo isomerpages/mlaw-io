@@ -20,9 +20,9 @@ variant: markdown
 [08-Dec-2023 Notice of Application into Simplified Winding Up Programme](/files/08122023applicationswu.pdf)
 <br>
 
-*(1) Notices of Acceptance and Rejection*
+*(2) Notices of Acceptance and Rejection*
 <br>
-[27-Oct-2023 Notice of Acceptance into Simplified Winding Up Programme](/files/27-10-2023%20application%20swu.pdf)
+[08-Dec-2023 Notice of Acceptance into Simplified Winding Up Programme](/files/08122023acceptanceswu.pdf)
 
  *(2) Notices of Dividend*
    <br>
@@ -126,6 +126,8 @@ variant: markdown
 <br>
 <br>
 *(2) Notices of Acceptance and Rejection*
+<br>
+[27-Oct-2023 Notice of Acceptance into Simplified Winding Up Programme](/files/27-10-2023%20application%20swu.pdf)
 <br>
 [29-Sep-2023 Notice of Application into Simplified Winding Up Programme](/files/29-09-2023%20application%20swu.pdf)
 <br>[15-Sep-2023 Notice of Acceptance into Simplified Winding Up Programme](/files/15-09-2023%20notice%20of%20acceptance.pdf)
