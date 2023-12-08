@@ -3,6 +3,7 @@ title: User Guide for eServices
 permalink: /bankruptcy/information-for-bankrupts/userguides/
 description: ""
 third_nav_title: Information for Bankrupts
+variant: markdown
 ---
 ##### **Please click on the links below for more information**&nbsp;:<br>
 
@@ -18,3 +19,5 @@ third_nav_title: Information for Bankrupts
 [How to retrieve Case Information (IIAI)](/files/(180923)howtoretrievecaseinformation(iiai).pdf)<br>
      
 [How to submit a Travel Application](/files/(210923)howtosubmitatravelapplication.pdf)<br>
+
+[Steps to proceed to Home page of Insolvent Person's portal](/files/07122023StepstoproceedtoHomepageoInsolventPersonportal.pdf)
