@@ -3,6 +3,7 @@ title: Statistics
 permalink: /corporate-insolvency/statistics/
 breadcrumb: Statistics
 third_nav_title: Statistics & Notices
+variant: markdown
 ---
 Statistics
 ---
@@ -11,4 +12,4 @@ Statistics
 
 **Corporate Insolvency**
 
-[Companies in Compulsory Liquidation](/files/companiesliquidationsept2023.pdf)
+[Companies in Compulsory Liquidation](/files/companiesliquidationoct2023.pdf)
