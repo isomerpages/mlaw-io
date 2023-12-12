@@ -2,6 +2,7 @@
 title: Information for Debtors
 permalink: /debt-repayment-scheme/information-for-debtors/
 breadcrumb: Information for Debtors
+variant: markdown
 ---
 Information for Debtors
 ---
@@ -24,7 +25,7 @@ You have to fulfil all of the following eligibility criteria:<br>
 You will be deemed ineligible for DRS if you fail to meet any of the criteria stated above, and the OA will not further assess the matter.<br>
 
 **3. Am I suitable for DRS?**<br>
-If you satisfy the eligibility criteria, your suitability to be placed on the DRS will be further assessed by the OA. You have to submit documents online concerning your financial affairs, income and expenditure, as well as your proposed debt repayment plan to your creditors. You will also need to submit relevant supporting documents to substantiate your declaration. You must also not be a director in any firm as you may be subject to business liabilities while acting in your capacity as a director.<br>
+If you satisfy the eligibility criteria, your suitability to be placed on the DRS will be further assessed by the OA. You have to submit documents online concerning your financial affairs, income and expenditure, as well as your proposed debt repayment plan to your creditors. You will also need to submit relevant supporting documents to substantiate your declaration. <br>
 
 If you are found to be suitable for the DRS, a DRS administrator will devise a Debt Repayment Plan (“DRP”) for you. However, should the OA assess that you are unsuitable, or if you fail to comply with the OA’s instructions, you will be deemed unsuitable and your case will be referred back to Court for the bankruptcy proceedings to be heard again.<br>
 
