@@ -252,8 +252,6 @@ variant: markdown
 <br>
  *(7) Notices of Intended Dissolution*
 <br>
- [10-Nov-2023 Notice of Intended Dissolution](/files/sw2-2023%20notice%20of%20intended%20dissolution.pdf) and Final Accounts for [Green Food Concepts (Pte. Ltd.) (SW 2-2023)](/files/sw2-2023%20final%20account.pdf)
-<br>
  [17-Mar-2023 Notice of Intended Dissolution](/files/SW33-2021%20Notice%20of%20Intended%20Dissolution.pdf){:target="_blank"} (10.13KB) and Final Accounts for [Mars Candy Pte. Ltd. (SW 33-2021)](/files/SW33-2021%20Final%20account.pdf){:target="_blank"} (201.2KB)<br>
  [06-Jan-2023 Notice of Intended Dissolution](/files/06-01-2023%20Notice%20of%20Intended%20Dissolution.pdf){:target="_blank"} (11.3KB) and Final Accounts for [Delight 8 Cafe Pte. Ltd. (SW 2-2021)](/files/06-01-2023%20Final%20Account.pdf){:target="_blank"} (206.KB)<br>
 [28-Oct-2022 Notice of Intended Dissolution](/files/SW6-2022%20Notice%20of%20Intended%20Dissolution.pdf){:target="\_blank"} (11.3KB) and Final Accounts for&nbsp;[Astral Nanotec Pte. Ltd. (SW 6/2022)](/files/SW6-2022%20Final%20Account.pdf){:target="\_blank"} (219.KB) <br>[26-Aug-2022 Notice of Intended Dissolution](/files/SW16-2021%20Notice%20of%20Intended%20Dissolution.pdf){:target="_blank"} (9.62KB)and Final Accounts for [Blavk Pte. Ltd. (SW 16-2021)](/files/SW16-2021%20Final%20Account.pdf){:target="_blank"} (23.1KB) <br>
