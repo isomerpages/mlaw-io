@@ -22,6 +22,8 @@ variant: markdown
 
 *(2) Notices of Acceptance and Rejection*
 <br>
+[15-Dec-2023 Notice of Acceptance into Simplified Winding Up Programme](/files/15122023acceptanceswu.pdf)
+<br>
 [08-Dec-2023 Notice of Acceptance into Simplified Winding Up Programme](/files/08122023acceptanceswu.pdf)
 <br>
 
