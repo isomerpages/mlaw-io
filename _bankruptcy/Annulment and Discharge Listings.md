@@ -15,6 +15,5 @@ variant: markdown
 
 [Annulment and Discharge Listings (Week 50)](/files/151223AnnulmentandDischargeListingsWeek50.pdf)
 
-
 [Annulment and Discharge Listings dated 12 December 2023](/files/211223AnnulmentandDischargeListingsdated12December2023.pdf)
 
