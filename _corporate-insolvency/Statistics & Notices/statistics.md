@@ -12,4 +12,4 @@ Statistics
 
 **Corporate Insolvency**
 
-[Companies in Compulsory Liquidation](/files/companiesliquidationoct2023.pdf)
+[Companies in Compulsory Liquidation](/files/companiesliquidationnov2023.pdf)
