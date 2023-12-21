@@ -17,6 +17,8 @@ variant: markdown
 
 *(1) Notices of Application*
 <br>
+[22-Dec-2023 Notice of Application into Simplified Winding Up Programme](/files/22122023applicationswu.pdf)
+<br>
 [08-Dec-2023 Notice of Application into Simplified Winding Up Programme](/files/08122023applicationswu.pdf)
 <br>
 
