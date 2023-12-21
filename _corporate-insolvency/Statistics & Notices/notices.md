@@ -32,17 +32,11 @@ variant: markdown
 *(3) Notices of Striking off and Final Accounts*
 <br>
 [08-Dec-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/08122023noticeofstrikingoff.pdf) and Final Accounts for [Posh Asia Investment Pte. Ltd. (SW12-2023)](/files/08122023sw122023finalaccounts.pdf) 
-<br>
-[17-Nov-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/17_11_2023_notice_of_striking_off.pdf) and Final Accounts for [Refreshing Moment Pte. Ltd. (SW17-2023)](/files/sw17_2023_final_accounts.pdf) 
-<br>
-<br>
+
 *(4) Notices of Intended Dissolution*
 <br>
 [22-Dec-2023 Notice of Intended Dissolution](/files/22122023noticeofintendeddissolution.pdf) and Final Accounts for [Also Dominie Pte. Ltd. (SW 22-2021)](/files/22122023finalaccounts.pdf)
 <br>
-[17-Nov-2023 Notice of Intended Dissolution](/files/sw15_2021_notice_of_intended_dissolution.pdf) and Final Accounts for [A Phat Phinball Pte. Ltd. (SW 15-2021)](/files/sw15_2021_final_account.pdf)
-<br>
- [10-Nov-2023 Notice of Intended Dissolution](/files/sw2-2023%20notice%20of%20intended%20dissolution.pdf) and Final Accounts for [Green Food Concepts (Pte. Ltd.) (SW 2-2023)](/files/sw2-2023%20final%20account.pdf)<br>
 
 <br>
 <br>
