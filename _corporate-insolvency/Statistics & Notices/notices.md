@@ -44,18 +44,6 @@ variant: markdown
 <br>
  [10-Nov-2023 Notice of Intended Dissolution](/files/sw2-2023%20notice%20of%20intended%20dissolution.pdf) and Final Accounts for [Green Food Concepts (Pte. Ltd.) (SW 2-2023)](/files/sw2-2023%20final%20account.pdf)<br>
 
-
-**Insolvency, Restructuring and Dissolution (Simplified Debt Restructuring) Regulations 2021**
-<br><br>
-
-*(1) Notices of Acceptance and Rejection*
-<br>
-[10-Nov-2023 Notice of Rejection for Simplified Debt Restructuring Programme](/files/10-11-2023%20notice%20of%20rejection.pdf)
-<br>
-<br>
-*(2) Notices of Discharge*
-<br>
-[10-Nov-2023 Notice of Discharge from Simplified Debt Restructuring Programme](/files/10-11-2023%20notice%20of%20discharge.pdf)
 <br>
 <br>
 *Past Notices*
@@ -289,6 +277,8 @@ variant: markdown
 <br>
 *(2) Notices of Acceptance and Rejection*
 <br>
+[10-Nov-2023 Notice of Rejection for Simplified Debt Restructuring Programme](/files/10-11-2023%20notice%20of%20rejection.pdf)
+<br>
 [12-May-2023 Notice of Acceptance for Simplified Debt Restructuring Programme](/files/12-05-2023%20notice%20of%20acceptance%20sdr.pdf){:target="_blank"} (33.1KB) 
 <br>
 [10-Feb-2023 Notice of Rejection for Simplified Debt Restructuring Programme](/files/10-02-2023%20Notice%20Of%20Rejection.pdf){:target="_blank"} (83.10KB)
@@ -301,5 +291,7 @@ variant: markdown
 [16-May-2023 Notice of Court Application (Scheme of Arrangement) for Simplified Debt Restructuring Programme](/files/16-05-2023%20notice%20of%20court%20application.pdf){:target="_blank"} (33.1KB)  
 <br>
 *(4) Notice of Discharge*
+<br>
+[10-Nov-2023 Notice of Discharge from Simplified Debt Restructuring Programme](/files/10-11-2023%20notice%20of%20discharge.pdf)
 <br>
 [07-July-2023 Notice of Discharge from Simplified Debt Restructuring Programme](/files/07-07-2023%20notice%20of%20discharge.pdf)
