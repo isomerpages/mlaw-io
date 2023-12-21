@@ -17,6 +17,8 @@ variant: markdown
 
 *(1) Notices of Application*
 <br>
+[22-Dec-2023 Notice of Application into Simplified Winding Up Programme](/files/22122023applicationswu.pdf)
+<br>
 [08-Dec-2023 Notice of Application into Simplified Winding Up Programme](/files/08122023applicationswu.pdf)
 <br>
 
@@ -30,28 +32,12 @@ variant: markdown
 *(3) Notices of Striking off and Final Accounts*
 <br>
 [08-Dec-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/08122023noticeofstrikingoff.pdf) and Final Accounts for [Posh Asia Investment Pte. Ltd. (SW12-2023)](/files/08122023sw122023finalaccounts.pdf) 
-<br>
-[17-Nov-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/17_11_2023_notice_of_striking_off.pdf) and Final Accounts for [Refreshing Moment Pte. Ltd. (SW17-2023)](/files/sw17_2023_final_accounts.pdf) 
-<br>
-<br>
+
 *(4) Notices of Intended Dissolution*
 <br>
-[17-Nov-2023 Notice of Intended Dissolution](/files/sw15_2021_notice_of_intended_dissolution.pdf) and Final Accounts for [A Phat Phinball Pte. Ltd. (SW 15-2021)](/files/sw15_2021_final_account.pdf)
+[22-Dec-2023 Notice of Intended Dissolution](/files/22122023noticeofintendeddissolution.pdf) and Final Accounts for [Also Dominie Pte. Ltd. (SW 22-2021)](/files/22122023finalaccounts.pdf)
 <br>
- [10-Nov-2023 Notice of Intended Dissolution](/files/sw2-2023%20notice%20of%20intended%20dissolution.pdf) and Final Accounts for [Green Food Concepts (Pte. Ltd.) (SW 2-2023)](/files/sw2-2023%20final%20account.pdf)<br>
 
-
-**Insolvency, Restructuring and Dissolution (Simplified Debt Restructuring) Regulations 2021**
-<br><br>
-
-*(1) Notices of Acceptance and Rejection*
-<br>
-[10-Nov-2023 Notice of Rejection for Simplified Debt Restructuring Programme](/files/10-11-2023%20notice%20of%20rejection.pdf)
-<br>
-<br>
-*(2) Notices of Discharge*
-<br>
-[10-Nov-2023 Notice of Discharge from Simplified Debt Restructuring Programme](/files/10-11-2023%20notice%20of%20discharge.pdf)
 <br>
 <br>
 *Past Notices*
@@ -186,6 +172,8 @@ variant: markdown
 [14-May-2021 Notice of Rejection for Simplified Winding Up Programme](/files/14-05-2021%20Notice%20of%20Rejection.pdf){:target="_blank"} (282KB) <br>
 <br>
 *(3) Notices of Striking off and Final Accounts*
+<br>
+[17-Nov-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/17_11_2023_notice_of_striking_off.pdf) and Final Accounts for [Refreshing Moment Pte. Ltd. (SW17-2023)](/files/sw17_2023_final_accounts.pdf) 
 <br>[27-Oct-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/27-10-2023%20notice%20of%20striking%20off.pdf) and Final Accounts for [Fufo Pte. Ltd. (SW15-2023)](/files/sw15-2023%20final%20accounts.pdf) 
 <br>[25-Aug-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/25-08-2023%20notice%20of%20striking%20off.pdf) and Final Accounts for [Nomad Two Worlds Global Holdings Pte. Ltd.](/files/sw19-2022%20final%20accounts.pdf) , Final Accounts for [Green Cleaning Solutions Pte. Ltd.](/files/sw10-2023%20final%20accounts.pdf) and Final Accounts for [Green Millennium Services Pte. Ltd.](/files/sw9-2023%20final%20accounts.pdf)
 <br>[18-Aug-2023 Notice of Striking Off for Simplified Winding Up Programme](/files/18-08-2023%20notice%20of%20striking%20off.pdf) and Final Accounts for [Novo Acai &amp; Granola Pte. Ltd. (SW4-2023)](/files/sw4-2023%20final%20accounts.pdf)
@@ -252,6 +240,10 @@ variant: markdown
 <br>
  *(7) Notices of Intended Dissolution*
 <br>
+[17-Nov-2023 Notice of Intended Dissolution](/files/sw15_2021_notice_of_intended_dissolution.pdf) and Final Accounts for [A Phat Phinball Pte. Ltd. (SW 15-2021)](/files/sw15_2021_final_account.pdf)
+<br>
+[10-Nov-2023 Notice of Intended Dissolution](/files/sw2-2023%20notice%20of%20intended%20dissolution.pdf) and Final Accounts for [Green Food Concepts (Pte. Ltd.) (SW 2-2023)](/files/sw2-2023%20final%20account.pdf)
+<br>
  [17-Mar-2023 Notice of Intended Dissolution](/files/SW33-2021%20Notice%20of%20Intended%20Dissolution.pdf){:target="_blank"} (10.13KB) and Final Accounts for [Mars Candy Pte. Ltd. (SW 33-2021)](/files/SW33-2021%20Final%20account.pdf){:target="_blank"} (201.2KB)<br>
  [06-Jan-2023 Notice of Intended Dissolution](/files/06-01-2023%20Notice%20of%20Intended%20Dissolution.pdf){:target="_blank"} (11.3KB) and Final Accounts for [Delight 8 Cafe Pte. Ltd. (SW 2-2021)](/files/06-01-2023%20Final%20Account.pdf){:target="_blank"} (206.KB)<br>
 [28-Oct-2022 Notice of Intended Dissolution](/files/SW6-2022%20Notice%20of%20Intended%20Dissolution.pdf){:target="\_blank"} (11.3KB) and Final Accounts for&nbsp;[Astral Nanotec Pte. Ltd. (SW 6/2022)](/files/SW6-2022%20Final%20Account.pdf){:target="\_blank"} (219.KB) <br>[26-Aug-2022 Notice of Intended Dissolution](/files/SW16-2021%20Notice%20of%20Intended%20Dissolution.pdf){:target="_blank"} (9.62KB)and Final Accounts for [Blavk Pte. Ltd. (SW 16-2021)](/files/SW16-2021%20Final%20Account.pdf){:target="_blank"} (23.1KB) <br>
@@ -279,6 +271,8 @@ variant: markdown
 <br>
 *(2) Notices of Acceptance and Rejection*
 <br>
+[10-Nov-2023 Notice of Rejection for Simplified Debt Restructuring Programme](/files/10-11-2023%20notice%20of%20rejection.pdf)
+<br>
 [12-May-2023 Notice of Acceptance for Simplified Debt Restructuring Programme](/files/12-05-2023%20notice%20of%20acceptance%20sdr.pdf){:target="_blank"} (33.1KB) 
 <br>
 [10-Feb-2023 Notice of Rejection for Simplified Debt Restructuring Programme](/files/10-02-2023%20Notice%20Of%20Rejection.pdf){:target="_blank"} (83.10KB)
@@ -291,5 +285,7 @@ variant: markdown
 [16-May-2023 Notice of Court Application (Scheme of Arrangement) for Simplified Debt Restructuring Programme](/files/16-05-2023%20notice%20of%20court%20application.pdf){:target="_blank"} (33.1KB)  
 <br>
 *(4) Notice of Discharge*
+<br>
+[10-Nov-2023 Notice of Discharge from Simplified Debt Restructuring Programme](/files/10-11-2023%20notice%20of%20discharge.pdf)
 <br>
 [07-July-2023 Notice of Discharge from Simplified Debt Restructuring Programme](/files/07-07-2023%20notice%20of%20discharge.pdf)
