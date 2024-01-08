@@ -11,4 +11,4 @@ Statistics
 
 **Individual Insolvency**
 
-[Number of Bankruptcy Applications, Orders Made and Discharges (October 2023)](/files/201123numberofbankruptcyapplicationsordersmadeanddischargesoctober2023.pdf)
+[Number of Bankruptcy Applications, Orders Made and Discharges (December 2023) (43KB)](/files/080124NumberofBankruptcyApplicationsOrdersMadeandDischargesDecember2023.pdf)
