@@ -3,6 +3,7 @@ title: PIR Forms IRDA (wef 30 July 2020)
 permalink: /bankruptcy/pirformsirdawef30july2020/
 description: ""
 third_nav_title: Forms
+variant: markdown
 ---
 PIR Forms – IRDA (wef 30 July 2020)
 -----------------------------------
@@ -41,10 +42,3 @@ The Bankruptcy Act and the forms under the Bankruptcy Rules have been repealed o
 | PIR-25     | Affidavit in Support of Creditor's Application for Administration of Estate of Deceased Debtor under Section 419 of Insolvency, Restructuring and Dissolution Act 2018     |[Form PIR-25](/files/(sep23_pir25)formpir-25.pdf)
 | PIR-26     | Order for Administration of Estate of Deceased Debtor     |[Form PIR-26](/files/(sep23_pir26)formpir-26.pdf)
 
-<br>
-<b>2. Applicant Creditor's Declaration under section 36 of the IRDA</b><br>
-
-
-| Description | Attachment |<br>
-| -------- | -------- | -------- |
-| Applicant Creditor's Declaration      | [Applicant Creditor's Declaration (s36 IRDA)](/files/ApplicantCreditor'sDeclaration(s36IRDA).pdf)
