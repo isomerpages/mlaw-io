@@ -2,6 +2,7 @@
 title: SIP FAQ
 permalink: /corporate-insolvency/sip-faq/
 breadcrumb: SIP FAQ
+variant: markdown
 ---
 SIMPLIFIED INSOLVENCY PROGRAMME FAQ
 ---
@@ -99,7 +100,7 @@ The fee structure is summarised in the table below:  <br>
 
 **10.What is the application period for the Simplified Insolvency Programme (“SIP”)?**<br>
 
-Companies may apply for the programmes under the SIP from 29 January 2021 to 28 January 2024.<br>
+Companies may apply for the programmes under the SIP from 29 January 2021 to 28 January 2026.<br>
 <br>
 
 *APPLICATION REQUIREMENTS - SIMPLIFIED DEBT RESTRUCTURING PROGRAMME*<br>
