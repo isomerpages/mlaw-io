@@ -114,7 +114,7 @@ The DRS is triggered by a bankruptcy application. When such an application is ma
  
 
 <b> 10. Other Suggested Readings </b><br>
-[Minlaw FAQs on Individual Insolvency ](https://console-flex-api.ap.sabio.cloud/faq/index.aspx?p=64759355)<br>
+[Minlaw FAQs on Individual Insolvency](https://console-flex-api.ap.sabio.cloud/faq/index.aspx?p=64759355)<br>
 [Information for Bankrupts](/bankruptcy/information-for-bankrupts/)<br>
 
  
