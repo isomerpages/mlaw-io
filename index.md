@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Insolvency Office
+title: Ministry of Law - Insolvency Office
 permalink: /
 notification: Please note that with effect from 7 April 2020, MinLaw Services
   Centre will no longer accept <u><b>cash payments</b></u>. With effect from 15
@@ -24,4 +24,6 @@ sections:
           url: /debt-repayment-scheme/about-debt-repayment-scheme/
         - title: Corporate Insolvency
           url: /corporate-insolvency/who-is-the-official-receiver/
+description: Description
+image: /images/isomer-logo.svg
 ---
