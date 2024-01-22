@@ -2,6 +2,7 @@
 title: Alternatives to Bankruptcy
 permalink: /bankruptcy/alternatives-to-bankruptcy/
 breadcrumb: Alternatives to Bankruptcy
+variant: markdown
 ---
 Alternatives to Bankruptcy
 ---
@@ -113,7 +114,7 @@ The DRS is triggered by a bankruptcy application. When such an application is ma
  
 
 <b> 10. Other Suggested Readings </b><br>
-[Minlaw FAQs on Individual Insolvency](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx)<br>
+[Minlaw FAQs on Individual Insolvency](https://console-flex-api.ap.sabio.cloud/faq/index.aspx?p=64759355)<br>
 [Information for Bankrupts](/bankruptcy/information-for-bankrupts/)<br>
 
  
@@ -124,4 +125,3 @@ If you have any further queries on bankruptcy, please send in your enquiries/fee
  
 
 Alternatively, you may visit us at our website at [https://www.mlaw.gov.sg/](https://www.mlaw.gov.sg/) or contact us at 1800-2255-529 (during office hours).
-
