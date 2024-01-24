@@ -1,0 +1,7 @@
+collections:
+  unclaimed-monies:
+    output: true
+    order:
+      - bankruptcy.md
+      - corporate-insolvency.md
+      - statistics.md
