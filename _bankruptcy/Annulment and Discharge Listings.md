@@ -2,14 +2,16 @@
 title: Annulment and Discharge Listings
 permalink: /bankruptcy/annulment-and-discharge-listings/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-**Please click on the links below for more information**&nbsp;:<br>
-
-[Annulment and Discharge Listings (Week 1)](/files/040124AnnulmentandDischargeListingsWeek1.pdf)
-
-[Annulment and Discharge Listings (Week 2)](/files/AnnulmentandDischargeListingsWeek2.pdf)
-
-[Annulment and Discharge Listings (Week 3)](/files/180124AnnulmentandDischargeListingsWeek3.pdf)
-
-[Annulment and Discharge Listings (Week 4)](/files/260124AnnulmentandDischargeListings_Week4_.pdf)
+<p><strong>Please click on the links below for more information</strong>&nbsp;:
+<br>
+</p>
+<p><a href="/files/Annulment &amp; Discharge Listings/AnnulmentandDischargeListingsWeek2.pdf" rel="noopener noreferrer nofollow" target="_blank">Annulment and Discharge Listings (Week 2)</a>
+</p>
+<p><a href="/files/Annulment &amp; Discharge Listings/180124AnnulmentandDischargeListingsWeek3.pdf" rel="noopener noreferrer nofollow" target="_blank">Annulment and Discharge Listings (Week 3)</a>
+</p>
+<p><a href="/files/Annulment &amp; Discharge Listings/260124AnnulmentandDischargeListings_Week4_.pdf" rel="noopener noreferrer nofollow" target="_blank">Annulment and Discharge Listings (Week 4)</a>
+</p>
+<p><a href="/files/Annulment &amp; Discharge Listings/Annulment_and_Discharge_Listings__Week_5_.pdf" rel="noopener noreferrer nofollow" target="_blank">Annulment and Discharge Listings (Week 5)</a>
+</p>
