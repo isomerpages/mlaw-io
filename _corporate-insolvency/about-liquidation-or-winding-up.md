@@ -1,11 +1,9 @@
 ---
-title: 'About Liquidation or Winding Up'
+title: About Liquidation or Winding Up
 permalink: /corporate-insolvency/about-liquidation-or-winding-up/
-breadcrumb: 'About Liquidation or Winding Up'
-
+breadcrumb: About Liquidation or Winding Up
+variant: markdown
 ---
-
-
 About Liquidation or Winding Up
 ---
 **What is liquidation or winding-up?**<br>
@@ -60,7 +58,7 @@ If a resolution is passed in favour of the winding up, the company will appoint 
 
 Under section 124 of the Insolvency, Restructuring and Dissolution Act 2018, the company itself, creditors, contributories, liquidator, judicial manager or the Minister may present a winding up application to the High Court.
 
-The applicant has to pay a winding up deposit of $10,400 to the Official Receiver, and the Court may appoint the Official Receiver or an insolvency  as the liquidator of the company.
+The applicant has to pay a winding up deposit of $10,400 to the Official Receiver, and the Court may appoint the Official Receiver or an insolvency practitioner as the liquidator of the company.
 
 The winding up is deemed to have commenced as at the date of the presentation of the winding up application.
 
