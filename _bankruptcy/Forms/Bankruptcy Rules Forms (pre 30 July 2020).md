@@ -286,7 +286,8 @@ under Section 86D(1) Of Bankruptcy Act</p>
 under section 86F(3) of Bankruptcy Act</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/BKCY Rules Forms pre30Jul2020/OA_s_Certificate_of_Reduction_of_MC_TC_under_s86F_3__.pdf" rel="noopener noreferrer nofollow" target="_blank">Form 15E1</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -297,7 +298,8 @@ under section 86F(3) of Bankruptcy Act</p>
 <p>Notice of Meeting (General Form)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/BKCY Rules Forms pre30Jul2020/Form_16.pdf" rel="noopener noreferrer nofollow" target="_blank">Form 16</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -308,7 +310,8 @@ under section 86F(3) of Bankruptcy Act</p>
 <p>Order of Court for General Meeting of Creditors</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/BKCY Rules Forms pre30Jul2020/Form_17.pdf" rel="noopener noreferrer nofollow" target="_blank">Form 17</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -319,7 +322,8 @@ under section 86F(3) of Bankruptcy Act</p>
 <p>General Proxy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/BKCY Rules Forms pre30Jul2020/Form_18.pdf" rel="noopener noreferrer nofollow" target="_blank">Form 18</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -330,7 +334,8 @@ under section 86F(3) of Bankruptcy Act</p>
 <p>Special Proxy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/BKCY Rules Forms pre30Jul2020/Form_19.pdf" rel="noopener noreferrer nofollow" target="_blank">Form 19</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -342,7 +347,8 @@ under section 86F(3) of Bankruptcy Act</p>
 Act</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/BKCY Rules Forms pre30Jul2020/Form_20.pdf" rel="noopener noreferrer nofollow" target="_blank">Form 20</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -354,7 +360,8 @@ Act</p>
 Act</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/BKCY Rules Forms pre30Jul2020/Form_21.pdf" rel="noopener noreferrer nofollow" target="_blank">Form 21</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -365,7 +372,8 @@ Act</p>
 <p>Notice to Debtors under Section 86 of Bankruptcy Act</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/BKCY Rules Forms pre30Jul2020/Form_22.pdf" rel="noopener noreferrer nofollow" target="_blank">Form 22</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -376,7 +384,8 @@ Act</p>
 <p>Proof of debt form</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/BKCY Rules Forms pre30Jul2020/Form_23.pdf" rel="noopener noreferrer nofollow" target="_blank">Form 23</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -387,7 +396,8 @@ Act</p>
 <p>Notice of Rejection of Proof of debt</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/BKCY Rules Forms pre30Jul2020/Form_25.pdf" rel="noopener noreferrer nofollow" target="_blank">Form 25</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -398,7 +408,8 @@ Act</p>
 <p>Proposal for a Composition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/BKCY Rules Forms pre30Jul2020/Form_26.pdf" rel="noopener noreferrer nofollow" target="_blank">Form 26</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -409,7 +420,8 @@ Act</p>
 <p>Proposal for a Scheme</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/BKCY Rules Forms pre30Jul2020/Form_27.pdf" rel="noopener noreferrer nofollow" target="_blank">Form 27</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -420,7 +432,8 @@ Act</p>
 <p>Voting Letter under Section 95 of Bankruptcy Act</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/BKCY Rules Forms pre30Jul2020/Form_28.pdf" rel="noopener noreferrer nofollow" target="_blank">Form 28</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -431,7 +444,8 @@ Act</p>
 <p>Application to Court to appoint day for approving Composition or Scheme</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/BKCY Rules Forms pre30Jul2020/Form_29.pdf" rel="noopener noreferrer nofollow" target="_blank">Form 29</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -443,7 +457,8 @@ Act</p>
 Scheme of Arrangement</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/BKCY Rules Forms pre30Jul2020/Form_30.pdf" rel="noopener noreferrer nofollow" target="_blank">Form 30</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -454,7 +469,8 @@ Scheme of Arrangement</p>
 <p>Order on Application to Approve Composition or Scheme of Arrangement</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/BKCY Rules Forms pre30Jul2020/Form_31.pdf" rel="noopener noreferrer nofollow" target="_blank">Form 31</a>
+</p>
 </td>
 </tr>
 <tr>
