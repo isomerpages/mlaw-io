@@ -481,7 +481,8 @@ Scheme of Arrangement</p>
 <p>Notice to bankrupt under Section 109 of Bankruptcy Act</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/BKCY Rules Forms pre30Jul2020/Form_32.pdf" rel="noopener noreferrer nofollow" target="_blank">Form 32</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -492,7 +493,8 @@ Scheme of Arrangement</p>
 <p>Order setting aside pay or salary under Section 109(1) Of Bankruptcy Act</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/BKCY Rules Forms pre30Jul2020/Form_33.pdf" rel="noopener noreferrer nofollow" target="_blank">Form 33</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -504,7 +506,8 @@ Scheme of Arrangement</p>
 Act</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/BKCY Rules Forms pre30Jul2020/Form_34.pdf" rel="noopener noreferrer nofollow" target="_blank">Form 34</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -515,7 +518,8 @@ Act</p>
 <p>Notice of Intention to disclaim lease</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/BKCY Rules Forms pre30Jul2020/Form_35.pdf" rel="noopener noreferrer nofollow" target="_blank">Form 35</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -526,7 +530,8 @@ Act</p>
 <p>Notice of Disclaimer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/BKCY Rules Forms pre30Jul2020/Form_36.pdf" rel="noopener noreferrer nofollow" target="_blank">Form 36</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -537,7 +542,8 @@ Act</p>
 <p>Notice to Creditors of Intention to Declare Dividend</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/BKCY Rules Forms pre30Jul2020/Form_37.pdf" rel="noopener noreferrer nofollow" target="_blank">Form 37</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -549,7 +555,8 @@ Act</p>
 under Section 148 of the Bankruptcy Act</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/BKCY Rules Forms pre30Jul2020/Form_39.pdf" rel="noopener noreferrer nofollow" target="_blank">Form 39</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -561,7 +568,8 @@ under Section 148 of the Bankruptcy Act</p>
 of Deceased Debtor under Section 148 of Bankruptcy Act</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/BKCY Rules Forms pre30Jul2020/Form_40.pdf" rel="noopener noreferrer nofollow" target="_blank">Form 40</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -572,7 +580,10 @@ of Deceased Debtor under Section 148 of Bankruptcy Act</p>
 <p>Report of the Trustee's Administration of the Bankruptcy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/BKCY Rules Forms pre30Jul2020/Form_41___Anniversary_Report_Format.pdf" rel="noopener noreferrer nofollow" target="_blank">Anniversary Report</a>
+</p>
+<p><a href="/files/BKCY Rules Forms pre30Jul2020/Form_41___Annual_Report_Format.pdf" rel="noopener noreferrer nofollow" target="_blank">Annual Report</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -583,7 +594,8 @@ of Deceased Debtor under Section 148 of Bankruptcy Act</p>
 <p>Summary of Bankruptcy Forms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/BKCY Rules Forms pre30Jul2020/Summary_of_Bankruptcy_Forms.pdf" rel="noopener noreferrer nofollow" target="_blank">Summary</a>
+</p>
 </td>
 </tr>
 </tbody>
