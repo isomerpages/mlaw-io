@@ -384,8 +384,7 @@ Act</p>
 <p>Proof of debt form</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/BKCY Rules Forms pre30Jul2020/Form_23.pdf" rel="noopener noreferrer nofollow" target="_blank">Form 23</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -555,8 +554,7 @@ Act</p>
 under Section 148 of the Bankruptcy Act</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/BKCY Rules Forms pre30Jul2020/Form_39.pdf" rel="noopener noreferrer nofollow" target="_blank">Form 39</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
