@@ -384,7 +384,8 @@ Act</p>
 <p>Proof of debt form</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/BKCY Rules Forms pre30Jul2020/Form_23_PD.pdf" rel="noopener noreferrer nofollow" target="_blank">Form 23</a>
+</p>
 </td>
 </tr>
 <tr>
