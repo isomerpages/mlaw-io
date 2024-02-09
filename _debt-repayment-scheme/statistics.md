@@ -4,7 +4,7 @@ permalink: /debt-repayment-scheme/statistics/
 breadcrumb: Statistics
 variant: markdown
 ---
-[](/files/NumberofInProgressCompletedandFailedCasesforDRS(Apr22).pdf)Statistics
+# Statistics
 ---
 
 <u><b>Facts &amp; Figures</b></u>
