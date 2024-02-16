@@ -16,12 +16,12 @@ variant: tiptap
 <br>
 <br>
 </p>
-<p><em>(1) Notices of Application</em> 
+<p><em>(1) Notices of Application</em>
 </p>
 <p>16-Feb-2024 Notice of Application into Simplified Winding Up Programme
 <br><a href="/files/02_02_24_Application_SWU.pdf" rel="noopener noreferrer nofollow" target="_blank">02-Feb-2024 Notice of Application into Simplified Winding Up Programme</a> 
 <br><a href="/files/26_01_24_Appliction_SWU.pdf" rel="noopener noreferrer nofollow" target="_blank">26-Jan-2024 Notice of Application into Simplified Winding Up Programme</a> 
-<br><a href="/files/12_01_2024_application_SWU.pdf" rel="noopener noreferrer nofollow" target="_blank">12-Jan-2024 Notice of Application into Simplified Winding Up Programme</a>
+<br>
 </p>
 <p>(2) Notices of Acceptance and Rejection
 <br><a href="/files/19_01_2024_Notice_of_acceptance.pdf" rel="noopener noreferrer nofollow" target="_blank">19-Jan-2024 Notice of Acceptance into Simplified Winding Up Programme</a>
@@ -39,6 +39,8 @@ variant: tiptap
 <br>
 </p>
 <p><em>(1) Notices of Application</em> 
+</p>
+<p><a href="https://cms.isomer.gov.sg/files/12_01_2024_application_SWU.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>12-Jan-2024 Notice of Application into Simplified Winding Up Programme</u></a>
 <br><a href="/files/22122023applicationswu.pdf" rel="noopener noreferrer nofollow" target="_blank">22-Dec-2023 Notice of Application into Simplified Winding Up Programme</a> 
 <br><a href="/files/08122023applicationswu.pdf" rel="noopener noreferrer nofollow" target="_blank">08-Dec-2023 Notice of Application into Simplified Winding Up Programme</a> 
 <br><a href="/files/29-09-2023%20application%20swu.pdf" rel="noopener noreferrer nofollow" target="_blank">29-Sep-2023 Notice of Application into Simplified Winding Up Programme</a> 
