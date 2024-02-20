@@ -161,4 +161,4 @@ Alternatively, you may visit us at our website at
 or contact us at 1800-2255-529 (during office hours).
 
 **13. Other Frequently Asked Questions**<br>
-For other frequently asked questions on the Debt Repayment Scheme ("DRS"), [click here](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx){:target="_blank"}.
+For other frequently asked questions on the Debt Repayment Scheme ("DRS"),[click here](https://console-flex-api.ap.sabio.cloud/faq/index.aspx?p=64759355).
