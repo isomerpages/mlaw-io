@@ -4,7 +4,8 @@ permalink: /bankruptcy/pre-bankruptcy/
 breadcrumb: Pre-Bankruptcy
 variant: tiptap
 ---
-<h2><u>Alternatives to Bankruptcy</u></h2>
+<h2>Pre-Bankruptcy </h2>
+<h3><u>Alternatives to Bankruptcy</u></h3>
 <p><strong>1. Advice for Debtors </strong>
 <br>Do not ignore your creditors' Letters of Demand, Statutory Demands, or
 Writs of summons from the Court. You can be made a bankrupt even if you
