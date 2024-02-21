@@ -4,8 +4,7 @@ permalink: /bankruptcy/pre-bankruptcy/
 breadcrumb: Pre-Bankruptcy
 variant: tiptap
 ---
-<h1>Pre-Bankruptcy</h1>
-<h3><u>Alternatives to Bankruptcy</u></h3>
+<h2><u>Alternatives to Bankruptcy</u></h2>
 <p><strong>1. Advice for Debtors </strong>
 <br>Do not ignore your creditors' Letters of Demand, Statutory Demands, or
 Writs of summons from the Court. You can be made a bankrupt even if you
@@ -72,7 +71,7 @@ after entering into the arrangement.
 at the addresses below:
 <br>
 </p>
-<p><strong>a. Association of Muslim Professionals (AMP)</strong>
+<p><strong>a. Association of Muslim Professionals (AMP)</strong> 
 <br>1 Pasir Ris Drive 4 #05-11
 <br>Singapore 519457
 <br>
@@ -81,7 +80,7 @@ at the addresses below:
 <br>Email: corporate@amp.org.sg
 <br>
 </p>
-<p><strong>b. Adullam Life Counselling</strong>
+<p><strong>b. Adullam Life Counselling</strong> 
 <br>151 Chin Swee Road Manhattan House #08-04
 <br>Singapore 169876
 <br>
@@ -90,7 +89,7 @@ at the addresses below:
 <br>Email: admin@adullam.org.sg
 <br>
 </p>
-<p><strong>c. Arise2Care Community Services</strong>
+<p><strong>c. Arise2Care Community Services</strong> 
 <br>No. 5 Harper Road #02-01A
 <br>Singapore 369673
 <br>
@@ -99,7 +98,7 @@ at the addresses below:
 <br>Email: admin@arise2care.sg
 <br>
 </p>
-<p><strong>d. Blessed Grace Social Services</strong>
+<p><strong>d. Blessed Grace Social Services</strong> 
 <br>18 Arumugam Road, #05-01 Antioch@Macpherson
 <br>Singapore 409962
 <br>
@@ -108,7 +107,7 @@ at the addresses below:
 <br>Email: billy.lee@blessedgrace.org
 <br>
 </p>
-<p><strong>e. Credit Counselling Singapore</strong>
+<p><strong>e. Credit Counselling Singapore</strong> 
 <br>51 Cuppage Road #07-06
 <br>Singapore 229469
 <br>
@@ -118,7 +117,7 @@ at the addresses below:
 <br>Website: http://www.ccs.org.sg
 <br>
 </p>
-<p><strong>f. One Hope Centre</strong>
+<p><strong>f. One Hope Centre</strong> 
 <br>8 New Industrial Road #04-04B LHK 3 Building
 <br>Singapore 536200
 <br>
@@ -127,7 +126,7 @@ at the addresses below:
 <br>Email: help@onehopecentre.org
 <br>
 </p>
-<p><strong>g. Silver Lining Community Services</strong>
+<p><strong>g. Silver Lining Community Services</strong> 
 <br>(East) 11 Playfair Road Singapore 367986
 <br>(West) Jurong Spring CC, 8 Jurong West St 52 Singapore 649296
 <br>
@@ -180,8 +179,8 @@ by the High Court.
 <br>
 </p>
 <p><strong>10. Other Suggested Readings </strong>
-<br><a href="https://console-flex-api.ap.sabio.cloud/faq/index.aspx?p=64759355" rel="noopener noreferrer nofollow" target="_blank">Minlaw FAQs on Individual Insolvency</a>
-<br><a href="/bankruptcy/information-for-bankrupts/" rel="noopener noreferrer nofollow" target="_blank">Information for Bankrupts</a>
+<br><a href="https://console-flex-api.ap.sabio.cloud/faq/index.aspx?p=64759355" rel="noopener noreferrer nofollow" target="_blank">Minlaw FAQs on Individual Insolvency</a> 
+<br><a href="/bankruptcy/information-for-bankrupts/" rel="noopener noreferrer nofollow" target="_blank">Information for Bankrupts</a> 
 <br>
 </p>
 <p><strong>11. Further Queries </strong>
