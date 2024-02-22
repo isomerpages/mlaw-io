@@ -84,9 +84,9 @@ variant: tiptap
 <br><a href="/files/23-04-2021%20Application%20SWU.pdf" rel="noopener noreferrer nofollow" target="_blank">23-Apr-2021 Notice of Application into Simplified Winding Up Programme</a> 
 <br><a href="/files/16-04-2021%20Application%20SWU.pdf" rel="noopener noreferrer nofollow" target="_blank">16-Apr-2021 Notice of Application into Simplified Winding Up Programme</a> 
 <br>
-<br><em>(2) Notices of Acceptance and Rejection</em> 
+<br><em>(2) Notices of Acceptance and Rejection</em>
 </p>
-<p><a href="https://cms.isomer.gov.sg/files/19_01_2024_Notice_of_acceptance.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>19-Jan-2024 Notice of Acceptance into Simplified Winding Up Programme</u></a>
+<p><a href="https://cms.isomer.gov.sg/files/19_01_2024_Notice_of_acceptance.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>19-Jan-2024 Notice of Acceptance into Simplified Winding Up Programme</u></a> 
 <br><a href="/files/15122023acceptanceswu.pdf" rel="noopener noreferrer nofollow" target="_blank">15-Dec-2023 Notice of Acceptance into Simplified Winding Up Programme</a> 
 <br><a href="/files/08122023acceptanceswu.pdf" rel="noopener noreferrer nofollow" target="_blank">08-Dec-2023 Notice of Acceptance into Simplified Winding Up Programme</a> 
 <br><a href="/files/27-10-2023%20application%20swu.pdf" rel="noopener noreferrer nofollow" target="_blank">27-Oct-2023 Notice of Acceptance into Simplified Winding Up Programme</a> 
