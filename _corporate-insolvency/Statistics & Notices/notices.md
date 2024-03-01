@@ -25,13 +25,12 @@ variant: tiptap
 <p>(2) Notices of Acceptance and Rejection</p>
 <p><a href="/files/23022024acceptanceswup.pdf" rel="noopener noreferrer nofollow" target="_blank">23-Feb-2024 Notice of Acceptance into Simplified Winding Up Programme</a>
 </p>
+<p><em>(3) Notices of Striking off and Final Accounts</em> 
+</p>
 <p>
-<br><em>(3) Notices of Striking off and Final Accounts</em> 
 <br><a href="/files/01032024noticeofstrikingoff.pdf" rel="noopener noreferrer nofollow" target="_blank">01-March-2024 Notice of Striking Off for Simplified Winding Up Programme</a> and
 Final Accounts for The Digital Kitchen Pte. Ltd (SW14-2023)</p>
-<p><a href="/files/08122023noticeofstrikingoff.pdf" rel="noopener noreferrer nofollow" target="_blank">8-Dec-2023 Notice of Striking Off for Simplified Winding Up Programme</a> and
-Final Accounts for <a href="/files/08122023sw122023finalaccounts.pdf" rel="noopener noreferrer nofollow" target="_blank">Posh Asia Investment Pte. Ltd. (SW12-2023)</a> 
-</p>
+<p></p>
 <p>
 <br>*Past Notices* -
 <br>
