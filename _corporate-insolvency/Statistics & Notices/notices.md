@@ -20,14 +20,19 @@ variant: tiptap
 </p>
 <p><a href="/files/16022024ApplicationSWUP.pdf" rel="noopener noreferrer nofollow" target="_blank">16-Feb-2024 Notice of Application into Simplified Winding Up Programme </a>
 <br><a href="/files/02_02_24_Application_SWU.pdf" rel="noopener noreferrer nofollow" target="_blank">02-Feb-2024 Notice of Application into Simplified Winding Up Programme</a> 
-<br><a href="/files/26_01_24_Appliction_SWU.pdf" rel="noopener noreferrer nofollow" target="_blank">26-Jan-2024 Notice of Application into Simplified Winding Up Programme</a> 
 <br>
 </p>
 <p>(2) Notices of Acceptance and Rejection</p>
 <p><a href="/files/23022024acceptanceswup.pdf" rel="noopener noreferrer nofollow" target="_blank">23-Feb-2024 Notice of Acceptance into Simplified Winding Up Programme</a>
 </p>
 <p>
-<br>
+<br><em>(3) Notices of Striking off and Final Accounts</em> 
+<br><a href="/files/01032024noticeofstrikingoff.pdf" rel="noopener noreferrer nofollow" target="_blank">01-March-2024 Notice of Striking Off for Simplified Winding Up Programme</a> and
+Final Accounts for The Digital Kitchen Pte. Ltd (SW14-2023)</p>
+<p><a href="/files/08122023noticeofstrikingoff.pdf" rel="noopener noreferrer nofollow" target="_blank">8-Dec-2023 Notice of Striking Off for Simplified Winding Up Programme</a> and
+Final Accounts for <a href="/files/08122023sw122023finalaccounts.pdf" rel="noopener noreferrer nofollow" target="_blank">Posh Asia Investment Pte. Ltd. (SW12-2023)</a> 
+</p>
+<p>
 <br>*Past Notices* -
 <br>
 </p>
@@ -39,7 +44,8 @@ variant: tiptap
 </p>
 <p><em>(1) Notices of Application</em>
 </p>
-<p><a href="https://cms.isomer.gov.sg/files/12_01_2024_application_SWU.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>12-Jan-2024 Notice of Application into Simplified Winding Up Programme</u></a> 
+<p><a href="/files/26_01_24_Appliction_SWU.pdf" rel="noopener noreferrer nofollow" target="_blank">26-Jan-2024 Notice of Application into Simplified Winding Up Programme</a> 
+<br><a href="https://cms.isomer.gov.sg/files/12_01_2024_application_SWU.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>12-Jan-2024 Notice of Application into Simplified Winding Up Programme</u></a> 
 <br><a href="/files/22122023applicationswu.pdf" rel="noopener noreferrer nofollow" target="_blank">22-Dec-2023 Notice of Application into Simplified Winding Up Programme</a> 
 <br><a href="/files/08122023applicationswu.pdf" rel="noopener noreferrer nofollow" target="_blank">08-Dec-2023 Notice of Application into Simplified Winding Up Programme</a> 
 <br><a href="/files/29-09-2023%20application%20swu.pdf" rel="noopener noreferrer nofollow" target="_blank">29-Sep-2023 Notice of Application into Simplified Winding Up Programme</a> 
