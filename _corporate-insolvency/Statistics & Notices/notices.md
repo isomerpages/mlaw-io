@@ -27,8 +27,7 @@ variant: tiptap
 </p>
 <p><em>(3) Notices of Striking off and Final Accounts</em>
 </p>
-<p>
-<br><a href="/files/01032024noticeofstrikingoff.pdf" rel="noopener noreferrer nofollow" target="_blank">01-March-2024 Notice of Striking Off for Simplified Winding Up Programme</a> and
+<p><a href="/files/01032024noticeofstrikingoff.pdf" rel="noopener noreferrer nofollow" target="_blank">01-March-2024 Notice of Striking Off for Simplified Winding Up Programme</a> and
 Final Accounts for <a href="/files/SW14_2023_The_Digital_Kitchen_Pte_Ltd__Final_Accounts.pdf" rel="noopener noreferrer nofollow" target="_blank">The Digital Kitchen Pte. Ltd (SW14-2023)</a>
 </p>
 <p></p>
