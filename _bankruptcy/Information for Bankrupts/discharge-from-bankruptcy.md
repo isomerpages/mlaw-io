@@ -6,7 +6,7 @@ third_nav_title: Information for Bankrupts
 variant: tiptap
 ---
 <h2>Discharge from Bankruptcy</h2>
-<p><strong>1. How do I get out of Bankruptcy?</strong>
+<p><strong>1. How do I get out of Bankruptcy?</strong> 
 <br>There is <strong><u>no automatic discharge</u></strong> from bankruptcy
 in Singapore. However, you may get out of bankruptcy in these three ways:
 <br>
@@ -41,14 +41,10 @@ under section 95A of the BA or section 358(1)(b) of the IRDA.</p>
 <p>If the composition or scheme is only accepted by a majority (in number)
 of the creditors representing at least 75% of the total debts owed, the
 Official Assignee may discharge the bankrupt by issuing a certificate of
-discharge under section 95A of the BA or section 358(1)(a) of the IRDA.</p>
-<p>When a bankrupt repays his debt in full or makes a settlement offer which
-is accepted by a majority (in number) of his creditors representing at
-least 75% of the total debt owed, the Bankruptcy Order made against him
-will be annulled.
+discharge under section 95A of the BA or section 358(1)(a) of the IRDA.
 <br>
 </p>
-<p><strong>3. What is a Discharge by the High Court?</strong>
+<p><strong>3. What is a Discharge by the High Court?</strong> 
 <br>A bankrupt may apply to the High Court to grant him an Order of Discharge.
 The Official Assignee may also apply to the High Court for the bankrupt’s
 discharge under section 124 of the Bankruptcy Act Cap. 20, 2009 Rev Ed
@@ -66,7 +62,7 @@ committed, and generally, whether the bankrupt has co-operated fully with
 the Official Assignee in the administration of the bankruptcy estate.
 <br>
 </p>
-<p><strong>4. What is a Discharge by the Certificate of the Official Assignee?</strong>
+<p><strong>4. What is a Discharge by the Certificate of the Official Assignee?</strong> 
 <br>The Official Assignee may discharge the bankrupt from bankruptcy provided
 at least three years have lapsed since the commencement of the bankruptcy
 and where the proven debts do not exceed S$500,000.
@@ -107,7 +103,7 @@ The eventual duration of your bankruptcy will depend on the factors listed
 above.
 <br>
 </p>
-<p><strong>5. What are the processes involved for discharge from bankruptcy?</strong>
+<p><strong>5. What are the processes involved for discharge from bankruptcy?</strong> 
 <br>The Official Assignee will first review the bankrupt’s case to determine
 its suitability for a discharge from bankruptcy. Depending on the outcome
 of the review, the bankrupt may have to raise additional funds with the
@@ -129,7 +125,7 @@ The process generally takes at least six months, and varies according to
 the complexity of each case.
 <br>
 </p>
-<p><strong>6. What is adjudication and do I have a role to play in it?</strong>
+<p><strong>6. What is adjudication and do I have a role to play in it?</strong> 
 <br>Adjudication is a process where the Official Assignee examines every Proof
 of Debt filed against the bankruptcy estate and the basis of the claim
 before admitting or rejecting the Proof of Debt, in whole or in part.
