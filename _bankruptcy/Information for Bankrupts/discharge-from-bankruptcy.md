@@ -6,7 +6,7 @@ third_nav_title: Information for Bankrupts
 variant: tiptap
 ---
 <h2>Exiting Bankruptcy</h2>
-<p><strong>1. How do I get out of Bankruptcy?</strong> 
+<p><strong>1. How do I exit Bankruptcy?</strong> 
 <br>There is <strong><u>no automatic discharge</u></strong> from bankruptcy
 in Singapore. However, you may exit bankruptcy through one of these four
 ways:
