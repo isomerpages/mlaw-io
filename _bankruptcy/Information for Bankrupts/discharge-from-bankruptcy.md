@@ -5,18 +5,28 @@ breadcrumb: Discharge from Bankruptcy
 third_nav_title: Information for Bankrupts
 variant: tiptap
 ---
-<h2>Discharge from Bankruptcy</h2>
+<h2>Exiting Bankruptcy</h2>
 <p><strong>1. How do I get out of Bankruptcy?</strong> 
 <br>There is <strong><u>no automatic discharge</u></strong> from bankruptcy
-in Singapore. However, you may get out of bankruptcy in these three ways:
+in Singapore. However, you may exit bankruptcy through one of these four
+ways:
 <br>
 </p>
-<p>a. Annulment of the Bankruptcy Order by full settlement or Offer of Composition
-or a Scheme of Arrangement;
-<br>b. Discharge by the High Court; or
-<br>c<strong>.</strong> Discharge by Certificate of the Official Assignee.
-<br>
-</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Annulment by the High Court;</p>
+</li>
+<li>
+<p>Discharge by the High Court;</p>
+</li>
+<li>
+<p>Annulment by Certificate of the Official Assignee; or</p>
+</li>
+<li>
+<p>Discharge by Certificate of the Official Assignee.</p>
+</li>
+</ul>
+<p></p>
 <p><strong>2. What is an annulment?</strong> 
 <br>An annulment of a bankruptcy order has the effect of putting the debtor
 in the same position as if no bankruptcy order has been made against him,
