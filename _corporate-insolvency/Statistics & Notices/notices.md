@@ -19,7 +19,7 @@ variant: tiptap
 <p>(1) Notices of Acceptance and Rejection
 <br><a href="/files/15_03_2024_Notice_of_Acceptance.pdf" rel="noopener noreferrer nofollow" target="_blank">15-Mar-2024 Notice of Acceptance into Simplified Winding Up Programme</a>
 </p>
-<p><em>(2) Notices of Striking off and Final Accounts</em>
+<p><em>(2) Notices of Striking off and Final Accounts</em> 
 <br><a href="/files/01032024noticeofstrikingoff.pdf" rel="noopener noreferrer nofollow" target="_blank">01-March-2024 Notice of Striking Off for Simplified Winding Up Programme</a> and
 Final Accounts for <a href="/files/SW14_2023_The_Digital_Kitchen_Pte_Ltd__Final_Accounts.pdf" rel="noopener noreferrer nofollow" target="_blank">The Digital Kitchen Pte. Ltd (SW14-2023)</a>
 </p>
@@ -86,7 +86,7 @@ Final Accounts for <a href="/files/SW14_2023_The_Digital_Kitchen_Pte_Ltd__Final_
 <br>
 <br><em>(2) Notices of Acceptance and Rejection</em>
 </p>
-<p><a href="/files/23022024acceptanceswup.pdf" rel="noopener noreferrer nofollow" target="_blank">23-Feb-2024 Notice of Acceptance into Simplified Winding Up Programme</a>
+<p><a href="/files/23022024acceptanceswup.pdf" rel="noopener noreferrer nofollow" target="_blank">23-Feb-2024 Notice of Acceptance into Simplified Winding Up Programme</a> 
 <br><a href="https://cms.isomer.gov.sg/files/19_01_2024_Notice_of_acceptance.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>19-Jan-2024 Notice of Acceptance into Simplified Winding Up Programme</u></a> 
 <br><a href="/files/15122023acceptanceswu.pdf" rel="noopener noreferrer nofollow" target="_blank">15-Dec-2023 Notice of Acceptance into Simplified Winding Up Programme</a> 
 <br><a href="/files/08122023acceptanceswu.pdf" rel="noopener noreferrer nofollow" target="_blank">08-Dec-2023 Notice of Acceptance into Simplified Winding Up Programme</a> 
