@@ -4,7 +4,7 @@ permalink: /debt-repayment-scheme/statistics/
 breadcrumb: Statistics
 variant: markdown
 ---
-# Statistics
+**Statistics**
 ---
 
 <u><b>Facts &amp; Figures</b></u>
