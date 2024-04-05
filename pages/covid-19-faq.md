@@ -1,11 +1,8 @@
 ---
-title: 'COVID-19 FAQ'
+title: COVID-19 FAQ
 permalink: /debt-repayment-scheme/covid-19-faq/
-breadcrumb: 'COVID-19 FAQ'
-
+breadcrumb: COVID-19 FAQ
 ---
-
-
 **COVID-19 (TEMPORARY MEASURES) ACT (FAQS ON RELIEF MEASURES FOR DEBTORS)**<br>
 
 ---
