@@ -12,6 +12,8 @@ notification: Please note that with effect from 7 April 2020, MinLaw Services
   Bankrupts can now apply for the opening of a personal bank account via our new
   application form. The instructions and the application form is at <a
   href="https://io.mlaw.gov.sg/bankruptcy/forms/">https://io.mlaw.gov.sg/bankruptcy/forms/</a>.
+  Please note that airtime charges may apply to calls made from mobile phones to
+  our ‘1800 – 2255 529’ local toll-free number.
 sections:
   - hero:
       title: Insolvency Office
