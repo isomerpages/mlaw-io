@@ -28,7 +28,7 @@ Unclaimed Monies
 Contact the Insolvency Office at <a href="https://go.gov.sg/contactminlaw">Contact Us @ OneMinLaw</a> if you have documentary proof that you are the rightful owner of the monies.
 
 Alternatively, you may visit us at our website at <a href="https://www.go.gov.sg/io/">www.go.gov.sg/io</a> or contact us at 1800-2255-529* (during office hours).<br>
-**Airtime charges may apply to calls made from mobile phones to ‘1800’ local toll-free numbers.*
+*Airtime charges may apply to calls made from mobile phones to ‘1800’ local toll-free numbers.
 
 
 Insolvency Office<br>
