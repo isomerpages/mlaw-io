@@ -4,7 +4,7 @@ permalink: /bankruptcy/pre-bankruptcy/
 breadcrumb: Pre-Bankruptcy
 variant: tiptap
 ---
-<h2>Pre-Bankruptcy </h2>
+<h2>Pre-Bankruptcy</h2>
 <h3><u>Alternatives to Bankruptcy</u></h3>
 <p><strong>1. Advice for Debtors </strong>
 <br>Do not ignore your creditors' Letters of Demand, Statutory Demands, or
@@ -190,4 +190,6 @@ at <em><a href="https://go.gov.sg/contactminlaw" rel="noopener noreferrer nofoll
 <br>
 </p>
 <p>Alternatively, you may visit us at our website at <a href="https://www.mlaw.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.mlaw.gov.sg/</a> or contact
-us at 1800-2255-529 (during office hours).</p>
+us at 1800-2255-529* (during office hours).</p>
+<p>*Airtime charges may apply to calls made from mobile phones to ‘1800’
+local toll-free numbers.</p>
