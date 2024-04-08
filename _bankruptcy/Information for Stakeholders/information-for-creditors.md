@@ -3,6 +3,7 @@ title: Information for Creditors
 permalink: /bankruptcy/information-for-stakeholders/information-for-creditors/
 breadcrumb: Information for Creditors
 third_nav_title: Information for Stakeholders
+variant: markdown
 ---
 Information for Creditors
 ---
@@ -110,7 +111,8 @@ Insolvency Office <br>
 The URA Centre (East Wing)<br>
 Singapore 069118<br>
 Please send in your enquiries/feedback at *[Contact Us @ OneMinLaw ](https://go.gov.sg/contactminlaw)*<br>
-Alternatively, you may visit us at our website at [https://io.mlaw.gov.sg/](https://io.mlaw.gov.sg/) or contact us at 1800-2255-529 (during office hours).<br>
+Alternatively, you may visit us at our website at [https://io.mlaw.gov.sg/](https://io.mlaw.gov.sg/) or contact us at 1800-2255-529* (during office hours).<br>
+**Airtime charges may apply to calls made from mobile phones to ‘1800’ local toll-free numbers.*
 
  
 
