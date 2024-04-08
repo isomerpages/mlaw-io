@@ -124,4 +124,6 @@ If you have any further queries on bankruptcy, please send in your enquiries/fee
 
  
 
-Alternatively, you may visit us at our website at [https://www.mlaw.gov.sg/](https://www.mlaw.gov.sg/) or contact us at 1800-2255-529 (during office hours).
+Alternatively, you may visit us at our website at [https://www.mlaw.gov.sg/](https://www.mlaw.gov.sg/) or contact us at 1800-2255-529* (during office hours).
+
+**Airtime charges may apply to calls made from mobile phones to ‘1800’ local toll-free numbers.*

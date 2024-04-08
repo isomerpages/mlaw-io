@@ -35,7 +35,9 @@ The Official Assignee does not file bankruptcy applications in the High Court an
 **5. What happens when I am referred to the Insolvency Office by the Court after hearing the bankruptcy application?**<br>
 At the hearing of the bankruptcy application, the Court may adjourn the matter for up to 6 months to enable the OA to assess your suitability for the DRS.<br>
 
-You will receive a notice from the Insolvency Office informing you to view the Introductory Video on the DRS. If you fulfil the eligibility criteria set out in the video and are keen to proceed with the DRS assessment, you must file your documents online. If you need assistance in the submission of your documents, you may book an appointment with the DRS case officer by sending a request through Ministry of Law's Contact Us or hotline at 1800-2255-529. 
+You will receive a notice from the Insolvency Office informing you to view the Introductory Video on the DRS. If you fulfil the eligibility criteria set out in the video and are keen to proceed with the DRS assessment, you must file your documents online. If you need assistance in the submission of your documents, you may book an appointment with the DRS case officer by sending a request through Ministry of Law's Contact Us or hotline at 1800-2255-529*. 
+
+**Airtime charges may apply to calls made from mobile phones to ‘1800’ local toll-free numbers.*
 
 MinLaw Services Centre is located at:<br>
 
@@ -160,7 +162,9 @@ Please send in your enquiries/feedback at [Contact Us @ OneMinLaw ](https://go.g
 
 Alternatively, you may visit us at our website at
 [https://go.gov.sg/io](https://go.gov.sg/io)
-or contact us at 1800-2255-529 (during office hours).
+or contact us at 1800-2255-529* (during office hours).
+
+**Airtime charges may apply to calls made from mobile phones to ‘1800’ local toll-free numbers.*
 
 **13. Other Frequently Asked Questions**<br>
 For other frequently asked questions on the Debt Repayment Scheme ("DRS"),[click here](https://console-flex-api.ap.sabio.cloud/faq/index.aspx?p=64759355).
