@@ -19,8 +19,12 @@ variant: tiptap
 <p>(1) Notices of Application
 <br><a href="/files/19_04_24_Application_SWU.pdf" rel="noopener noreferrer nofollow" target="_blank">19-Apr-2024 Notice of Application into Simplified Winding Up Programme</a> 
 <br><a href="/files/12_04_24_Application_SWU_.pdf" rel="noopener noreferrer nofollow" target="_blank">12-Apr-2024 Notice of Application into Simplified Winding Up Programme</a>
+<br>
+<br>(2) Notices of Acceptance
+<br><a href="/files/19_04_24_Notice_of_Acceptance.pdf" rel="noopener noreferrer nofollow" target="_blank">19-Apr-2024 Notice of Acceptance into Simplified Winding Up Programme</a>
+<br>
 </p>
-<p><em>(2) Notices of Striking off and Final Accounts</em> 
+<p><em>(3) Notices of Striking off and Final Accounts</em> 
 <br><a href="/files/12_04_24_Notice_of_Striking_Off.pdf" rel="noopener noreferrer nofollow" target="_blank">12-Apr-2024 Notice of Striking Off for Simplified Winding Up Programme </a>and
 Final Accounts for <a href="/files/SW16_2023_Final_Accounts.pdf" rel="noopener noreferrer nofollow" target="_blank">Larp Pte. Ltd. (SW 16-2023)</a>
 </p>
