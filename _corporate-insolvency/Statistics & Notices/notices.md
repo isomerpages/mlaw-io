@@ -20,11 +20,7 @@ variant: tiptap
 <br><a href="/files/03_05_24_Application_SWU.pdf" rel="noopener noreferrer nofollow" target="_blank">03-May-2024 Notice of Application into Simplified Winding Up Programme</a> 
 <br>
 <br>
-<br>(2) Notices of Acceptance
-<br>
-<br>
-</p>
-<p><em>(3) Notices of Striking off and Final Accounts</em> 
+<br><em>(2) Notices of Striking off and Final Accounts</em> 
 <br><a href="/files/10_05_2024_notice_of_striking_off.pdf" rel="noopener noreferrer nofollow" target="_blank">10-May-2024 Notice of Striking Off for Simplified Winding Up Programme </a>and
 Final Accounts for <a href="/files/SW5_2023_Final_Accounts.pdf" rel="noopener noreferrer nofollow" target="_blank">Shake Farm Pte. Ltd. (SW 5-2023)</a>
 </p>
@@ -40,7 +36,7 @@ Final Accounts for <a href="/files/SW5_2023_Final_Accounts.pdf" rel="noopener no
 <p><strong>Insolvency, Restructuring and Dissolution (Simplified Winding Up) Regulations 2021</strong> 
 <br>
 </p>
-<p><em>(1) Notices of Application</em>
+<p><em>(1) Notices of Application</em> 
 <br><a href="/files/19_04_24_Application_SWU.pdf" rel="noopener noreferrer nofollow" target="_blank">19-Apr-2024 Notice of Application into Simplified Winding Up Programme</a> 
 <br><a href="/files/12_04_24_Application_SWU_.pdf" rel="noopener noreferrer nofollow" target="_blank">12-Apr-2024 Notice of Application into Simplified Winding Up Programme</a> 
 <br><a href="/files/16022024ApplicationSWUP.pdf" rel="noopener noreferrer nofollow" target="_blank">16-Feb-2024 Notice of Application into Simplified Winding Up Programme </a>
@@ -152,7 +148,7 @@ Final Accounts for <a href="/files/SW5_2023_Final_Accounts.pdf" rel="noopener no
 <br>
 <br><em>(3) Notices of Striking off and Final Accounts</em> 
 <br><a href="/files/12_04_24_Notice_of_Striking_Off.pdf" rel="noopener noreferrer nofollow" target="_blank">12-Apr-2024 Notice of Striking Off for Simplified Winding Up Programme </a>and
-Final Accounts for <a href="/files/SW16_2023_Final_Accounts.pdf" rel="noopener noreferrer nofollow" target="_blank">Larp Pte. Ltd. (SW 16-2023)</a>
+Final Accounts for <a href="/files/SW16_2023_Final_Accounts.pdf" rel="noopener noreferrer nofollow" target="_blank">Larp Pte. Ltd. (SW 16-2023)</a> 
 <br><a href="/files/01032024noticeofstrikingoff.pdf" rel="noopener noreferrer nofollow" target="_blank">01-March-2024 Notice of Striking Off for Simplified Winding Up Programme</a> and
 Final Accounts for <a href="/files/SW14_2023_The_Digital_Kitchen_Pte_Ltd__Final_Accounts.pdf" rel="noopener noreferrer nofollow" target="_blank">The Digital Kitchen Pte. Ltd (SW14-2023)</a> 
 <br><a href="/files/08122023noticeofstrikingoff.pdf" rel="noopener noreferrer nofollow" target="_blank">08-Dec-2023 Notice of Striking Off for Simplified Winding Up Programme</a> and
