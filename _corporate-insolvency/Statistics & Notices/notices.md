@@ -22,7 +22,7 @@ variant: tiptap
 <br>
 <br><em>(2) Notices of Striking off and Final Accounts</em> 
 <br><a href="/files/17_05_2024_notice_of_striking_off.pdf" rel="noopener noreferrer nofollow" target="_blank">17-May-2024 Notice of Striking Off for Simplified Winding Up Programme</a> and
-Final Accounts for <a href="/files/SW22_2023_Final_Accounts.pdf" rel="noopener noreferrer nofollow" target="_blank">Energy Transformers Pte. Ltd. (SW 22-2023)</a>
+Final Accounts for <a href="/files/SW22_2023_Final_Accounts.pdf" rel="noopener noreferrer nofollow" target="_blank">Energy Transformers Pte. Ltd. (SW 22-2023)</a> 
 <br><a href="/files/10_05_2024_notice_of_striking_off.pdf" rel="noopener noreferrer nofollow" target="_blank">10-May-2024 Notice of Striking Off for Simplified Winding Up Programme </a>and
 Final Accounts for <a href="/files/SW5_2023_Final_Accounts.pdf" rel="noopener noreferrer nofollow" target="_blank">Shake Farm Pte. Ltd. (SW 5-2023)</a>
 </p>
