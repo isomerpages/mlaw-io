@@ -10,7 +10,7 @@ Forms for Administration
 
 **Forms For Bankruptcy**
 
-[Notice to Trustee of Intention for Court Action](/files/Forms/NOTICETOTRUSTEEOFINTENTIONFORCOURTACTION.pdf)
+[Notice to Trustee of Intention for Court Action](/files/Forms/NOTICETOTRUSTEEOFINTENTIONFORCOURTACTION.pdf) (143KB)
 
 [Checklist to creditors for supporting documents](/files/ChecklisttoCreditorsforSupportingDocuments_revisedversion20062018.pdf){:target="_blank"} (324KB)
 
