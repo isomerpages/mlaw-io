@@ -14,20 +14,17 @@ variant: tiptap
 </p>
 <p><strong>Insolvency, Restructuring and Dissolution (Simplified Winding Up) Regulations 2021</strong> 
 <br>
-<br>
 </p>
-<p>(1) Notices of Application
-<br><a href="/files/03_05_24_Application_SWU.pdf" rel="noopener noreferrer nofollow" target="_blank">03-May-2024 Notice of Application into Simplified Winding Up Programme</a> 
-<br>
-<br>
-<br>(2) Notices of Striking off and Final Accounts
+<p>(1) Notices of Striking off and Final Accounts
+<br><a href="/files/07_06_2024_Notice_of_Striking_Off.pdf" rel="noopener noreferrer nofollow" target="_blank">07-Jun-2024 Notice of Striking Off for Simplified Winding Up Programme</a> and
+Final Accounts for <a href="/files/SW25_2023_Final_Accounts.pdf" rel="noopener noreferrer nofollow" target="_blank">Seductive Bee Pte. Ltd. (SW 25-2023)</a>
 <br><a href="/files/17_05_2024_notice_of_striking_off.pdf" rel="noopener noreferrer nofollow" target="_blank">17-May-2024 Notice of Striking Off for Simplified Winding Up Programme</a> and
 Final Accounts for <a href="/files/SW22_2023_Final_Accounts.pdf" rel="noopener noreferrer nofollow" target="_blank">Energy Transformers Pte. Ltd. (SW 22-2023)</a> 
 <br><a href="/files/10_05_2024_notice_of_striking_off.pdf" rel="noopener noreferrer nofollow" target="_blank">10-May-2024 Notice of Striking Off for Simplified Winding Up Programme </a>and
 Final Accounts for <a href="/files/SW5_2023_Final_Accounts.pdf" rel="noopener noreferrer nofollow" target="_blank">Shake Farm Pte. Ltd. (SW 5-2023)</a>
 </p>
 <p>
-<br>(3) Notices of Intended Dividend
+<br>(2) Notices of Intended Dividend
 <br><a href="/files/SW5_2021_Notice_of_Intended_Dividend__31_May_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">31-May-2024 Notice of Intended Dividend for Glow Digital Media Pte. Ltd. (SW 5-2021)</a>
 </p>
 <p></p>
@@ -42,6 +39,7 @@ Final Accounts for <a href="/files/SW5_2023_Final_Accounts.pdf" rel="noopener no
 <br>
 </p>
 <p><em>(1) Notices of Application</em> 
+<br><a href="/files/03_05_24_Application_SWU.pdf" rel="noopener noreferrer nofollow" target="_blank">03-May-2024 Notice of Application into Simplified Winding Up Programme</a> 
 <br><a href="/files/19_04_24_Application_SWU.pdf" rel="noopener noreferrer nofollow" target="_blank">19-Apr-2024 Notice of Application into Simplified Winding Up Programme</a> 
 <br><a href="/files/12_04_24_Application_SWU_.pdf" rel="noopener noreferrer nofollow" target="_blank">12-Apr-2024 Notice of Application into Simplified Winding Up Programme</a> 
 <br><a href="/files/16022024ApplicationSWUP.pdf" rel="noopener noreferrer nofollow" target="_blank">16-Feb-2024 Notice of Application into Simplified Winding Up Programme </a>
