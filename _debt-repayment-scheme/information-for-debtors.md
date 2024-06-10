@@ -112,7 +112,7 @@ The fees payable under the Insolvency, Restructuring and Dissolution (Official A
   <tr>
     <td>OA’s review of debtor’s suitability for the DRS</td>
     <td>$250</td>
-    <td>On or before the meeting of creditors</td>
+    <td>At the submission of dcouments</td>
   </tr>
   <tr>
     <td>After DRP commences</td>
