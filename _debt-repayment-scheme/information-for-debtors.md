@@ -61,9 +61,7 @@ In your Notice of Introduction on DRS &amp; Filing of Statement of Affairs, you 
 You will be given 14 days to view the Introductory Video and complete the online submission, failing which your case will be referred back to Court for the bankruptcy proceedings to be heard again.<br>
 
 **7. What happens after submission of documents?**<br>
-Once your online submission has been verified and accepted by the DRS administrator, you will be notified to pay the preliminary fee of $350 via our [e-Collection Portal](https://go.gov.sg/ecp).<br>
-
-For a further assessment of your suitability for the DRS, a meeting of creditors will be held in our office. You will be required to make a payment of $250 before the meeting.<br>
+Once your online submission has been verified and accepted by the DRS administrator, a meeting of creditors will be held in our office.<br>
 
 Your attendance at the meeting of creditors is compulsory. If you are unable to attend the appointment, you are to inform us at least 3 days prior to the meeting date. You may otherwise be deemed unsuitable for DRS if you fail to attend the meeting without a valid reason and/or without having obtained the permission of the OA to be absent.<br>
 
@@ -114,7 +112,7 @@ The fees payable under the Insolvency, Restructuring and Dissolution (Official A
   <tr>
     <td>OA’s review of debtor’s suitability for the DRS</td>
     <td>$250</td>
-    <td>On or before the meeting of creditors</td>
+    <td>At the submission of dcouments</td>
   </tr>
   <tr>
     <td>After DRP commences</td>
