@@ -22,16 +22,19 @@ variant: tiptap
 <p>(2) Notices of Acceptance and Rejection
 <br><a href="/files/21_06_2024_Notice_of_rejection_.pdf" rel="noopener noreferrer nofollow" target="_blank">21-Jun-2024 Notice of Rejection into Simplified Winding Up Programme</a>
 </p>
-<p>(1) Notices of Striking off and Final Accounts
+<p></p>
+<p>(3) Notices of Striking off and Final Accounts
 <br><a href="/files/07_06_2024_Notice_of_Striking_Off.pdf" rel="noopener noreferrer nofollow" target="_blank">07-Jun-2024 Notice of Striking Off for Simplified Winding Up Programme</a> and
 Final Accounts for <a href="/files/SW25_2023_Final_Accounts.pdf" rel="noopener noreferrer nofollow" target="_blank">Seductive Bee Pte. Ltd. (SW 25-2023)</a>
 <br>
+<br>
 </p>
-<p>
-<br>(2) Notices of Intended Dividend
-<br><a href="/files/SW5_2021_Notice_of_Intended_Dividend__31_May_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">31-May-2024 Notice of Intended Dividend for Glow Digital Media Pte. Ltd. (SW 5-2021)</a>
+<p><strong>Insolvency, Restructuring and Dissolution (Simplified Debt Restructuring) Regulations 2021</strong>
+<br>
 </p>
-<p></p>
+<p>(1) Notice of Acceptance and Rejection
+<br><a href="/files/21_06_2024_Notice_of_Rejection_in_SR.pdf" rel="noopener noreferrer nofollow" target="_blank">21-Jun-2024 Notice of Rejection into Simplified Restructuring Programme</a>
+</p>
 <p>
 <br>*Past Notices* -
 <br>
@@ -229,6 +232,7 @@ Final Accounts for <a href="/files/SW6-2021%20Final%20Accounts.pdf" rel="noopene
 Final Accounts for <a href="/files/SW19-2021%20Final%20Accounts.pdf" rel="noopener noreferrer nofollow" target="_blank">The Dance Capital (Pte. Ltd.) (SW 19/2021)</a> 
 <br>
 <br><em>(5) Notices of Intended Dividend</em> 
+<br><a href="/files/SW5_2021_Notice_of_Intended_Dividend__31_May_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">31-May-2024 Notice of Intended Dividend for Glow Digital Media Pte. Ltd. (SW 5-2021)</a>
 <br><a href="/files/22122023noticeofintendeddissolution.pdf" rel="noopener noreferrer nofollow" target="_blank">22-Dec-2023 Notice of Intended Dissolution</a> and
 Final Accounts for <a href="/files/22122023finalaccounts.pdf" rel="noopener noreferrer nofollow" target="_blank">Also Dominie Pte. Ltd. (SW 22-2021)</a> 
 <br><a href="/files/sw5-2021%20notice%20of%20intended%20dividend.pdf" rel="noopener noreferrer nofollow" target="_blank">25-Aug-2023 Notice of Intended Dividend for Glow Digital Media Pte Ltd</a> 
