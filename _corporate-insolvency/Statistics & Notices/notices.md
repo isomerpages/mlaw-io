@@ -33,7 +33,7 @@ Final Accounts for <a href="/files/SW25_2023_Final_Accounts.pdf" rel="noopener n
 <br>
 </p>
 <p>(1) Notice of Acceptance and Rejection
-<br><a href="/files/21_06_2024_Notice_of_Rejection_in_SR.pdf" rel="noopener noreferrer nofollow" target="_blank">21-Jun-2024 Notice of Rejection into Simplified Restructuring Programme</a>
+<br><a href="/files/21_06_2024_Notice_of_Rejection_in_SR.pdf" rel="noopener noreferrer nofollow" target="_blank">21-Jun-2024 Notice of Rejection for Simplified Debt Restructuring Programme</a>
 </p>
 <p>
 <br>*Past Notices* -
