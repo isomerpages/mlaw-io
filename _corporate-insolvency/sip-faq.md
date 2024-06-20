@@ -190,7 +190,7 @@ The Official Receiver (“OR”) may request for further supporting documents an
 
 **14. Where can Applicant Companies (“AC”) seek assistance in their application for the Simplified Debt Restructuring Programme (“SDRP”)?**<br>
 
-ACs that require assistance in completing the Business Plan template for the SDRP can approach the various SME Centres and their business advisors for help. To make an appointment with a business advisor, please visit <a href="https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/network-of-partners/sme-centres/overview">this website</a>.<br>
+ACs that require assistance in completing the Business Plan template for the SDRP can approach the various SME Centres and their business advisors for help. To make an appointment with a business advisor, please visit [this website](https://partnersengage.enterprisesg.gov.sg/book-appointment)
 
 ACs are advised to seek the assistance of the company accountant or finance personnel to complete the templates for the 90-day cashflow projection and 24-month projected Profit &amp; Loss Statement.<br>
 <br>
