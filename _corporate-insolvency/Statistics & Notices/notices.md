@@ -20,6 +20,7 @@ variant: tiptap
 </p>
 <p></p>
 <p>(2) Notices of Acceptance and Rejection
+<br><a href="/files/28_06_2024_Notice_of_Acceptance.pdf" rel="noopener noreferrer nofollow" target="_blank">28-Jun-2024 Notice of Acceptance into Simplified Winding Up Programme</a>
 <br><a href="/files/21_06_2024_Notice_of_rejection_.pdf" rel="noopener noreferrer nofollow" target="_blank">21-Jun-2024 Notice of Rejection into Simplified Winding Up Programme</a>
 </p>
 <p></p>
