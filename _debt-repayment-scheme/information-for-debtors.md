@@ -24,6 +24,8 @@ You have to fulfil all of the following eligibility criteria:<br>
 
 You will be deemed ineligible for DRS if you fail to meet any of the criteria stated above, and the OA will not further assess the matter.<br>
 
+You can refer to this link for alternatives to bankruptcy [here](https://io.mlaw.gov.sg/bankruptcy/pre-bankruptcy/)
+
 **3. Am I suitable for DRS?**<br>
 If you satisfy the eligibility criteria, your suitability to be placed on the DRS will be further assessed by the OA. You have to submit documents online concerning your financial affairs, income and expenditure, as well as your proposed debt repayment plan to your creditors. You will also need to submit relevant supporting documents to substantiate your declaration. <br>
 
