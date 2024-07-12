@@ -158,7 +158,7 @@ The URA Centre (East Wing)<br>
 #07-11<br>
 Singapore 069118<br>
 
-Please send in your enquiries/feedback at [Contact Us @ OneMinLaw ](https://go.gov.sg/contactminlaw)
+Please send in your enquiries/feedback at [Contact Us @ OneMinLaw ](https://go.gov.sg/contactminlaw).
 
 Alternatively, you may visit us at our website at
 [https://go.gov.sg/io](https://go.gov.sg/io)
