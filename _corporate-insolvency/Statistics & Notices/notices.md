@@ -16,25 +16,13 @@ variant: tiptap
 <br>
 </p>
 <p>(1) Notices of Application
-<br><a href="/files/21_06_2024_Application_SWU.pdf" rel="noopener noreferrer nofollow" target="_blank">21-Jun-2024 Notice of Application into Simplified Winding Up Programme</a>
+<br><a href="/files/19_07_2024_Application_SWU.pdf" rel="noopener noreferrer nofollow" target="_blank">19-Jul-2024 Notice of Application into Simplified Winding Up Programme</a>
+<br>
 </p>
 <p></p>
 <p>(2) Notices of Acceptance and Rejection
-<br><a href="/files/28_06_2024_Notice_of_Acceptance.pdf" rel="noopener noreferrer nofollow" target="_blank">28-Jun-2024 Notice of Acceptance into Simplified Winding Up Programme</a>
-<br><a href="/files/21_06_2024_Notice_of_rejection_.pdf" rel="noopener noreferrer nofollow" target="_blank">21-Jun-2024 Notice of Rejection into Simplified Winding Up Programme</a>
-</p>
-<p></p>
-<p>(3) Notices of Striking off and Final Accounts
-<br><a href="/files/07_06_2024_Notice_of_Striking_Off.pdf" rel="noopener noreferrer nofollow" target="_blank">07-Jun-2024 Notice of Striking Off for Simplified Winding Up Programme</a> and
-Final Accounts for <a href="/files/SW25_2023_Final_Accounts.pdf" rel="noopener noreferrer nofollow" target="_blank">Seductive Bee Pte. Ltd. (SW 25-2023)</a>
+<br><a href="/files/19_07_2024_Notice_of_Rejection.pdf" rel="noopener noreferrer nofollow" target="_blank">19-Jul-2024 Notice of Rejection into Simplified Winding Up Programme</a>
 <br>
-<br>
-</p>
-<p><strong>Insolvency, Restructuring and Dissolution (Simplified Debt Restructuring) Regulations 2021</strong>
-<br>
-</p>
-<p>(1) Notice of Acceptance and Rejection
-<br><a href="/files/21_06_2024_Notice_of_Rejection_in_SR.pdf" rel="noopener noreferrer nofollow" target="_blank">21-Jun-2024 Notice of Rejection for Simplified Debt Restructuring Programme</a>
 </p>
 <p>
 <br>*Past Notices* -
@@ -47,6 +35,7 @@ Final Accounts for <a href="/files/SW25_2023_Final_Accounts.pdf" rel="noopener n
 <br>
 </p>
 <p><em>(1) Notices of Application</em> 
+<br><a href="/files/21_06_2024_Application_SWU.pdf" rel="noopener noreferrer nofollow" target="_blank">21-Jun-2024 Notice of Application into Simplified Winding Up Programme</a>
 <br><a href="/files/03_05_24_Application_SWU.pdf" rel="noopener noreferrer nofollow" target="_blank">03-May-2024 Notice of Application into Simplified Winding Up Programme</a> 
 <br><a href="/files/19_04_24_Application_SWU.pdf" rel="noopener noreferrer nofollow" target="_blank">19-Apr-2024 Notice of Application into Simplified Winding Up Programme</a> 
 <br><a href="/files/12_04_24_Application_SWU_.pdf" rel="noopener noreferrer nofollow" target="_blank">12-Apr-2024 Notice of Application into Simplified Winding Up Programme</a> 
@@ -99,6 +88,8 @@ Final Accounts for <a href="/files/SW25_2023_Final_Accounts.pdf" rel="noopener n
 <br><a href="/files/16-04-2021%20Application%20SWU.pdf" rel="noopener noreferrer nofollow" target="_blank">16-Apr-2021 Notice of Application into Simplified Winding Up Programme</a> 
 <br>
 <br><em>(2) Notices of Acceptance and Rejection</em> 
+<br><a href="/files/28_06_2024_Notice_of_Acceptance.pdf" rel="noopener noreferrer nofollow" target="_blank">28-Jun-2024 Notice of Acceptance into Simplified Winding Up Programme</a>
+<br><a href="/files/21_06_2024_Notice_of_rejection_.pdf" rel="noopener noreferrer nofollow" target="_blank">21-Jun-2024 Notice of Rejection into Simplified Winding Up Programme</a>
 <br><a href="/files/19_04_24_Notice_of_Acceptance.pdf" rel="noopener noreferrer nofollow" target="_blank">19-Apr-2024 Notice of Acceptance into Simplified Winding Up Programme</a> 
 <br><a href="/files/15_03_2024_Notice_of_Acceptance.pdf" rel="noopener noreferrer nofollow" target="_blank">15-Mar-2024 Notice of Acceptance into Simplified Winding Up Programme</a> 
 <br><a href="/files/23022024acceptanceswup.pdf" rel="noopener noreferrer nofollow" target="_blank">23-Feb-2024 Notice of Acceptance into Simplified Winding Up Programme</a> 
@@ -158,6 +149,8 @@ Final Accounts for <a href="/files/SW25_2023_Final_Accounts.pdf" rel="noopener n
 <br><a href="/files/14-05-2021%20Notice%20of%20Rejection.pdf" rel="noopener noreferrer nofollow" target="_blank">14-May-2021 Notice of Rejection for Simplified Winding Up Programme</a> 
 <br>
 <br><em>(3) Notices of Striking off and Final Accounts</em> 
+<br><a href="/files/07_06_2024_Notice_of_Striking_Off.pdf" rel="noopener noreferrer nofollow" target="_blank">07-Jun-2024 Notice of Striking Off for Simplified Winding Up Programme</a> and
+Final Accounts for <a href="/files/SW25_2023_Final_Accounts.pdf" rel="noopener noreferrer nofollow" target="_blank">Seductive Bee Pte. Ltd. (SW 25-2023)</a>
 <br><a href="/files/17_05_2024_notice_of_striking_off.pdf" rel="noopener noreferrer nofollow" target="_blank">17-May-2024 Notice of Striking Off for Simplified Winding Up Programme</a> and
 Final Accounts for <a href="/files/SW22_2023_Final_Accounts.pdf" rel="noopener noreferrer nofollow" target="_blank">Energy Transformers Pte. Ltd. (SW 22-2023)</a> 
 <br><a href="/files/10_05_2024_notice_of_striking_off.pdf" rel="noopener noreferrer nofollow" target="_blank">10-May-2024 Notice of Striking Off for Simplified Winding Up Programme </a>and
@@ -296,6 +289,7 @@ Final Accounts for <a href="/files/SW7-2021%20Final%20Account.pdf" rel="noopener
 <br><a href="/files/18-03-2022%20Application%20SR.pdf" rel="noopener noreferrer nofollow" target="_blank">18-Mar-2022 Notice of Application into Simplified Debt Restructuring Programme</a> 
 <br>
 <br><em>(2) Notices of Acceptance and Rejection</em> 
+<br><a href="/files/21_06_2024_Notice_of_Rejection_in_SR.pdf" rel="noopener noreferrer nofollow" target="_blank">21-Jun-2024 Notice of Rejection for Simplified Debt Restructuring Programme</a>
 <br><a href="/files/10-11-2023%20notice%20of%20rejection.pdf" rel="noopener noreferrer nofollow" target="_blank">10-Nov-2023 Notice of Rejection for Simplified Debt Restructuring Programme</a> 
 <br><a href="/files/12-05-2023%20notice%20of%20acceptance%20sdr.pdf" rel="noopener noreferrer nofollow" target="_blank">12-May-2023 Notice of Acceptance for Simplified Debt Restructuring Programme</a> 
 <br><a href="/files/10-02-2023%20Notice%20Of%20Rejection.pdf" rel="noopener noreferrer nofollow" target="_blank">10-Feb-2023 Notice of Rejection for Simplified Debt Restructuring Programme</a> 
