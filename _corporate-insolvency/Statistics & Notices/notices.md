@@ -22,20 +22,7 @@ variant: tiptap
 <p></p>
 <p>(2) Notices of Acceptance and Rejection
 <br><a href="/files/19_07_2024_Notice_of_Rejection.pdf" rel="noopener noreferrer nofollow" target="_blank">19-Jul-2024 Notice of Rejection into Simplified Winding Up Programme</a>
-<br><a href="/files/28_06_2024_Notice_of_Acceptance.pdf" rel="noopener noreferrer nofollow" target="_blank">28-Jun-2024 Notice of Acceptance into Simplified Winding Up Programme</a>
-<br><a href="/files/21_06_2024_Notice_of_rejection_.pdf" rel="noopener noreferrer nofollow" target="_blank">21-Jun-2024 Notice of Rejection into Simplified Winding Up Programme</a>
-</p>
-<p></p>
-<p>(3) Notices of Striking off and Final Accounts
 <br>
-<br>
-<br>
-</p>
-<p><strong>Insolvency, Restructuring and Dissolution (Simplified Debt Restructuring) Regulations 2021</strong>
-<br>
-</p>
-<p>(1) Notice of Acceptance and Rejection
-<br><a href="/files/21_06_2024_Notice_of_Rejection_in_SR.pdf" rel="noopener noreferrer nofollow" target="_blank">21-Jun-2024 Notice of Rejection for Simplified Debt Restructuring Programme</a>
 </p>
 <p>
 <br>*Past Notices* -
@@ -101,6 +88,8 @@ variant: tiptap
 <br><a href="/files/16-04-2021%20Application%20SWU.pdf" rel="noopener noreferrer nofollow" target="_blank">16-Apr-2021 Notice of Application into Simplified Winding Up Programme</a> 
 <br>
 <br><em>(2) Notices of Acceptance and Rejection</em> 
+<br><a href="/files/28_06_2024_Notice_of_Acceptance.pdf" rel="noopener noreferrer nofollow" target="_blank">28-Jun-2024 Notice of Acceptance into Simplified Winding Up Programme</a>
+<br><a href="/files/21_06_2024_Notice_of_rejection_.pdf" rel="noopener noreferrer nofollow" target="_blank">21-Jun-2024 Notice of Rejection into Simplified Winding Up Programme</a>
 <br><a href="/files/19_04_24_Notice_of_Acceptance.pdf" rel="noopener noreferrer nofollow" target="_blank">19-Apr-2024 Notice of Acceptance into Simplified Winding Up Programme</a> 
 <br><a href="/files/15_03_2024_Notice_of_Acceptance.pdf" rel="noopener noreferrer nofollow" target="_blank">15-Mar-2024 Notice of Acceptance into Simplified Winding Up Programme</a> 
 <br><a href="/files/23022024acceptanceswup.pdf" rel="noopener noreferrer nofollow" target="_blank">23-Feb-2024 Notice of Acceptance into Simplified Winding Up Programme</a> 
@@ -300,6 +289,7 @@ Final Accounts for <a href="/files/SW7-2021%20Final%20Account.pdf" rel="noopener
 <br><a href="/files/18-03-2022%20Application%20SR.pdf" rel="noopener noreferrer nofollow" target="_blank">18-Mar-2022 Notice of Application into Simplified Debt Restructuring Programme</a> 
 <br>
 <br><em>(2) Notices of Acceptance and Rejection</em> 
+<br><a href="/files/21_06_2024_Notice_of_Rejection_in_SR.pdf" rel="noopener noreferrer nofollow" target="_blank">21-Jun-2024 Notice of Rejection for Simplified Debt Restructuring Programme</a>
 <br><a href="/files/10-11-2023%20notice%20of%20rejection.pdf" rel="noopener noreferrer nofollow" target="_blank">10-Nov-2023 Notice of Rejection for Simplified Debt Restructuring Programme</a> 
 <br><a href="/files/12-05-2023%20notice%20of%20acceptance%20sdr.pdf" rel="noopener noreferrer nofollow" target="_blank">12-May-2023 Notice of Acceptance for Simplified Debt Restructuring Programme</a> 
 <br><a href="/files/10-02-2023%20Notice%20Of%20Rejection.pdf" rel="noopener noreferrer nofollow" target="_blank">10-Feb-2023 Notice of Rejection for Simplified Debt Restructuring Programme</a> 
