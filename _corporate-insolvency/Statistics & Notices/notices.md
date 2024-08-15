@@ -15,13 +15,10 @@ variant: tiptap
 <p><strong>Insolvency, Restructuring and Dissolution (Simplified Winding Up) Regulations 2021</strong> 
 <br>
 </p>
-<p>(1) Notices of Application
-<br><a href="/files/19_07_2024_Application_SWU.pdf" rel="noopener noreferrer nofollow" target="_blank">19-Jul-2024 Notice of Application into Simplified Winding Up Programme</a>
-<br>
-</p>
 <p></p>
-<p>(2) Notices of Acceptance and Rejection
-<br><a href="/files/19_07_2024_Notice_of_Rejection.pdf" rel="noopener noreferrer nofollow" target="_blank">19-Jul-2024 Notice of Rejection into Simplified Winding Up Programme</a>
+<p></p>
+<p>(1) Notices of Acceptance and Rejection
+<br><a href="/files/16_08_2024_Notice_of_Acceptance.pdf" rel="noopener noreferrer nofollow" target="_blank">16-Aug-2024 Notice of Acceptance into Simplified Winding Up Programme</a>
 <br>
 </p>
 <p>
@@ -35,6 +32,7 @@ variant: tiptap
 <br>
 </p>
 <p><em>(1) Notices of Application</em> 
+<br><a href="/files/19_07_2024_Application_SWU.pdf" rel="noopener noreferrer nofollow" target="_blank">19-Jul-2024 Notice of Application into Simplified Winding Up Programme</a>
 <br><a href="/files/21_06_2024_Application_SWU.pdf" rel="noopener noreferrer nofollow" target="_blank">21-Jun-2024 Notice of Application into Simplified Winding Up Programme</a>
 <br><a href="/files/03_05_24_Application_SWU.pdf" rel="noopener noreferrer nofollow" target="_blank">03-May-2024 Notice of Application into Simplified Winding Up Programme</a> 
 <br><a href="/files/19_04_24_Application_SWU.pdf" rel="noopener noreferrer nofollow" target="_blank">19-Apr-2024 Notice of Application into Simplified Winding Up Programme</a> 
@@ -88,6 +86,7 @@ variant: tiptap
 <br><a href="/files/16-04-2021%20Application%20SWU.pdf" rel="noopener noreferrer nofollow" target="_blank">16-Apr-2021 Notice of Application into Simplified Winding Up Programme</a> 
 <br>
 <br><em>(2) Notices of Acceptance and Rejection</em> 
+<br><a href="/files/19_07_2024_Notice_of_Rejection.pdf" rel="noopener noreferrer nofollow" target="_blank">19-Jul-2024 Notice of Rejection into Simplified Winding Up Programme</a>
 <br><a href="/files/28_06_2024_Notice_of_Acceptance.pdf" rel="noopener noreferrer nofollow" target="_blank">28-Jun-2024 Notice of Acceptance into Simplified Winding Up Programme</a>
 <br><a href="/files/21_06_2024_Notice_of_rejection_.pdf" rel="noopener noreferrer nofollow" target="_blank">21-Jun-2024 Notice of Rejection into Simplified Winding Up Programme</a>
 <br><a href="/files/19_04_24_Notice_of_Acceptance.pdf" rel="noopener noreferrer nofollow" target="_blank">19-Apr-2024 Notice of Acceptance into Simplified Winding Up Programme</a> 
