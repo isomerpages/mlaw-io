@@ -26,7 +26,7 @@ Other reasons to consider before commencing bankruptcy proceedings: <br>
 * The cost of bankruptcy proceedings
 * The loss of interest on the principal sum owed after the making of the Bankruptcy Order
 * The low likelihood of recovering debts in full
-* After the bankrupt’s discharge from bankruptcy, debts which are not fully settled will be extinguished and creditors will not be able to further pursue the debts. (There are certain types of debts which will not be extinguished e.g. Debts owed to the Singapore Government that remain unpaid will not be extinguished even after the bankrupt’s discharge from bankruptcy.)   <br>
+* After the bankrupt’s discharge from bankruptcy, debts which are not fully settled will be extinguished and creditors will not be able to further pursue the debts. (There are certain types of debts which will not be extinguished e.g. debts owed to the Singapore Government that remain unpaid will not be extinguished even after the bankrupt’s discharge from bankruptcy.)   <br>
  
 
 <b> 4. Private Arrangement </b> <br>
