@@ -23,7 +23,8 @@ variant: tiptap
 <br>
 <br><em>(2) Notice of Striking off and Final Accounts</em> 
 <br><a href="/files/06_09_2024_Notice_of_Striking_Off.pdf" rel="noopener nofollow" target="_blank">06-Sep-2024 Notice of Striking Off for Simplified Winding Up Programme </a>and
-Final Accounts for</p>
+Final Accounts for <a href="/files/SW27_2023_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">All Sunday Pte. Ltd. (SW27-2023)</a>
+</p>
 <p>
 <br>*Past Notices* -
 <br>
