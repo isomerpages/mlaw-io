@@ -70,7 +70,7 @@ Yes. You may access the Individual Insolvency Administration Information (IIAI) 
 
 You will also obtain information on the date of the filing of the bankruptcy petition, the name of the petitioning creditor, the date of the Bankruptcy Order, the trustee in bankruptcy and the total amount in the bankruptcy estate account. <br>
 
-Each online search costs $5. <br>
+Each online search costs $6. <br>
 
 <b>8. Can I take further legal action against a bankrupt?</b> <br>
 
