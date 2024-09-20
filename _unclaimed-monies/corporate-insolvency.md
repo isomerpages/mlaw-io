@@ -101,11 +101,6 @@ the claimant once the claim is verified.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/cw%20unpresented%20cheques.pdf" rel="noopener noreferrer nofollow" target="_blank">Unpresented Cheques</a>{:target="_blank"}(429KB)
-<br>
-</p>
-</li>
-<li>
 <p><a href="/files/Unclaimed monies/Corporate_Insolvency___Unclaimed_Monies.pdf" rel="noopener nofollow" target="_blank">Unclaimed Monies from Winding Up Cases</a>
 <br>
 </p>
