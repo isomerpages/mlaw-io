@@ -101,7 +101,7 @@ the claimant once the claim is verified.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Unclaimed monies/Corporate_Insolvency___Unclaimed_Monies.pdf" rel="noopener nofollow" target="_blank">Unclaimed Monies from Winding Up Cases</a>
+<p><a href="/files/Unclaimed monies/Corporate_Insolvency___Unclaimed_Monies.pdf" rel="noopener nofollow" target="_blank">Unclaimed Monies from Winding Up Case</a>
 <br>
 </p>
 </li>
