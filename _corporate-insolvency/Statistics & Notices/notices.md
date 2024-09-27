@@ -19,13 +19,18 @@ variant: tiptap
 <p></p>
 <p>(1) Notices of Acceptance and Rejection
 <br><a href="/files/06_09_2024_Notice_of_Acceptance.pdf" rel="noopener nofollow" target="_blank">06-Sep-2024 Notice of Acceptance into Simplified Winding Up Programme</a>
-<br><a href="/files/30_08_2024_Notice_of_Acceptance.pdf" rel="noopener nofollow" target="_blank">30-Aug-2024 Notice of Acceptance into Simplified Winding Up Programme</a>
 <br>
 <br><em>(2) Notice of Striking off and Final Accounts</em> 
+<br><a href="/files/27_09_2024_Notice_of_Striking_Off.pdf" rel="noopener nofollow" target="_blank">27-Sep-2024 Notice of Striking Off for Simplified Winding Up Programme </a>
+<br>and Final Accounts for <a href="/files/SW8_2022_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">Mad About Sucre Pte. Ltd. (SW8-2022)</a>
 <br><a href="/files/06_09_2024_Notice_of_Striking_Off.pdf" rel="noopener nofollow" target="_blank">06-Sep-2024 Notice of Striking Off for Simplified Winding Up Programme </a>and
 Final Accounts for <a href="/files/SW27_2023_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">All Sunday Pte. Ltd. (SW27-2023)</a>
 </p>
-<p>
+<p></p>
+<p><em>(3) Notices of Intended Dissolution</em> 
+<br><a href="/files/SW5_2021_Notice_of_Intended_Dissolution.pdf" rel="noopener nofollow" target="_blank">27-Sep-2024 Notice of Intended Dissolution </a>and
+Final Accounts for <a href="/files/SW5_2021_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">Glow Digital Media Pte. Ltd. (SW5-2021)</a>
+<br>
 <br>*Past Notices* -
 <br>
 </p>
@@ -90,6 +95,7 @@ Final Accounts for <a href="/files/SW27_2023_Final_Accounts.pdf" rel="noopener n
 <br><a href="/files/16-04-2021%20Application%20SWU.pdf" rel="noopener noreferrer nofollow" target="_blank">16-Apr-2021 Notice of Application into Simplified Winding Up Programme</a> 
 <br>
 <br><em>(2) Notices of Acceptance and Rejection</em> 
+<br><a href="/files/30_08_2024_Notice_of_Acceptance.pdf" rel="noopener nofollow" target="_blank">30-Aug-2024 Notice of Acceptance into Simplified Winding Up Programme</a>
 <br><a href="/files/16_08_2024_Notice_of_Acceptance.pdf" rel="noopener noreferrer nofollow" target="_blank">16-Aug-2024 Notice of Acceptance into Simplified Winding Up Programme</a>
 <br><a href="/files/19_07_2024_Notice_of_Rejection.pdf" rel="noopener noreferrer nofollow" target="_blank">19-Jul-2024 Notice of Rejection into Simplified Winding Up Programme</a>
 <br><a href="/files/28_06_2024_Notice_of_Acceptance.pdf" rel="noopener noreferrer nofollow" target="_blank">28-Jun-2024 Notice of Acceptance into Simplified Winding Up Programme</a>
