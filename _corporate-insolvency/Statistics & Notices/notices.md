@@ -23,8 +23,8 @@ variant: tiptap
 <br><em>(2) Notice of Striking off and Final Accounts</em> 
 <br><a href="/files/27_09_2024_Notice_of_Striking_Off.pdf" rel="noopener nofollow" target="_blank">11-Oct-2024 Notice of Striking Off for Simplified Winding Up Programme </a>and
 Final Accounts for <a href="/files/SW8_2022_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">Beny Premium Foods Pte. Ltd. (SW13-2024)</a>
-<br><a href="/files/27_09_2024_Notice_of_Striking_Off.pdf" rel="noopener nofollow" target="_blank">27-Sep-2024 Notice of Striking Off for Simplified Winding Up Programme </a>
-<br>and Final Accounts for <a href="/files/SW8_2022_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">Mad About Sucre Pte. Ltd. (SW8-2022)</a>
+<br><a href="/files/27_09_2024_Notice_of_Striking_Off.pdf" rel="noopener nofollow" target="_blank">27-Sep-2024 Notice of Striking Off for Simplified Winding Up Programme </a>and
+Final Accounts for <a href="/files/SW8_2022_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">Mad About Sucre Pte. Ltd. (SW8-2022)</a>
 <br><a href="/files/06_09_2024_Notice_of_Striking_Off.pdf" rel="noopener nofollow" target="_blank">06-Sep-2024 Notice of Striking Off for Simplified Winding Up Programme </a>and
 Final Accounts for <a href="/files/SW27_2023_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">All Sunday Pte. Ltd. (SW27-2023)</a>
 </p>
