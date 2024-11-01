@@ -18,20 +18,16 @@ variant: tiptap
 <p></p>
 <p></p>
 <p>(1) Notices of Acceptance and Rejection
-<br><a href="/files/06_09_2024_Notice_of_Acceptance.pdf" rel="noopener nofollow" target="_blank">06-Sep-2024 Notice of Acceptance into Simplified Winding Up Programme</a>
+<br><a href="/files/01_11_2024_Notice_of_rejection.pdf" rel="noopener nofollow" target="_blank">01-Nov-2024 Notice of Rejection into Simplified Winding Up Programme</a>
 <br>
 <br><em>(2) Notice of Striking off and Final Accounts</em> 
 <br><a href="/files/11102024_Notice_To_Strike_off_Company.pdf" rel="noopener nofollow" target="_blank">11-Oct-2024 Notice of Striking Off for Simplified Winding Up Programme </a>and
 Final Accounts for <a href="/files/SW_13_2024_Final_accounts.pdf" rel="noopener nofollow" target="_blank">Beny Premium Foods Pte. Ltd. (SW13-2024)</a>
-<br><a href="/files/27_09_2024_Notice_of_Striking_Off.pdf" rel="noopener nofollow" target="_blank">27-Sep-2024 Notice of Striking Off for Simplified Winding Up Programme </a>and
-Final Accounts for <a href="/files/SW8_2022_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">Mad About Sucre Pte. Ltd. (SW8-2022)</a>
-<br><a href="/files/06_09_2024_Notice_of_Striking_Off.pdf" rel="noopener nofollow" target="_blank">06-Sep-2024 Notice of Striking Off for Simplified Winding Up Programme </a>and
-Final Accounts for <a href="/files/SW27_2023_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">All Sunday Pte. Ltd. (SW27-2023)</a>
+<br>
 </p>
 <p></p>
 <p><em>(3) Notices of Intended Dissolution</em> 
-<br><a href="/files/SW5_2021_Notice_of_Intended_Dissolution.pdf" rel="noopener nofollow" target="_blank">27-Sep-2024 Notice of Intended Dissolution </a>and
-Final Accounts for <a href="/files/SW5_2021_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">Glow Digital Media Pte. Ltd. (SW5-2021)</a>
+<br>
 <br>
 <br>*Past Notices* -
 <br>
@@ -97,6 +93,7 @@ Final Accounts for <a href="/files/SW5_2021_Final_Accounts.pdf" rel="noopener no
 <br><a href="/files/16-04-2021%20Application%20SWU.pdf" rel="noopener noreferrer nofollow" target="_blank">16-Apr-2021 Notice of Application into Simplified Winding Up Programme</a> 
 <br>
 <br><em>(2) Notices of Acceptance and Rejection</em> 
+<br><a href="/files/06_09_2024_Notice_of_Acceptance.pdf" rel="noopener nofollow" target="_blank">06-Sep-2024 Notice of Acceptance into Simplified Winding Up Programme</a>
 <br><a href="/files/30_08_2024_Notice_of_Acceptance.pdf" rel="noopener nofollow" target="_blank">30-Aug-2024 Notice of Acceptance into Simplified Winding Up Programme</a>
 <br><a href="/files/16_08_2024_Notice_of_Acceptance.pdf" rel="noopener noreferrer nofollow" target="_blank">16-Aug-2024 Notice of Acceptance into Simplified Winding Up Programme</a>
 <br><a href="/files/19_07_2024_Notice_of_Rejection.pdf" rel="noopener noreferrer nofollow" target="_blank">19-Jul-2024 Notice of Rejection into Simplified Winding Up Programme</a>
@@ -161,6 +158,10 @@ Final Accounts for <a href="/files/SW5_2021_Final_Accounts.pdf" rel="noopener no
 <br><a href="/files/14-05-2021%20Notice%20of%20Rejection.pdf" rel="noopener noreferrer nofollow" target="_blank">14-May-2021 Notice of Rejection for Simplified Winding Up Programme</a> 
 <br>
 <br><em>(3) Notices of Striking off and Final Accounts</em> 
+<br><a href="/files/27_09_2024_Notice_of_Striking_Off.pdf" rel="noopener nofollow" target="_blank">27-Sep-2024 Notice of Striking Off for Simplified Winding Up Programme </a>and
+Final Accounts for <a href="/files/SW8_2022_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">Mad About Sucre Pte. Ltd. (SW8-2022)</a>
+<br><a href="/files/06_09_2024_Notice_of_Striking_Off.pdf" rel="noopener nofollow" target="_blank">06-Sep-2024 Notice of Striking Off for Simplified Winding Up Programme </a>and
+Final Accounts for <a href="/files/SW27_2023_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">All Sunday Pte. Ltd. (SW27-2023)</a>
 <br><a href="/files/07_06_2024_Notice_of_Striking_Off.pdf" rel="noopener noreferrer nofollow" target="_blank">07-Jun-2024 Notice of Striking Off for Simplified Winding Up Programme</a> and
 Final Accounts for <a href="/files/SW25_2023_Final_Accounts.pdf" rel="noopener noreferrer nofollow" target="_blank">Seductive Bee Pte. Ltd. (SW 25-2023)</a>
 <br><a href="/files/17_05_2024_notice_of_striking_off.pdf" rel="noopener noreferrer nofollow" target="_blank">17-May-2024 Notice of Striking Off for Simplified Winding Up Programme</a> and
@@ -269,6 +270,8 @@ Final Accounts for <a href="/files/22122023finalaccounts.pdf" rel="noopener nore
 <br><a href="/files/SW7-2021%20Notice%20of%20Dividend.pdf" rel="noopener noreferrer nofollow" target="_blank">22-Apr-2022 Notice of Dividend for Good Old Taste Pte Ltd (SW 7/2021) </a>
 <br>
 <br><em>(7) Notices of Intended Dissolution</em> 
+<br><a href="/files/SW5_2021_Notice_of_Intended_Dissolution.pdf" rel="noopener nofollow" target="_blank">27-Sep-2024 Notice of Intended Dissolution </a>and
+Final Accounts for <a href="/files/SW5_2021_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">Glow Digital Media Pte. Ltd. (SW5-2021)</a>
 <br><a href="/files/sw15_2021_notice_of_intended_dissolution.pdf" rel="noopener noreferrer nofollow" target="_blank">17-Nov-2023 Notice of Intended Dissolution</a> and
 Final Accounts for <a href="/files/sw15_2021_final_account.pdf" rel="noopener noreferrer nofollow" target="_blank">A Phat Phinball Pte. Ltd. (SW 15-2021)</a> 
 <br><a href="/files/sw2-2023%20notice%20of%20intended%20dissolution.pdf" rel="noopener noreferrer nofollow" target="_blank">10-Nov-2023 Notice of Intended Dissolution</a> and
