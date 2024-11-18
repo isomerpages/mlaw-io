@@ -3,6 +3,7 @@ title: Responsibilities and Rights of a Bankrupt
 permalink: /bankruptcy/information-for-bankrupts/impact-of-bankruptcy/responsibilities-and-rights/
 breadcrumb: Responsibilities and Rights of a Bankrupt
 third_nav_title: Information for Bankrupts
+variant: markdown
 ---
 Duties and Responsibilities of a Bankrupt
 ---
@@ -109,11 +110,15 @@ You are disqualified from being appointed or acting as a trustee or personal rep
 <b>(d) Are there offences under bankruptcy?</b> <br>
 The failure to seek necessary permission as well as the non-disclosure of the relevant information in the items 1-5 listed above may result in offences committed under the         Bankruptcy Act Cap. 20, 2009 Rev Ed or the Insolvency, Restructuring and Dissolution Act 2018.|
 
-<b>(e) Can I go to the casinos in Singapore?</b><br>
+<b>(e) Can I go to the casinos or gaming machine rooms in Singapore?</b><br>
 	        
-You are automatically placed under an Exclusion by law which will prohibit you from entering the casinos in Singapore and any jackpot machine rooms operated by private clubs in Singapore. You will also not be allowed to access Singapore Pools account-related services or open a betting account with Singapore Pools if you are not an existing betting account holder.
+You are automatically placed under an Exclusion by law which will prohibit you from entering the casinos in Singapore and any gaming machine rooms operated by private clubs in Singapore. 
 
-If you are required to work in the casinos or jackpot machine rooms, you may contact the National Council on Problem Gambling (NCPG) at 6354 8154 or [admin@ncpg.org.sg](mailto:admin@ncpg.org.sg) to apply for an exemption.
+You will also not be allowed to access remote gambling services which includes but is not limited to Singapore Pools account-related services.
+
+Please note that it is an offence for you to commit entries into the casinos or gaming machine rooms or access to remote gambling services.
+
+If you are required to work in the casinos or gaming machine rooms, you may contact the National Council on Problem Gambling (NCPG) at 6354 8154 or [admin@ncpg.org.sg](mailto:admin@ncpg.org.sg) to apply for an exemption.
 
 Once you are discharged from bankruptcy, this Exclusion by Law will be automatically revoked two weeks from the date of your discharge.
 
