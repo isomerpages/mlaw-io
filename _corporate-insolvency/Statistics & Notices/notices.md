@@ -30,8 +30,6 @@ variant: tiptap
 </p>
 <p>
 <br>
-</p>
-<p>
 <br>
 <br>*Past Notices* -
 <br>
