@@ -16,4 +16,6 @@ variant: tiptap
 </p>
 <p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_14_November_2024__Week_47_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 14 November 2024 (Week 47)</a>
 </p>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_14_November_2024__Week_47A_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 14 November 2024 (Week 47A)</a>
+</p>
 <p></p>
