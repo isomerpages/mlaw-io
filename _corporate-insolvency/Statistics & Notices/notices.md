@@ -5,6 +5,7 @@ breadcrumb: Notices
 third_nav_title: Statistics & Notices
 variant: tiptap
 ---
+<p></p>
 <h2><br><em>Current Notices</em></h2>
 <p>
 <br>
@@ -15,20 +16,13 @@ variant: tiptap
 <p><strong>Insolvency, Restructuring and Dissolution (Simplified Winding Up) Regulations 2021</strong> 
 <br>
 </p>
-<p></p>
-<p></p>
-<p>(1) Notices of Acceptance and Rejection
-<br><a href="/files/22_11_2024_Application_SWU.pdf" rel="noopener nofollow" target="_blank">22-Nov-2024 Notice of Application into Simplified Winding Up Programme</a>
-<br>
-<br>
-<br>(2) Notices of Acceptance and Rejection
-<br><a href="/files/01_11_2024_Notice_of_rejection.pdf" rel="noopener nofollow" target="_blank">01-Nov-2024 Notice of Rejection into Simplified Winding Up Programme</a>
-<br>
-<br>
-<br>(3) Notices of Intended Dividend
+<p>(1) Notices of Intended Dividend
+<br><a href="/files/Notice_of_Intended_Dividend_02Dec24.pdf" rel="noopener noreferrer nofollow" target="_blank">02-Dec-2024 Notice of Intended Dividend for Also Dominie Pte. Ltd. (SW 22-2021)</a>
 <br><a href="/files/SW_11_2023_Notice_of_Intended_Dividend__8_Nov_2024_.pdf" rel="noopener nofollow" target="_blank">08-Nov-2024 Notice of Intended Dividend for Anake Kids Pte Ltd (SW 11-2023)</a>
 </p>
-<p>
+<p>(2) Notices of Acceptance and Rejection
+<br><a href="/files/22_11_2024_Application_SWU.pdf" rel="noopener nofollow" target="_blank">22-Nov-2024 Notice of Application into Simplified Winding Up Programme</a>
+<br>
 <br>
 <br>
 <br>*Past Notices* -
@@ -95,6 +89,7 @@ variant: tiptap
 <br><a href="/files/16-04-2021%20Application%20SWU.pdf" rel="noopener noreferrer nofollow" target="_blank">16-Apr-2021 Notice of Application into Simplified Winding Up Programme</a> 
 <br>
 <br><em>(2) Notices of Acceptance and Rejection</em> 
+<br><a href="https://cms.isomer.gov.sg/files/01_11_2024_Notice_of_rejection.pdf" rel="noopener nofollow" target="_blank"><u>01-Nov-2024 Notice of Rejection into Simplified Winding Up Programme</u></a>
 <br><a href="/files/06_09_2024_Notice_of_Acceptance.pdf" rel="noopener nofollow" target="_blank">06-Sep-2024 Notice of Acceptance into Simplified Winding Up Programme</a>
 <br><a href="/files/30_08_2024_Notice_of_Acceptance.pdf" rel="noopener nofollow" target="_blank">30-Aug-2024 Notice of Acceptance into Simplified Winding Up Programme</a>
 <br><a href="/files/16_08_2024_Notice_of_Acceptance.pdf" rel="noopener noreferrer nofollow" target="_blank">16-Aug-2024 Notice of Acceptance into Simplified Winding Up Programme</a>
