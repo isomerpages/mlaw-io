@@ -14,7 +14,9 @@ variant: tiptap
 <br>
 </p>
 <p><strong>Insolvency, Restructuring and Dissolution (Simplified Winding Up) Regulations 2021</strong> 
-<br>(1) Notices of Intended Dividend
+<br>
+</p>
+<p>(1) Notices of Intended Dividend
 <br><a href="/files/Notice_of_Intended_Dividend_02Dec24.pdf" rel="noopener nofollow" target="_blank"><u>2-Dec-2024 Notice of Intended Dividend for Also Dominie Pte. Ltd. (SW 22-2021)</u></a>
 <br>
 <br>(2) Notices of Intended Dividend
