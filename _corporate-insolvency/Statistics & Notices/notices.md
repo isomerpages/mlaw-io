@@ -14,21 +14,15 @@ variant: tiptap
 <br>
 </p>
 <p><strong>Insolvency, Restructuring and Dissolution (Simplified Winding Up) Regulations 2021</strong> 
+<br>(1) Notices of Intended Dividend
+<br><a href="/files/Notice_of_Intended_Dividend_02Dec24.pdf" rel="noopener nofollow" target="_blank"><u>2-Dec-2024 Notice of Intended Dividend for Also Dominie Pte. Ltd. (SW 22-2021)</u></a>
 <br>
-</p>
-<p>(1) Notices of Acceptance and Rejection
-<br><a href="/files/Notice_of_Rejection_02Dec2024.pdf" rel="noopener noreferrer nofollow" target="_blank">02-Dec-2024 Notice of Application into Simplified Winding Up Programme<br></a>
-</p>
-<p>(2) Notices of Acceptance and Rejection
-<br><a href="/files/22_11_2024_Application_SWU.pdf" rel="noopener nofollow" target="_blank">22-Nov-2024 Notice of Application into Simplified Winding Up Programme</a>
-<br>
-<br>(3) Notices of Intended Dividend
-<br><a href="/files/Notice_of_Intended_Dividend_02Dec24.pdf" rel="noopener nofollow" target="_blank"><u>02-Dec-2024 Notice of Intended Dividend for Also Dominie Pte. Ltd. (SW 22-2021)</u></a>
-<br>
-<br>(4) Notices of Intended Dividend
+<br>(2) Notices of Intended Dividend
 <br><a href="/files/SW_11_2023_Notice_of_Intended_Dividend__8_Nov_2024_.pdf" rel="noopener nofollow" target="_blank">08-Nov-2024 Notice of Intended Dividend for Anake Kids Pte Ltd (SW 11-2023)</a>
 </p>
-<p>
+<p>(3) Notices of Acceptance and Rejection
+<br><a href="/files/22_11_2024_Application_SWU.pdf" rel="noopener nofollow" target="_blank">22-Nov-2024 Notice of Application into Simplified Winding Up Programme</a>
+<br>
 <br>
 <br>
 <br>*Past Notices* -
