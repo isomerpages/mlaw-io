@@ -5,6 +5,7 @@ breadcrumb: Notices
 third_nav_title: Statistics & Notices
 variant: tiptap
 ---
+<p></p>
 <h2><br><em>Current Notices</em></h2>
 <p>
 <br>
@@ -15,8 +16,8 @@ variant: tiptap
 <p><strong>Insolvency, Restructuring and Dissolution (Simplified Winding Up) Regulations 2021</strong> 
 <br>
 </p>
-<p>(1) Notices of Acceptance and Rejection
-<br><a href="/files/Notice_of_Rejection_02Dec2024.pdf" rel="noopener nofollow" target="_blank">02-Dec-2024 Notice of Application into Simplified Winding Up Programme</a>
+<p>(1) Notices of Acceptance and Rejection</p>
+<p><a href="/files/Notice_of_Rejection_02Dec2024.pdf" rel="noopener noreferrer nofollow" target="_blank">02-Dec-2024 Notice of Application into Simplified Winding Up Programme<br></a>
 </p>
 <p>(2) Notices of Acceptance and Rejection
 <br><a href="/files/22_11_2024_Application_SWU.pdf" rel="noopener nofollow" target="_blank">22-Nov-2024 Notice of Application into Simplified Winding Up Programme</a>
