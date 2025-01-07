@@ -16,16 +16,8 @@ variant: tiptap
 <p><strong>Insolvency, Restructuring and Dissolution (Simplified Winding Up) Regulations 2021</strong> 
 <br>
 </p>
-<p>(1) Notices of Intended Dividend
-<br><a href="/files/Notice_of_Intended_Dividend_02Dec24.pdf" rel="noopener noreferrer nofollow" target="_blank">02-Dec-2024 Notice of Intended Dividend for Also Dominie Pte. Ltd. (SW 22-2021)</a>
-<br>
-</p>
-<p>(2) Notices of Acceptance and Rejection
-<br><a href="/files/22_11_2024_Application_SWU.pdf" rel="noopener nofollow" target="_blank">22-Nov-2024 Notice of Application into Simplified Winding Up Programme</a>
-<br>
-<br><em>3) Notices of Striking off and Final Accounts</em> 
-<br><a href="/files/13_12_2024_Notice_of_striking_off.pdf" rel="noopener nofollow" target="_blank">13-Dec-2024 Notice of Striking Off for Simplified Winding Up Programme </a>
-<br>and Final Accounts for <a href="/files/SW7_2023_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">Onenubula Pte. Ltd. (SW 7/2023)</a>
+<p><em>(1) Notices of Dividend</em> 
+<br><a href="/files/SW11_2023_Notice_of_Dividend.pdf" rel="noopener nofollow" target="_blank">7-Jan-2025 Notice of Dividend for Anake Pte. Ltd. (SW 11/2023)</a>
 <br>
 <br>
 <br>
@@ -39,6 +31,7 @@ variant: tiptap
 <br>
 </p>
 <p><em>(1) Notices of Application</em> 
+<br><a href="/files/22_11_2024_Application_SWU.pdf" rel="noopener nofollow" target="_blank">22-Nov-2024 Notice of Application into Simplified Winding Up Programme</a>
 <br><a href="/files/19_07_2024_Application_SWU.pdf" rel="noopener noreferrer nofollow" target="_blank">19-Jul-2024 Notice of Application into Simplified Winding Up Programme</a>
 <br><a href="/files/21_06_2024_Application_SWU.pdf" rel="noopener noreferrer nofollow" target="_blank">21-Jun-2024 Notice of Application into Simplified Winding Up Programme</a>
 <br><a href="/files/03_05_24_Application_SWU.pdf" rel="noopener noreferrer nofollow" target="_blank">03-May-2024 Notice of Application into Simplified Winding Up Programme</a> 
@@ -159,6 +152,8 @@ variant: tiptap
 <br><a href="/files/14-05-2021%20Notice%20of%20Rejection.pdf" rel="noopener noreferrer nofollow" target="_blank">14-May-2021 Notice of Rejection for Simplified Winding Up Programme</a> 
 <br>
 <br><em>(3) Notices of Striking off and Final Accounts</em> 
+<br><a href="/files/13_12_2024_Notice_of_striking_off.pdf" rel="noopener nofollow" target="_blank">13-Dec-2024 Notice of Striking Off for Simplified Winding Up Programme </a>
+<br>and Final Accounts for <a href="/files/SW7_2023_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">Onenubula Pte. Ltd. (SW 7/2023)</a>
 <br><a href="/files/11102024_Notice_To_Strike_off_Company.pdf" rel="noopener nofollow" target="_blank">11-Oct-2024 Notice of Striking Off for Simplified Winding Up Programme </a>and
 Final Accounts for <a href="/files/SW_13_2024_Final_accounts.pdf" rel="noopener nofollow" target="_blank">Beny Premium Foods Pte. Ltd. (SW13-2024)</a>
 <br><a href="/files/27_09_2024_Notice_of_Striking_Off.pdf" rel="noopener nofollow" target="_blank">27-Sep-2024 Notice of Striking Off for Simplified Winding Up Programme </a>and
@@ -242,6 +237,7 @@ Final Accounts for <a href="/files/SW6-2021%20Final%20Accounts.pdf" rel="noopene
 Final Accounts for <a href="/files/SW19-2021%20Final%20Accounts.pdf" rel="noopener noreferrer nofollow" target="_blank">The Dance Capital (Pte. Ltd.) (SW 19/2021)</a> 
 <br>
 <br><em>(5) Notices of Intended Dividend</em> 
+<br><a href="/files/Notice_of_Intended_Dividend_02Dec24.pdf" rel="noopener noreferrer nofollow" target="_blank">02-Dec-2024 Notice of Intended Dividend for Also Dominie Pte. Ltd. (SW 22-2021)</a>
 <br><a href="/files/SW_11_2023_Notice_of_Intended_Dividend__8_Nov_2024_.pdf" rel="noopener nofollow" target="_blank">08-Nov-2024 Notice of Intended Dividend for Anake Kids Pte Ltd (SW 11-2023)</a>
 <br><a href="/files/SW5_2021_Notice_of_Intended_Dividend__31_May_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">31-May-2024 Notice of Intended Dividend for Glow Digital Media Pte. Ltd. (SW 5-2021)</a>
 <br><a href="/files/22122023noticeofintendeddissolution.pdf" rel="noopener noreferrer nofollow" target="_blank">22-Dec-2023 Notice of Intended Dissolution</a> and
@@ -286,13 +282,13 @@ Final Accounts for <a href="/files/SW33-2021%20Final%20account.pdf" rel="noopene
 Final Accounts for <a href="/files/06-01-2023%20Final%20Account.pdf" rel="noopener noreferrer nofollow" target="_blank">Delight 8 Cafe Pte. Ltd. (SW 2-2021)</a> 
 <br><a href="/files/SW6-2022%20Notice%20of%20Intended%20Dissolution.pdf" rel="noopener noreferrer nofollow" target="_blank">28-Oct-2022 Notice of Intended Dissolution</a> and
 Final Accounts for&nbsp;<a href="/files/SW6-2022%20Final%20Account.pdf" rel="noopener noreferrer nofollow" target="_blank">Astral Nanotec Pte. Ltd. (SW 6/2022)</a> 
-<br><a href="/files/SW16-2021%20Notice%20of%20Intended%20Dissolution.pdf" rel="noopener noreferrer nofollow" target="_blank">26-Aug-2022 Notice of Intended Dissolution</a>and
+<br><a href="/files/SW16-2021%20Notice%20of%20Intended%20Dissolution.pdf" rel="noopener noreferrer nofollow" target="_blank">26-Aug-2022 Notice of Intended Dissolution </a>and
 Final Accounts for <a href="/files/SW16-2021%20Final%20Account.pdf" rel="noopener noreferrer nofollow" target="_blank">Blavk Pte. Ltd. (SW 16-2021)</a> 
 <br><a href="/files/SW30-2021%20Notice%20of%20Intended%20Dissolution.pdf" rel="noopener noreferrer nofollow" target="_blank">29-Jul-2022 Notice of Intended Dissolution</a> and
 Final Accounts for <a href="/files/SW30-2021%20Final%20Account.pdf" rel="noopener noreferrer nofollow" target="_blank">Maxi Mango (Singapore) Pte Ltd (SW 30-2021)</a> 
-<br><a href="/files/SW24-2021%20Notice%20of%20Intended%20Dissolution.pdf" rel="noopener noreferrer nofollow" target="_blank">08-Jul-2022 Notice of Intended Dissolution</a>and
+<br><a href="/files/SW24-2021%20Notice%20of%20Intended%20Dissolution.pdf" rel="noopener noreferrer nofollow" target="_blank">08-Jul-2022 Notice of Intended Dissolution  </a>and
 Final Accounts for <a href="/files/SW24-2021%20Final%20Account.pdf" rel="noopener noreferrer nofollow" target="_blank">Lab.Digital Pte Ltd (SW 24-2021)</a> 
-<br><a href="/files/SW7-2021%20Notice%20of%20Intended%20Dissolution.pdf" rel="noopener noreferrer nofollow" target="_blank">01-Jul-2022 Notice of Intended Dissolution</a>and
+<br><a href="/files/SW7-2021%20Notice%20of%20Intended%20Dissolution.pdf" rel="noopener noreferrer nofollow" target="_blank">01-Jul-2022 Notice of Intended Dissolution </a>and
 Final Accounts for <a href="/files/SW7-2021%20Final%20Account.pdf" rel="noopener noreferrer nofollow" target="_blank">Good Old Taste Pte Ltd (SW 7-2021)</a> 
 <br>
 </p>
@@ -320,5 +316,5 @@ Final Accounts for <a href="/files/SW7-2021%20Final%20Account.pdf" rel="noopener
 <br>
 <br><em>(4) Notice of Discharge</em> 
 <br><a href="/files/10-11-2023%20notice%20of%20discharge.pdf" rel="noopener noreferrer nofollow" target="_blank">10-Nov-2023 Notice of Discharge from Simplified Debt Restructuring Programme</a> 
-<br><a href="/files/07-07-2023%20notice%20of%20discharge.pdf" rel="noopener noreferrer nofollow" target="_blank">07-July-2023 Notice of Discharge from Simplified Debt Restructuring Programme</a>
+<br><a href="/files/07-07-2023%20notice%20of%20discharge.pdf" rel="noopener noreferrer nofollow" target="_blank">07-July-2023 Notice of Discharge from Simplified Debt Restructuring Programme </a>
 </p>
