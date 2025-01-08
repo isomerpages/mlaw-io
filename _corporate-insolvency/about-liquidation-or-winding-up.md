@@ -18,8 +18,8 @@ Upon the completion of the liquidation, the company goes into dissolution and it
 
 The purposes of a liquidation are:
 <ul>
-  <li>to ensure a just distribution of the company's assets among creditors and contributories</li>
-  <li>to terminate the company's existence by its eventual dissolution</li>
+  <li>to ensure a distribution of the company's assets among creditors and contributories as prescribed in the legislation.</li>
+  <li>to terminate the company's existence by its eventual dissolution.</li>
 </ul>
 
 **Distribution of assets**<br>
