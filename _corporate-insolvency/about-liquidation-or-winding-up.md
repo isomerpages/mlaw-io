@@ -22,7 +22,7 @@ The purposes of a liquidation are:
   <li>to terminate the company's existence by its eventual dissolution</li>
 </ul>
 
-**Just distribution of assets**<br>
+**Distribution of assets**<br>
 
 When a company is being wound up, the company’s business ceases to operate and its assets and affairs are handed over to an independent liquidator whose powers, duties and functions are regulated by the Insolvency, Restructuring and Dissolution Act 2018.
 
