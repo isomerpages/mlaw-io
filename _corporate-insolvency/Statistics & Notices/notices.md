@@ -16,6 +16,9 @@ variant: tiptap
 <p><strong>Insolvency, Restructuring and Dissolution (Simplified Winding Up) Regulations 2021</strong> 
 <br>
 </p>
+<p><em>(1) Notices of Application</em> 
+</p>
+<p></p>
 <p><em>(1) Notices of Dividend</em> 
 <br><a href="/files/SW11_2023_Notice_of_Dividend.pdf" rel="noopener nofollow" target="_blank">7-Jan-2025 Notice of Dividend for Anake Pte. Ltd. (SW 11/2023)</a>
 <br>
