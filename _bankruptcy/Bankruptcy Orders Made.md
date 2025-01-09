@@ -10,14 +10,16 @@ variant: tiptap
 </p>
 <p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_12_December_2024__Week_51_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 12 December 2024 (Week 51)</a>
 </p>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_19_December_2024__Week_52_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 19 December 2024 (Week 52) (New)</a>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_19_December_2024__Week_52_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 19 December 2024 (Week 52)</a>
 </p>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_19_December_2024__Week_52A_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 19 December 2024 (Week 52A) (New)</a>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_19_December_2024__Week_52A_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 19 December 2024 (Week 52A)</a>
 </p>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_19_December_2024__Week_52B_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 19 December 2024 (Week 52B) (New)</a>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_19_December_2024__Week_52B_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 19 December 2024 (Week 52B)</a>
 </p>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_26_December_2024__Week_1_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 26 December 2024 (Week 1) (New)</a>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_26_December_2024__Week_1_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 26 December 2024 (Week 1)</a>
 </p>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_26_December_2024__Week_1A_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 26 December 2024 (Week 1A) (New)</a>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_26_December_2024__Week_1A_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 26 December 2024 (Week 1A)</a>
+</p>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_2_January_2025__Week_2_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 2 January 2025 (Week 2) (New)</a>
 </p>
 <p></p>
