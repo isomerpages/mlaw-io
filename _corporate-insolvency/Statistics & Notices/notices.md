@@ -86,7 +86,7 @@ variant: tiptap
 <br><a href="/files/16-04-2021%20Application%20SWU.pdf" rel="noopener noreferrer nofollow" target="_blank">16-Apr-2021 Notice of Application into Simplified Winding Up Programme</a> 
 <br>
 <br><em>(2) Notices of Acceptance and Rejection</em> 
-<br><a href="https://cms.isomer.gov.sg/files/01_11_2024_Notice_of_rejection.pdf" rel="noopener nofollow" target="_blank"><u>01-Nov-2024 Notice of Rejection into Simplified Winding Up Programme</u></a>
+<br><a href="/files/01_11_2024_Notice_of_rejection.pdf" rel="noopener nofollow" target="_blank">01-Nov-2024 Notice of Rejection into Simplified Winding Up Programme</a>
 <br><a href="/files/06_09_2024_Notice_of_Acceptance.pdf" rel="noopener nofollow" target="_blank">06-Sep-2024 Notice of Acceptance into Simplified Winding Up Programme</a>
 <br><a href="/files/30_08_2024_Notice_of_Acceptance.pdf" rel="noopener nofollow" target="_blank">30-Aug-2024 Notice of Acceptance into Simplified Winding Up Programme</a>
 <br><a href="/files/16_08_2024_Notice_of_Acceptance.pdf" rel="noopener noreferrer nofollow" target="_blank">16-Aug-2024 Notice of Acceptance into Simplified Winding Up Programme</a>
