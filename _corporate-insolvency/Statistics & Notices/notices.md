@@ -92,7 +92,6 @@ variant: tiptap
 <br><em>(2) Notices of Acceptance and Rejection</em> 
 <br><a href="/files/01_11_2024_Notice_of_rejection.pdf" rel="noopener nofollow" target="_blank">01-Nov-2024 Notice of Rejection into Simplified Winding Up Programme</a>
 <br><a href="/files/06_09_2024_Notice_of_Acceptance.pdf" rel="noopener nofollow" target="_blank">06-Sep-2024 Notice of Acceptance into Simplified Winding Up Programme</a>
-<br><a href="/files/30_08_2024_Notice_of_Acceptance.pdf" rel="noopener nofollow" target="_blank">30-Aug-2024 Notice of Acceptance into Simplified Winding Up Programme</a>
 <br><a href="/files/16_08_2024_Notice_of_Acceptance.pdf" rel="noopener noreferrer nofollow" target="_blank">16-Aug-2024 Notice of Acceptance into Simplified Winding Up Programme</a>
 <br><a href="/files/19_07_2024_Notice_of_Rejection.pdf" rel="noopener noreferrer nofollow" target="_blank">19-Jul-2024 Notice of Rejection into Simplified Winding Up Programme</a>
 <br><a href="/files/28_06_2024_Notice_of_Acceptance.pdf" rel="noopener noreferrer nofollow" target="_blank">28-Jun-2024 Notice of Acceptance into Simplified Winding Up Programme</a>
@@ -308,6 +307,7 @@ Final Accounts for <a href="/files/SW7-2021%20Final%20Account.pdf" rel="noopener
 <br><a href="/files/18-03-2022%20Application%20SR.pdf" rel="noopener noreferrer nofollow" target="_blank">18-Mar-2022 Notice of Application into Simplified Debt Restructuring Programme</a> 
 <br>
 <br><em>(2) Notices of Acceptance and Rejection</em> 
+<br><a href="/files/30_08_2024_Notice_of_Acceptance.pdf" rel="noopener nofollow" target="_blank">30-Aug-2024 Notice of Acceptance into Simplified Debt Restructuring Programme</a>
 <br><a href="/files/21_06_2024_Notice_of_Rejection_in_SR.pdf" rel="noopener noreferrer nofollow" target="_blank">21-Jun-2024 Notice of Rejection for Simplified Debt Restructuring Programme</a>
 <br><a href="/files/10-11-2023%20notice%20of%20rejection.pdf" rel="noopener noreferrer nofollow" target="_blank">10-Nov-2023 Notice of Rejection for Simplified Debt Restructuring Programme</a> 
 <br><a href="/files/12-05-2023%20notice%20of%20acceptance%20sdr.pdf" rel="noopener noreferrer nofollow" target="_blank">12-May-2023 Notice of Acceptance for Simplified Debt Restructuring Programme</a> 
