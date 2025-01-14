@@ -1,9 +1,9 @@
 ---
 title: BR Forms IRDA (wef 1 Nov 2023)
-permalink: /bankruptcy/forms/permalink/
+permalink: /bankruptcy/forms/brformsirdawef1nov2023/
 description: ""
 third_nav_title: Forms
-variant: markdown
+variant: tiptap
 ---
 Forms - Insolvency, Restructuring and Dissolution Act (wef 1 November 2023)
 ---
