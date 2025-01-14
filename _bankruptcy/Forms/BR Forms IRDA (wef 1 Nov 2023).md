@@ -3,6 +3,7 @@ title: BR Forms IRDA (wef 1 Nov 2023)
 permalink: /bankruptcy/forms/permalink/
 description: ""
 third_nav_title: Forms
+variant: markdown
 ---
 Forms - Insolvency, Restructuring and Dissolution Act (wef 1 November 2023)
 ---
@@ -29,8 +30,8 @@ Forms - Insolvency, Restructuring and Dissolution Act (wef 1 November 2023)
 | BR-8     | Explanation of Monthly Contribution and Target Contribution  |[Form BR-8](/files/(sep23_br8)form%20br-8.pdf)  |
 | BR-9     | Certificate of Reduction of Monthly Contribution and Target Contribution    |[Form BR-9](/files/(sep23_br9)form%20br-9.pdf)    |
 | BR-10     | Trustee's Report    |[Form BR-10](/files/(sep23_br10)form%20br-10.pdf)<br>[Form BR-10 Trustee's Report](/files/(sep23_br10trustee's%20report)formbr-10trustee's%20report.pdf)   |
-| BR-11     | Notice of Rejection of Proof of Debt    |[Form BR-11](/files/(sep23_br11)form%20br-11.pdf)     |
-| BR-12     | Notice of Confirmation/ Notice of Revocation on Rejection of Proof of Debt    |[Form BR-12](/files/(sep23_br12)form%20br-12.pdf)  |
+| BR-11     | Notice of Rejection of Proof of Debt    |[Form BR-11 (wef 14 Jan 2025)](/files/BR%20Forms%20IRDA%20(wef%201%20Nov%202023)/FormBR_11_wef14_Jan2025_.pdf)|
+| BR-12     | Notice of Confirmation/ Notice of Revocation on Rejection of Proof of Debt  |  [Form BR-12 (wef 14 Jan 2025)](/files/BR%20Forms%20IRDA%20(wef%201%20Nov%202023)/FormBR_12_wef14_Jan2025_.pdf)|
 | BR-13     | Proposal for a Composition    | [Form BR-13](/files/(sep23_br13)form%20br-13.pdf)  |
 | BR-14     | Proposal for a Scheme    | [Form BR-14](/files/(sep23_br14)form%20br-14.pdf) |
 | BR-15     | Voting Letter    | [Form BR-15](/files/(sep23_br15)form%20br-15.pdf) |
