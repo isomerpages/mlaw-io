@@ -20,6 +20,8 @@ variant: tiptap
 </p>
 <p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_26_December_2024__Week_1A_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 26 December 2024 (Week 1A)</a>
 </p>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_2_January_2025__Week_2_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 2 January 2025 (Week 2) (New)</a>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_2_January_2025__Week_2_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 2 January 2025 (Week 2)</a>
+</p>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_9_January_2025__Week_3_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 9 January 2025 (Week 3) (New)</a>
 </p>
 <p></p>
