@@ -155,8 +155,8 @@ KB</p>
 KB)</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/BGFormatforPL.doc/" rel="noopener noreferrer nofollow" target="_blank">Banker’s Guarantee Format </a>(DOC,
-28 KB)</p>
+<p><a href="/files/Practice circular attachments/bg_format_under ca.pdf" rel="noopener nofollow" target="_blank">Banker's Guarantee Format</a>
+</p>
 </li>
 </ul>
 </li>
