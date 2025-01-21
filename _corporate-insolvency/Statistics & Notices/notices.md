@@ -8,9 +8,7 @@ variant: tiptap
 <p></p>
 <h2><br><em>Current Notices</em></h2>
 <p>
-<br>
-</p>
-<p><strong><u>INSOLVENCY, RESTRUCTURING AND DISSOLUTION ACT 2018 (NO. 40 of 2018) </u></strong>
+<br><strong><u>INSOLVENCY, RESTRUCTURING AND DISSOLUTION ACT 2018 (NO. 40 of 2018) </u></strong>
 <br>
 </p>
 <p><strong>Insolvency, Restructuring and Dissolution (Simplified Winding Up) Regulations 2021</strong> 
@@ -25,6 +23,13 @@ variant: tiptap
 <p></p>
 <p><em>(3) Notices of Dividend</em> 
 <br><a href="/files/SW11_2023_Notice_of_Dividend.pdf" rel="noopener nofollow" target="_blank">7-Jan-2025 Notice of Dividend for Anake Pte. Ltd. (SW 11/2023)</a>
+<br>
+<br>
+</p>
+<p><strong>Insolvency, Restructuring and Dissolution (Simplified Debt Restructuring) Regulations 2021</strong>
+</p>
+<p><em>(1) Notice of Court Application</em>
+<br><a href="/files/SIP   Scheme of Arrangement/20_01_2025_Notice_of_Appln_to_Court_on_Scheme_of_Arrangement.pdf" rel="noopener nofollow" target="_blank">20-Jan-2025 Notice of Court Application(Scheme of Arrangement) for Simplified Debt Restructuring Programme</a>
 <br>
 <br>
 <br>
