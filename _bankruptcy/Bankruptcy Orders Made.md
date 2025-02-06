@@ -23,7 +23,7 @@ If in doubt about the authenticity of any notice, please contact MinLaw
 via the online enquiry form at <a href="https://eservices.mlaw.gov.sg/enquiry/" rel="noopener nofollow" target="_blank">https://eservices.mlaw.gov.sg/enquiry/</a> or
 call the MinLaw hotline at 1800 2255 529.</p>
 <p>For scam-related advice, please call the National Crime Prevention Council’s
-ScamShield helpline at 1799 or visit <a href="www.scamshield.gov.sg" rel="noopener nofollow" target="_blank">www.scamshield.gov.sg</a>.</p>
+ScamShield helpline at 1799 or visit <a href="https://www.scamshield.gov.sg/" rel="noopener nofollow" target="_blank">www.scamshield.gov.sg</a>.</p>
 </td>
 </tr>
 </tbody>
