@@ -4,13 +4,6 @@ permalink: /bankruptcy/bankruptcy-orders-made/
 description: ""
 variant: tiptap
 ---
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <p>The Ministry of Law has been alerted to a case involving the falsification
 of a notice purportedly issued by the Insolvency &amp; Public Trustee’s
 Office. In this case, a notice of bankruptcy orders was doctored to show
@@ -24,10 +17,6 @@ via the online enquiry form at <a href="https://eservices.mlaw.gov.sg/enquiry/" 
 call the MinLaw hotline at 1800 2255 529.</p>
 <p>For scam-related advice, please call the National Crime Prevention Council’s
 ScamShield helpline at 1799 or visit <a href="https://www.scamshield.gov.sg/" rel="noopener nofollow" target="_blank">www.scamshield.gov.sg</a>.</p>
-</td>
-</tr>
-</tbody>
-</table>
 <hr>
 <h4><strong>Please click on the links below for more information:</strong></h4>
 <p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_5_December_2024__Week_50_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 5 December 2024 (Week 50)</a>
