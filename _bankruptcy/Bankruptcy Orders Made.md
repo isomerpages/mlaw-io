@@ -4,8 +4,21 @@ permalink: /bankruptcy/bankruptcy-orders-made/
 description: ""
 variant: tiptap
 ---
-<p><strong>Please click on the links below for more information</strong>:</p>
-<p></p>
+<p>The Ministry of Law has been alerted to a case involving the falsification
+of a notice purportedly issued by the Insolvency &amp; Public Trustee’s
+Office. In this case, a notice of bankruptcy orders was doctored to show
+that a bankruptcy order had been made against an individual, who was then
+pressured to make payment. The individual notified MinLaw about the matter,
+and a police report has been made.</p>
+<p>Recipients of such suspicious notices should exercise caution in engaging
+the sender of such notices. MinLaw will not send such notices to individuals.
+If in doubt about the authenticity of any notice, please contact MinLaw
+via the online enquiry form at <a href="https://eservices.mlaw.gov.sg/enquiry/" rel="noopener nofollow" target="_blank">https://eservices.mlaw.gov.sg/enquiry/</a> or
+call the MinLaw hotline at 1800 2255 529.</p>
+<p>For scam-related advice, please call the National Crime Prevention Council’s
+ScamShield helpline at 1799 or visit <a href="https://www.scamshield.gov.sg/" rel="noopener nofollow" target="_blank">www.scamshield.gov.sg</a>.</p>
+<hr>
+<h4><strong>Please click on the links below for more information:</strong></h4>
 <p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_5_December_2024__Week_50_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 5 December 2024 (Week 50)</a>
 </p>
 <p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_12_December_2024__Week_51_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 12 December 2024 (Week 51)</a>
