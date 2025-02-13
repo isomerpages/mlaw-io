@@ -11,4 +11,4 @@ Statistics
 
 **Individual Insolvency**
 
-[Number of Bankruptcy Applications Orders Made and Discharges (November 2024)](/files/IID%20Statistics%20/NumberofBankruptcyApplicationsOrdersMadeandDischarges_November2024_.pdf)
+[Number of Bankruptcy Applications Orders Made and Discharges (January 2025)](/files/NumberofBankruptcyApplicationsOrdersMadeandDischarges_January2025_.pdf)
