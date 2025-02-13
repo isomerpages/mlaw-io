@@ -19,10 +19,7 @@ call the MinLaw hotline at 1800 2255 529.</p>
 ScamShield helpline at 1799 or visit <a href="https://www.scamshield.gov.sg/" rel="noopener nofollow" target="_blank">www.scamshield.gov.sg</a>.</p>
 <hr>
 <h4><strong>Please click on the links below for more information:</strong></h4>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_5_December_2024__Week_50_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 5 December 2024 (Week 50)</a>
-</p>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_12_December_2024__Week_51_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 12 December 2024 (Week 51)</a>
-</p>
+<p></p>
 <p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_19_December_2024__Week_52_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 19 December 2024 (Week 52)</a>
 </p>
 <p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_19_December_2024__Week_52A_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 19 December 2024 (Week 52A)</a>
@@ -39,8 +36,10 @@ ScamShield helpline at 1799 or visit <a href="https://www.scamshield.gov.sg/" re
 </p>
 <p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_16_January_2025__Week_4_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 16 January 2025 (Week 4)</a>
 </p>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_20_January_2025__Week_4A_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 20 January 2025 (Week 4A)(New)</a>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_20_January_2025__Week_4A_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 20 January 2025 (Week 4A)</a>
 </p>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_23_January_2025__Week_5_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 23 January 2025 (Week 5)(New)</a>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_23_January_2025__Week_5_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 23 January 2025 (Week 5)</a>
+</p>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_6_February_2025__Week_7_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 6 February 2025 (Week 7)(New)</a>
 </p>
 <p></p>
