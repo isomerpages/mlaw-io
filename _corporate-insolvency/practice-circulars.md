@@ -9,7 +9,7 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p> <a href="/files/Practice circular/Practice_Circular_1_of_2025.pdf" rel="noopener nofollow" target="_blank">The Official Receiver Practice Circular No. 1 of 2025 Liquidator's security </a>
+<p><a href="/files/Practice circular/Practice_Circular_1_of_2025.pdf" rel="noopener nofollow" target="_blank">The Official Receiver Practice Circular No. 1 of 2025 Liquidator's security </a>
 <br>
 </p>
 <p></p>
