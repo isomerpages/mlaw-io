@@ -20,12 +20,6 @@ ScamShield helpline at 1799 or visit <a href="https://www.scamshield.gov.sg/" re
 <hr>
 <h4><strong>Please click on the links below for more information:</strong></h4>
 <p></p>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_19_December_2024__Week_52_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 19 December 2024 (Week 52)</a>
-</p>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_19_December_2024__Week_52A_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 19 December 2024 (Week 52A)</a>
-</p>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_19_December_2024__Week_52B_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 19 December 2024 (Week 52B)</a>
-</p>
 <p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_26_December_2024__Week_1_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 26 December 2024 (Week 1)</a>
 </p>
 <p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_26_December_2024__Week_1A_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 26 December 2024 (Week 1A)</a>
@@ -40,6 +34,10 @@ ScamShield helpline at 1799 or visit <a href="https://www.scamshield.gov.sg/" re
 </p>
 <p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_23_January_2025__Week_5_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 23 January 2025 (Week 5)</a>
 </p>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_6_February_2025__Week_7_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 6 February 2025 (Week 7)(New)</a>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_6_February_2025__Week_7_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 6 February 2025 (Week 7)</a>
+</p>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_13_February_2025__Week_8_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 13 February 2025 (Week 8)(New)</a>
+</p>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_14_February_2025__Week_8A_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 14 February 2025 (Week 8A)(New)</a>
 </p>
 <p></p>
