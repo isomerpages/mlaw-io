@@ -34,7 +34,3 @@ variant: tiptap
 </p>
 <p><a href="/files/Annulment &amp; Discharge Listings/Bankruptcy_Order_Set_Aside_Listing__Week_8_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Order Set Aside Listing (Week 8)(New)</a>
 </p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
