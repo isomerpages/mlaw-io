@@ -14,31 +14,22 @@ variant: tiptap
 <p><strong>Insolvency, Restructuring and Dissolution (Simplified Winding Up) Regulations 2021</strong> 
 <br>
 </p>
-<p><em>(1) Notic of Intended Dissolution</em> 
-<br><a href="/files/SW11_2023_Notice_of_Intended_Dissolution.pdf" rel="noopener nofollow" target="_blank">07-Feb-2025 Notice of Intended Dissolution</a>
-<a href="/files/SW5_2021_Notice_of_Intended_Dissolution.pdf" rel="noopener nofollow" target="_blank"></a>and Final Accounts for <a href="/files/SW11_2023_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">Anake Kids Pte. Ltd. (SW 11-2023)</a>
-</p>
-<p></p>
-<p><em>(2) Notice of Acceptance and Rejection</em> 
-<br><a href="/files/17_01_2025_Notice_of_Acceptance.pdf" rel="noopener nofollow" target="_blank">17-Jan-2025 Notice of Acceptance into Simplified Winding Up Programme</a>
+<p><em>(1) Notice of Intended Dissolution</em> 
+<br><a href="/files/SW11_2023_Notice_of_Intended_Dissolution.pdf" rel="noopener nofollow" target="_blank">07-Feb-2025 Notice of Intended Dissolution </a>and
+Final Accounts for <a href="/files/SW11_2023_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">Anake Kids Pte. Ltd. (SW 11-2023)</a>
 </p>
 <p></p>
 <p></p>
-<p>
-<br>
-<br>
-</p>
 <p><strong>Insolvency, Restructuring and Dissolution (Simplified Debt Restructuring) Regulations 2021</strong>
 </p>
 <p></p>
-<p><em>1) Notice of Application</em> 
+<p><em>(1) Notice of Application</em> 
 <br><a href="/files/07_02_2024_Application_SDRP.pdf" rel="noopener nofollow" target="_blank">07-Feb-2025 Notice of Application into Simplified Debt Restructuring Programme</a>
 </p>
-<p>
+<p></p>
+<p><em>(2) Notice of Discharge</em>
+<br><a href="/files/SIP notices 2025/21_02_2025_Notice_of_Discharge_from_SDRP.pdf" rel="noopener nofollow" target="_blank">21-Feb-2025 Notice of Discharge from Simplified Debt Restructuring Programme</a>
 <br>
-</p>
-<p><em>(2) Notice of Court Application</em>
-<br><a href="/files/SIP   Scheme of Arrangement/20_01_2025_Notice_of_Appln_to_Court_on_Scheme_of_Arrangement.pdf" rel="noopener nofollow" target="_blank">20-Jan-2025 Notice of Court Application(Scheme of Arrangement) for Simplified Debt Restructuring Programme</a>
 <br>
 <br>
 <br>
@@ -108,6 +99,7 @@ variant: tiptap
 <br><a href="/files/16-04-2021%20Application%20SWU.pdf" rel="noopener noreferrer nofollow" target="_blank">16-Apr-2021 Notice of Application into Simplified Winding Up Programme</a> 
 <br>
 <br><em>(2) Notices of Acceptance and Rejection</em> 
+<br><a href="/files/17_01_2025_Notice_of_Acceptance.pdf" rel="noopener nofollow" target="_blank">17-Jan-2025 Notice of Acceptance into Simplified Winding Up Programme</a>
 <br><a href="/files/01_11_2024_Notice_of_rejection.pdf" rel="noopener nofollow" target="_blank">01-Nov-2024 Notice of Rejection into Simplified Winding Up Programme</a>
 <br><a href="/files/06_09_2024_Notice_of_Acceptance.pdf" rel="noopener nofollow" target="_blank">06-Sep-2024 Notice of Acceptance into Simplified Winding Up Programme</a>
 <br><a href="/files/16_08_2024_Notice_of_Acceptance.pdf" rel="noopener noreferrer nofollow" target="_blank">16-Aug-2024 Notice of Acceptance into Simplified Winding Up Programme</a>
@@ -335,6 +327,7 @@ Final Accounts for <a href="/files/SW7-2021%20Final%20Account.pdf" rel="noopener
 <br><a href="/files/14-04-2022%20Notice%20of%20Rejection%20in%20SR.pdf" rel="noopener noreferrer nofollow" target="_blank">14-Apr-2022 Notice of Rejection for Simplified Debt Restructuring Programme</a> 
 <br>
 <br><em>(3) Notice of Court Application</em> 
+<br><a href="/files/SIP   Scheme of Arrangement/20_01_2025_Notice_of_Appln_to_Court_on_Scheme_of_Arrangement.pdf" rel="noopener nofollow" target="_blank">20-Jan-2025 Notice of Court Application(Scheme of Arrangement) for Simplified Debt Restructuring Programme</a>
 <br><a href="/files/16-05-2023%20notice%20of%20court%20application.pdf" rel="noopener noreferrer nofollow" target="_blank">16-May-2023 Notice of Court Application (Scheme of Arrangement) for Simplified Debt Restructuring Programme</a> 
 <br>
 <br><em>(4) Notice of Discharge</em> 
