@@ -23,7 +23,7 @@ Final Accounts for <a href="/files/SW11_2023_Final_Accounts.pdf" rel="noopener n
 <p><strong>Insolvency, Restructuring and Dissolution (Simplified Debt Restructuring) Regulations 2021</strong>
 </p>
 <p></p>
-<p><em>1) Notice of Application</em> 
+<p><em>(1) Notice of Application</em> 
 <br><a href="/files/07_02_2024_Application_SDRP.pdf" rel="noopener nofollow" target="_blank">07-Feb-2025 Notice of Application into Simplified Debt Restructuring Programme</a>
 </p>
 <p></p>
