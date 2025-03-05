@@ -2,6 +2,7 @@
 title: Pre-Bankruptcy
 permalink: /debt-repayment-scheme/pre-bankruptcy/
 breadcrumb: Pre-Bankruptcy
+variant: markdown
 ---
 Pre-Bankruptcy
 ---
@@ -58,5 +59,52 @@ At the end of the day if you prefer to have an expert to talk to, we would recom
 If you are still in doubt and would like to find out more about the Debt Repayment Scheme under the Ministry of Law, please visit our website or you can call us at 1800-2255-529.<br><br>
  
 </details>
+
+**Assistance from Social Service Agencies (SSA)** 
+
+Debtors may also seek assistance from the following social service agencies at the addresses below:
+
+**a. Association of Muslim Professionals (AMP)**  
+1 Pasir Ris Drive 4 #05-11  
+Singapore 519457
+
+General line: 6416 3960  
+Email: corporate@amp.org.sg
+
+**b. Adullam Life Counselling**  
+151 Chin Swee Road Manhattan House #08-04  
+Singapore 169876
+
+General line: 6659 7844 / 9423 8832  
+Email: admin@adullam.org.sg
+
+**c. Arise2Care Community Services**  
+No. 5 Harper Road #02-01A  
+Singapore 369673
+
+General line: 6909 0628  
+Email: admin@arise2care.sg
+
+**d. Blessed Grace Social Services**  
+18 Arumugam Road, #05-01 Antioch@Macpherson  
+Singapore 409962
+
+General line: 8428 6377  
+Email: billy.lee@blessedgrace.org
+
+**e. Credit Counselling Singapore**  
+51 Cuppage Road #07-06  
+Singapore 229469
+
+General line: 6225 5227 | Fax: 6338 6586  
+Email: enquiry@ccs.org.sg  
+Website: http://www.ccs.org.sg
+
+**f. Silver Lining Community Services**  
+(East) 11 Playfair Road Singapore 367986  
+(West) Jurong Spring CC, 8 Jurong West St 52 Singapore 649296
+
+General line: 6749 0400  
+Email: admin@silverlining.com.sg
 
 <br>
