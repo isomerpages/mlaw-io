@@ -49,6 +49,7 @@ The URA Centre (East Wing)<br>
 #07-11<br>
 Singapore 069118<br>
 
+Please refer to the [Step-by-Step guide](/files/DRS%20Statistics%20/21062022_Debtor_sGuidetoUsingDRSe_Services_v1_compressed1.pdf) to file your Statement of Affairs (SA), Income &amp; Expenditure Statement (IE) and Debt Repayment Plan (DRP).<br>
 
 If we do not receive your online submission by the given deadline and/or you do not meet the eligibility criteria, you may be found unsuitable for the DRS and your case will be referred back to Court for the bankruptcy proceedings to be heard again.<br>
 
