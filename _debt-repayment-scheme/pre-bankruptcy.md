@@ -72,8 +72,8 @@ General line: 6416 3960
 Email: corporate@amp.org.sg
 
 **b. Adullam Life Counselling**  
-151 Chin Swee Road Manhattan House #08-04  
-Singapore 169876
+315 Outram Road #15-02 Tan Boon Liat Building  
+Singapore 169074
 
 General line: 6659 7844 / 9423 8832  
 Email: admin@adullam.org.sg
