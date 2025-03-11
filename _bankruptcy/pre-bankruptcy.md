@@ -82,8 +82,8 @@ at the addresses below:
 <br>
 </p>
 <p><strong>b. Adullam Life Counselling</strong> 
-<br>151 Chin Swee Road Manhattan House #08-04
-<br>Singapore 169876
+<br>315 Outram Road #15-02 Tan Boon Liat Building
+<br>Singapore 169074
 <br>
 </p>
 <p>General line: 6659 7844 / 9423 8832
