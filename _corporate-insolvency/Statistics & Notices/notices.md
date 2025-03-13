@@ -26,8 +26,10 @@ variant: tiptap
 </p>
 <p></p>
 <p></p>
-<p></p>
-<p><em>(1) Notice of Discharge</em>
+<p><em>(1) Notices of Acceptance and Rejection</em> 
+<br><a href="/files/SIP notices 2025/14_03_2025_Notice_of_acceptance_SR.pdf" rel="noopener nofollow" target="_blank">14-Mar-2025 Notice of Acceptance into Simplified Debt Restructuring Programme</a>
+</p>
+<p><em>(2) Notice of Discharge</em>
 <br><a href="/files/SIP notices 2025/21_02_2025_Notice_of_Discharge_from_SDRP.pdf" rel="noopener nofollow" target="_blank">21-Feb-2025 Notice of Discharge from Simplified Debt Restructuring Programme</a>
 <br>
 <br>
