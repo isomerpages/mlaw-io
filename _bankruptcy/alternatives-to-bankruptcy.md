@@ -51,7 +51,7 @@ General line: 6416 3960  <br>
 Email: corporate@amp.org.sg <br>
 
 <b>b. Adullam Life Counselling</b><br>
-315 Outram Road Tan Boon Liat Building #15-02<br>
+315 Outram Road #15-02 Tan Boon Liat Building<br>
 Singapore 169074<br>
 
 General line: 6659 7844 / 9423 8832  <br>
