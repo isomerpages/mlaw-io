@@ -20,9 +20,6 @@ variant: tiptap
 <br>
 <br>
 <br>
-</p>
-<p>
-<br>
 <br>
 <br>
 <br>
