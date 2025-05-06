@@ -2,14 +2,16 @@
 title: Statistics
 permalink: /unclaimed-monies/statistics/
 breadcrumb: Statistics
-variant: markdown
+variant: tiptap
 ---
-Statistics on Amount of Unclaimed Monies held by Insolvency &amp; Public Trustee's Office
----
-
-
-Statistics on: <br>
-
-* [Amount of Unclaimed Monies as at 31 Dec 2022](/files/unclaimedmoniesheldbyipto2022.pdf){:target="_blank"}(124KB)<br>
-* [Amount of Unclaimed Monies as at 31 Dec 2021](/files/Unclaimed%20Monies%20Held%20by%20IPTO%202021.pdf){:target="_blank"}(126KB)<br>
-* [Amount of Unclaimed Monies as at 31 Dec 2020](/files/Unclaimed%20Monies%20Held%20by%20IPTO%202020.pdf){:target="_blank"}(126KB)<br>
+<h2>Statistics on Amount of Unclaimed Monies held by Insolvency &amp; Public Trustee's Office</h2>
+<p>Statistics on:
+<br>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Unclaimed monies/Amount_of_Unclaimed_Monies_as_at_31_Dec_2023.pdf" rel="noopener nofollow" target="_blank">Amount of Unclaimed Monies as at 31 Dec 2023</a>
+</p>
+</li>
+</ul>
+<p></p>
