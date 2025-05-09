@@ -42,4 +42,3 @@ variant: tiptap
 </p>
 <p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_19_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 19) (New)</a>
 </p>
-<p></p>
