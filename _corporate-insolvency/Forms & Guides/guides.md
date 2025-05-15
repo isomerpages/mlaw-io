@@ -3,6 +3,7 @@ title: Guides
 permalink: /corporate-insolvency/guides/
 breadcrumb: Guides
 third_nav_title: Forms & Guides
+variant: markdown
 ---
 Guides
 ---
@@ -51,3 +52,6 @@ Guides
 
 1. [Guide to Corporate Insolvency Search](/files/guide%20to%20corporate%20insolvency%20search.pdf){:target="_blank"} (1.32MB)<br>
 <br>
+
+**Guides relating to Private Liquidator's Release Report**<br>
+1. [Checklist for Liquidator's Release Report](/files/Checklist_for_Liquidator_s_Report.pdf)Checklist for Liquidator's Release Report
