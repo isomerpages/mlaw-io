@@ -53,5 +53,5 @@ Guides
 1. [Guide to Corporate Insolvency Search](/files/guide%20to%20corporate%20insolvency%20search.pdf){:target="_blank"} (1.32MB)<br>
 <br>
 
-**Guides relating to Liquidator Report (for Compulsory Winding Up cases only)**<br>
+**Guides relating to Liquidator's Report (for Compulsory Winding Up cases only)**<br>
 1. [Checklist for Liquidator's Report](/files/Checklist_for_Liquidator_s_Report.pdf)
