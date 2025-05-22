@@ -24,9 +24,7 @@ variant: tiptap
 <br><a href="/files/SIP notices 2025/22_05_2025_Notice_of_Discharge_from_SDRP.pdf" rel="noopener nofollow" target="_blank">22-May-2025 Notice of Discharge from Simplified Debt Restructuring Programme</a>
 <br>
 <br>
-<br>*Past Notices* -
-<br>
-</p>
+<br>*Past Notices*</p>
 <p><strong><u>INSOLVENCY, RESTRUCTURING AND DISSOLUTION ACT 2018 (NO. 40 of 2018) </u></strong>
 <br>
 </p>
