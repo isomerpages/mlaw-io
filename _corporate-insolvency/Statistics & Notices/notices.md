@@ -18,10 +18,11 @@ variant: tiptap
 <br><a href="/files/SIP notices 2025/09_05_2025_Application_SWU.pdf" rel="noopener nofollow" target="_blank">09-May-2025 Notice of Application into Simplified Winding Up Programme</a>
 <br>
 <br>
-<br><strong>Insolvency, Restructuring and Dissolution (Simplified Debt Restructuring) Regulations 2021</strong> 
+<br><strong>Insolvency, Restructuring and Dissolution (Simplified Debt Restructuring) Regulations 2021</strong>
 </p>
 <p><em>(1) Notice of Discharge</em> 
 <br><a href="/files/SIP notices 2025/22_05_2025_Notice_of_Discharge_from_SDRP.pdf" rel="noopener nofollow" target="_blank">22-May-2025 Notice of Discharge from Simplified Debt Restructuring Programme</a>
+<br>
 <br>
 <br>*Past Notices* -
 <br>
