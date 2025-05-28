@@ -38,20 +38,17 @@ You may access the e-services portal (Individual Insolvency Administration Infor
 <b>2. Travelling Overseas</b> <br>
 
 <b>(a) Can I travel overseas? </b> <br>
-You are allowed to leave Singapore or remain overseas after obtaining the approval of the Official Assignee. If you attempt to travel overseas <u><b>without</b></u> the Official Assignee's permission, you may be stopped by the Controller of Immigration from leaving Singapore and your passport may be impounded by the Immigration &amp; Checkpoints Authority.<br>
+You are allowed to leave Singapore or remain overseas after obtaining the approval of the Official Assignee. If you attempt to travel overseas <u><b>without</b></u> the Official Assignee's permission, you will be stopped by the Controller of Immigration from leaving Singapore and your passport may be impounded by the Immigration &amp; Checkpoints Authority.<br>
 
 <b>(b) How do I apply for permission to travel overseas?</b><br>
 If you wish to leave Singapore, you should apply online at least 14 days before your departure date to obtain the Official Assignee’s permission, stating the reason for your travel, your destination of travel and your period of travel.<br>
 
 You will also need to submit documents in respect of your travel application if required by the Official Assignee. For example, if you are travelling for employment purposes, you need to submit your letter of employment or a company letter supporting the reason for your travel.
 
-<b>(c) What if I need to travel urgently?</b> <br>
-If you need to travel urgently, you are still required to apply for permission [online](https://go.gov.sg/bankruptcy ) and thereafter contact your officer to obtain confirmation on the approval status of your travel application. <br>
-
-<b>(d) What if I need to travel frequently?</b> <br>
+<b>(c) What if I need to travel frequently?</b> <br>
 If you have to travel frequently, you may apply for block periods of travel subject to your conduct in bankruptcy. <br>
 
-<b>(e) How do I find out the status of my latest travel application?</b> <br>
+<b>(d) How do I find out the status of my latest travel application?</b> <br>
 You may access the e-services portal (Individual Insolvency Administration Information) at our [website](https://go.gov.sg/bankruptcy ) and obtain the information at no charge. <br>
 
 <b>3. Managing a Business or Becoming a Director</b> <br>
