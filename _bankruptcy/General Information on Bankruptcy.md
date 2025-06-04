@@ -15,7 +15,7 @@ to one’s debt woes. Debtors should look for alternative solutions to settle
 their debts before considering applying for their own bankruptcy.</p>
 <p>Debtors may wish to refer to <a href="https://io.mlaw.gov.sg/bankruptcy/applyingforbankruptcy/" rel="noopener noreferrer nofollow" target="_blank">https://io.mlaw.gov.sg/bankruptcy/applyingforbankruptcy/</a> to
 view the guide for a debtor application procedure in general or refer to
-the Supreme Court’s website&nbsp;<a href="https://io.mlaw.gov.sg/bankruptcy/applyingforbankruptcy/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.judiciary.gov.sg</u></a><u> </u>for
+the Supreme Court’s website <a href="https://www.judiciary.gov.sg/" rel="noopener nofollow" target="_blank">https://www.judiciary.gov.sg/</a> for
 further details on bankruptcy proceedings.</p>
 <p><strong>3. Creditor’s application for bankruptcy</strong>
 <br>Commencing bankruptcy proceedings will not guarantee the full recovery
@@ -23,7 +23,7 @@ of the debts owed. You should only commence bankruptcy proceedings against
 your debtor when all other debt recovery options have been exhausted.</p>
 <p>Creditors may wish to refer to <a href="https://io.mlaw.gov.sg/bankruptcy/applyingforbankruptcy/" rel="noopener noreferrer nofollow" target="_blank">https://io.mlaw.gov.sg/bankruptcy/applyingforbankruptcy/</a> to
 view the guide for a creditor application procedure in general or refer
-to the Supreme Court’s website&nbsp;<a href="https://io.mlaw.gov.sg/bankruptcy/applyingforbankruptcy/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.judiciary.gov.sg</u></a><u> </u>for
+to the Supreme Court’s website&nbsp;<a href="https://www.judiciary.gov.sg/" rel="noopener nofollow" target="_blank">https://www.judiciary.gov.sg/</a> for
 further details on bankruptcy proceedings.</p>
 <p><strong>4. Are there other costs involved in filing a bankruptcy application?</strong>
 <br>Any creditor or debtor who wishes to file a Bankruptcy Application in
