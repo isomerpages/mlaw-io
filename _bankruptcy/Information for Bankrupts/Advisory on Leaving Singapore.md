@@ -5,4 +5,5 @@ variant: tiptap
 description: ""
 third_nav_title: Information for Bankrupts
 ---
-<p></p>
+<p><strong>Advisory on seeking permission of the Official Assignee/Private-Trustee-in-Bankruptcy to leave, remain or reside outside Singapore</strong>
+</p>
