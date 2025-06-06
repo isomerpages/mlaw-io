@@ -1,5 +1,5 @@
 ---
-title: advisory on travel
+title: Advisory on Travel
 permalink: /bankruptcy/information-for-bankrupts/advisory-on-travel/
 variant: tiptap
 description: ""
