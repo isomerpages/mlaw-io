@@ -14,13 +14,18 @@ variant: tiptap
 <p><strong>Insolvency, Restructuring and Dissolution (Simplified Winding Up) Regulations 2021</strong> 
 <br>
 </p>
-<p><em>(1) Notice of Application</em>
-<br><a href="/files/SIP notices 2025/09_05_2025_Application_SWU.pdf" rel="noopener nofollow" target="_blank">09-May-2025 Notice of Application into Simplified Winding Up Programme</a>
+<p><em>(1) Notice of Acceptance and Rejection</em>
+<br><a href="/files/SIP notices 2025/06_06_2025_Notice_of_Acceptance.pdf" rel="noopener nofollow" target="_blank">06-Jun-2025 Notice of Acceptance into Simplified Winding Up Programme</a>
+<br>
 <br>
 <br>
 <br><strong>Insolvency, Restructuring and Dissolution (Simplified Debt Restructuring) Regulations 2021</strong>
 </p>
-<p><em>(1) Notice of Discharge</em> 
+<p><em>(1) Notice of Application</em>
+<br><a href="/files/SIP notices 2025/06_06_2025_Application_SDRP.pdf" rel="noopener nofollow" target="_blank">06-Jun-2025 Notice of Application into Simplified Debt Restructuring Programme</a>
+<br>
+</p>
+<p><em>(2) Notice of Discharge</em> 
 <br><a href="/files/SIP notices 2025/22_05_2025_Notice_of_Discharge_from_SDRP.pdf" rel="noopener nofollow" target="_blank">22-May-2025 Notice of Discharge from Simplified Debt Restructuring Programme</a>
 <br>
 <br>
@@ -32,6 +37,7 @@ variant: tiptap
 <br>
 </p>
 <p><em>(1) Notices of Application</em> 
+<br><a href="/files/SIP notices 2025/09_05_2025_Application_SWU.pdf" rel="noopener nofollow" target="_blank">09-May-2025 Notice of Application into Simplified Winding Up Programme</a>
 <br><a href="/files/SIP notices 2025/11_04_2025_Application_SWU.pdf" rel="noopener nofollow" target="_blank">11-Apr-2025 Notice of Application into Simplified Winding Up Programme</a>
 <br><a href="/files/SIP notices 2025/28_03_2025_Application_SWU.pdf" rel="noopener nofollow" target="_blank">28-Mar-2025 Notice of Application into Simplified Winding Up Programme</a>
 <br><a href="/files/SIP notices 2025/07_03_2025_Application_SWU.pdf" rel="noopener nofollow" target="_blank">07-Mar-2025 Notice of Application into Simplified Winding Up Programme</a>
