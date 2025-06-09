@@ -19,7 +19,7 @@ to your travel plans or employment, you are strongly advised to take all
 necessary steps to ensure that you have obtained the requisite permission
 before your departure. In this regard, you must submit your application
 with supporting documents to obtain the requisite permission electronically
-via the Insolvent Person’s Portal hosted at <a rel="noopener noreferrer nofollow" target="_blank">https://www.mlaw.gov.sg/eservices/io/</a> before
+via the Insolvent Person’s Portal hosted at <a href="https://go.gov.sg/bankruptcy" rel="noopener nofollow" target="_blank">https://www.mlaw.gov.sg/eservices/io/</a> before
 your intended date of departure from Singapore. To ensure that your application
 can be processed in time, you are strongly advised to make the submission
 at least 14 days before the intended date of departure.</p>
