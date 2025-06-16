@@ -2,6 +2,7 @@ collections:
   corporate-insolvency:
     output: true
     order:
+      - Notice of Winding Up.md
       - who-is-the-official-receiver.md
       - about-liquidation-or-winding-up.md
       - information-for-creditors.md
