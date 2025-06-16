@@ -2,7 +2,6 @@ collections:
   corporate-insolvency:
     output: true
     order:
-      - Notice of Winding Up.md
       - who-is-the-official-receiver.md
       - about-liquidation-or-winding-up.md
       - information-for-creditors.md
@@ -14,6 +13,7 @@ collections:
       - Statistics & Notices/statistics.md
       - Statistics & Notices/notices.md
       - Statistics & Notices/notice of winding up.md
+      - Notice of Winding Up.md
       - practice-circulars.md
       - irda-faq.md
       - sip-faq.md
