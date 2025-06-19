@@ -20,8 +20,6 @@ ScamShield helpline at 1799 or visit <a href="https://www.scamshield.gov.sg/" re
 <hr>
 <h4><strong>Please click on the links below for more information:</strong></h4>
 <p></p>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_10_April_2025__Week_16_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 10 April 2025 (Week 16)</a>
-</p>
 <p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_17_April_2025__Week_17_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 17 April 2025 (Week 17)</a>
 </p>
 <p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_23_April_2025__Week_17A_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 23 April 2025 (Week 17A)</a>
@@ -42,6 +40,8 @@ ScamShield helpline at 1799 or visit <a href="https://www.scamshield.gov.sg/" re
 </p>
 <p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_23_February_2023__Week_23A_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 23 February 2023 (Week 23A)</a>
 </p>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_5_June_2025__Week_24_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 5 June 2025 (Week 24)(New)</a>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_5_June_2025__Week_24_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 5 June 2025 (Week 24)</a>
+</p>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_12_June_2025__Week_25_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 12 June 2025 (Week 25)(New)</a>
 </p>
 <p></p>
