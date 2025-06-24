@@ -138,30 +138,4 @@ variant: tiptap
 </li>
 </ul>
 <p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/linkclickf454.pdf" rel="noopener noreferrer nofollow" target="_blank">The Official Receiver Practice Circular No. 2 of 2001 Proof Of Debt Form 77</a>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/linkclickb977.doc/" rel="noopener noreferrer nofollow" target="_blank">New Form 77</a>
-</p>
-</li>
-</ul>
-</li>
-</ul>
-<p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/linkclicke862.pdf" rel="noopener noreferrer nofollow" target="_blank">314 Companies Act - Companies (Amendment No. 2) Regulations 2001 25 Jun 2001</a>
-</p>
-</li>
-</ul>
-<p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/linkclickb9b8.pdf" rel="noopener noreferrer nofollow" target="_blank">315 Companies Act - Companies (Winding Up) (Amendment No. 2) Rules 2001 25 Jun 2001</a>
-</p>
-</li>
-</ul>
 <p></p>
