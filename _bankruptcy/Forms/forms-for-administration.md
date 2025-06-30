@@ -10,6 +10,8 @@ Forms for Administration
 
 **Forms For Bankruptcy**
 
+[Application to open a Savings Bank Account Form](https://go.gov.sg/savingsbankapplicationform)
+
 [Notice to Trustee of Intent to Commence / Continue / Defend / Appeal Against an Action](/files/Forms/NOTICETOTRUSTEEOFINTENTIONFORCOURTACTION.pdf) (143KB)
 
 [Checklist to creditors for supporting documents](/files/ChecklisttoCreditorsforSupportingDocuments_revisedversion20062018.pdf){:target="_blank"} (324KB)
@@ -38,7 +40,7 @@ Forms for Administration
 
 [Indemnity Form](/files/indemnityform(amended27sept2023).pdf){:target="_blank"} (478KB)<br>
 
-[Application to open a Savings Bank Account Form](/files/BankApplication.pdf){:target="_blank"} (192KB)<br>
+<br>
 <br><br>
 **Note**: For the following applications, please submit via the Insolvency Office E-Services Portal by clicking on the "eServices" menu on the task bar above.
 
