@@ -20,12 +20,6 @@ ScamShield helpline at 1799 or visit <a href="https://www.scamshield.gov.sg/" re
 <hr>
 <h4><strong>Please click on the links below for more information:</strong></h4>
 <p></p>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_17_April_2025__Week_17_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 17 April 2025 (Week 17)</a>
-</p>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_23_April_2025__Week_17A_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 23 April 2025 (Week 17A)</a>
-</p>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_24_April_2025__Week_18_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 24 April 2025 (Week 18)</a>
-</p>
 <p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_8_May_2025__Week_20_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 8 May 2025 (Week 20)</a>
 </p>
 <p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_14_May_2025__Week_20A_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 14 May 2025 (Week 20A)</a>
@@ -42,6 +36,12 @@ ScamShield helpline at 1799 or visit <a href="https://www.scamshield.gov.sg/" re
 </p>
 <p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_5_June_2025__Week_24_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 5 June 2025 (Week 24)</a>
 </p>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_12_June_2025__Week_25_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 12 June 2025 (Week 25)(New)</a>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_12_June_2025__Week_25_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 12 June 2025 (Week 25)</a>
+</p>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_19_June_2025__Week_26_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 19 June 2025 (Week 26)</a>
+</p>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_26_June_2025__Week_27_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 26 June 2025 (Week 27)(New)</a>
+</p>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_24_June_2025__Week_27A_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 24 June 2025 (Week 27A)(New)</a>
 </p>
 <p></p>
