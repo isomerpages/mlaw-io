@@ -20,8 +20,6 @@ variant: tiptap
 <br>
 <br>
 <br>
-<br>
-<br>
 <br><strong>Insolvency, Restructuring and Dissolution (Simplified Debt Restructuring) Regulations 2021</strong>
 </p>
 <p><em>(1) Notice of Application</em>
