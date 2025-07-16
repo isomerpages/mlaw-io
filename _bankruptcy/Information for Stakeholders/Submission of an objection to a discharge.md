@@ -5,10 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Information for Stakeholders
 ---
-<h4><strong>Information to creditors on submitting an objection to the Notice to Creditors of Intention to Issue a Certificate of Discharge by the Official Assignee</strong></h4>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;section 125 of the Bankruptcy Act or
-<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;section 395 of the Insolvency, Restructuring
-and Dissolution Act</p>
+<h4><strong>Information to creditors on submitting an objection to the Notice to Creditors of Intention to Issue a Certificate of Discharge by the Official Assignee</strong><br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;section 125 Bankruptcy Act <strong>or </strong><br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;section 395 Insolvency, Restructuring &amp; Dissolution Act</h4>
 <p>The Official Assignee may send a Notice to Creditors of Intention to Issue
 a Certificate of Discharge of a Bankrupt (“<strong>the Notice</strong>”)
 when a bankruptcy case is processed for a discharge.</p>
