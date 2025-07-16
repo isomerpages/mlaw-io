@@ -5,4 +5,25 @@ variant: tiptap
 description: ""
 third_nav_title: Information for Stakeholders
 ---
+<h4><strong>Information to creditors on submitting an objection to the Notice to Creditors of Intention to Issue a Certificate of Discharge by the Official Assignee</strong></h4>
+<h4>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>section 125 of the Bankruptcy Act or</strong></h4>
+<h4>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>section 395 of the Insolvency, Restructuring and Dissolution Act</strong></h4>
+<p>&nbsp;</p>
+<p>The Official Assignee may send a Notice to Creditors of Intention to Issue
+a Certificate of Discharge of a Bankrupt (“<strong>the Notice</strong>”)
+when a bankruptcy case is processed for a discharge.</p>
+<p>&nbsp;</p>
+<p>If you, as a creditor receive the Notice, and intend to object to the
+discharge:</p>
+<p>&nbsp;</p>
+<p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You may submit an objection through the
+Creditor’s Portal at <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/creditorsportal</a> if
+the said notice has a Transaction Number (located at the top left-hand
+corner of the Notice).</p>
+<p><em>OR</em>
+</p>
 <p></p>
+<p>b)&nbsp;&nbsp;&nbsp;&nbsp; You may file your objection online at <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/contactminlaw</a> if
+the said Notice does not include a Transaction Number.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
