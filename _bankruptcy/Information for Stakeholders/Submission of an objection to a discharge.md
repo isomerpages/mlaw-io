@@ -9,6 +9,7 @@ third_nav_title: Information for Stakeholders
 <p>The Official Assignee may send a Notice to Creditors of Intention to Issue
 a Certificate of Discharge of a Bankrupt (“<strong>the Notice</strong>”)
 when a bankruptcy case is processed for a discharge.
+<br>
 <br>If you, as a creditor receive the Notice, and intend to object to the
 discharge:
 <br>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You may submit an objection through the
