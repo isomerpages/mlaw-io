@@ -36,8 +36,7 @@ variant: tiptap
 </p>
 <p><a href="/files/Annulment &amp; Discharge Listings/Annulment_Listings__Week_29_.pdf" rel="noopener nofollow" target="_blank">Annulment Listings (Week 29)(New)</a>
 </p>
-<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_29_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 29)</a>
+<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_29_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 29)(New)</a>
 </p>
-<p><a href="/files/Annulment &amp; Discharge Listings/Set_Aside_Listings__Week_29_.pdf" rel="noopener nofollow" target="_blank">Set Aside Listings (Week 29)</a>
+<p><a href="/files/Annulment &amp; Discharge Listings/Set_Aside_Listings__Week_29_.pdf" rel="noopener nofollow" target="_blank">Set Aside Listings (Week 29)(New)</a>
 </p>
-<p></p>
