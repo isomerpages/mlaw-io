@@ -20,12 +20,6 @@ ScamShield helpline at 1799 or visit <a href="https://www.scamshield.gov.sg/" re
 <hr>
 <h4><strong>Please click on the links below for more information:</strong></h4>
 <p></p>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_8_May_2025__Week_20_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 8 May 2025 (Week 20)</a>
-</p>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_14_May_2025__Week_20A_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 14 May 2025 (Week 20A)</a>
-</p>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_15_May_2025__Week_21_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 15 May 2025 (Week 21)</a>
-</p>
 <p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_22_May_2025__Week_22_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 22 May 2025 (Week 22)</a>
 </p>
 <p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_22_May_2025__Week_22A_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 22 May 2025 (Week 22A)</a>
@@ -44,9 +38,9 @@ ScamShield helpline at 1799 or visit <a href="https://www.scamshield.gov.sg/" re
 </p>
 <p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_24_June_2025__Week_27A_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 24 June 2025 (Week 27A)</a>
 </p>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_3_July_2025__Week_28_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 3 July 2025 (Week 28)(New)</a>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_3_July_2025__Week_28_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 3 July 2025 (Week 28)</a>
 </p>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_30_June_2025__Week_28A_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 30 June 2025 (Week 28A)(New)</a>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_30_June_2025__Week_28A_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 30 June 2025 (Week 28A)</a>
 </p>
 <p><a href="/files/Annulment &amp; Discharge Listings/Bankruptcy_Orders_made_on_10_July_2025__Week_29_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 10 July 2025 (Week 29)(New)</a>
 </p>
