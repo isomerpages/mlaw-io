@@ -14,7 +14,11 @@ variant: tiptap
 <p><strong>Insolvency, Restructuring and Dissolution (Simplified Winding Up) Regulations 2021</strong> 
 <br>
 </p>
-<p><em>(1) Notice of Acceptance and Rejection</em>
+<p><em>(1) Notice of Application</em>
+<br><a href="/files/Notice_of_Application_in_SWU__Publication__18Jul25_.pdf" rel="noopener nofollow" target="_blank">18-Jul-2025 Notice of Application into Simplified Winding Up Programme</a>
+</p>
+<p></p>
+<p><em>(2) Notice of Acceptance and Rejection</em>
 <br><a href="/files/SIP notices 2025/11_07_2025_Notice_of_Acceptance.pdf" rel="noopener nofollow" target="_blank">11-Jul-2025 Notice of Acceptance into Simplified Winding Up Programme</a>
 <br><a href="/files/SIP notices 2025/04_07_2025_Notice_of_Rejection.pdf" rel="noopener nofollow" target="_blank">04-Jul-2025 Notice of Rejection into Simplified Winding Up Programme</a>
 <br><a href="/files/SIP notices 2025/27_06_2024_Notice_of_rejection.pdf" rel="noopener nofollow" target="_blank">27-Jun-2025 Notice of Rejection into Simplified Winding Up Programme</a>
@@ -27,9 +31,11 @@ variant: tiptap
 <br><a href="/files/SIP notices 2025/06_06_2025_Application_SDRP.pdf" rel="noopener nofollow" target="_blank">06-Jun-2025 Notice of Application into Simplified Debt Restructuring Programme</a>
 <br>
 </p>
-<p><em>(2) Notice of Discharge</em> 
-<br><a href="/files/SIP notices 2025/22_05_2025_Notice_of_Discharge_from_SDRP.pdf" rel="noopener nofollow" target="_blank">22-May-2025 Notice of Discharge from Simplified Debt Restructuring Programme</a>
+<p><em>(2) Notice of Acceptance and Rejection</em>
+<br><a href="/files/SR0010___s72J_b__Notice_of_Acceptance_or_Rejection_in_SR_Publication_18Jul25.pdf" rel="noopener nofollow" target="_blank">18-Jul-2025 Notice of Acceptance into Simplified Debt Restructuring Programme</a>
+<a href="/files/SR0010___s72J_b__Notice_of_Acceptance_or_Rejection_in_SR_Publication_18Jul25.pdf" rel="noopener noreferrer nofollow" target="_blank">
 <br>
+</a>
 <br>
 <br>*Past Notices*</p>
 <p><strong><u>INSOLVENCY, RESTRUCTURING AND DISSOLUTION ACT 2018 (NO. 40 of 2018) </u></strong>
@@ -335,6 +341,7 @@ Final Accounts for <a href="/files/SW7-2021%20Final%20Account.pdf" rel="noopener
 <br><a href="/files/16-05-2023%20notice%20of%20court%20application.pdf" rel="noopener noreferrer nofollow" target="_blank">16-May-2023 Notice of Court Application (Scheme of Arrangement) for Simplified Debt Restructuring Programme</a> 
 <br>
 <br><em>(4) Notice of Discharge</em> 
+<br><a href="/files/SIP notices 2025/22_05_2025_Notice_of_Discharge_from_SDRP.pdf" rel="noopener nofollow" target="_blank">22-May-2025 Notice of Discharge from Simplified Debt Restructuring Programme</a>
 <br><a href="/files/SIP notices 2025/21_02_2025_Notice_of_Discharge_from_SDRP.pdf" rel="noopener nofollow" target="_blank">21-Feb-2025 Notice of Discharge from Simplified Debt Restructuring Programme</a>
 <br><a href="/files/10-11-2023%20notice%20of%20discharge.pdf" rel="noopener noreferrer nofollow" target="_blank">10-Nov-2023 Notice of Discharge from Simplified Debt Restructuring Programme</a> 
 <br><a href="/files/07-07-2023%20notice%20of%20discharge.pdf" rel="noopener noreferrer nofollow" target="_blank">07-July-2023 Notice of Discharge from Simplified Debt Restructuring Programme</a>
