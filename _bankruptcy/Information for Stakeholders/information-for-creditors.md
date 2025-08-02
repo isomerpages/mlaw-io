@@ -123,4 +123,4 @@ You may conduct an Insolvency Search at our [website ](https://go.gov.sg/bankrup
 <b>14. Other Suggested readings</b> <br>
 
 [Information for bankrupts](/bankruptcy/information-for-bankrupts/) <br>
-[Minlaw FAQs on Individual Insolvency](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx)
+[Minlaw FAQs on Individual Insolvency](https://console.apac.sabio.cloud/FAQ/index.aspx?p=64759355)
