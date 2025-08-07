@@ -6,12 +6,6 @@ variant: tiptap
 ---
 <p><strong>Please click on the links below for more information</strong>:</p>
 <p></p>
-<p><a href="/files/Annulment &amp; Discharge Listings/Annulment_Listings__Week_23_.pdf" rel="noopener nofollow" target="_blank">Annulment Listings (Week 23)</a>
-</p>
-<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_23_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 23)</a>
-</p>
-<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_23A_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 23A)</a>
-</p>
 <p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_24_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 24)</a>
 </p>
 <p><a href="/files/Annulment &amp; Discharge Listings/Annulment_Listings__Week_25_.pdf" rel="noopener nofollow" target="_blank">Annulment Listings (Week 25)</a>
@@ -44,5 +38,11 @@ variant: tiptap
 </p>
 <p><a href="/files/Annulment &amp; Discharge Listings/Bankruptcy_Order_Set_Aside_Listing__Week_30_.pdf" rel="noopener nofollow" target="_blank">Set Aside Listings (Week 30)</a>
 </p>
-<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_31_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week31)(New)</a>
+<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_31_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week31)</a>
+</p>
+<p><a href="/files/Annulment &amp; Discharge Listings/Annulment_Listings__Week_32_.pdf" rel="noopener nofollow" target="_blank">Annulment Listings (Week 32)(New)</a>
+</p>
+<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_32_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 32)(New)</a>
+</p>
+<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_32A_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 32A)(New)</a>
 </p>
