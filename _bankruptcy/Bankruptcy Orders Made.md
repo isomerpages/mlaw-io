@@ -40,6 +40,9 @@ ScamShield helpline at 1799 or visit <a href="https://www.scamshield.gov.sg/" re
 </p>
 <p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_24_July_2025__Week_31_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 24 July 2025 (Week 31)</a>
 </p>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_31_July_2025__Week_32_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 31 July 2025 (Week 32)(New)</a>
+<p></p>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_31_July_2025__Week_32A_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 31 July 2025 (Week 32A)(New)</a>
+</p>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_7_August_2025__Week_33_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 7 August 2025 (Week 33)(New)</a>
 </p>
 <p></p>
