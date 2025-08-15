@@ -15,15 +15,12 @@ variant: tiptap
 <br>
 </p>
 <p><em>(1) Notice of Application</em>
+<br><a href="/files/SIP notices 2025/15_08_2025_Application_SWU.pdf" rel="noopener nofollow" target="_blank">15-Aug-2025 Notice of Application into Simplified Winding Up Programme</a>
 <br><a href="/files/SIP notices 2025/25_07_2025_Application_SWU.pdf" rel="noopener nofollow" target="_blank">25-Jul-2025 Notice of Application into Simplified Winding Up Programme</a>
 <br><a href="/files/Notice_of_Application_Publication__18Jul25_.pdf" rel="noopener nofollow" target="_blank">18-Jul-2025 Notice of Application into Simplified Winding Up Programme</a>
 </p>
 <p></p>
-<p><em>(2) Notice of Acceptance and Rejection</em>
-<br><a href="/files/SIP notices 2025/11_07_2025_Notice_of_Acceptance.pdf" rel="noopener nofollow" target="_blank">11-Jul-2025 Notice of Acceptance into Simplified Winding Up Programme</a>
-<br><a href="/files/SIP notices 2025/04_07_2025_Notice_of_Rejection.pdf" rel="noopener nofollow" target="_blank">04-Jul-2025 Notice of Rejection into Simplified Winding Up Programme</a>
-<br>
-<br>
+<p>
 <br>
 <br><strong>Insolvency, Restructuring and Dissolution (Simplified Debt Restructuring) Regulations 2021</strong>
 </p>
@@ -99,6 +96,8 @@ variant: tiptap
 <br><a href="/files/16-04-2021%20Application%20SWU.pdf" rel="noopener noreferrer nofollow" target="_blank">16-Apr-2021 Notice of Application into Simplified Winding Up Programme</a> 
 <br>
 <br><em>(2) Notices of Acceptance and Rejection</em> 
+<br><a href="/files/SIP notices 2025/11_07_2025_Notice_of_Acceptance.pdf" rel="noopener nofollow" target="_blank">11-Jul-2025 Notice of Acceptance into Simplified Winding Up Programme</a>
+<br><a href="/files/SIP notices 2025/04_07_2025_Notice_of_Rejection.pdf" rel="noopener nofollow" target="_blank">04-Jul-2025 Notice of Rejection into Simplified Winding Up Programme</a>
 <br><a href="/files/SIP notices 2025/27_06_2024_Notice_of_rejection.pdf" rel="noopener nofollow" target="_blank">27-Jun-2025 Notice of Rejection into Simplified Winding Up Programme</a>
 <br><a href="/files/SIP notices 2025/20_06_2025_Notice_of_Acceptance.pdf" rel="noopener nofollow" target="_blank">20-Jun-2025 Notice of Acceptance into Simplified Winding Up Programme</a>
 <br><a href="/files/SIP notices 2025/06_06_2025_Notice_of_Acceptance.pdf" rel="noopener nofollow" target="_blank">06-Jun-2025 Notice of Acceptance into Simplified Winding Up Programme</a>
