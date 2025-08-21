@@ -20,8 +20,6 @@ ScamShield helpline at 1799 or visit <a href="https://www.scamshield.gov.sg/" re
 <hr>
 <h4><strong>Please click on the links below for more information:</strong></h4>
 <p></p>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_12_June_2025__Week_25_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 12 June 2025 (Week 25)</a>
-</p>
 <p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_19_June_2025__Week_26_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 19 June 2025 (Week 26)</a>
 </p>
 <p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_26_June_2025__Week_27_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 26 June 2025 (Week 27)</a>
@@ -38,10 +36,14 @@ ScamShield helpline at 1799 or visit <a href="https://www.scamshield.gov.sg/" re
 </p>
 <p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_24_July_2025__Week_31_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 24 July 2025 (Week 31)</a>
 </p>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_31_July_2025__Week_32_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 31 July 2025 (Week 32)(Updated)</a>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_31_July_2025__Week_32_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 31 July 2025 (Week 32)</a>
 </p>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_31_July_2025__Week_32A_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 31 July 2025 (Week 32A)(New)</a>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_31_July_2025__Week_32A_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 31 July 2025 (Week 32A)</a>
 </p>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_7_August_2025__Week_33_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 7 August 2025 (Week 33)(New)</a>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_7_August_2025__Week_33_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 7 August 2025 (Week 33)</a>
+</p>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_31_July_2025__Week_32B_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 31 July 2025 (Week 32B)(New)</a>
+</p>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_14_August_2025__Week_34_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 14 August 2025 (Week 34)(New)</a>
 </p>
 <p></p>
