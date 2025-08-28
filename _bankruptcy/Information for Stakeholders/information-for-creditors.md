@@ -66,7 +66,7 @@ Please note that the fee for filing a Proof of Debt is <b><u>not claimable</u></
 
 <b>7. Can I find out how much is the total claims made against the bankrupt?</b> <br>
 
-Yes. You may access the Individual Insolvency Administration Information (IIAI) portal on our [website]( https://go.gov.sg/bankruptcy) to find out the total claims made against the bankrupt’s estate. <br>
+Yes. You may purchase the Individual Insolvency Administration Information (IIAI) from the Creditor's Portal hosted on our [website]( https://go.gov.sg/bankruptcy) to find out the total claims made against the bankrupt’s estate. <br>
 
 You will also obtain information on the date of the filing of the bankruptcy petition, the name of the petitioning creditor, the date of the Bankruptcy Order, the trustee in bankruptcy and the total amount in the bankruptcy estate account. <br>
 
