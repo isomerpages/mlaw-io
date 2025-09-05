@@ -38,8 +38,7 @@ variant: tiptap
 <br><em>(1) Notices of Application</em> 
 <br><a href="/files/SIP notices 2025/25_07_2025_Application_SWU.pdf" rel="noopener nofollow" target="_blank">25-Jul-2025 Notice of Application into Simplified Winding Up Programme</a>
 <br><a href="/files/Notice_of_Application_Publication__18Jul25_.pdf" rel="noopener nofollow" target="_blank">18-Jul-2025 Notice of Application into Simplified Winding Up Programme</a>
-</p>
-<p><a href="/files/SIP notices 2025/09_05_2025_Application_SWU.pdf" rel="noopener nofollow" target="_blank">09-May-2025 Notice of Application into Simplified Winding Up Programme</a>
+<br><a href="/files/SIP notices 2025/09_05_2025_Application_SWU.pdf" rel="noopener nofollow" target="_blank">09-May-2025 Notice of Application into Simplified Winding Up Programme</a>
 <br><a href="/files/SIP notices 2025/11_04_2025_Application_SWU.pdf" rel="noopener nofollow" target="_blank">11-Apr-2025 Notice of Application into Simplified Winding Up Programme</a>
 <br><a href="/files/SIP notices 2025/28_03_2025_Application_SWU.pdf" rel="noopener nofollow" target="_blank">28-Mar-2025 Notice of Application into Simplified Winding Up Programme</a>
 <br><a href="/files/SIP notices 2025/07_03_2025_Application_SWU.pdf" rel="noopener nofollow" target="_blank">07-Mar-2025 Notice of Application into Simplified Winding Up Programme</a>
