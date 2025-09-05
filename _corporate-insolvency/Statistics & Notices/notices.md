@@ -18,9 +18,9 @@ variant: tiptap
 <br><a href="/files/SIP notices 2025/05_09_2025_Application_SWU.pdf" rel="noopener nofollow" target="_blank">05-Sep-2025 Notice of Application into Simplified Winding Up Programme</a>
 <br><a href="/files/SIP notices 2025/15_08_2025_Application_SWU.pdf" rel="noopener nofollow" target="_blank">15-Aug-2025 Notice of Application into Simplified Winding Up Programme</a>
 <br>
+<br><em>(2) Notice of Acceptance and Rejection</em>
+<br><a href="/files/SIP notices 2025/05_09_2025_Notice_of_Acceptance.pdf" rel="noopener nofollow" target="_blank">05-Sep-2025 Notice of Acceptance into Simplified Winding Up Programme</a>
 <br>
-</p>
-<p>
 <br>
 <br><strong>Insolvency, Restructuring and Dissolution (Simplified Debt Restructuring) Regulations 2021</strong>
 </p>
