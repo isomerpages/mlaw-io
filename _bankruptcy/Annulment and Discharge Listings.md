@@ -44,4 +44,6 @@ variant: tiptap
 </p>
 <p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_37_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 37)(New)</a>
 </p>
+<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_37A_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 37A)(New)</a>
+</p>
 <p></p>
