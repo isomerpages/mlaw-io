@@ -9,6 +9,5 @@ variant: tiptap
 <p><strong><u>Graphical Statistics</u></strong>
 </p>
 <p><strong>Corporate Insolvency</strong>
-<br><a href="/files/CWU statistics/Companies_Liquidation_2025__July_.pdf" rel="noopener nofollow" target="_blank">Companies in Compulsory Liquidation</a>
-<br>
+<br><a href="/files/CWU statistics/Companies_Liquidation_2025__Aug_.pdf" rel="noopener nofollow" target="_blank">Companies in Compulsory Liquidation</a>
 </p>
