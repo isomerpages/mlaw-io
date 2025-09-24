@@ -1,14 +1,12 @@
 ---
-title: 'Introduction to DRS video (English subtitles)'
+title: Introduction to DRS video (English subtitles)
 permalink: /debt-repayment-scheme/introduction-to-drs-video-english-subtitles/
-breadcrumb: 'Introduction to DRS video (English subtitles)'
-third_nav_title: 'Introduction to DRS (Video)'
-
+breadcrumb: Introduction to DRS video (English subtitles)
+third_nav_title: Introduction to DRS (Video)
+variant: tiptap
 ---
-
-
-Introduction to DRS video (English subtitles)
----
-<div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1R0RlCJp8V8" title="Introduction to DRS video (English subtitles)" alt="Introduction to DRS video (English subtitles)" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<h2>Introduction to DRS video (English subtitles)</h2>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ph3APXOTJf8"></iframe>
 </div>
+<p></p>
