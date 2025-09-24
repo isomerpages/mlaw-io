@@ -7,7 +7,12 @@ third_nav_title: Forms
 ---
 <h2><strong>Bankruptcy Rules Forms – pre-30 July 2020</strong></h2>
 <h3></h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -583,18 +588,6 @@ of Deceased Debtor under Section 148 of Bankruptcy Act</p>
 <p><a href="/files/BKCY Rules Forms pre30Jul2020/Form_41___Anniversary_Report_Format.pdf" rel="noopener noreferrer nofollow" target="_blank">Anniversary Report</a>
 </p>
 <p><a href="/files/BKCY Rules Forms pre30Jul2020/Form_41___Annual_Report_Format.pdf" rel="noopener noreferrer nofollow" target="_blank">Annual Report</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Summary of Bankruptcy Forms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Summary of Bankruptcy Forms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/BKCY Rules Forms pre30Jul2020/Summary_of_Bankruptcy_Forms.pdf" rel="noopener noreferrer nofollow" target="_blank">Summary</a>
 </p>
 </td>
 </tr>
