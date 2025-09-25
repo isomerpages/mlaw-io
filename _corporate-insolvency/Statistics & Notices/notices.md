@@ -25,8 +25,9 @@ variant: tiptap
 <br><a href="/files/SIP notices 2025/26_09_2025_Notice_of_Striking_Off_.pdf" rel="noopener nofollow" target="_blank">26-Sep-2025 Notice of Striking Off for Simplified Winding Up Programme </a>and
 Final Accounts for <a href="/files/SIP notices 2025/SW_4_2024_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">Akuos Pte. Ltd. (SW 4/2024)</a>
 <br>
-<br><em>(4) Notices of Intended Dividend</em> 4
+<br><em>(4) Notices of Intended Dividend</em> 
 <br><a href="/files/SIP notices 2025/SW_18_2023_Notice_of_Intended_Dividend.pdf" rel="noopener nofollow" target="_blank">26-Sep-2025 Notice of Intended Dividend for DFMA Builder Pte Ltd (SW 18/2023)</a>
+<br>
 <br>
 <br>*Past Notices*</p>
 <p><strong><u>INSOLVENCY, RESTRUCTURING AND DISSOLUTION ACT 2018 (NO. 40 of 2018) </u></strong>
