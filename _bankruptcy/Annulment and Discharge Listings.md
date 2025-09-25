@@ -32,8 +32,14 @@ variant: tiptap
 </p>
 <p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_37A_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 37A)</a>
 </p>
-<p><a href="/files/Annulment &amp; Discharge Listings/Bankruptcy_Order_Rescinded_Listing__Week_38_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Order Rescinded Listing (Week 38)(New)</a>
+<p><a href="/files/Annulment &amp; Discharge Listings/Bankruptcy_Order_Rescinded_Listing__Week_38_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Order Rescinded Listing (Week 38)</a>
 </p>
-<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_38_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 38)(New)</a>
+<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_38_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 38)</a>
+</p>
+<p><a href="/files/Annulment &amp; Discharge Listings/Annulment_Listings__Week_39_.pdf" rel="noopener nofollow" target="_blank">Annulment Listings (Week 39)(New)</a>
+</p>
+<p><a href="/files/Annulment &amp; Discharge Listings/Annulment_Listings__Week_39A_.pdf" rel="noopener nofollow" target="_blank">Annulment Listings (Week 39A)(New)</a>
+</p>
+<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_39_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 39)(New)</a>
 </p>
 <p></p>
