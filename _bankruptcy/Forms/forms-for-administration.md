@@ -12,7 +12,8 @@ Forms for Administration
 
 [Application to open a Savings Bank Account Form](https://go.gov.sg/savingsbankapplicationform)
 
-[Form C - Agreement on Applicant's Costs &amp; Disbursements of Bankruptcy Proceedings](https://go.gov.sg/formc-applicant-costs-disbursements) This form is ONLY for OA-administered cases where a bankruptcy order has been made.
+[Form C - Agreement on Applicant's Costs &amp; Disbursements of Bankruptcy Proceedings](https://go.gov.sg/formc-applicant-costs-disbursements) 
+This form is **ONLY** for OA-administered cases where a bankruptcy order has been made.
 
 [Notice to Trustee of Intent to Commence / Continue / Defend / Appeal Against an Action](/files/Forms/NOTICETOTRUSTEEOFINTENTIONFORCOURTACTION.pdf) (143KB)
 
