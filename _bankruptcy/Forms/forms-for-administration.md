@@ -12,6 +12,8 @@ Forms for Administration
 
 [Application to open a Savings Bank Account Form](https://go.gov.sg/savingsbankapplicationform)
 
+[Form C - Agreement on Applicant's Costs &amp; Disbursements of Bankruptcy Proceedings](https://go.gov.sg/formc-applicant-costs-disbursements )
+
 [Notice to Trustee of Intent to Commence / Continue / Defend / Appeal Against an Action](/files/Forms/NOTICETOTRUSTEEOFINTENTIONFORCOURTACTION.pdf) (143KB)
 
 [Checklist to creditors for supporting documents](/files/ChecklisttoCreditorsforSupportingDocuments_revisedversion20062018.pdf){:target="_blank"} (324KB)
