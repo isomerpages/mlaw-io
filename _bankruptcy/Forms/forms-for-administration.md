@@ -12,7 +12,7 @@ Forms for Administration
 
 [Application to open a Savings Bank Account Form](https://go.gov.sg/savingsbankapplicationform)
 
-[Form C - Agreement on Applicant's Costs &amp; Disbursements of Bankruptcy Proceedings](https://go.gov.sg/formc-applicant-costs-disbursements )
+[Form C - Agreement on Applicant's Costs &amp; Disbursements of Bankruptcy Proceedings](https://go.gov.sg/formc-applicant-costs-disbursements) This form is ONLY for OA-administered cases where a bankruptcy order has been made.
 
 [Notice to Trustee of Intent to Commence / Continue / Defend / Appeal Against an Action](/files/Forms/NOTICETOTRUSTEEOFINTENTIONFORCOURTACTION.pdf) (143KB)
 
@@ -27,8 +27,6 @@ Forms for Administration
 [Statement of Affairs (Form 11) Bankruptcy Act (Chapter 20)](/files/Form11-StatementofAffairs.pdf){:target="_blank"} (790KB)<br>
 
 [Affidavit Verifying Statement of Affairs (Form 12) Bankruptcy Act (Chapter 20)](/files/Form12AffidavitVerifyingStatementofAffairs.pdf){:target="_blank"} (11KB)
-
-[Form C -- Agreement On Petitioner's Costs &amp; Disbursements Of Bankruptcy Proceedings](/files/FormC_CAA25Jul17.pdf){:target="_blank"} (232KB)
 
 [Application for Interbank GIRO Form - (For Bankruptcy Instalments)](/files/directdebitapplicationformapr2018(27092023).pdf){:target="_blank"} (214KB)
 
