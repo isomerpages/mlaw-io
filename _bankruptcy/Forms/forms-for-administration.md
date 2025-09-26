@@ -3,50 +3,56 @@ title: Forms for Administration
 permalink: /bankruptcy/forms/
 breadcrumb: Forms for Administration
 third_nav_title: Forms
-variant: markdown
+variant: tiptap
 ---
-Forms for Administration
----
-
-**Forms For Bankruptcy**
-
-[Application to open a Savings Bank Account Form](https://go.gov.sg/savingsbankapplicationform)
-
-[Form C - Agreement on Applicant's Costs &amp; Disbursements of Bankruptcy Proceedings](https://go.gov.sg/formc-applicant-costs-disbursements) 
-This form is **ONLY** for OA-administered cases where a bankruptcy order has been made.
-
-[Notice to Trustee of Intent to Commence / Continue / Defend / Appeal Against an Action](/files/Forms/NOTICETOTRUSTEEOFINTENTIONFORCOURTACTION.pdf) (143KB)
-
-[Checklist to creditors for supporting documents](/files/ChecklisttoCreditorsforSupportingDocuments_revisedversion20062018.pdf){:target="_blank"} (324KB)
-
-[Form DC1 -- Declaration of Creditor Whose Supporting Documents Can Only Be Furnished to the Official Assignee Within 14 Days of Filing of Proof of Debt](/files/FormDC1DRS.pdf){:target="_blank"} (45KB)
-
-[Form DC2 -- Declaration of Personal Creditor With No Documents to Support Proof of Debt](/files/FormDC2DRS.pdf){:target="_blank"} (41KB)
-
-[Objection To Bankrupt’s Discharge From Bankruptcy Under Section 125 Bankruptcy Act (Cap. 20)](/files/S125objectiontodischarge.pdf){:target="_blank"} (289KB) <br>
-
-[Statement of Affairs (Form 11) Bankruptcy Act (Chapter 20)](/files/Form11-StatementofAffairs.pdf){:target="_blank"} (790KB)<br>
-
-[Affidavit Verifying Statement of Affairs (Form 12) Bankruptcy Act (Chapter 20)](/files/Form12AffidavitVerifyingStatementofAffairs.pdf){:target="_blank"} (11KB)
-
-[Application for Interbank GIRO Form - (For Bankruptcy Instalments)](/files/directdebitapplicationformapr2018(27092023).pdf){:target="_blank"} (214KB)
-
-[FIR - Filing of complaint against bankrupt](/files/(27092023)firstinformationreport.pdf){:target="_blank"} (21KB)
-
-[Application for Official Assignee's Permission to Leave Singapore](/files/ApplicationforOfficialAssigneePermissiontoLeaveSingapore.pdf){:target="_blank"} (41KB)
-
-[Statement of Account of Moneys and Property Received - BA cases](/files/smp-ba(7sep21)(27092023).pdf){:target="_blank"} (868KB)
-
-[Statement of Account of Moneys and Property Received - IRDA cases](/files/smp-irda(7sep21)(27092023).pdf){:target="_blank"} (869KB)
-
-[Indemnity Form](/files/indemnityform(amended27sept2023).pdf){:target="_blank"} (478KB)<br>
-
+<h2>Forms for Administration</h2>
+<p><strong>Forms For Bankruptcy</strong>
+</p>
+<p><a href="https://go.gov.sg/savingsbankapplicationform" rel="noopener noreferrer nofollow" target="_blank">Application to open a Savings Bank Account Form</a>
+</p>
+<p><a href="https://go.gov.sg/formc-applicant-costs-disbursements" rel="noopener nofollow" target="_blank">Form C-Agreement on Applicant's Costs &amp; Disbursements of Bankruptcy Proceedings (For OA-administered cases)</a>
+</p>
+<p><a href="/files/Forms/NOTICETOTRUSTEEOFINTENTIONFORCOURTACTION.pdf" rel="noopener noreferrer nofollow" target="_blank">Notice to Trustee of Intent to Commence / Continue / Defend / Appeal Against an Action</a> (143KB)</p>
+<p><a href="/files/ChecklisttoCreditorsforSupportingDocuments_revisedversion20062018.pdf" rel="noopener noreferrer nofollow" target="_blank">Checklist to creditors for supporting documents</a>{:target="_blank"}
+(324KB)</p>
+<p><a href="/files/FormDC1DRS.pdf" rel="noopener noreferrer nofollow" target="_blank">Form DC1 -- Declaration of Creditor Whose Supporting Documents Can Only Be Furnished to the Official Assignee Within 14 Days of Filing of Proof of Debt</a>{:target="_blank"}
+(45KB)</p>
+<p><a href="/files/FormDC2DRS.pdf" rel="noopener noreferrer nofollow" target="_blank">Form DC2 -- Declaration of Personal Creditor With No Documents to Support Proof of Debt</a>{:target="_blank"}
+(41KB)</p>
+<p><a href="/files/S125objectiontodischarge.pdf" rel="noopener noreferrer nofollow" target="_blank">Objection To Bankrupt’s Discharge From Bankruptcy Under Section 125 Bankruptcy Act (Cap. 20)</a>{:target="_blank"}
+(289KB)
 <br>
-<br><br>
-**Note**: For the following applications, please submit via the Insolvency Office E-Services Portal by clicking on the "eServices" menu on the task bar above.
-
-a) Application To Buy an HDB Flat
-
-b) Application For The Official Assignee's Permission To Manage or Take Part In Any Business Under The Business Names Registration Act 2014, Cap 34
-
-c) Application For The Official Assignee's Permission To Act As A Director Or To Take Part In Or To Be Concerned In The Management of Any Corporate Entity (Singapore Or Foreign Company) Under The Companies Act, Cap 50
+</p>
+<p><a href="/files/Form11-StatementofAffairs.pdf" rel="noopener noreferrer nofollow" target="_blank">Statement of Affairs (Form 11) Bankruptcy Act (Chapter 20)</a>{:target="_blank"}
+(790KB)
+<br>
+</p>
+<p><a href="/files/Form12AffidavitVerifyingStatementofAffairs.pdf" rel="noopener noreferrer nofollow" target="_blank">Affidavit Verifying Statement of Affairs (Form 12) Bankruptcy Act (Chapter 20)</a>{:target="_blank"}
+(11KB)</p>
+<p><a href="/files/directdebitapplicationformapr2018(27092023).pdf" rel="noopener noreferrer nofollow" target="_blank">Application for Interbank GIRO Form - (For Bankruptcy Instalments)</a>{:target="_blank"}
+(214KB)</p>
+<p><a href="/files/(27092023)firstinformationreport.pdf" rel="noopener noreferrer nofollow" target="_blank">FIR - Filing of complaint against bankrupt</a>{:target="_blank"}
+(21KB)</p>
+<p><a href="/files/ApplicationforOfficialAssigneePermissiontoLeaveSingapore.pdf" rel="noopener noreferrer nofollow" target="_blank">Application for Official Assignee's Permission to Leave Singapore</a>{:target="_blank"}
+(41KB)</p>
+<p><a href="/files/smp-ba(7sep21)(27092023).pdf" rel="noopener noreferrer nofollow" target="_blank">Statement of Account of Moneys and Property Received - BA cases</a>{:target="_blank"}
+(868KB)</p>
+<p><a href="/files/smp-irda(7sep21)(27092023).pdf" rel="noopener noreferrer nofollow" target="_blank">Statement of Account of Moneys and Property Received - IRDA cases</a>{:target="_blank"}
+(869KB)</p>
+<p><a href="/files/indemnityform(amended27sept2023).pdf" rel="noopener noreferrer nofollow" target="_blank">Indemnity Form</a>{:target="_blank"}
+(478KB)
+<br>
+</p>
+<p>
+<br>
+<br>
+<br>**Note**: For the following applications, please submit via the Insolvency
+Office E-Services Portal by clicking on the "eServices" menu on the task
+bar above.</p>
+<p>a) Application To Buy an HDB Flat</p>
+<p>b) Application For The Official Assignee's Permission To Manage or Take
+Part In Any Business Under The Business Names Registration Act 2014, Cap
+34</p>
+<p>c) Application For The Official Assignee's Permission To Act As A Director
+Or To Take Part In Or To Be Concerned In The Management of Any Corporate
+Entity (Singapore Or Foreign Company) Under The Companies Act, Cap 50</p>
