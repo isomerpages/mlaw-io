@@ -18,14 +18,15 @@ variant: tiptap
 <br><a href="/files/SIP notices 2025/19_09_2025_Application_SWU.pdf" rel="noopener nofollow" target="_blank">19-Sep-2025 Notice of Application into Simplified Winding Up Programme</a>
 <br><a href="/files/SIP notices 2025/05_09_2025_Application_SWU.pdf" rel="noopener nofollow" target="_blank">05-Sep-2025 Notice of Application into Simplified Winding Up Programme</a>
 <br>
-<br>
-<br>
-<br>
 <br><em>(2) Notice of Acceptance and Rejection</em>
 <br><a href="/files/SIP notices 2025/05_09_2025_Notice_of_Acceptance.pdf" rel="noopener nofollow" target="_blank">05-Sep-2025 Notice of Acceptance into Simplified Winding Up Programme</a>
 <br>
+<br><em>(3) Notices of Striking off and Final Accounts</em> 
+<br><a href="/files/SIP notices 2025/26_09_2025_Notice_of_Striking_Off_.pdf" rel="noopener nofollow" target="_blank">26-Sep-2025 Notice of Striking Off for Simplified Winding Up Programme </a>and
+Final Accounts for <a href="/files/SIP notices 2025/SW_4_2024_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">Akuos Pte. Ltd. (SW 4/2024)</a>
 <br>
-<br>
+<br><em>(4) Notices of Intended Dividend</em> 
+<br><a href="/files/SIP notices 2025/SW_18_2023_Notice_of_Intended_Dividend.pdf" rel="noopener nofollow" target="_blank">26-Sep-2025 Notice of Intended Dividend for DFMA Builder Pte Ltd (SW 18/2023)</a>
 <br>
 <br>
 <br>*Past Notices*</p>
