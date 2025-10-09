@@ -6,12 +6,6 @@ variant: tiptap
 ---
 <p><strong>Please click on the links below for more information</strong>:</p>
 <p></p>
-<p><a href="/files/Annulment &amp; Discharge Listings/Annulment_Listings__Week_32_.pdf" rel="noopener nofollow" target="_blank">Annulment Listings (Week 32)</a>
-</p>
-<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_32_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 32)</a>
-</p>
-<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_32A_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 32A)</a>
-</p>
 <p><a href="/files/Annulment &amp; Discharge Listings/Annulment_Listings__Week_33_.pdf" rel="noopener nofollow" target="_blank">Annulment Listings (Week 33)</a>
 </p>
 <p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_33_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 33)</a>
@@ -40,8 +34,12 @@ variant: tiptap
 </p>
 <p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_39_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 39)</a>
 </p>
-<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_40_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 40)(New)</a>
+<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_40_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 40)</a>
 </p>
-<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_40A_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 40A)(New)</a>
+<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_40A_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 40A)</a>
+</p>
+<p><a href="/files/Annulment &amp; Discharge Listings/Annulment_Listings__Week_41_.pdf" rel="noopener nofollow" target="_blank">Annulment Listings (Week 41)(New)</a>
+</p>
+<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_41_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 41)(New)</a>
 </p>
 <p></p>
