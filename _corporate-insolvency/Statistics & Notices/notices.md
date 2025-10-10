@@ -14,7 +14,11 @@ variant: tiptap
 <p><strong>Insolvency, Restructuring and Dissolution (Simplified Winding Up) Regulations 2021</strong> 
 <br>
 </p>
-<p><em>(1) Notice of Application</em>
+<p><em>(1) Notice of Acceptance</em>
+<br><a href="/files/SIP notices 2025/10_10_2025_Notice_of_Acceptance.pdf" rel="noopener nofollow" target="_blank">10-Oct-2025 Notice of Acceptance into Simplified Winding Up Programme</a>
+<br>
+<br>
+<br><em>(2) Notice of Application</em>
 <br><a href="/files/SIP notices 2025/06_10_2025_Application_SWU.pdf" rel="noopener nofollow" target="_blank">06-Oct-2025 Notice of Application into Simplified Winding Up Programme </a>
 <br><a href="/files/SIP notices 2025/19_09_2025_Application_SWU.pdf" rel="noopener nofollow" target="_blank">19-Sep-2025 Notice of Application into Simplified Winding Up Programme</a>
 <br>
