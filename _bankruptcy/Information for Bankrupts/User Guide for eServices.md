@@ -16,6 +16,8 @@ variant: markdown
   
 [How to make payments via eCollection Portal](/files/(210923)howtomakepaymenstviaecollectionportal.pdf)<br>
 
+[How to submit bank account details for receiving GIRO payments from the Official Assignee](/files/HowtosubmitbankaccountdetailsforreceivingGIROpaymentsfromtheOfficialAssignee.pdf)<br>
+
 [How to retrieve Case Information (IIAI)](/files/(180923)howtoretrievecaseinformation(iiai).pdf)<br>
      
 [How to submit a Travel Application](/files/(210923)howtosubmitatravelapplication.pdf)<br>
