@@ -1,0 +1,10 @@
+collections:
+  bankruptcy-and-debt-repayment-scheme:
+    output: true
+    order:
+      - bankruptcy-notice.md
+      - alternatives-to-bankruptcy-debt-repayment-scheme.md
+      - bankruptcy.md
+      - unclaimed-monies.md
+      - statistics.md
+      - practice-circulars.md
