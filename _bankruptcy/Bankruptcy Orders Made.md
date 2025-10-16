@@ -38,8 +38,10 @@ ScamShield helpline at 1799 or visit <a href="https://www.scamshield.gov.sg/" re
 </p>
 <p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_25_September_2025__Week_40_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 25 September 2025 (Week 40)</a>
 </p>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_29_September_2025__Week_40A_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 29 September 2025 (Week 40A)(New)</a>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_29_September_2025__Week_40A_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 29 September 2025 (Week 40A)</a>
 </p>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_2_October_2025__Week_41_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 2 October 2025 (Week 41)(New)</a>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_2_October_2025_updated__Week_41_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 2 October 2025_updated (Week 41)(New)</a>
+</p>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_9_October_2025__Week_42_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 9 October 2025 (Week 42)(New)</a>
 </p>
 <p></p>
