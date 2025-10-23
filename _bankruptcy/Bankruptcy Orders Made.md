@@ -20,8 +20,6 @@ ScamShield helpline at 1799 or visit <a href="https://www.scamshield.gov.sg/" re
 <hr>
 <h4><strong>Please click on the links below for more information:</strong></h4>
 <p></p>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_14_August_2025__Week_34_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 14 August 2025 (Week 34)</a>
-</p>
 <p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_21_August_2025__Week_35_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 21 August 2025 (Week 35)</a>
 </p>
 <p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_22_August_2025__Week_35A_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 22 August 2025 (Week 35A)</a>
@@ -38,10 +36,14 @@ ScamShield helpline at 1799 or visit <a href="https://www.scamshield.gov.sg/" re
 </p>
 <p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_29_September_2025__Week_40A_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 29 September 2025 (Week 40A)</a>
 </p>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_2_October_2025_updated__Week_41_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 2 October 2025_updated (Week 41)(New)</a>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_2_October_2025_updated__Week_41_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 2 October 2025_updated (Week 41)</a>
 </p>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_9_October_2025__Week_42_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 9 October 2025 (Week 42)(New)</a>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_9_October_2025__Week_42_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 9 October 2025 (Week 42)</a>
 </p>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_6_October_2025__Week_42A_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 6 October 2025 (Week 42A)(New)</a>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_6_October_2025__Week_42A_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 6 October 2025 (Week 42A)</a>
+</p>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_16_October_2025__Week_43_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 16 October 2025 (Week 43)(New)</a>
+</p>
+<p><a href="/files/BOs Made/Administration_Order_made_on_17_October_2025__Week_43A_.pdf" rel="noopener nofollow" target="_blank">Administration Order made on 17 October 2025 (Week 43A)(New)</a>
 </p>
 <p></p>
