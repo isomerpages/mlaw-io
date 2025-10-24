@@ -19,16 +19,14 @@ variant: tiptap
 <br>
 <br>
 <br><em>(2) Notice of Application</em>
+<br><a href="/files/SIP notices 2025/24_10_25_Application_SWU.pdf" rel="noopener nofollow" target="_blank">24-Oct-2025 Notice of Application into Simplified Winding Up Programme</a>
 <br><a href="/files/SIP notices 2025/06_10_2025_Application_SWU.pdf" rel="noopener nofollow" target="_blank">06-Oct-2025 Notice of Application into Simplified Winding Up Programme </a>
-<br><a href="/files/SIP notices 2025/19_09_2025_Application_SWU.pdf" rel="noopener nofollow" target="_blank">19-Sep-2025 Notice of Application into Simplified Winding Up Programme</a>
 <br>
 <br>
-<br><em>(2) Notices of Striking off and Final Accounts</em> 
-<br><a href="/files/SIP notices 2025/26_09_2025_Notice_of_Striking_Off_.pdf" rel="noopener nofollow" target="_blank">26-Sep-2025 Notice of Striking Off for Simplified Winding Up Programme </a>and
-Final Accounts for <a href="/files/SIP notices 2025/SW_4_2024_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">Akuos Pte. Ltd. (SW 4/2024)</a>
-<br>
-<br><em>(3) Notices of Intended Dividend</em> 
-<br><a href="/files/SIP notices 2025/SW_18_2023_Notice_of_Intended_Dividend.pdf" rel="noopener nofollow" target="_blank">26-Sep-2025 Notice of Intended Dividend for DFMA Builder Pte Ltd (SW 18/2023)</a>
+<br><strong>Insolvency, Restructuring and Dissolution (Simplified Debt Restructuring) Regulations 2021</strong> 
+</p>
+<p><em>(1) Notices of Application</em> 
+<br><a href="/files/SIP notices 2025/24_10_2025_Application_SDRP.pdf" rel="noopener nofollow" target="_blank">24-Oct-2025 Notice of Application into Simplified Debt Restructuring Programme</a>
 <br>
 <br>
 <br>*Past Notices*</p>
@@ -37,6 +35,7 @@ Final Accounts for <a href="/files/SIP notices 2025/SW_4_2024_Final_Accounts.pdf
 </p>
 <p><strong>Insolvency, Restructuring and Dissolution (Simplified Winding Up) Regulations 2021</strong> 
 <br><em>(1) Notices of Application</em> 
+<br><a href="/files/SIP notices 2025/19_09_2025_Application_SWU.pdf" rel="noopener nofollow" target="_blank">19-Sep-2025 Notice of Application into Simplified Winding Up Programme</a>
 <br><a href="/files/SIP notices 2025/05_09_2025_Application_SWU.pdf" rel="noopener nofollow" target="_blank">05-Sep-2025 Notice of Application into Simplified Winding Up Programme</a>
 <br><a href="https://cms.isomer.gov.sg/files/SIP%20notices%202025/15_08_2025_Application_SWU.pdf" rel="noopener nofollow" target="_blank"><u>15-Aug-2025 Notice of Application into Simplified Winding Up Programme</u></a>
 <br><a href="/files/SIP notices 2025/25_07_2025_Application_SWU.pdf" rel="noopener nofollow" target="_blank">25-Jul-2025 Notice of Application into Simplified Winding Up Programme</a>
@@ -173,6 +172,8 @@ Final Accounts for <a href="/files/SIP notices 2025/SW_4_2024_Final_Accounts.pdf
 <br><a href="/files/14-05-2021%20Notice%20of%20Rejection.pdf" rel="noopener noreferrer nofollow" target="_blank">14-May-2021 Notice of Rejection for Simplified Winding Up Programme</a> 
 <br>
 <br><em>(3) Notices of Striking off and Final Accounts</em> 
+<br><a href="/files/SIP notices 2025/26_09_2025_Notice_of_Striking_Off_.pdf" rel="noopener nofollow" target="_blank">26-Sep-2025 Notice of Striking Off for Simplified Winding Up Programme </a>and
+Final Accounts for <a href="/files/SIP notices 2025/SW_4_2024_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">Akuos Pte. Ltd. (SW 4/2024)</a>
 <br><a href="/files/13_12_2024_Notice_of_striking_off.pdf" rel="noopener nofollow" target="_blank">13-Dec-2024 Notice of Striking Off for Simplified Winding Up Programme </a>
 <br>and Final Accounts for <a href="/files/SW7_2023_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">Onenubula Pte. Ltd. (SW 7/2023)</a>
 <br><a href="/files/11102024_Notice_To_Strike_off_Company.pdf" rel="noopener nofollow" target="_blank">11-Oct-2024 Notice of Striking Off for Simplified Winding Up Programme </a>and
@@ -258,6 +259,7 @@ Final Accounts for <a href="/files/SW6-2021%20Final%20Accounts.pdf" rel="noopene
 Final Accounts for <a href="/files/SW19-2021%20Final%20Accounts.pdf" rel="noopener noreferrer nofollow" target="_blank">The Dance Capital (Pte. Ltd.) (SW 19/2021)</a> 
 <br>
 <br><em>(5) Notices of Intended Dividend</em> 
+<br><a href="/files/SIP notices 2025/SW_18_2023_Notice_of_Intended_Dividend.pdf" rel="noopener nofollow" target="_blank">26-Sep-2025 Notice of Intended Dividend for DFMA Builder Pte Ltd (SW 18/2023)</a>
 <br><a href="/files/Notice_of_Intended_Dividend_02Dec24.pdf" rel="noopener noreferrer nofollow" target="_blank">02-Dec-2024 Notice of Intended Dividend for Also Dominie Pte. Ltd. (SW 22-2021)</a>
 <br><a href="/files/SW_11_2023_Notice_of_Intended_Dividend__8_Nov_2024_.pdf" rel="noopener nofollow" target="_blank">08-Nov-2024 Notice of Intended Dividend for Anake Kids Pte Ltd (SW 11-2023)</a>
 <br><a href="/files/SW5_2021_Notice_of_Intended_Dividend__31_May_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">31-May-2024 Notice of Intended Dividend for Glow Digital Media Pte. Ltd. (SW 5-2021)</a>
