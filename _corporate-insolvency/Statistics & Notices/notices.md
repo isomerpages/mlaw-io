@@ -23,7 +23,7 @@ variant: tiptap
 <br><a href="/files/SIP notices 2025/06_10_2025_Application_SWU.pdf" rel="noopener nofollow" target="_blank">06-Oct-2025 Notice of Application into Simplified Winding Up Programme </a>
 <br>
 <br>
-<br><strong>Insolvency, Restructuring and Dissolution (Simplified Debt Restructuring) Regulations 2021</strong> 
+<br><strong>Insolvency, Restructuring and Dissolution (Simplified Debt Restructuring) Regulations 2021</strong>
 </p>
 <p><em>(1) Notices of Application</em> 
 <br><a href="/files/SIP notices 2025/24_10_2025_Application_SDRP.pdf" rel="noopener nofollow" target="_blank">24-Oct-2025 Notice of Application into Simplified Debt Restructuring Programme</a>
