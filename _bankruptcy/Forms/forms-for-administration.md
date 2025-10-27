@@ -8,12 +8,12 @@ variant: tiptap
 <h2>Forms for Administration</h2>
 <p><strong>Forms For Bankruptcy</strong>
 </p>
-<p><a href="https://go.gov.sg/savingsbankapplicationform" rel="noopener noreferrer nofollow" target="_blank">Application to open a Savings Bank Account Form</a>
+<p><a href="https://go.gov.sg/savingsbankapplicationform" rel="noopener noreferrer nofollow" target="_blank">[For OA-administered cases only] Application to open a Savings Bank Account Form</a>
 </p>
 <p><a href="https://go.gov.sg/formc-applicant-costs-disbursements" rel="noopener nofollow" target="_blank">[For OA-administered cases only] Form C-Agreement on Applicant's Costs &amp; Disbursements of Bankruptcy Proceedings</a>
 </p>
 <p></p>
-<p><a href="/files/Forms/FormC_CAA25Jul17.pdf" rel="noopener nofollow" target="_blank">Form C - Agreement on Applicant's Costs &amp; Disbursements of Bankruptcy Proceedings</a>
+<p><a href="/files/Forms/FormC_CAA25Jul17.pdf" rel="noopener nofollow" target="_blank">[For PTIB- administered cases only] Form C - Agreement on Applicant's Costs &amp; Disbursements of Bankruptcy Proceedings</a>
 </p>
 <p><a href="/files/Forms/NOTICETOTRUSTEEOFINTENTIONFORCOURTACTION.pdf" rel="noopener noreferrer nofollow" target="_blank">Notice to Trustee of Intent to Commence / Continue / Defend / Appeal Against an Action</a> (143KB)</p>
 <p><a href="/files/ChecklisttoCreditorsforSupportingDocuments_revisedversion20062018.pdf" rel="noopener noreferrer nofollow" target="_blank">Checklist to creditors for supporting documents</a>(324KB)</p>
