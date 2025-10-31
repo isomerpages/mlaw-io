@@ -37,7 +37,7 @@ to you by the defunct company.
 </p>
 <p><strong>What is the process for submitting a claim?</strong>
 <br>(i) You are required to complete an online application through the Insolvency
-Office E-services at <a rel="noopener noreferrer nofollow" target="_blank">https://eservices.mlaw.gov.sg/io</a>.
+Office E-services at <a href="https://eservices.mlaw.gov.sg/io" rel="noopener nofollow" target="_blank">https://eservices.mlaw.gov.sg/io</a>.
 From the menu, select [Corporate Insolvency For Creditors / Shareholders].
 For step-by-step instructions, please refer to the guide (click <a href="https://io.mlaw.gov.sg/corporate-insolvency/guides/" rel="noopener noreferrer nofollow" target="_blank">here</a>).
 <br>(ii) You must provide the necessary documents to support your application,
