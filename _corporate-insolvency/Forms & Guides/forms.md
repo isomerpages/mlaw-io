@@ -100,14 +100,12 @@ Insolvency and Restructuring) Rules 2020, please refer to <a href="https://sso.a
 </p>
 </li>
 <li>
-<p><a href="/files/SDRP_Business%20Plan%20Template.docx" rel="noopener noreferrer nofollow" target="_blank">Business Plan Template</a>{:target="_blank"}
-(DOCX, 84KB)
+<p><a href="/files/SDRP_Business%20Plan%20Template.docx" rel="noopener noreferrer nofollow" target="_blank">Business Plan Template</a>
 <br>
 </p>
 </li>
 <li>
-<p><a href="/files/SDRP_Annex%20A_List%20of%20creditors.xls" rel="noopener noreferrer nofollow" target="_blank">Annex A - List of creditors</a>{:target="_blank"}
-(XLS, 31KB)
+<p><a href="/files/SDRP_Annex%20A_List%20of%20creditors.xls" rel="noopener noreferrer nofollow" target="_blank">Annex A - List of creditors</a>
 <br>
 </p>
 </li>
@@ -122,10 +120,8 @@ Insolvency and Restructuring) Rules 2020, please refer to <a href="https://sso.a
 </li>
 <li>
 <p>Statement of Affairs for simplified winding up matters
-<br>(a) <a href="/files/SWUP_Statement%20of%20Affairs.xls" rel="noopener noreferrer nofollow" target="_blank">Detailed Statement of Affairs</a>{:target="_blank"}
-(XLS, 141KB)
-<br>(b) <a href="/files/SWUP_SA%20Explanatory%20notes.pdf" rel="noopener noreferrer nofollow" target="_blank">Explanatory notes</a>{:target="_blank"}
-(118KB)
+<br>(a) <a href="/files/SWUP_Statement%20of%20Affairs.xls" rel="noopener noreferrer nofollow" target="_blank">Detailed Statement of Affairs</a>
+<br>(b) <a href="/files/SWUP_SA%20Explanatory%20notes.pdf" rel="noopener noreferrer nofollow" target="_blank">Explanatory notes</a>
 <br>
 </p>
 </li>
