@@ -1,75 +1,117 @@
 ---
-title: 'Information On Outstanding Assets of a Defunct Company'
+title: Information On Outstanding Assets of a Defunct Company
 permalink: /corporate-insolvency/information-on-outstanding-assets-of-a-defunct-company/
-breadcrumb: 'Information On Outstanding Assets of a Defunct Company'
-
+breadcrumb: Information On Outstanding Assets of a Defunct Company
+variant: tiptap
 ---
-
-
-Information on Outstanding Assets of a Defunct Company
----
-
-A company becomes defunct after it is either dissolved or struck off from the Register by the Accounting and Corporate Regulatory Authority.
-
-**What is the role of the Official Receiver?**<br>
-Where there are outstanding assets belonging to a defunct company, these are vested in the Official Receiver under section 213 of the Insolvency, Restructuring and Dissolution Act 2018. The Official Receiver will then act as a representative of the defunct company to administer and/or dispose of these assets under sections 212 and 216 of the Insolvency, Restructuring and Dissolution Act 2018.
-
-The Official Receiver may represent the company, if it is proven to his satisfaction under section 212(1) of the Insolvency, Restructuring and Dissolution Act 2018 that:
-
-(i) the company, if still existing, would be legally or equitably bound to carry out, complete or give effect to some  dealing, transaction or matter; and
-
-(ii) in order to carry out, complete or give effect to the said dealing, transaction or matter, some purely administrative act  should have been done or should be done by or on behalf of the company, if still existing.<br>
-
-
-**What should I do if I wish to lay claims on the assets belonging to a defunct company?**<br>
-You may lay your claim as a shareholder or a creditor of the defunct company:<br>
-(i) as a shareholder, you need to show that there is no creditor in the company when it was dissolved or struck off; or<br>
-(ii) as a creditor, you need to prove your debt.<br>
-
-**A** <u><b>Instructions to Applicant</b></u><br>
-(i) You are required to complete the Application Form (click [here](/files/ApplicationFormtotheOfficialReceivertoLayClaims.docx){:target="_blank"}(DOC, 37 KB));
-
-(ii) You are required to liaise with the director(s) and / or shareholder(s) of the Defunct Company to complete the Declaration Form (click [here](/files/DeclarationFormtotheOfficialReceivertoLayClaims.docx){:target="_blank"}(DOC, 33 KB)). If the Declaration Form cannot be completed, you must provide a full explanation as to why this cannot be completed;
-
-(iii) You must furnish the documents in paragraph B below to support the application; 
-
-(iv) The completed Application Form Application Form, Declaration Form and supporting documents must be sent to the Official Receiver's office; and 
-
-(v) You need not fill in the Deed of Indemnity on your own (click [here](/files/IndemnityFormtotheOfficialReceivertoLayClaimsforDFCases.pdf)(74 KB)). Upon submission of the Application Form and the required documents, the Official Receiver will contact you to attend at our office to execute the Deed of Indemnity, before paying out the moneys. You are however advised to read and take such measures to understand the terms of the Deed of Indemnity before attending at our office to execute it.<br>
-
-**B** <b>Documents Required to Support Application</b><br>
-
-***1) Where the Applicant is a Creditor / Shareholder***<br>
-
-(i) Photocopy of the Identity Card / Passport of the Applicant and Witness;
-
-(ii) Documents indicating that the company has been dissolved / struck off e.g. Notice from ACRA confirming that the company has been dissolved / struck off etc.;
-
-(iii) Documents (where applicable) showing that authorisation(s) has / have been granted by the relevant person(s) / party(s) for laying claim(s) on his / their behalf e.g. Authorisation Letter(s) from creditor(s) or shareholder(s), Power of Attorney, Letters of Administration, Grant of Probate etc.;
-
-(iv) The latest financial statement / management accounts of the Defunct Company;
-
-(v) Documents evidencing the existence of the outstanding asset(s); and
-
-(vi) Any other documents to support the application.<br>
-
-***2) Where the Applicant is a Creditor***<br>
-
-Proof of debt form with the relevant supporting documents to substantiate the claim.<br>
-
-***3) Where the Applicant is a Shareholder***<br>
-
-Documents evidencing that there is no outstanding debt or liability owing by the Defunct Company that is payable now or in the future.
-
-For more information, please refer to the attached instructions (click [here](/files/GuidelinestoLayClaimsforDFCases.pdf)(319 KB)).<br>
-
-**What if I have assets belonging to a defunct company that I need the Official Receiver to administer?**<br>
-Plaese write in to the Official Receiver via https://eservices.mlaw.gov.sg/enquiry/ with full details of the assets and all relevant supporting documents. Please state any other instructions or information relevant to the administration, disposal or transfer of the assets.<br> 
-
-**What are the charges of the Official Receiver?**<br>
-The fees chargeable by the Official Receiver are stipulated in the Schedule under the Fees (Winding up and Dissolution of Companies and Other Bodies) Order 2005:<br>
-(i) Administrative Fee;<br>
-(ii) Realisation Fee;<br>
-(iii) Distribution Fee;<br>
-(iv) Application Fee; and<br>
-(v) Payment Processing Fee.
+<h2>Information on Outstanding Assets of a Defunct Company</h2>
+<p>A company becomes defunct after it is either dissolved or struck off from
+the Register by the Accounting and Corporate Regulatory Authority.</p>
+<p><strong>What is the role of the Official Receiver?</strong>
+<br>Where there are outstanding assets belonging to a defunct company, these
+are vested in the Official Receiver under section 213 of the Insolvency,
+Restructuring and Dissolution Act 2018. The Official Receiver will then
+act as a representative of the defunct company to administer and/or dispose
+of these assets under sections 212 and 216 of the Insolvency, Restructuring
+and Dissolution Act 2018.</p>
+<p>The Official Receiver may represent the company, if it is proven to his
+satisfaction under section 212(1) of the Insolvency, Restructuring and
+Dissolution Act 2018 that:</p>
+<p>(i) the company, if still existing, would be legally or equitably bound
+to carry out, complete or give effect to some dealing, transaction or matter;
+and</p>
+<p>(ii) in order to carry out, complete or give effect to the said dealing,
+transaction or matter, some purely administrative act should have been
+done or should be done by or on behalf of the company, if still existing.
+<br>
+</p>
+<p><strong>How can I claim assets from a company that no longer exists, i.e. defunct company? </strong>
+<br>If you are a shareholder or a creditor of the company that has been dissolved
+or struck off, you may be eligible to claim its assets. Here's what you
+need to do:
+<br>(i) <strong>As a Shareholder</strong>: Confirm that the company has no
+creditor / outstanding debts when it was dissolved or struck off.
+<br>(ii) <strong>As a creditor</strong>: Provide evidence of the debt owed
+to you by the defunct company.
+<br>
+</p>
+<p><strong>What is the process for submitting a claim?</strong>
+<br>(i) You are required to complete an online application through the Insolvency
+Office E-services at <a rel="noopener noreferrer nofollow" target="_blank">https://eservices.mlaw.gov.sg/io</a>.
+From the menu, select [Corporate Insolvency For Creditors / Shareholders].
+For step-by-step instructions, please refer to the guide (click <a href="https://io.mlaw.gov.sg/corporate-insolvency/guides/" rel="noopener noreferrer nofollow" target="_blank">here</a>).
+<br>(ii) You must provide the necessary documents to support your application,
+as detailed below.</p>
+<p><strong>What</strong>&nbsp;<strong>documents do I need to support a claim?</strong>
+<br>Depending on whether you are a creditor or a shareholder, you will need
+different documents:
+<br><strong><em>1) For Shareholders:</em></strong>
+<br>(i) Completed Declaration Form by Director(s) / Shareholder(s);
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Please provide us with reason(s)
+if the declaration form cannot be completed;
+<br><em>(You may download a copy of the declaration form </em><a href="https://io.mlaw.gov.sg/corporate-insolvency/forms/" rel="noopener noreferrer nofollow" target="_blank">here</a><em>).</em>
+<br>(ii) Evidence that the company has been dissolved or struck off e.g. Notice
+from ACRA;
+<br>(iii) Latest financial statements or management accounts of company as
+evidence that it has no outstanding debts / liabilities at the time of
+its striking off;
+<br>(iv) A copy of the applicant’s NRIC or Passport;
+<br>(v) If the applicant is claiming on behalf of the shareholder / shareholding
+company - Documents (where applicable) showing that the applicant has the
+authority from the shareholder / shareholding company to claim on his /
+her behalf e.g. Authorisation Letter, shareholding company’s Articles of
+Association, Power of Attorney, Letters of Administration, Grant of Probate
+etc.;
+<br>(vi) Documents proving the existence of the outstanding asset(s); and
+<br>(vii) Any other supporting documents for the application (if applicable).</p>
+<p><strong><em>2) For Creditors:</em></strong>
+<br>(i) A completed Proof of Debt form with the relevant supporting documents
+to substantiate the claim.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>&nbsp;&nbsp;&nbsp; Use Form 77 for companies struck off before 30 July
+2020.</p>
+</li>
+<li>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;Use Form CWU-1 for companies struck off on and
+after 30 July 2020.&nbsp;
+<br>(<em>You may download a copy of the Form 77 / Form CWU-1 </em><a href="https://io.mlaw.gov.sg/corporate-insolvency/forms/" rel="noopener noreferrer nofollow" target="_blank">here</a><em>).</em>
+</p>
+</li>
+</ul>
+<hr>
+<p><strong>What if I have assets from a defunct company that need to be managed by the Official Receiver?</strong>
+<br>Please write in to the Official Receiver via <a rel="noopener noreferrer nofollow" target="_blank">www.go.gov.sg/contactminlaw</a> (selecting
+"Bankruptcy Matters" under the main category, and "Enquiry on Defunct Business"
+under the sub-category) with detailed information about the assets. Please
+include all relevant supporting documents and any specific instructions
+or information relevant to the management, disposal or transfer of the
+assets.
+<br>
+<br>
+</p>
+<p><strong>What are the charges of the Official Receiver?</strong>
+<br><a rel="noopener noreferrer nofollow" target="_blank">The fees chargeable by the Official Receiver are stipulated in the Schedule under the Fees (Winding up and Dissolution of Companies and Other Bodies) Order 2005, including:</a>
+<br>(i) Realisation Fee
+<br>(ii) Distribution Fee
+<br>(iii) Application Fee ($10 per shareholder)
+<br>(iv) Payment Processing Fee ($10 per shareholder)
+<br>
+<br>Additionally, ensure that the total value of your claim meets the following
+minimum threshold amounts:
+<br>(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Monetary assets (e.g. cash) - At least
+$25.00
+<br>(ii)&nbsp;&nbsp;&nbsp;&nbsp; Non-monetary assets (e.g. shares) - At least
+$50.00</p>
+<p><u>If the value of your claim does not meet the above thresholds, it cannot cover the processing fees required for any funds to be distributed and no payout will be made.</u>
+</p>
+<p></p>
+<p><strong>How can I transfer monies to a company that no longer exists, i.e. defunct company?<br></strong>Please
+make payment by way of issuing a crossed cheque made payable to “<strong>The Official Receiver</strong>”.
+You may send the cheque to the following address:</p>
+<p>Insolvency Office
+<br>45 Maxwell Road
+<br>#07-11 URA Centre (East Wing)
+<br>Singapore 069118
+<br>Ref No: <em>(Defunct Company’s name)</em> - Defunct</p>
+<p></p>
