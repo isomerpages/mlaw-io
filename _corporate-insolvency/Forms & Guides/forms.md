@@ -8,7 +8,7 @@ variant: tiptap
 <h2>Forms</h2>
 <p><strong>Forms for Winding Up Matters (Insolvency, Restructuring and Dissolution Act 2018)</strong>
 <br>For forms relating to the Insolvency, Restructuring and Dissolution (Corporate
-Insolvency and Restructuring) Rules 2020, please refer to <a href="https://sso.agc.gov.sg/SL/IRDA2018-S603-2020/Uncommenced/20200729132927?DocDate=20200727&amp;ValidDt=20200730" rel="noopener noreferrer nofollow" target="_blank">here</a>{:target="_blank"}
+Insolvency and Restructuring) Rules 2020, please refer to <a href="https://sso.agc.gov.sg/SL/IRDA2018-S603-2020/Uncommenced/20200729132927?DocDate=20200727&amp;ValidDt=20200730" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 <br>
 </p>
 <ol>
