@@ -37,7 +37,7 @@ to you by the defunct company.
 </p>
 <p><strong>What is the process for submitting a claim?</strong>
 <br>(i) You are required to complete an online application through the Insolvency
-Office E-services at <a rel="noopener noreferrer nofollow" target="_blank">https://eservices.mlaw.gov.sg/io</a>.
+Office E-services at <a href="https://eservices.mlaw.gov.sg/io" rel="noopener nofollow" target="_blank">https://eservices.mlaw.gov.sg/io</a>.
 From the menu, select [Corporate Insolvency For Creditors / Shareholders].
 For step-by-step instructions, please refer to the guide (click <a href="https://io.mlaw.gov.sg/corporate-insolvency/guides/" rel="noopener noreferrer nofollow" target="_blank">here</a>).
 <br>(ii) You must provide the necessary documents to support your application,
@@ -81,7 +81,7 @@ after 30 July 2020.&nbsp;
 </ul>
 <hr>
 <p><strong>What if I have assets from a defunct company that need to be managed by the Official Receiver?</strong>
-<br>Please write in to the Official Receiver via <a rel="noopener noreferrer nofollow" target="_blank">www.go.gov.sg/contactminlaw</a> (selecting
+<br>Please write in to the Official Receiver via <a href="https://eservices.mlaw.gov.sg/enquiry/" rel="noopener nofollow" target="_blank">https://eservices.mlaw.gov.sg/enquiry/</a>(selecting
 "Bankruptcy Matters" under the main category, and "Enquiry on Defunct Business"
 under the sub-category) with detailed information about the assets. Please
 include all relevant supporting documents and any specific instructions
@@ -91,7 +91,9 @@ assets.
 <br>
 </p>
 <p><strong>What are the charges of the Official Receiver?</strong>
-<br><a rel="noopener noreferrer nofollow" target="_blank">The fees chargeable by the Official Receiver are stipulated in the Schedule under the Fees (Winding up and Dissolution of Companies and Other Bodies) Order 2005, including:</a>
+<br>The fees chargeable by the Official Receiver are stipulated in the Schedule
+under the Fees (Winding up and Dissolution of Companies and Other Bodies)
+Order 2005, including:
 <br>(i) Realisation Fee
 <br>(ii) Distribution Fee
 <br>(iii) Application Fee ($10 per shareholder)
