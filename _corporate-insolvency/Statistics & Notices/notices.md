@@ -19,6 +19,7 @@ variant: tiptap
 <br>
 <br>
 <br><em>(2) Notice of Application</em>
+<br><a href="/files/SIP notices 2025/31_10_25_Application_SWU.pdf" rel="noopener nofollow" target="_blank">31-Oct-2025 Notice of Application into Simplified Winding Up Programme</a>
 <br><a href="/files/SIP notices 2025/24_10_25_Application_SWU.pdf" rel="noopener nofollow" target="_blank">24-Oct-2025 Notice of Application into Simplified Winding Up Programme</a>
 <br><a href="/files/SIP notices 2025/06_10_2025_Application_SWU.pdf" rel="noopener nofollow" target="_blank">06-Oct-2025 Notice of Application into Simplified Winding Up Programme </a>
 <br>
