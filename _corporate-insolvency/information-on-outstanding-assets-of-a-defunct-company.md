@@ -81,7 +81,7 @@ after 30 July 2020.&nbsp;
 </ul>
 <hr>
 <p><strong>What if I have assets from a defunct company that need to be managed by the Official Receiver?</strong>
-<br>Please write in to the Official Receiver via <a rel="noopener noreferrer nofollow" target="_blank">www.go.gov.sg/contactminlaw</a> (selecting
+<br>Please write in to the Official Receiver via <a href="www.go.gov.sg/contactminlaw" rel="noopener nofollow" target="_blank">www.go.gov.sg/contactminlaw </a>(selecting
 "Bankruptcy Matters" under the main category, and "Enquiry on Defunct Business"
 under the sub-category) with detailed information about the assets. Please
 include all relevant supporting documents and any specific instructions
