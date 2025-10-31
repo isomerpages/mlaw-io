@@ -91,7 +91,9 @@ assets.
 <br>
 </p>
 <p><strong>What are the charges of the Official Receiver?</strong>
-<br><a rel="noopener noreferrer nofollow" target="_blank">The fees chargeable by the Official Receiver are stipulated in the Schedule under the Fees (Winding up and Dissolution of Companies and Other Bodies) Order 2005, including:</a>
+<br>The fees chargeable by the Official Receiver are stipulated in the Schedule
+under the Fees (Winding up and Dissolution of Companies and Other Bodies)
+Order 2005, including:
 <br>(i) Realisation Fee
 <br>(ii) Distribution Fee
 <br>(iii) Application Fee ($10 per shareholder)
