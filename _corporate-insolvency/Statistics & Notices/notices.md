@@ -177,7 +177,7 @@ variant: tiptap
 <br>
 <br><em>(3) Notices of Striking off and Final Accounts</em> 
 <br><a href="/files/SIP notices 2025/26_09_2025_Notice_of_Striking_Off_.pdf" rel="noopener nofollow" target="_blank">26-Sep-2025 Notice of Striking Off for Simplified Winding Up Programme </a>and
-Final Accounts for <a href="/files/SIP notices 2025/SW_4_2024_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">Akuos Pte. Ltd. (SW 4/2024)</a>
+Final Accounts for <a href="/files/SIP notices 2025/SW_4_2024_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">Akuos Pte. Ltd. (SW 4/2024) </a>
 <br><a href="/files/13_12_2024_Notice_of_striking_off.pdf" rel="noopener nofollow" target="_blank">13-Dec-2024 Notice of Striking Off for Simplified Winding Up Programme </a>
 <br>and Final Accounts for <a href="/files/SW7_2023_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">Onenubula Pte. Ltd. (SW 7/2023)</a>
 <br><a href="/files/11102024_Notice_To_Strike_off_Company.pdf" rel="noopener nofollow" target="_blank">11-Oct-2024 Notice of Striking Off for Simplified Winding Up Programme </a>and
