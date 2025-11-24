@@ -114,11 +114,11 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Practice circular attachments/Practice_Circular_1_of_2010___Annex_1__cheque_depository_form_.pdf" rel="noopener nofollow" target="_blank">Cheque depository form (Annex 1)</a>
+<p><a href="/files/Practice circular/Practice_Circular_1_of_2010___Annex_1__cheque_depository_form_.pdf" rel="noopener nofollow" target="_blank">Cheque depository form (Annex 1)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Practice circular attachments/Practice_Circular_1_of_2010___Annex_2__stt_of_account_requisition_.pdf" rel="noopener nofollow" target="_blank">Requisition form for Statement of Accounts (Annex 2)</a>
+<p><a href="/files/Practice circular/Practice_Circular_1_of_2010___Annex_2__stt_of_account_requisition_.pdf" rel="noopener nofollow" target="_blank">Requisition form for Statement of Accounts (Annex 2)</a>
 </p>
 <p></p>
 </li>
