@@ -73,7 +73,7 @@ committed, and generally, whether the bankrupt has co-operated fully with
 the Official Assignee in the administration of the bankruptcy estate.
 <br>
 </p>
-<p><strong>4. What is a Discharge by the Certificate of the Official Assignee?</strong> 
+<p><strong>4. What is a Discharge by the Certificate of the Official Assignee?</strong>
 </p>
 <p>The Official Assignee may discharge the bankrupt from bankruptcy once
 the criteria(s) under the applicable bankruptcy legislation is met.</p>
