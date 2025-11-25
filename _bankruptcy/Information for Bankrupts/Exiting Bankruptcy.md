@@ -3,7 +3,7 @@ title: Exiting Bankruptcy
 permalink: /bankruptcy/information-for-bankrupts/discharge-from-bankruptcy/
 breadcrumb: Discharge from Bankruptcy
 third_nav_title: Information for Bankrupts
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h2>Exiting Bankruptcy</h2>
@@ -73,9 +73,91 @@ committed, and generally, whether the bankrupt has co-operated fully with
 the Official Assignee in the administration of the bankruptcy estate.
 <br>
 </p>
-<p><strong>4. What is a Discharge by the Certificate of the Official Assignee?</strong> 
-<br> **under construction**
-</p><p><strong>5. What are the processes involved for discharge from bankruptcy?</strong> 
+<p><strong>4. What is a Discharge by the Certificate of the Official Assignee?</strong>
+</p>
+<p>The Official Assignee may discharge the bankrupt from bankruptcy once
+the criteria(s) under the applicable bankruptcy legislation is met.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Criteria(s) for discharge from bankruptcy by the Certificate of the Official Assignee</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>For cases where the Bankruptcy Application was made before 1 August 2016</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>For cases where the Bankruptcy Application was made on or after 1 August 2016</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>•At least 3 years have lapsed since the commencement of the bankruptcy;
+and</p>
+<p></p>
+<p>•Proven debts do not exceed S$500,000.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>•At least 3 years* have lapsed since the commencement of the bankruptcy;</p>
+<p>•Target contribution met <strong><em><u>or</u></em></strong> cannot be met
+due to extenuating circumstances; and</p>
+<p>•Creditors’ objections are below the statutory threshold.**</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>•At least 5 years* have lapsed since the commencement of the bankruptcy;
+and</p>
+<p>•Target contribution met <strong><em><u>or</u></em></strong> cannot be met
+due to extenuating circumstances.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>•At least 7 years* have lapsed since the commencement of the bankruptcy.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>*<em>For repeat bankrupts, each of the timelines is extended by 2 years</em>
+</p>
+<p><em>**The statutory threshold is reached when objections are raised by creditors of at least 50% by number <u>or</u> 25% by value</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>In deciding whether to issue a Certificate of Discharge to the bankrupt,
+the Official Assignee will take into consideration factors such as:</p>
+<p>•Whether the bankrupt has met the Expected Dividend or the Target Contribution;</p>
+<p>•Whether the bankrupt has property available which remain to be realised;</p>
+<p>•The period that the bankrupt has been in bankruptcy;</p>
+<p>•The cause of bankruptcy;</p>
+<p>•The bankrupt's general conduct in bankruptcy and the level of the bankrupt’s
+co-operation in the administration of the bankruptcy estate;</p>
+<p>•Whether the bankrupt had committed any offence leading up to or during
+bankruptcy which adversely impacted one or more creditors. These include
+(but are not limited to) offences under the Bankruptcy Act, the Insolvency,
+Restructuring and Dissolution Act and the Penal Code; and</p>
+<p>•Whether there are valid objections from the bankrupt's creditors to the
+bankrupt's discharge.</p>
+<p>Any indicative timeline for a discharge is <strong>not</strong> guaranteed.
+The eventual duration of your bankruptcy will depend on the factors listed
+above.</p>
+<p></p>
+<p><strong>5. What are the processes involved for discharge from bankruptcy?</strong> 
 <br>The Official Assignee will first review the bankrupt’s case to determine
 its suitability for a discharge from bankruptcy. Depending on the outcome
 of the review, the bankrupt may have to raise additional funds with the
