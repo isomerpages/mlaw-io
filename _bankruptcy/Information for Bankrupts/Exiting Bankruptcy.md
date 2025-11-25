@@ -74,47 +74,8 @@ the Official Assignee in the administration of the bankruptcy estate.
 <br>
 </p>
 <p><strong>4. What is a Discharge by the Certificate of the Official Assignee?</strong> 
-<br>The Official Assignee may discharge the bankrupt from bankruptcy provided
-at least three years have lapsed since the commencement of the bankruptcy
-and where the proven debts do not exceed S$500,000.
-<br>
-</p>
-<p>In deciding whether to issue a Certificate of Discharge to the bankrupt,
-the Official Assignee will take into consideration factors such as:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Whether the bankrupt has met the Expected Dividend or the Target Contribution;</p>
-</li>
-<li>
-<p>Whether the bankrupt has property available which remain to be realised;</p>
-</li>
-<li>
-<p>The period that the bankrupt has been in bankruptcy;</p>
-</li>
-<li>
-<p>The cause of bankruptcy;</p>
-</li>
-<li>
-<p>The bankrupt's general conduct in bankruptcy and the level of the bankrupt’s
-co-operation in the administration of the bankruptcy estate;</p>
-</li>
-<li>
-<p>Whether the bankrupt had committed any offence leading up to or during
-bankruptcy which adversely impacted one or more creditors. These include
-(but are not limited to) offences under the Bankruptcy Act, the Insolvency,
-Restructuring and Dissolution Act and the Penal Code; and</p>
-</li>
-<li>
-<p>Whether there are valid objections from the bankrupt's creditors to the
-bankrupt's discharge.</p>
-</li>
-</ul>
-<p>Any indicative timeline for a discharge is <strong>not</strong> guaranteed.
-The eventual duration of your bankruptcy will depend on the factors listed
-above.
-<br>
-</p>
-<p><strong>5. What are the processes involved for discharge from bankruptcy?</strong> 
+<br> **under construction**
+</p><p><strong>5. What are the processes involved for discharge from bankruptcy?</strong> 
 <br>The Official Assignee will first review the bankrupt’s case to determine
 its suitability for a discharge from bankruptcy. Depending on the outcome
 of the review, the bankrupt may have to raise additional funds with the
