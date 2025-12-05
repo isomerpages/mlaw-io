@@ -39,8 +39,8 @@ variant: tiptap
 </p>
 <p><strong>Insolvency, Restructuring and Dissolution (Simplified Winding Up) Regulations 2021</strong> 
 <br><em>(1) Notices of Application</em> 
-<br><a href="https://cms.isomer.gov.sg/files/SIP%20notices%202025/31_10_25_Application_SWU.pdf" rel="noopener nofollow" target="_blank"><u>31-Oct-2025 Notice of Application into Simplified Winding Up Programme</u></a>
-<br><a href="https://cms.isomer.gov.sg/files/SIP%20notices%202025/24_10_25_Application_SWU.pdf" rel="noopener nofollow" target="_blank"><u>24-Oct-2025 Notice of Application into Simplified Winding Up Programme</u></a>
+<br><a href="/files/SIP notices 2025/31_10_25_Application_SWU.pdf" rel="noopener nofollow" target="_blank">31-Oct-2025 Notice of Application into Simplified Winding Up Programme</a>
+<br><a href="/files/SIP notices 2025/24_10_25_Application_SWU.pdf" rel="noopener nofollow" target="_blank">24-Oct-2025 Notice of Application into Simplified Winding Up Programme</a>
 <br><a href="/files/SIP notices 2025/06_10_2025_Application_SWU.pdf" rel="noopener nofollow" target="_blank">06-Oct-2025 Notice of Application into Simplified Winding Up Programme </a>
 <br><a href="/files/SIP notices 2025/19_09_2025_Application_SWU.pdf" rel="noopener nofollow" target="_blank">19-Sep-2025 Notice of Application into Simplified Winding Up Programme</a>
 <br><a href="/files/SIP notices 2025/05_09_2025_Application_SWU.pdf" rel="noopener nofollow" target="_blank">05-Sep-2025 Notice of Application into Simplified Winding Up Programme</a>
