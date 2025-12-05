@@ -26,7 +26,7 @@ variant: tiptap
 <br>
 <br><strong>Insolvency, Restructuring and Dissolution (Simplified Debt Restructuring) Regulations 2021</strong>
 </p>
-<p><em>(1) Notices of Acceptance</em>
+<p><em>(1) Notice of Acceptance</em>
 <br><a href="/files/3_Dec_2025_Notice_of_Acceptance_into_Simplified_Debt_Restructuring_Programme.pdf" rel="noopener nofollow" target="_blank">3-Dec-2025 Notice of Acceptance into Simplified Debt Restructuring Programme</a>
 <a href="/files/3_Dec_2025_Notice_of_Acceptance_into_Simplified_Debt_Restructuring_Programme.pdf" rel="noopener noreferrer nofollow" target="_blank">
 <br>
