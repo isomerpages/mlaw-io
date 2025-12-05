@@ -20,16 +20,19 @@ variant: tiptap
 <br>
 <br><em>(2) Notice of Application</em>
 <br><a href="/files/SIP notices 2025/07_11_25_Application_SWU.pdf" rel="noopener nofollow" target="_blank">7-Nov-2025 Notice of Application into Simplified Winding Up Programme</a>
-<br><a href="/files/SIP notices 2025/31_10_25_Application_SWU.pdf" rel="noopener nofollow" target="_blank">31-Oct-2025 Notice of Application into Simplified Winding Up Programme</a>
-<br><a href="/files/SIP notices 2025/24_10_25_Application_SWU.pdf" rel="noopener nofollow" target="_blank">24-Oct-2025 Notice of Application into Simplified Winding Up Programme</a>
+<br>
 <br>
 <br>
 <br>
 <br><strong>Insolvency, Restructuring and Dissolution (Simplified Debt Restructuring) Regulations 2021</strong>
 </p>
-<p><em>(1) Notices of Application</em> 
-<br><a href="/files/SIP notices 2025/24_10_2025_Application_SDRP.pdf" rel="noopener nofollow" target="_blank">24-Oct-2025 Notice of Application into Simplified Debt Restructuring Programme</a>
+<p><em>(1) Notice of Acceptance</em>
+<br><a href="/files/3_Dec_2025_Notice_of_Acceptance_into_Simplified_Debt_Restructuring_Programme.pdf" rel="noopener nofollow" target="_blank">3-Dec-2025 Notice of Acceptance into Simplified Debt Restructuring Programme</a>
+<a href="/files/3_Dec_2025_Notice_of_Acceptance_into_Simplified_Debt_Restructuring_Programme.pdf" rel="noopener noreferrer nofollow" target="_blank">
 <br>
+</a>
+</p>
+<p>
 <br>
 <br>*Past Notices*</p>
 <p><strong><u>INSOLVENCY, RESTRUCTURING AND DISSOLUTION ACT 2018 (NO. 40 of 2018) </u></strong>
@@ -37,6 +40,8 @@ variant: tiptap
 </p>
 <p><strong>Insolvency, Restructuring and Dissolution (Simplified Winding Up) Regulations 2021</strong> 
 <br><em>(1) Notices of Application</em> 
+<br><a href="/files/SIP notices 2025/31_10_25_Application_SWU.pdf" rel="noopener nofollow" target="_blank">31-Oct-2025 Notice of Application into Simplified Winding Up Programme</a>
+<br><a href="/files/SIP notices 2025/24_10_25_Application_SWU.pdf" rel="noopener nofollow" target="_blank">24-Oct-2025 Notice of Application into Simplified Winding Up Programme</a>
 <br><a href="/files/SIP notices 2025/06_10_2025_Application_SWU.pdf" rel="noopener nofollow" target="_blank">06-Oct-2025 Notice of Application into Simplified Winding Up Programme </a>
 <br><a href="/files/SIP notices 2025/19_09_2025_Application_SWU.pdf" rel="noopener nofollow" target="_blank">19-Sep-2025 Notice of Application into Simplified Winding Up Programme</a>
 <br><a href="/files/SIP notices 2025/05_09_2025_Application_SWU.pdf" rel="noopener nofollow" target="_blank">05-Sep-2025 Notice of Application into Simplified Winding Up Programme</a>
@@ -326,6 +331,7 @@ Final Accounts for <a href="/files/SW7-2021%20Final%20Account.pdf" rel="noopener
 <br>
 </p>
 <p><em>(1) Notices of Application</em> 
+<br><a href="/files/SIP notices 2025/24_10_2025_Application_SDRP.pdf" rel="noopener nofollow" target="_blank">24-Oct-2025 Notice of Application into Simplified Debt Restructuring Programme</a>
 <br><a href="/files/SIP notices 2025/06_06_2025_Application_SDRP.pdf" rel="noopener nofollow" target="_blank">06-Jun-2025 Notice of Application into Simplified Debt Restructuring Programme</a>
 <br><a href="/files/07_02_2024_Application_SDRP.pdf" rel="noopener nofollow" target="_blank">07-Feb-2025 Notice of Application into Simplified Debt Restructuring Programme</a>
 <br><a href="/files/13-10-2023%20application%20sr.pdf" rel="noopener noreferrer nofollow" target="_blank">13-Oct-2023 Notice of Application into Simplified Debt Restructuring Programme</a> 
