@@ -31,6 +31,8 @@ variant: tiptap
 <a href="/files/3_Dec_2025_Notice_of_Acceptance_into_Simplified_Debt_Restructuring_Programme.pdf" rel="noopener noreferrer nofollow" target="_blank">
 <br>
 </a>
+</p>
+<p>
 <br>
 <br>*Past Notices*</p>
 <p><strong><u>INSOLVENCY, RESTRUCTURING AND DISSOLUTION ACT 2018 (NO. 40 of 2018) </u></strong>
