@@ -11,7 +11,6 @@ variant: markdown
 
 **Debt Repayment Scheme**
 
-[DRS Statistics as at 31 October 2025](/files/DRS%20Statistics%20/DRSStatsforWebsiteasat31Oct2025.pdf)
-
+[DRS Statistics as at 30 November 2025](/files/DRS%20Statistics%20/DRSStatsforWebsiteasat30Nov25.pdf)
 
 [DRS Appeal](/files/DRSAppeal.pdf){:target="_blank"}
