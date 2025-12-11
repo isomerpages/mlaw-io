@@ -19,8 +19,7 @@ call the MinLaw hotline at 1800 2255 529.</p>
 ScamShield helpline at 1799 or visit <a href="https://www.scamshield.gov.sg/" rel="noopener nofollow" target="_blank">www.scamshield.gov.sg</a>.</p>
 <hr>
 <h4><strong>Please click on the links below for more information:</strong></h4>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_2_October_2025_updated__Week_41_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 2 October 2025_updated (Week 41)</a>
-</p>
+<p></p>
 <p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_9_October_2025__Week_42_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 9 October 2025 (Week 42)</a>
 </p>
 <p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_6_October_2025__Week_42A_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 6 October 2025 (Week 42A)</a>
@@ -39,6 +38,8 @@ ScamShield helpline at 1799 or visit <a href="https://www.scamshield.gov.sg/" re
 </p>
 <p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_20_November_2025__Week_48_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 20 November 2025 (Week 48)</a>
 </p>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_27_November_2025__Week_49_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 27 November 2025 (Week 49)(New)</a>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_27_November_2025__Week_49_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 27 November 2025 (Week 49)</a>
+</p>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_4_December_2025__Week_50_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 4 December 2025 (Week 50)(New)</a>
 </p>
 <p></p>
