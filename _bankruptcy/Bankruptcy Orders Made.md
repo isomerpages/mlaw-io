@@ -20,10 +20,6 @@ ScamShield helpline at 1799 or visit <a href="https://www.scamshield.gov.sg/" re
 <hr>
 <h4><strong>Please click on the links below for more information:</strong></h4>
 <p></p>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_9_October_2025__Week_42_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 9 October 2025 (Week 42)</a>
-</p>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_6_October_2025__Week_42A_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 6 October 2025 (Week 42A)</a>
-</p>
 <p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_16_October_2025__Week_43__updated.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 16 October 2025 (Week 43)(Updated)</a>
 </p>
 <p><a href="/files/BOs Made/Administration_Order_made_on_17_October_2025__Week_43A_.pdf" rel="noopener nofollow" target="_blank">Administration Order made on 17 October 2025 (Week 43A)</a>
@@ -40,6 +36,14 @@ ScamShield helpline at 1799 or visit <a href="https://www.scamshield.gov.sg/" re
 </p>
 <p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_27_November_2025__Week_49_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 27 November 2025 (Week 49)</a>
 </p>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_4_December_2025__Week_50_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 4 December 2025 (Week 50)(New)</a>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_4_December_2025__Week_50_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 4 December 2025 (Week 50)</a>
+</p>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_8_December_2025__Week_51_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 8 December 2025 (Week 51)(New)</a>
+</p>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_9_December_2025__Week_51A_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 9 December 2025 (Week 51A)(New)</a>
+</p>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_10_December_2025__Week_51B_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 10 December 2025 (Week 51B)(New)</a>
+</p>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_11_December_2025__Week_51C_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 11 December 2025 (Week 51C)(New)</a>
 </p>
 <p></p>
