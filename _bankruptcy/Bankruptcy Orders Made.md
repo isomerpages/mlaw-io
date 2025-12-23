@@ -47,3 +47,4 @@ ScamShield helpline at 1799 or visit <a href="https://www.scamshield.gov.sg/" re
 <p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_11_December_2025__Week_51C_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 11 December 2025 (Week 51C)(New)</a>
 </p>
 <p></p>
+<p>No bankruptcy hearings scheduled for 25 December 2025 and 1 January 2026.</p>
