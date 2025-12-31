@@ -180,13 +180,13 @@ by the High Court.
 <br>
 </p>
 <p><strong>10. Other Suggested Readings </strong>
-<br><a href="https://console-flex-api.ap.sabio.cloud/faq/index.aspx?p=64759355" rel="noopener noreferrer nofollow" target="_blank">Minlaw FAQs on Individual Insolvency</a> 
+<br><a href="https://ask.gov.sg/mlaw" rel="noopener nofollow" target="_blank">Minlaw FAQs on Individual Insolvency</a>
 <br><a href="/bankruptcy/information-for-bankrupts/" rel="noopener noreferrer nofollow" target="_blank">Information for Bankrupts</a> 
 <br>
 </p>
 <p><strong>11. Further Queries </strong>
 <br>If you have any further queries on bankruptcy, please send in your enquiries/feedback
-at <em><a href="https://go.gov.sg/contactminlaw" rel="noopener noreferrer nofollow" target="_blank">Contact Us @ OneMinLaw</a></em> 
+at <em><a href="https://www.mlaw.gov.sg/about-us/contact-us/" rel="noopener nofollow" target="_blank">Contact Us @ OneMinLaw</a></em> 
 <br>
 </p>
 <p>Alternatively, you may visit us at our website at <a href="https://www.mlaw.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.mlaw.gov.sg/</a> or contact
