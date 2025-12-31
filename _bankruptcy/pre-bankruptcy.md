@@ -180,7 +180,7 @@ by the High Court.
 <br>
 </p>
 <p><strong>10. Other Suggested Readings </strong>
-<br><a href="https://console-flex-api.ap.sabio.cloud/faq/index.aspx?p=64759355" rel="noopener noreferrer nofollow" target="_blank">Minlaw FAQs on Individual Insolvency</a> 
+<br><a href="https://ask.gov.sg/mlaw" rel="noopener nofollow" target="_blank">Minlaw FAQs on Individual Insolvency</a>
 <br><a href="/bankruptcy/information-for-bankrupts/" rel="noopener noreferrer nofollow" target="_blank">Information for Bankrupts</a> 
 <br>
 </p>
