@@ -168,4 +168,4 @@ or contact us at 1800-2255-529* (during office hours).
 **Airtime charges may apply to calls made from mobile phones to ‘1800’ local toll-free numbers.*
 
 **13. Other Frequently Asked Questions**<br>
-For other frequently asked questions on the Debt Repayment Scheme ("DRS"),[click here](https://console-flex-api.ap.sabio.cloud/faq/index.aspx?p=64759355).
+For other frequently asked questions on the Debt Repayment Scheme ("DRS"),[click here](https://ask.gov.sg/mlaw).
