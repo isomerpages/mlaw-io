@@ -114,16 +114,15 @@ The DRS is triggered by a bankruptcy application. When such an application is ma
  
 
 <b> 10. Other Suggested Readings </b><br>
-[Minlaw FAQs on Individual Insolvency](https://console-flex-api.ap.sabio.cloud/faq/index.aspx?p=64759355)<br>
+[Minlaw FAQs on Individual Insolvency](https://ask.gov.sg/mlaw)<br>
 [Information for Bankrupts](/bankruptcy/information-for-bankrupts/)<br>
 
  
 
 <b> 11. Further Queries </b><br>
-If you have any further queries on bankruptcy, please send in your enquiries/feedback at *[Contact Us @ OneMinLaw](https://go.gov.sg/contactminlaw)* <br>
+If you have any further queries on bankruptcy, please send in your enquiries/feedback at *[Contact Us @ OneMinLaw](https://www.mlaw.gov.sg/about-us/contact-us/)*<br>
 
  
-
 Alternatively, you may visit us at our website at [https://www.mlaw.gov.sg/](https://www.mlaw.gov.sg/) or contact us at 1800-2255-529* (during office hours).
 
 **Airtime charges may apply to calls made from mobile phones to ‘1800’ local toll-free numbers.*
