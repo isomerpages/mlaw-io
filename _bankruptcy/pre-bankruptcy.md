@@ -189,5 +189,6 @@ by the High Court.
 at <em><a href="https://www.mlaw.gov.sg/about-us/contact-us/" rel="noopener nofollow" target="_blank">Contact Us @ OneMinLaw</a></em> 
 <br>
 </p>
-<p>Alternatively, you may visit us at our website at <a href="https://www.mlaw.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.mlaw.gov.sg/</a>
-</p>
+<p>Alternatively, you may visit us at our website at <a href="https://www.mlaw.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.mlaw.gov.sg/ </a>or contact
+us at 1800-2255-529* (during office hours).</p>
+<p><em>*Airtime charges may apply to calls made from mobile phones to '1800' local toll-free numbers</em>.</p>
