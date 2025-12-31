@@ -3,6 +3,7 @@ title: Impact of Bankruptcy
 permalink: /bankruptcy/information-for-bankrupts/impact-of-bankruptcy/
 breadcrumb: Impact of Bankruptcy
 third_nav_title: Information for Bankrupts
+variant: markdown
 ---
 Bankruptcy Application and Impact of Bankruptcy
 ---
@@ -23,7 +24,7 @@ If you, without reasonable excuse, fail to submit a Statement of Affairs to the 
 <b> 3. How do I contact my case officer? </b>  <br>
 You may contact us at:  <br>
 
-[Contact Us @ OneMinLaw ](https://go.gov.sg/contactminlaw)
+[Contact Us @ OneMinLaw](https://www.mlaw.gov.sg/about-us/contact-us/)
 <br>
 or  <br>
 MinLaw Service Centre  <br>

@@ -159,7 +159,7 @@ The URA Centre (East Wing)<br>
 #07-11<br>
 Singapore 069118<br>
 
-Please send in your enquiries/feedback at [Contact Us @ OneMinLaw ](https://go.gov.sg/contactminlaw).
+Please send in your enquiries/feedback at [Contact Us @ OneMinLaw](https://www.mlaw.gov.sg/about-us/contact-us/).
 
 Alternatively, you may visit us at our website at
 [https://go.gov.sg/io](https://go.gov.sg/io)
@@ -168,4 +168,4 @@ or contact us at 1800-2255-529* (during office hours).
 **Airtime charges may apply to calls made from mobile phones to ‘1800’ local toll-free numbers.*
 
 **13. Other Frequently Asked Questions**<br>
-For other frequently asked questions on the Debt Repayment Scheme ("DRS"),[click here](https://console-flex-api.ap.sabio.cloud/faq/index.aspx?p=64759355).
+For other frequently asked questions on the Debt Repayment Scheme ("DRS"),[click here](https://ask.gov.sg/mlaw).
