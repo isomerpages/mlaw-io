@@ -50,7 +50,7 @@ The supporting documents shall be sent to the Official Assignee within 14 days f
 
 (c) By facsimile at 6325 1417; or <br>
 
-(d) Or at *[Contact Us @ OneMinLaw ](https://go.gov.sg/contactminlaw)*<br>
+(d) Or at *[Contact Us @ OneMinLaw](https://www.mlaw.gov.sg/about-us/contact-us/)*<br>
 
 The sample declaration (Form DC1) can be downloaded from our e-services website [here](https://www.mlaw.gov.sg/eservices/io/). <br>
 
