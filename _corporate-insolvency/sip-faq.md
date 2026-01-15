@@ -37,7 +37,7 @@ The SIP will start on 29 Jan 2021.<br>
 
 **4. How can a company apply for the Simplified Insolvency Programme (“SIP”)?**<br>
 
-A company may apply for the SIP by submitting a completed application form, together with the required documents and information, to the Official Reciever via the MinLaw website at <a href="https://eservices.mlaw.gov.sg/enquiry/">https://eservices.mlaw.gov.sg/enquiry/</a><br>
+A company may apply for the SIP by submitting a completed application form, together with the required documents and information, to the Official Receiver via the MinLaw website at <a href="https://eservices.mlaw.gov.sg/enquiry/">https://eservices.mlaw.gov.sg/enquiry/</a><br>
 <br>
 Please use the following application forms for respective programmes:<br>
    (a) [Simplified Debt Restructuring Programme](https://go.gov.sg/uxq6q2)  <br>
@@ -388,5 +388,5 @@ Upon the realisation of the assets of the AC and upon the assessment that there 
 
 **31. Are GST-registered companies required to apply for deregistration from GST before applying for the Simplified Winding Up Programme (“SWUP”)?**<br>
 
-GST-registered companies who intend to apply for the SWUP are advised to cancel their GST registration before submitting their application for the SWUP. This is to facilitate the eventual liquidation process. Applicant Comapnies may visit IRAS website on <a href="https://www.iras.gov.sg/irashome/GST/GST-registered-businesses/Other-services/Cancelling-GST-Registration/">Cancelling GST Registration</a> for more information and apply online to cancel GST registration via <a href="https://mytax.iras.gov.sg/ESVWeb/default.aspx">*myTax Portal*</a>  (Click on GST &gt; Apply for Cancellation of GST Registration).<br>
+GST-registered companies who intend to apply for the SWUP are advised to cancel their GST registration before submitting their application for the SWUP. This is to facilitate the eventual liquidation process. Applicant Companies may visit IRAS website on <a href="https://www.iras.gov.sg/irashome/GST/GST-registered-businesses/Other-services/Cancelling-GST-Registration/">Cancelling GST Registration</a> for more information and apply online to cancel GST registration via <a href="https://mytax.iras.gov.sg/ESVWeb/default.aspx">*myTax Portal*</a>  (Click on GST &gt; Apply for Cancellation of GST Registration).<br>
 <br>
