@@ -37,7 +37,7 @@ The SIP will start on 29 Jan 2021.<br>
 
 **4. How can a company apply for the Simplified Insolvency Programme (“SIP”)?**<br>
 
-A company may apply for the SIP by submitting a completed application form, together with the required documents and information, to the Official Reciever via the MinLaw website at <a href="https://eservices.mlaw.gov.sg/enquiry/">https://eservices.mlaw.gov.sg/enquiry/</a><br>
+A company may apply for the SIP by submitting a completed application form, together with the required documents and information, to the Official Receiver via the MinLaw website at <a href="https://eservices.mlaw.gov.sg/enquiry/">https://eservices.mlaw.gov.sg/enquiry/</a><br>
 <br>
 Please use the following application forms for respective programmes:<br>
    (a) [Simplified Debt Restructuring Programme](https://go.gov.sg/uxq6q2)  <br>
