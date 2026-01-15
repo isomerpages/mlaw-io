@@ -20,8 +20,6 @@ ScamShield helpline at 1799 or visit <a href="https://www.scamshield.gov.sg/" re
 <hr>
 <h4><strong>Please click on the links below for more information:</strong></h4>
 <p></p>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_6_November_2025__Week_46_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 6 November 2025 (Week 46)</a>
-</p>
 <p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_13_November_2025__Week_47_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 13 November 2025 (Week 47)</a>
 </p>
 <p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_20_November_2025__Week_48_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 20 November 2025 (Week 48)</a>
@@ -38,8 +36,10 @@ ScamShield helpline at 1799 or visit <a href="https://www.scamshield.gov.sg/" re
 </p>
 <p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_11_December_2025__Week_51C_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 11 December 2025 (Week 51C)</a>
 </p>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_18_December_2025__Week_52_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 18 December 2025 (Week 52)(New)</a>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_18_December_2025__Week_52_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 18 December 2025 (Week 52)</a>
+</p>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_8_January_2026__Week_3_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 8 January 2026 (Week 3)(New)</a>
+</p>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_9_January_2026__Week_3A_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 9 January 2026 (Week 3A)(New)</a>
 </p>
 <p></p>
-<p><strong>No bankruptcy hearings scheduled for 25 December 2025 and 1 January 2026.</strong>
-</p>
