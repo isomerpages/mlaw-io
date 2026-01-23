@@ -334,7 +334,6 @@ Final Accounts for <a href="/files/SW7-2021%20Final%20Account.pdf" rel="noopener
 <br>
 <br><em>(2) Notices of Acceptance and Rejection</em> 
 <br><a href="/files/3_Dec_2025_Notice_of_Acceptance_into_Simplified_Debt_Restructuring_Programme.pdf" rel="noopener nofollow" target="_blank">3-Dec-2025 Notice of Acceptance into Simplified Debt Restructuring Programme</a>
-<a href="/files/3_Dec_2025_Notice_of_Acceptance_into_Simplified_Debt_Restructuring_Programme.pdf" rel="noopener noreferrer nofollow" target="_blank"></a>
 <br><a href="/files/SR0010___s72J_b__Notice_of_Acceptance_or_Rejection_in_SR_Publication_18Jul25.pdf" rel="noopener nofollow" target="_blank">18-Jul-2025 Notice of Acceptance into Simplified Debt Restructuring Programme</a>
 <br><a href="/files/SIP notices 2025/14_03_2025_Notice_of_acceptance_SR.pdf" rel="noopener nofollow" target="_blank">14-Mar-2025 Notice of Acceptance into Simplified Debt Restructuring Programme</a>
 <br><a href="/files/30_08_2024_Notice_of_Acceptance.pdf" rel="noopener nofollow" target="_blank">30-Aug-2024 Notice of Acceptance into Simplified Debt Restructuring Programme</a>
