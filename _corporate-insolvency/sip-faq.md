@@ -12,5 +12,8 @@ variant: tiptap
 <p></p>
 <h3>SIMPLIFIED INSOLVENCY PROGRAMME 2.0 FAQ<br>(Effective 29 January 2026)<br><a href="/files/SIP 2_0/SIP_2_0_FAQs.pdf" rel="noopener nofollow" target="_blank">SIP 2.0 FAQ</a><br></h3>
 <p></p>
-<h3>SIMPLIFIED INSOLVENCY PROGRAMME 2.0 FLOWCHART<br></h3>
+<p>
+<br>
+</p>
+<h3>SIMPLIFIED INSOLVENCY PROGRAMME 2.0 FLOWCHART<br><a href="/files/SIP 2_0/SIP_2_0_Flowcharts.pdf" rel="noopener nofollow" target="_blank">SIP 2.0 Flowcharts</a><br></h3>
 <p></p>
