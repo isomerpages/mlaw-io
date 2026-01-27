@@ -89,7 +89,7 @@ Insolvency and Restructuring) Rules 2020, please refer to <a href="https://sso.a
 <p>
 <br>
 </p>
-<p><strong>Forms for Simplified Insolvency Programme</strong>
+<p><strong>Forms for Simplified Insolvency Programme 1.0</strong>
 </p>
 <p><em>Simplified Debt Restructuring Programme</em>
 <br>
