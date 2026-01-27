@@ -11,5 +11,6 @@ are set out in the following:</p>
 view the guide for a Creditor Application Procedure in general; and</p>
 <p>b) Click <a href="/files/Applying for Bankruptcy /General_guide_for_debtor_application_v_1_2.pdf" rel="noopener noreferrer nofollow" target="_blank">here </a>to
 view the guide for a Debtor Application Procedure in general.</p>
-<p>Click <a href="/files/Insolvency_Practitioners__Bankruptcy_Trustees___V2_1_6_Oct_2025_.pdf" rel="noopener nofollow" target="_blank">here </a>to
-view the list of Insolvency Practitioners who can be trustees in bankruptcy.</p>
+<p>c) Click <a href="/files/PTIB/Insolvency_Practitioners__Bankruptcy_Trustees___V2_1_6_Oct_2025_.pdf" rel="noopener nofollow" target="_blank">here</a>
+<a href="/files/Insolvency_Practitioners__Bankruptcy_Trustees___V2_1_6_Oct_2025_.pdf" rel="noopener nofollow" target="_blank"></a>to view the list of Insolvency Practitioners who can be trustees in
+bankruptcy.</p>
