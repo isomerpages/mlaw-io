@@ -43,11 +43,16 @@ Insolvency and Restructuring) Rules 2020, please refer to <a href="https://sso.a
 </p>
 </li>
 <li>
+<p>Forms for Insolvency, Restructuring and Dissolution (Simplified Winding
+Up) Regulations 2021
+<br>
+</p>
+</li>
+<li>
 <p>Statement of Affairs for compulsory winding up matters
 <br>(a) <a href="/files/CWU-7%20Statement%20of%20Affairs%20summary_affidavit.docx" rel="noopener noreferrer nofollow" target="_blank">Statement of Affairs and Affidavit (Form CWU-7)</a>
 <br>(b) <a href="/files/CWU-7%20SA%20schedules.xlsx" rel="noopener noreferrer nofollow" target="_blank">Schedules</a>
 <br>(c) <a href="/files/CWU-7%20SA%20explanatory%20notes.pdf" rel="noopener noreferrer nofollow" target="_blank">Explanatory notes</a>
-<br>
 <br>
 </p>
 </li>
@@ -89,7 +94,7 @@ Insolvency and Restructuring) Rules 2020, please refer to <a href="https://sso.a
 <p>
 <br>
 </p>
-<p><strong>Forms for Simplified Insolvency Programme</strong>
+<p><strong>Forms for Simplified Insolvency Programme 1.0</strong>
 </p>
 <p><em>Simplified Debt Restructuring Programme</em>
 <br>

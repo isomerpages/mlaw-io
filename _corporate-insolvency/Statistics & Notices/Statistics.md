@@ -4,6 +4,7 @@ permalink: /corporate-insolvency/statistics/
 breadcrumb: Statistics
 third_nav_title: Statistics & Notices
 variant: tiptap
+description: ""
 ---
 <h2>Statistics</h2>
 <p><strong><u>Graphical Statistics</u></strong>

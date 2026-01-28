@@ -1,9 +1,10 @@
 ---
-title: Notices
+title: SIP 1 Notices
 permalink: /corporate-insolvency/notices/
 breadcrumb: Notices
 third_nav_title: Statistics & Notices
 variant: tiptap
+description: ""
 ---
 <p></p>
 <h2><br><em>Current Notices</em></h2>
