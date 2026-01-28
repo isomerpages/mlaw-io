@@ -38,13 +38,12 @@ Insolvency and Restructuring) Rules 2020, please refer to <a href="https://sso.a
 </p>
 </li>
 <li>
-<p><a href="/files/Form%20-%20IRD%20(SDRP)%20Reg%202021.pdf" rel="noopener noreferrer nofollow" target="_blank">Forms for Insolvency, Restructuring and Dissolution (Simplified Debt Restructuring) Regulations 2021</a>
+<p><a href="/files/SIP 2_0/SDR_1___SDR_2_with_TOC.pdf" rel="noopener nofollow" target="_blank">Forms for Insolvency, Restructuring and Dissolution (Simplified Debt Restructuring) Regulations 2021</a>
 <br>
 </p>
 </li>
 <li>
-<p>Forms for Insolvency, Restructuring and Dissolution (Simplified Winding
-Up) Regulations 2021
+<p><a href="/files/SIP 2_0/SWU_1___SWU_2_with_TOC.pdf" rel="noopener nofollow" target="_blank">Forms for Insolvency, Restructuring and Dissolution (Simplified Winding Up) Regulations 2021</a>
 <br>
 </p>
 </li>
