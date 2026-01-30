@@ -24,7 +24,7 @@ description: ""
 <br><a href="/files/30_01_2026_Notice_of_Rejection.pdf" rel="noopener nofollow" target="_blank">30-Jan-2026 Notice of Rejection into Simplified Winding Up Programme</a>
 <a href="/files/30_01_2026_Notice_of_Rejection.pdf" rel="noopener noreferrer nofollow" target="_blank">
 <br>
-</a>
+</a><a href="/files/30_01_2026_Notice_of_Rejection.pdf" rel="noopener nofollow" target="_blank">30-Jan-2026 Notice of Rejection into Simplified Winding Up Programme</a>
 <br>
 <br>
 <br>*Past Notices*</p>
