@@ -20,7 +20,7 @@ description: ""
 <br><a href="/files/SIP notices 2026/16_01_26_Application_SWU.pdf" rel="noopener nofollow" target="_blank">16-Jan-2026 Notice of Application into Simplified Winding Up Programme</a>
 <br>
 </p>
-<p><em>2) Notice of Acceptance and Rejection</em> 
+<p><em>(2) Notice of Acceptance and Rejection</em> 
 <br><a href="/files/30_01_2026_Notice_of_Rejection.pdf" rel="noopener nofollow" target="_blank">30-Jan-2026 Notice of Rejection into Simplified Winding Up Programme</a>
 <a href="/files/30_01_2026_Notice_of_Rejection.pdf" rel="noopener noreferrer nofollow" target="_blank">
 <br>
