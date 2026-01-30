@@ -93,41 +93,5 @@ Insolvency and Restructuring) Rules 2020, please refer to <a href="https://sso.a
 <p>
 <br>
 </p>
-<p><strong>Forms for Simplified Insolvency Programme 1.0</strong>
-</p>
-<p><em>Simplified Debt Restructuring Programme</em>
-<br>
-</p>
-<ol>
-<li>
-<p><a href="https://go.gov.sg/uxq6q2" rel="noopener noreferrer nofollow" target="_blank">Application form for Simplified Debt Restructuring Programme</a>
-</p>
-</li>
-<li>
-<p><a href="/files/SDRP_Business%20Plan%20Template.docx" rel="noopener noreferrer nofollow" target="_blank">Business Plan Template</a>
-<br>
-</p>
-</li>
-<li>
-<p><a href="/files/SDRP_Annex%20A_List%20of%20creditors.xls" rel="noopener noreferrer nofollow" target="_blank">Annex A - List of creditors</a>
-<br>
-</p>
-</li>
-</ol>
-<p><em>Simplified Winding Up Programme</em>
-<br>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p><a href="https://go.gov.sg/im8d1j" rel="noopener noreferrer nofollow" target="_blank">Application form for Simplified Winding Up Programme</a>
-</p>
-</li>
-<li>
-<p>Statement of Affairs for simplified winding up matters
-<br>(a) <a href="/files/SWUP_Statement%20of%20Affairs.xls" rel="noopener noreferrer nofollow" target="_blank">Detailed Statement of Affairs</a>
-<br>(b) <a href="/files/SWUP_SA%20Explanatory%20notes.pdf" rel="noopener noreferrer nofollow" target="_blank">Explanatory notes</a>
-<br>
-</p>
-</li>
-</ol>
+<p></p>
 <p></p>
