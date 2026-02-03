@@ -90,7 +90,6 @@ variant: tiptap
 <p><a href="/files/OAPracticeDirectionNo1of2014.pdf" rel="noopener noreferrer nofollow" target="_blank">OA Practice Direction No. 1 of 2014</a>
 </p>
 <p><a href="/files/OAPracticeDirectionNo2of2014.pdf" rel="noopener noreferrer nofollow" target="_blank">OA Practice Direction No. 2 of 2014</a>
-<a href="/files/Practice circular/OA_Practice_Circular_No__1_of_2026.pdf" rel="noopener nofollow" target="_blank">OA Practice Circular No. 1 of 2026</a>
 </p>
 </div>
 </details>
