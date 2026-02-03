@@ -5,7 +5,7 @@ breadcrumb: Practice Circulars
 variant: tiptap
 ---
 <h2>Practice Circulars</h2>
-<p><strong>Practice Circulars For Individual Insolvency</strong>
+<p><strong>Practice Circulars for Individual Insolvency</strong>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
