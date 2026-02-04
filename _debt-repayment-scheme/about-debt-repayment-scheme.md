@@ -1,10 +1,9 @@
 ---
-title: 'About Debt Repayment Scheme'
+title: About Debt Repayment Scheme
 permalink: /debt-repayment-scheme/about-debt-repayment-scheme/
-breadcrumb: 'About Debt Repayment Scheme'
-
+breadcrumb: About Debt Repayment Scheme
+variant: markdown
 ---
-
 <style>
   .image{
   width:700px; 
@@ -18,10 +17,10 @@ breadcrumb: 'About Debt Repayment Scheme'
   
 Debt Repayment Scheme (DRS)
 ---
-The Debt Repayment Scheme (“DRS”) is a pre-bankruptcy scheme which is administered by the Official Assignee.<br>
+The Debt Repayment Scheme (“**DRS**”), which the Official Assignee (“**OA**”) administers, can potentially assist debtors involved in bankruptcy proceedings, by allowing them to enter into a debt repayment plan (“**DRP**”)  instead of being made bankrupt.<br>
 
-It seeks a win-win outcome for both the debtor and his creditor. Debtors with unsecured debts not exceeding $150,000 will be able to enter into a debt repayment plan (“DRP”) under the DRS with their creditors and avoid bankruptcy, along with its restrictions and social stigma.<br>
+It is not possible to apply for the DRS. To be placed on the DRS, a debtor must first be the subject of a bankruptcy application filed in the High Court. The High Court may, upon reviewing the bankruptcy application and if the debts do not exceed $150,000, refer the case to the OA for assessment as to the debtor's suitability to be placed on the DRS.<br>
 
-The proposed DRP must ensure that the interests of creditors are adequately safeguarded. These debtors will commit to the DRP and repay their debts over a fixed period of time of not more than 5 years. When the debtor meets his financial obligations under the DRS, he will be released from his debts and have a fresh start thereafter.<br>
+Such referral does not mean debtors will be placed on the DRS. Only debtors who are found suitable for the DRS will be offered a DRP. Debtors who are found unsuitable for the DRS will be referred back to the High Court. The bankruptcy proceedings against them will resume and they may be made bankrupt in due course.<br>
 
-
+Debtors who are placed on the DRS are expected to comply with the conditions of their DRP, including payment of monthly instalments and applicable statutory fees, over a period of not more than 5 years. Upon completion of the DRP, the debtor will be released from all the debts admitted under the DRS.<br>
