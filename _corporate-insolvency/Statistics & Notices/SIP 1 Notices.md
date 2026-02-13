@@ -16,9 +16,8 @@ description: ""
 <br>
 </p>
 <p><em>(1) Notice of Application</em>
+<br><a href="/files/SIP notices 2026/13_02_26_Application_SWU.pdf" rel="noopener nofollow" target="_blank">13-Feb-2025 Notice of Application into Simplified Winding Up Programme</a>
 <br><a href="/files/SIP notices 2026/06_02_26_Application_SWU.pdf" rel="noopener nofollow" target="_blank">06-Feb-2026 Notice of Application into Simplified Winding Up Programme</a>
-<br><a href="/files/SIP notices 2026/23_01_26_Application__SWU.pdf" rel="noopener nofollow" target="_blank">23-Jan-2026 Notice of Application into Simplified Winding Up Programme</a>
-<br><a href="/files/SIP notices 2026/16_01_26_Application_SWU.pdf" rel="noopener nofollow" target="_blank">16-Jan-2026 Notice of Application into Simplified Winding Up Programme</a>
 <br>
 </p>
 <p><em>(2) Notice of Acceptance and Rejection</em> 
@@ -34,6 +33,8 @@ description: ""
 </p>
 <p><strong>Insolvency, Restructuring and Dissolution (Simplified Winding Up) Regulations 2021</strong> 
 <br><em>(1) Notices of Application</em> 
+<br><a href="/files/SIP notices 2026/23_01_26_Application__SWU.pdf" rel="noopener nofollow" target="_blank">23-Jan-2026 Notice of Application into Simplified Winding Up Programme</a>
+<br><a href="/files/SIP notices 2026/16_01_26_Application_SWU.pdf" rel="noopener nofollow" target="_blank">16-Jan-2026 Notice of Application into Simplified Winding Up Programme</a>
 <br><a href="/files/SIP notices 2025/29_12_25_Application_SWU.pdf" rel="noopener nofollow" target="_blank">29-Dec-2025 Notice of Application into Simplified Winding Up Programme</a>
 <br><a href="/files/SIP notices 2025/07_11_25_Application_SWU.pdf" rel="noopener nofollow" target="_blank">7-Nov-2025 Notice of Application into Simplified Winding Up Programme</a>
 <br><a href="/files/SIP notices 2025/31_10_25_Application_SWU.pdf" rel="noopener nofollow" target="_blank">31-Oct-2025 Notice of Application into Simplified Winding Up Programme</a>
