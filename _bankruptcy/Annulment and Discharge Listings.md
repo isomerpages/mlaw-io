@@ -6,10 +6,6 @@ variant: tiptap
 ---
 <p><strong>Please click on the links below for more information</strong>:</p>
 <p></p>
-<p><a href="/files/Annulment &amp; Discharge Listings/Annulment_Listings__Week_51_.pdf" rel="noopener nofollow" target="_blank">Annulment Listings (Week 51)</a>
-</p>
-<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_51_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 51)</a>
-</p>
 <p><a href="/files/Annulment &amp; Discharge Listings/Annulment_Listings__Week_52_.pdf" rel="noopener nofollow" target="_blank">Annulment Listings (Week 52)</a>
 </p>
 <p><a href="/files/Annulment &amp; Discharge Listings/Bankruptcy_Order_Set_Aside_Listing__Week_52_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Order Set Aside (Week 52)</a>
