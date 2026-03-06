@@ -23,14 +23,14 @@ description: ""
 </p>
 <p><em>(2) Notice of Acceptance and Rejection</em> 
 <br><a href="/files/SIP notices 2026/06_03_2026_Notice_of_Acceptance.pdf" rel="noopener nofollow" target="_blank">06-Mar-2026 Notice of Acceptance into Simplified Winding Up Programme</a>
-<br><a href="/files/30_01_2026_Notice_of_Rejection.pdf" rel="noopener noreferrer nofollow" target="_blank"><br></a>
-<br>(<em>3) Notices of Striking off and Final Accounts</em> 
+<br><a href="/files/30_01_2026_Notice_of_Rejection.pdf" rel="noopener noreferrer nofollow" target="_blank"><br></a>(<em>3) Notices of Striking off and Final Accounts</em> 
 <br><a href="/files/SIP notices 2026/06_03_2026_Notice_of_Striking_Off.pdf" rel="noopener nofollow" target="_blank">06-Mar-2026 Notice of Striking Off for Simplified Winding Up Programme </a>and
 <br>Final Accounts for <a href="/files/SIP notices 2026/SW12_2024_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">ING Gourmet Pte Ltd (SW 12/2024)</a>
 <br><a href="/files/SIP notices 2026/20_02__2026_Notice_of_Striking_Off.pdf" rel="noopener nofollow" target="_blank">20-Feb-2026 Notice of Striking Off for Simplified Winding Up Programme </a>and
 Final Accounts for <a href="/files/SIP notices 2026/SW28_2025_Final_Accounts_pdf.pdf" rel="noopener nofollow" target="_blank">Seekify Pte Ltd (SW 28/2025)</a>
 <br>
 </p>
+<p></p>
 <p><strong>Insolvency, Restructuring and Dissolution (Simplified Debt Restructuring) Regulations 2021</strong> 
 <br>
 <br>(<em>1) Notice of Discharge</em>
@@ -117,7 +117,6 @@ Final Accounts for <a href="/files/SIP notices 2026/SW28_2025_Final_Accounts_pdf
 <br>
 <br><em>(2) Notices of Acceptance and Rejection</em> 
 <br><a href="/files/30_01_2026_Notice_of_Rejection.pdf" rel="noopener nofollow" target="_blank">30-Jan-2026 Notice of Rejection into Simplified Winding Up Programme</a>
-<a href="/files/30_01_2026_Notice_of_Rejection.pdf" rel="noopener noreferrer nofollow" target="_blank"></a>
 <br><a href="/files/SIP notices 2025/29_12_25_Notice_of_Acceptance.pdf" rel="noopener nofollow" target="_blank">29-Dec-2025 Notice of Acceptance into Simplified Winding Up Programme</a>
 <br><a href="/files/SIP notices 2025/07_11_2025_Notice_of_Acceptance.pdf" rel="noopener nofollow" target="_blank">7-Nov-2025 Notice of Acceptance into Simplified Winding Up Programme</a>
 <br><a href="/files/SIP notices 2025/10_10_2025_Notice_of_Acceptance.pdf" rel="noopener nofollow" target="_blank">10-Oct-2025 Notice of Acceptance into Simplified Winding Up Programme</a>
