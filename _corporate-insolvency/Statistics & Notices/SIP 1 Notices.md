@@ -24,7 +24,6 @@ description: ""
 <p><em>(2) Notice of Acceptance and Rejection</em> 
 <br><a href="/files/SIP notices 2026/06_03_2026_Notice_of_Acceptance.pdf" rel="noopener nofollow" target="_blank">06-Mar-2026 Notice of Acceptance into Simplified Winding Up Programme</a>
 <br>
-<br>
 <br>(<em>3) Notices of Striking off and Final Accounts</em> 
 <br><a href="/files/SIP notices 2026/06_03_2026_Notice_of_Striking_Off.pdf" rel="noopener nofollow" target="_blank">06-Mar-2026 Notice of Striking Off for Simplified Winding Up Programme </a>and
 <br>Final Accounts for <a href="/files/SIP notices 2026/SW12_2024_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">ING Gourmet Pte Ltd (SW 12/2024)</a>
@@ -376,5 +375,4 @@ Final Accounts for <a href="/files/SW7-2021%20Final%20Account.pdf" rel="noopener
 <br><a href="/files/SIP notices 2025/21_02_2025_Notice_of_Discharge_from_SDRP.pdf" rel="noopener nofollow" target="_blank">21-Feb-2025 Notice of Discharge from Simplified Debt Restructuring Programme</a>
 <br><a href="/files/10-11-2023%20notice%20of%20discharge.pdf" rel="noopener noreferrer nofollow" target="_blank">10-Nov-2023 Notice of Discharge from Simplified Debt Restructuring Programme</a> 
 <br><a href="/files/07-07-2023%20notice%20of%20discharge.pdf" rel="noopener noreferrer nofollow" target="_blank">07-July-2023 Notice of Discharge from Simplified Debt Restructuring Programme</a>
-<br>
 </p>
