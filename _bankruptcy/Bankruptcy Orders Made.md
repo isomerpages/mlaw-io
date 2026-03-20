@@ -20,10 +20,6 @@ ScamShield helpline at 1799 or visit <a href="https://www.scamshield.gov.sg/" re
 <hr>
 <h4><strong>Please click on the links below for more information:</strong></h4>
 <p></p>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_8_January_2026__Week_3_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 8 January 2026 (Week 3)</a>
-</p>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_9_January_2026__Week_3A_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 9 January 2026 (Week 3A)</a>
-</p>
 <p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_15_January_2026__Week_4_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 15 January 2026 (Week 4)</a>
 </p>
 <p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_22_January_2026__Week_5_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 22 January 2026 (Week 5)</a>
@@ -42,5 +38,7 @@ ScamShield helpline at 1799 or visit <a href="https://www.scamshield.gov.sg/" re
 </p>
 <p><a href="/files/BOs Made/Administration_Order_made_on_25_February_2026__Week_10A_.pdf" rel="noopener nofollow" target="_blank">Administration Order made on 25 February 2026 (Week 10A)</a>
 </p>
-<p><a href="/files/BOs Made/BankruptcyOrdersmadeon5March2026.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 5 March 2026 (Week 11) (New)</a>
+<p><a href="/files/BOs Made/BankruptcyOrdersmadeon5March2026.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 5 March 2026 (Week 11)</a>
+</p>
+<p><a href="/files/BOs Made/BankruptcyOrdersmadeon12March2026.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 12 March 2026 (Week 12)(New)</a>
 </p>

@@ -6,12 +6,6 @@ variant: tiptap
 ---
 <p><strong>Please click on the links below for more information</strong>:</p>
 <p></p>
-<p><a href="/files/Annulment &amp; Discharge Listings/Annulment_Listings__Week_3_.pdf" rel="noopener nofollow" target="_blank">Annulment Listings (Week 3)</a>
-</p>
-<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_3_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 3)</a>
-</p>
-<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_3A_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 3A)</a>
-</p>
 <p><a href="/files/Annulment &amp; Discharge Listings/Annulment_Listings__Week_4_.pdf" rel="noopener nofollow" target="_blank">Annulment Listings (Week 4)</a>
 </p>
 <p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_4_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 4)</a>
@@ -50,9 +44,15 @@ variant: tiptap
 </p>
 <p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_10B_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 10B)</a>
 </p>
-<p><a href="/files/Annulment &amp; Discharge Listings/AnnulmentListing_Week11A_.pdf" rel="noopener nofollow" target="_blank">Annulment Listings (Week 11A)(New)</a>
+<p><a href="/files/Annulment &amp; Discharge Listings/AnnulmentListing_Week11A_.pdf" rel="noopener nofollow" target="_blank">Annulment Listings (Week 11A)</a>
 </p>
-<p><a href="/files/Annulment &amp; Discharge Listings/DischargeListing_Week11_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 11)(New)</a>
+<p><a href="/files/Annulment &amp; Discharge Listings/DischargeListing_Week11_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 11)</a>
+<a href="/files/Annulment &amp; Discharge Listings/AnnulmentListings_Week12_.pdf" rel="noopener nofollow" target="_blank">Annulment Listings (Week 12)(New)</a>
 </p>
-<p></p>
+<p><a href="/files/Annulment &amp; Discharge Listings/DischargeListing_Week12_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 12)(New)</a>
+</p>
+<p><a href="/files/Annulment &amp; Discharge Listings/DischargeListing_Week12A_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 12A)(New)</a>
+</p>
+<p><a href="/files/Annulment &amp; Discharge Listings/DischargeListing_Week12B_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 12B)(New)</a>
+</p>
 <p></p>
