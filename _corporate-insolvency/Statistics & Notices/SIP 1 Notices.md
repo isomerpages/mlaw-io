@@ -28,6 +28,9 @@ Final Accounts for <a href="/files/SIP notices 2026/SW_3_2024_Final_Accounts.pdf
 <br><a href="/files/SIP notices 2026/06_03_2026_Notice_of_Striking_Off.pdf" rel="noopener nofollow" target="_blank">06-Mar-2026 Notice of Striking Off for Simplified Winding Up Programme </a>and
 Final Accounts for <a href="/files/SIP notices 2026/SW12_2024_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">ING Gourmet Pte Ltd (SW 12/2024)</a>
 <br>
+<br><em>(4) Notices of Intended Dissolution</em> 
+<br><a href="/files/SIP notices 2026/20_03_2026_Notice_of_intended_dissolution.pdf" rel="noopener nofollow" target="_blank">20-Mar-2026 Notice of Intended Dissolution </a>and
+Final Accounts for <a href="/files/SIP notices 2026/SW_18_2023_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">DFMA Builder Pte Ltd (SW 18/2023)</a>
 </p>
 <p></p>
 <p><strong>Insolvency, Restructuring and Dissolution (Simplified Debt Restructuring) Regulations 2021</strong> 
