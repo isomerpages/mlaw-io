@@ -20,6 +20,7 @@ description: ""
 <br>
 </p>
 <p><em>(2) Notice of Acceptance and Rejection</em> 
+<br><a href="/files/SIP notices 2026/02_Apr_2026_Notice_of_Rejection.pdf" rel="noopener nofollow" target="_blank">02-Apr-2026 Notice of Rejection into Simplified Winding Up Programme</a>
 <br><a href="/files/SIP notices 2026/27_Mar_2026_Notice_of_Acceptance.pdf" rel="noopener nofollow" target="_blank">27-Mar-2026 Notice of Acceptance into Simplified Winding Up Programme</a>
 <br><a href="/files/SIP notices 2026/06_03_2026_Notice_of_Acceptance.pdf" rel="noopener nofollow" target="_blank">06-Mar-2026 Notice of Acceptance into Simplified Winding Up Programme</a>
 <br>
