@@ -23,7 +23,6 @@ description: ""
 <br><a href="/files/SIP notices 2026/02_Apr_2026_Notice_of_Rejection.pdf" rel="noopener nofollow" target="_blank">02-Apr-2026 Notice of Rejection into Simplified Winding Up Programme</a>
 <br><a href="/files/SIP notices 2026/27_Mar_2026_Notice_of_Acceptance.pdf" rel="noopener nofollow" target="_blank">27-Mar-2026 Notice of Acceptance into Simplified Winding Up Programme</a>
 <br>
-<br>
 <br>(<em>3) Notice of Striking off and Final Accounts</em> 
 <br><a href="/files/SIP notices 2026/13_03_2026_Notice_of_Striking_off.pdf" rel="noopener nofollow" target="_blank">13-Mar-2026 Notice of Striking Off for Simplified Winding Up Programme </a>and
 Final Accounts for <a href="/files/SIP notices 2026/SW_3_2024_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">XRoads Cafe &amp; Bar Pte Ltd (SW 3/2024)</a>
@@ -32,7 +31,9 @@ Final Accounts for <a href="/files/SIP notices 2026/SW_3_2024_Final_Accounts.pdf
 <br><a href="/files/SIP notices 2026/20_03_2026_Notice_of_intended_dissolution.pdf" rel="noopener nofollow" target="_blank">20-Mar-2026 Notice of Intended Dissolution </a>and
 Final Accounts for <a href="/files/SIP notices 2026/SW_18_2023_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">DFMA Builder Pte Ltd (SW 18/2023)</a>
 </p>
-<p></p>
+<p>
+<br>
+</p>
 <p><strong>Insolvency, Restructuring and Dissolution (Simplified Debt Restructuring) Regulations 2021</strong> 
 <br>
 <br>(<em>1) Notice of Discharge</em>
