@@ -15,8 +15,7 @@ description: ""
 <p><strong>Insolvency, Restructuring and Dissolution (Simplified Winding Up) Regulations 2021</strong> 
 <br>
 </p>
-<p><em>(1) Notice of Application</em>
-<br>
+<p>
 <br>
 </p>
 <p><em>(2) Notices of Acceptance and Rejection</em> 
@@ -28,8 +27,7 @@ description: ""
 <br>
 <br>
 <br><em>(4) Notice of Intended Dissolution</em> 
-<br><a href="/files/SIP notices 2026/20_03_2026_Notice_of_intended_dissolution.pdf" rel="noopener nofollow" target="_blank">20-Mar-2026 Notice of Intended Dissolution </a>and
-Final Accounts for <a href="/files/SIP notices 2026/SW_18_2023_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">DFMA Builder Pte Ltd (SW 18/2023)</a>
+<br>
 </p>
 <p>
 <br>
@@ -328,6 +326,8 @@ Final Accounts for <a href="/files/22122023finalaccounts.pdf" rel="noopener nore
 <br><a href="/files/SW7-2021%20Notice%20of%20Dividend.pdf" rel="noopener noreferrer nofollow" target="_blank">22-Apr-2022 Notice of Dividend for Good Old Taste Pte Ltd (SW 7/2021) </a>
 <br>
 <br><em>(7) Notices of Intended Dissolution</em> 
+<br><a href="/files/SIP notices 2026/20_03_2026_Notice_of_intended_dissolution.pdf" rel="noopener nofollow" target="_blank">20-Mar-2026 Notice of Intended Dissolution </a>and
+Final Accounts for <a href="/files/SIP notices 2026/SW_18_2023_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">DFMA Builder Pte Ltd (SW 18/2023)</a>
 <br><a href="/files/SW11_2023_Notice_of_Intended_Dissolution.pdf" rel="noopener nofollow" target="_blank">07-Feb-2025 Notice of Intended Dissolution </a>and
 Final Accounts for <a href="/files/SW11_2023_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">Anake Kids Pte. Ltd. (SW 11-2023)</a>
 <br><a href="/files/SW5_2021_Notice_of_Intended_Dissolution.pdf" rel="noopener nofollow" target="_blank">27-Sep-2024 Notice of Intended Dissolution </a>and
