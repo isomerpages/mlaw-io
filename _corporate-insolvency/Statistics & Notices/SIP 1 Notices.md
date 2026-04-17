@@ -16,16 +16,16 @@ description: ""
 <br>
 </p>
 <p><em>(1) Notice of Application</em>
-<br><a href="/files/SIP notices 2026/13_03_2026_Application_SWU.pdf" rel="noopener nofollow" target="_blank">13-Mar-2026 Notice of Application into Simplified Winding Up Programme</a>
+<br>
 <br>
 </p>
 <p><em>(2) Notices of Acceptance and Rejection</em> 
+<br><a href="/files/SIP notices 2026/17_Apr_2026_Notice_of_Acceptance.pdf" rel="noopener nofollow" target="_blank">17-Apr-2026 Notice of Acceptance into Simplified Winding Up Programme</a>
 <br><a href="/files/SIP notices 2026/02_Apr_2026_Notice_of_Rejection.pdf" rel="noopener nofollow" target="_blank">02-Apr-2026 Notice of Rejection into Simplified Winding Up Programme</a>
 <br><a href="/files/SIP notices 2026/27_Mar_2026_Notice_of_Acceptance.pdf" rel="noopener nofollow" target="_blank">27-Mar-2026 Notice of Acceptance into Simplified Winding Up Programme</a>
 <br>
 <br>(<em>3) Notice of Striking off and Final Accounts</em> 
-<br><a href="/files/SIP notices 2026/13_03_2026_Notice_of_Striking_off.pdf" rel="noopener nofollow" target="_blank">13-Mar-2026 Notice of Striking Off for Simplified Winding Up Programme </a>and
-Final Accounts for <a href="/files/SIP notices 2026/SW_3_2024_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">XRoads Cafe &amp; Bar Pte Ltd (SW 3/2024)</a>
+<br>
 <br>
 <br><em>(4) Notice of Intended Dissolution</em> 
 <br><a href="/files/SIP notices 2026/20_03_2026_Notice_of_intended_dissolution.pdf" rel="noopener nofollow" target="_blank">20-Mar-2026 Notice of Intended Dissolution </a>and
@@ -47,6 +47,7 @@ Final Accounts for <a href="/files/SIP notices 2026/SW_18_2023_Final_Accounts.pd
 </p>
 <p><strong>Insolvency, Restructuring and Dissolution (Simplified Winding Up) Regulations 2021</strong> 
 <br><em>(1) Notices of Application</em> 
+<br><a href="/files/SIP notices 2026/13_03_2026_Application_SWU.pdf" rel="noopener nofollow" target="_blank">13-Mar-2026 Notice of Application into Simplified Winding Up Programme</a>
 <br><a href="/files/SIP notices 2026/20_02_26_Application_SWU.pdf" rel="noopener nofollow" target="_blank">20-Feb-2026 Notice of Application into Simplified Winding Up Programme</a>
 <br><a href="/files/SIP notices 2026/13_02_26_Application_SWU.pdf" rel="noopener nofollow" target="_blank">13-Feb-2026 Notice of Application into Simplified Winding Up Programme</a>
 <br><a href="/files/SIP notices 2026/06_02_26_Application_SWU.pdf" rel="noopener nofollow" target="_blank">06-Feb-2026 Notice of Application into Simplified Winding Up Programme</a>
@@ -199,6 +200,8 @@ Final Accounts for <a href="/files/SIP notices 2026/SW_18_2023_Final_Accounts.pd
 <br><a href="/files/14-05-2021%20Notice%20of%20Rejection.pdf" rel="noopener noreferrer nofollow" target="_blank">14-May-2021 Notice of Rejection for Simplified Winding Up Programme</a> 
 <br>
 <br><em>(3) Notices of Striking off and Final Accounts</em> 
+<br><a href="/files/SIP notices 2026/13_03_2026_Notice_of_Striking_off.pdf" rel="noopener nofollow" target="_blank">13-Mar-2026 Notice of Striking Off for Simplified Winding Up Programme </a>and
+Final Accounts for <a href="/files/SIP notices 2026/SW_3_2024_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">XRoads Cafe &amp; Bar Pte Ltd (SW 3/2024)</a>
 <br><a href="/files/SIP notices 2026/06_03_2026_Notice_of_Striking_Off.pdf" rel="noopener nofollow" target="_blank">06-Mar-2026 Notice of Striking Off for Simplified Winding Up Programme </a>and
 Final Accounts for <a href="/files/SIP notices 2026/SW12_2024_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">ING Gourmet Pte Ltd (SW 12/2024)</a>
 <br><a href="/files/SIP notices 2026/20_02__2026_Notice_of_Striking_Off.pdf" rel="noopener nofollow" target="_blank">20-Feb-2026 Notice of Striking Off for Simplified Winding Up Programme </a>and
