@@ -15,27 +15,13 @@ description: ""
 <p><strong>Insolvency, Restructuring and Dissolution (Simplified Winding Up) Regulations 2021</strong> 
 <br>
 </p>
-<p>
-<br>
-</p>
-<p><em>(2) Notices of Acceptance and Rejection</em> 
+<p><em>(1) Notices of Acceptance and Rejection</em> 
 <br><a href="/files/SIP notices 2026/17_Apr_2026_Notice_of_Acceptance.pdf" rel="noopener nofollow" target="_blank">17-Apr-2026 Notice of Acceptance into Simplified Winding Up Programme</a>
 <br><a href="/files/SIP notices 2026/02_Apr_2026_Notice_of_Rejection.pdf" rel="noopener nofollow" target="_blank">02-Apr-2026 Notice of Rejection into Simplified Winding Up Programme</a>
 <br><a href="/files/SIP notices 2026/27_Mar_2026_Notice_of_Acceptance.pdf" rel="noopener nofollow" target="_blank">27-Mar-2026 Notice of Acceptance into Simplified Winding Up Programme</a>
 <br>
-<br>(<em>3) Notice of Striking off and Final Accounts</em> 
 <br>
 <br>
-<br><em>(4) Notice of Intended Dissolution</em> 
-<br>
-</p>
-<p>
-<br>
-</p>
-<p><strong>Insolvency, Restructuring and Dissolution (Simplified Debt Restructuring) Regulations 2021</strong> 
-<br>
-<br>(<em>1) Notice of Discharge</em>
-<br><a href="/files/SIP notices 2026/19_03_2026_Notice_of_Discharge.pdf" rel="noopener nofollow" target="_blank">19-Mar-2026 Notice of Discharge from Simplified Debt Restructuring Programme</a>
 <br>
 <br>
 <br>
@@ -383,6 +369,7 @@ Final Accounts for <a href="/files/SW7-2021%20Final%20Account.pdf" rel="noopener
 <br><a href="/files/16-05-2023%20notice%20of%20court%20application.pdf" rel="noopener noreferrer nofollow" target="_blank">16-May-2023 Notice of Court Application (Scheme of Arrangement) for Simplified Debt Restructuring Programme</a> 
 <br>
 <br><em>(4) Notice of Discharge</em> 
+<br><a href="/files/SIP notices 2026/19_03_2026_Notice_of_Discharge.pdf" rel="noopener nofollow" target="_blank">19-Mar-2026 Notice of Discharge from Simplified Debt Restructuring Programme</a>
 <br><a href="/files/SIP notices 2026/06_03_2026_Notice_of_Discharge.pdf" rel="noopener nofollow" target="_blank">06-Mar-2026 Notice of Discharge from Simplified Debt Restructuring Programme</a>
 <br><a href="/files/SIP notices 2025/22_05_2025_Notice_of_Discharge_from_SDRP.pdf" rel="noopener nofollow" target="_blank">22-May-2025 Notice of Discharge from Simplified Debt Restructuring Programme</a>
 <br><a href="/files/SIP notices 2025/21_02_2025_Notice_of_Discharge_from_SDRP.pdf" rel="noopener nofollow" target="_blank">21-Feb-2025 Notice of Discharge from Simplified Debt Restructuring Programme</a>
