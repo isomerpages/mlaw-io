@@ -13,5 +13,9 @@ variant: tiptap
 <p><a href="/files/Unclaimed monies/Amount_of_Unclaimed_Monies_as_at_31_Dec_2023.pdf" rel="noopener nofollow" target="_blank">Amount of Unclaimed Monies as at 31 Dec 2023</a>
 </p>
 </li>
+<li>
+<p><a href="/files/Unclaimed monies/AmountofUnclaimedMoniesHeldbyIPTOasof31Dec2024.pdf" rel="noopener nofollow" target="_blank">Amount of Unclaimed Monies Held by IPTO as at 31 Dec 2024</a>
+</p>
+</li>
 </ul>
 <p></p>
