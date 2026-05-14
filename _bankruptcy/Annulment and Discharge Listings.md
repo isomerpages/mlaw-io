@@ -62,7 +62,7 @@ variant: tiptap
 </p>
 <p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_20B_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 20B)(New)</a>
 </p>
-<p><a href="/files/Annulment &amp; Discharge Listings/Annulment_Listings__Week_20_.pdf" rel="noopener nofollow" target="_blank">Annulment Listings (Week 20)(New</a>
+<p><a href="/files/Annulment &amp; Discharge Listings/Annulment_Listings__Week_20_.pdf" rel="noopener nofollow" target="_blank">Annulment Listings (Week 20)(New)</a>
 </p>
 <p></p>
 <p></p>
