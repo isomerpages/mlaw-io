@@ -20,6 +20,7 @@ description: ""
 <br>and Final Accounts for <a href="/files/SIP notices 2026/SW_37_2025_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">Global Paris Group Pte Ltd (SW37/2025)</a>
 <br>
 <br><em>(2) Notice of Acceptance and Rejection</em> 
+<br><a href="/files/SIP notices 2026/18_May_2026_Notice_of_Acceptance.pdf" rel="noopener nofollow" target="_blank">18-May-2026 Notice of Acceptance into Simplified Winding Up Programme</a>
 <br><a href="/files/SIP notices 2026/17_Apr_2026_Notice_of_Acceptance.pdf" rel="noopener nofollow" target="_blank">17-Apr-2026 Notice of Acceptance into Simplified Winding Up Programme</a>
 <br>
 <br>
