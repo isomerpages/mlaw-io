@@ -40,8 +40,10 @@ ScamShield helpline at 1799 or visit <a href="https://www.scamshield.gov.sg/" re
 </p>
 <p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_7_May_2026__Week_20_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 7 May 2026 (Week 20)</a>
 </p>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_14_May_2026__Week_21_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 14 May 2026 (Week 21)(New)</a>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_14_May_2026__Week_21_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 14 May 2026 (Week 21)</a>
 </p>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_Rescinded_Listing__Week_21_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders Rescinded Listing (Week 21)(New)</a>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_Rescinded_Listing__Week_21_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders Rescinded Listing (Week 21)</a>
+</p>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_21_May_2026__Week_22_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 21 May 2026 (Week 22)(New)</a>
 </p>
 <p></p>
