@@ -115,11 +115,9 @@ You will also not be allowed to access remote gambling services which includes b
 
 Please note that it is an offence for you to commit entries into the casinos or gaming machine rooms or access to remote gambling services.
 
-If you are required to work in the casinos or gaming machine rooms, you may contact the National Council on Problem Gambling (NCPG) at 6354 8154 or [admin@ncpg.org.sg](mailto:admin@ncpg.org.sg) to apply for an exemption.
+If you are required to work in the casinos or gaming machine rooms, please inform your employer and/or the relevant gambling operator of your exclusion by law. You remain excluded for all activities other than work. 
 
-Once you are discharged from bankruptcy, this Exclusion by Law will be automatically revoked two weeks from the date of your discharge.
-
-For more information, you may contact NCPG at 6354 8154 or [admin@ncpg.org.sg](mailto:admin@ncpg.org.sg).
+If you are discharged from bankruptcy, the Exclusion by Law will be revoked automatically two weeks from the date of your discharge. For more information, please contact National Council on Problem Gambling (NCPG) at 6354 8154 or [admin@ncpg.org.sg].
 
 Other bankruptcy offences include:
 * the failure to file your Income and Expenditure statements;
