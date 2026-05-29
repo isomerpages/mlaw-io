@@ -117,7 +117,7 @@ Please note that it is an offence for you to commit entries into the casinos or 
 
 If you are required to work in the casinos or gaming machine rooms, please inform your employer and/or the relevant gambling operator of your exclusion by law. You remain excluded for all activities other than work. 
 
-If you are discharged from bankruptcy, the Exclusion by Law will be revoked automatically two weeks from the date of your discharge. For more information, please contact National Council on Problem Gambling (NCPG) at 6354 8154 or [admin@ncpg.org.sg].
+If you are discharged from bankruptcy, the Exclusion by Law will be revoked automatically one week from the date of your discharge. For more information, please contact National Council on Problem Gambling (NCPG) at 6354 8154 or [admin@ncpg.org.sg].
 
 Other bankruptcy offences include:
 * the failure to file your Income and Expenditure statements;
