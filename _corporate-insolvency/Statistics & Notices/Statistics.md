@@ -10,5 +10,6 @@ description: ""
 <p><strong><u>Graphical Statistics</u></strong>
 </p>
 <p><strong>Corporate Insolvency</strong>
-<br><a href="/files/CWU statistics/Companies_Liquidation_2026__Apr_.pdf" rel="noopener nofollow" target="_blank">Companies in Compulsory Liquidation</a>
+<br><a href="/files/CWU statistics/Companies_Liquidation_2026__Apr_.pdf" rel="noopener nofollow" target="_blank">C</a>
+<a href="/files/CWU statistics/Companies_Liquidation_2026__May_.pdf" rel="noopener nofollow" target="_blank">ompanies in Compulsory Liquidation</a>
 </p>
