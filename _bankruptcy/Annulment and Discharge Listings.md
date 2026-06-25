@@ -6,12 +6,6 @@ variant: tiptap
 ---
 <p><strong>Please click on the links below for more information</strong>:</p>
 <p></p>
-<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listing__Week_17_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 17)</a>
-</p>
-<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listing__Week_17A_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 17A)</a>
-</p>
-<p><a href="/files/Annulment &amp; Discharge Listings/Annulment_Listing__Week_17_.pdf" rel="noopener nofollow" target="_blank">Annulment Listing (Week 17)</a>
-</p>
 <p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_18_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 18)</a>
 </p>
 <p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_18A_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 18A)</a>
@@ -52,13 +46,15 @@ variant: tiptap
 </p>
 <p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_24A_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 24A)</a>
 </p>
-<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_25__.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 25)(New)</a>
+<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_25__.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 25)</a>
 </p>
-<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_25A_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 25A)(New)</a>
+<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_25A_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 25A)</a>
 </p>
-<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_25B_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 25B)(New)</a>
+<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_25B_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 25B)</a>
 </p>
-<p><a href="/files/Annulment &amp; Discharge Listings/Bankruptcy_Orders_Set_Aside_on_11_June_2026__Week_25_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders Set Aside on 11 June 2026 (Week 25)(New)</a>
+<p><a href="/files/Annulment &amp; Discharge Listings/Bankruptcy_Orders_Set_Aside_on_11_June_2026__Week_25_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders Set Aside on 11 June 2026 (Week 25)</a>
+</p>
+<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_26__.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 26)(New)</a>
 </p>
 <p></p>
 <p></p>
