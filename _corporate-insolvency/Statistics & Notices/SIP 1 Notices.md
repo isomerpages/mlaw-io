@@ -16,12 +16,10 @@ description: ""
 <br>
 </p>
 <p><em>(1) Notice of Striking off and Final Accounts</em> 
-<br><a href="/files/SIP notices 2026/15_05_2026_Notice_of_Striking_Off.pdf" rel="noopener nofollow" target="_blank">15-May-2026 Notice of Striking Off for Simplified Winding Up Programme</a>
-<br>and Final Accounts for <a href="/files/SIP notices 2026/SW_37_2025_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">Global Paris Group Pte Ltd (SW37/2025)</a>
+<br>
 <br>
 <br><em>(2) Notice of Acceptance and Rejection</em> 
-<br><a href="/files/SIP notices 2026/18_May_2026_Notice_of_Acceptance.pdf" rel="noopener nofollow" target="_blank">18-May-2026 Notice of Acceptance into Simplified Winding Up Programme</a>
-<br><a href="/files/SIP notices 2026/17_Apr_2026_Notice_of_Acceptance.pdf" rel="noopener nofollow" target="_blank">17-Apr-2026 Notice of Acceptance into Simplified Winding Up Programme</a>
+<br>
 <br>
 <br>
 <br>
@@ -112,6 +110,8 @@ description: ""
 <br><a href="/files/16-04-2021%20Application%20SWU.pdf" rel="noopener noreferrer nofollow" target="_blank">16-Apr-2021 Notice of Application into Simplified Winding Up Programme</a> 
 <br>
 <br><em>(2) Notices of Acceptance and Rejection</em> 
+<br><a href="/files/SIP notices 2026/18_May_2026_Notice_of_Acceptance.pdf" rel="noopener nofollow" target="_blank">18-May-2026 Notice of Acceptance into Simplified Winding Up Programme</a>
+<br><a href="/files/SIP notices 2026/17_Apr_2026_Notice_of_Acceptance.pdf" rel="noopener nofollow" target="_blank">17-Apr-2026 Notice of Acceptance into Simplified Winding Up Programme</a>
 <br><a href="/files/SIP notices 2026/02_Apr_2026_Notice_of_Rejection.pdf" rel="noopener nofollow" target="_blank">02-Apr-2026 Notice of Rejection into Simplified Winding Up Programme</a>
 <br><a href="/files/SIP notices 2026/27_Mar_2026_Notice_of_Acceptance.pdf" rel="noopener nofollow" target="_blank">27-Mar-2026 Notice of Acceptance into Simplified Winding Up Programme</a>
 <br><a href="/files/SIP notices 2026/06_03_2026_Notice_of_Acceptance.pdf" rel="noopener nofollow" target="_blank">06-Mar-2026 Notice of Acceptance into Simplified Winding Up Programme</a>
@@ -191,6 +191,8 @@ description: ""
 <br><a href="/files/14-05-2021%20Notice%20of%20Rejection.pdf" rel="noopener noreferrer nofollow" target="_blank">14-May-2021 Notice of Rejection for Simplified Winding Up Programme</a> 
 <br>
 <br><em>(3) Notices of Striking off and Final Accounts</em> 
+<br><a href="/files/SIP notices 2026/15_05_2026_Notice_of_Striking_Off.pdf" rel="noopener nofollow" target="_blank">15-May-2026 Notice of Striking Off for Simplified Winding Up Programme</a>
+<br>and Final Accounts for <a href="/files/SIP notices 2026/SW_37_2025_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">Global Paris Group Pte Ltd (SW37/2025)</a>
 <br><a href="/files/SIP notices 2026/13_03_2026_Notice_of_Striking_off.pdf" rel="noopener nofollow" target="_blank">13-Mar-2026 Notice of Striking Off for Simplified Winding Up Programme </a>and
 Final Accounts for <a href="/files/SIP notices 2026/SW_3_2024_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">XRoads Cafe &amp; Bar Pte Ltd (SW 3/2024)</a>
 <br><a href="/files/SIP notices 2026/06_03_2026_Notice_of_Striking_Off.pdf" rel="noopener nofollow" target="_blank">06-Mar-2026 Notice of Striking Off for Simplified Winding Up Programme </a>and
