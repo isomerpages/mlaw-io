@@ -21,8 +21,6 @@ description: ""
 <br>
 <br>
 <br>
-<br>
-<br>
 <br>*Past Notices*</p>
 <p><strong><u>INSOLVENCY, RESTRUCTURING AND DISSOLUTION ACT 2018 (NO. 40 of 2018) </u></strong>
 <br>
