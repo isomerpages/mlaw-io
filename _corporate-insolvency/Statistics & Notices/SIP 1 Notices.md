@@ -16,8 +16,7 @@ description: ""
 <br>
 </p>
 <p><em>(1) Notice of Intended Dividend</em> 
-<br><a href="/files/SIP notices 2026/sw_20_2023_notice_of_intended_dividend.pdf" rel="noopener nofollow" target="_blank">26-Jun-2026 Notice of Intended Dividend for Ongztrade Pte Ltd (SW 20/2023)</a>
-<br>
+<br><a href="/files/SIP notices 2026/SW_20_2023_Notice_of_Intended_Dividend.pdf" rel="noopener nofollow" target="_blank">26-Jun-2026 Notice of Intended Dividend for Ongztrade Pte Ltd (SW 20/2023)</a>
 <br>
 <br>
 <br>
