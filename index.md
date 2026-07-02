@@ -2,9 +2,13 @@
 layout: homepage
 title: Ministry of Law - Insolvency Office
 permalink: /
-notification: Please note that with effect from 7 April 2020, MinLaw Services
-  Centre will no longer accept <u><b>cash payments</b></u>. All payments to IPTO
-  can only be made via MinLaw’s e-Collection portal at <a
+notification: The Ministry of Law is inviting participants for a website
+  usability study from 1 July to 31 August 2026. The study does not require
+  participants to transfer money or disclose any bank details. If in doubt, call
+  us at 1800 2255 529. Refer to our FAQs for more information. <br>br>Please
+  note that with effect from 7 April 2020, MinLaw Services Centre will no longer
+  accept <u><b>cash payments</b></u>. All payments to IPTO can only be made via
+  MinLaw’s e-Collection portal at <a
   href="https://go.gov.sg/ecp/">https://go.gov.sg/ecp/</a>.<br><br>Please note
   that airtime charges may apply to calls made from mobile phones to our ‘1800 –
   2255 - 529’ local toll-free number. <br><br>Bankrupts can now apply for the
