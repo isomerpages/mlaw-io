@@ -50,19 +50,6 @@ variant: tiptap
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/ORPracticeCircular1of2018.pdf" rel="noopener noreferrer nofollow" target="_blank">The Official Receiver Practice Circular No. 1 of 2018 Administration of Compulsory Winding Up Cases</a>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://go.gov.sg/n18yul" rel="noopener noreferrer nofollow" target="_blank">Payment Requisition Form</a>
-</p>
-</li>
-</ul>
-</li>
-</ul>
-<p></p>
-<ul data-tight="true" class="tight">
-<li>
 <p><a href="/files/PracticeCircularNo.2of2017.pdf" rel="noopener noreferrer nofollow" target="_blank">OA / OR (Vehicles Under Hire Purchase) Practice Circular No. 2 Of 2017</a>
 </p>
 </li>
@@ -108,23 +95,6 @@ variant: tiptap
 </li>
 </ul>
 <p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/linkclicke43e.pdf" rel="noopener noreferrer nofollow" target="_blank">The Official Receiver Practice Circular No. 1 of 2010 Operation of a Company's Liquidation Account</a>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/Practice circular/Practice_Circular_1_of_2010___Annex_1__cheque_depository_form_.pdf" rel="noopener nofollow" target="_blank">Cheque depository form (Annex 1)</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Practice circular/Practice_Circular_1_of_2010___Annex_2__stt_of_account_requisition_.pdf" rel="noopener nofollow" target="_blank">Requisition form for Statement of Accounts (Annex 2)</a>
-</p>
-<p></p>
-</li>
-</ul>
-</li>
-</ul>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/linkclick964e.pdf" rel="noopener noreferrer nofollow" target="_blank">The Official Receiver Practice Circular No. 1 of 2001 Liquidator's security in the winding up of a company by the court</a>
