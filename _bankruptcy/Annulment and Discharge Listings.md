@@ -6,8 +6,6 @@ variant: tiptap
 ---
 <p><strong>Please click on the links below for more information</strong>:</p>
 <p></p>
-<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_23_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 23)</a>
-</p>
 <p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_24_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 24)</a>
 </p>
 <p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_24A_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 24A)</a>
