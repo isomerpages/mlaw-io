@@ -50,11 +50,17 @@ variant: tiptap
 </p>
 <p><a href="/files/Annulment &amp; Discharge Listings/Annulment_Listings__Week_30_.pdf" rel="noopener nofollow" target="_blank">Annulment Listings (Week 30)</a>
 </p>
-<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_31_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 31)(New)</a>
+<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_31_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 31)</a>
 </p>
-<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_31A_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 31A)(New)</a>
+<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_31A_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 31A)</a>
 </p>
-<p><a href="/files/Annulment &amp; Discharge Listings/Annulment_Listings__Week_31_.pdf" rel="noopener nofollow" target="_blank">Annulment Listings (Week 31)(New)</a>
+<p><a href="/files/Annulment &amp; Discharge Listings/Annulment_Listings__Week_31_.pdf" rel="noopener nofollow" target="_blank">Annulment Listings (Week 31)</a>
+</p>
+<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_32_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 32)(New)</a>
+</p>
+<p><a href="/files/Annulment &amp; Discharge Listings/Annulment_Listings__Week_32_.pdf" rel="noopener nofollow" target="_blank">Annulment Listings (Week 32)(New)</a>
+</p>
+<p><a href="/files/Annulment &amp; Discharge Listings/Annulment_Listings__Week_32A_.pdf" rel="noopener nofollow" target="_blank">Annulment Listings (Week 32A)(New)</a>
 </p>
 <p></p>
 <p></p>
