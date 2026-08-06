@@ -38,6 +38,9 @@ ScamShield helpline at 1799 or visit <a href="https://www.scamshield.gov.sg/" re
 </p>
 <p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_16_July_2026__Week_30_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 16 July 2026 (Week 30)</a>
 </p>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_23_July_2026__Week_31_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 23 July 2026 (Week 31)(New)</a>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_23_July_2026__Week_31_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 23 July 2026 (Week 31)</a>
 </p>
-<p></p>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_30_July_2026__Week_32_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 30 July 2026 (Week 32)(New)</a>
+</p>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_31_July_2026__Week_32_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 31 July 2026 (Week 32)(New)</a>
+</p>
