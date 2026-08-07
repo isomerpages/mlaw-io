@@ -286,6 +286,7 @@ Final Accounts for <a href="/files/SW6-2021%20Final%20Accounts.pdf" rel="noopene
 Final Accounts for <a href="/files/SW19-2021%20Final%20Accounts.pdf" rel="noopener noreferrer nofollow" target="_blank">The Dance Capital (Pte. Ltd.) (SW 19/2021)</a> 
 <br>
 <br><em>(5) Notices of Intended Dividend</em> 
+<br><a href="/files/SIP notices 2026/SW_20_2023_Notice_of_Intended_Dividend.pdf" rel="noopener nofollow" target="_blank">26-Jun-2026 Notice of Intended Dividend for Ongztrade Pte Ltd (SW 20/2023)</a>
 <br><a href="/files/SIP notices 2025/SW_18_2023_Notice_of_Intended_Dividend.pdf" rel="noopener nofollow" target="_blank">26-Sep-2025 Notice of Intended Dividend for DFMA Builder Pte Ltd (SW 18/2023)</a>
 <br><a href="/files/Notice_of_Intended_Dividend_02Dec24.pdf" rel="noopener noreferrer nofollow" target="_blank">02-Dec-2024 Notice of Intended Dividend for Also Dominie Pte. Ltd. (SW 22-2021)</a>
 <br><a href="/files/SW_11_2023_Notice_of_Intended_Dividend__8_Nov_2024_.pdf" rel="noopener nofollow" target="_blank">08-Nov-2024 Notice of Intended Dividend for Anake Kids Pte Ltd (SW 11-2023)</a>
