@@ -15,20 +15,19 @@ description: ""
 <p><strong>Insolvency, Restructuring and Dissolution (Simplified Winding Up) Regulations 2021</strong> 
 <br>
 </p>
-<p><em>(1) Notice of Application</em>
+<p><em>(1) Notice of Intended Dividend</em> 
+<br><a href="/files/07_Aug_2026_Notice_of_Intended_Dividend_for_88_Amoy_Restaurant_Pte_Ltd__SW_21_2024.pdf" rel="noopener nofollow" target="_blank">07-Aug-2026 Notice of Intended Dividend for 88 Amoy Restaurant Pte. Ltd (SW 21/2024)</a>
+<br><a href="/files/07_Aug_2026_Notice_of_Intended_Dividend_for_ATJL_Fresh_Fruits_Pte_Ltd___SW_17_2025.pdf" rel="noopener nofollow" target="_blank">07-Aug-2026 Notice of Intended Dividend for AJTL Fresh Fruits Pte. Ltd (SW17/2025)</a>
+</p>
+<p></p>
+<p><em>(2) Notice of Application</em>
 <br><a href="/files/SIP notices 2026/10_Jul_2026_Application_SWU.pdf" rel="noopener nofollow" target="_blank">10-Jul-2026 Notice of Application into Simplified Winding Up Programme</a>
 </p>
 <p></p>
-<p><em>(2) Notice of Acceptance</em>
+<p><em>(3) Notice of Acceptance</em>
 <br><a href="/files/SIP notices 2026/10_Jul_2026_Notice_of_Acceptance.pdf" rel="noopener nofollow" target="_blank">10-Jul-2026 Notice of Acceptance into Simplified Winding Up Programme</a>
 </p>
-<p></p>
-<p><em>(3) Notice of Intended Dividend</em> 
-<br><a href="/files/SIP notices 2026/SW_20_2023_Notice_of_Intended_Dividend.pdf" rel="noopener nofollow" target="_blank">26-Jun-2026 Notice of Intended Dividend for Ongztrade Pte Ltd (SW 20/2023)</a>
-<br>
-<br>
-<br>
-<br>*Past Notices*</p>
+<p>*Past Notices*</p>
 <p><strong><u>INSOLVENCY, RESTRUCTURING AND DISSOLUTION ACT 2018 (NO. 40 of 2018) </u></strong>
 <br>
 </p>
@@ -286,12 +285,11 @@ Final Accounts for <a href="/files/SW6-2021%20Final%20Accounts.pdf" rel="noopene
 Final Accounts for <a href="/files/SW19-2021%20Final%20Accounts.pdf" rel="noopener noreferrer nofollow" target="_blank">The Dance Capital (Pte. Ltd.) (SW 19/2021)</a> 
 <br>
 <br><em>(5) Notices of Intended Dividend</em> 
+<br><a href="/files/SIP notices 2026/SW_20_2023_Notice_of_Intended_Dividend.pdf" rel="noopener nofollow" target="_blank">26-Jun-2026 Notice of Intended Dividend for Ongztrade Pte Ltd (SW 20/2023)</a>
 <br><a href="/files/SIP notices 2025/SW_18_2023_Notice_of_Intended_Dividend.pdf" rel="noopener nofollow" target="_blank">26-Sep-2025 Notice of Intended Dividend for DFMA Builder Pte Ltd (SW 18/2023)</a>
 <br><a href="/files/Notice_of_Intended_Dividend_02Dec24.pdf" rel="noopener noreferrer nofollow" target="_blank">02-Dec-2024 Notice of Intended Dividend for Also Dominie Pte. Ltd. (SW 22-2021)</a>
 <br><a href="/files/SW_11_2023_Notice_of_Intended_Dividend__8_Nov_2024_.pdf" rel="noopener nofollow" target="_blank">08-Nov-2024 Notice of Intended Dividend for Anake Kids Pte Ltd (SW 11-2023)</a>
 <br><a href="/files/SW5_2021_Notice_of_Intended_Dividend__31_May_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">31-May-2024 Notice of Intended Dividend for Glow Digital Media Pte. Ltd. (SW 5-2021)</a>
-<br><a href="/files/22122023noticeofintendeddissolution.pdf" rel="noopener noreferrer nofollow" target="_blank">22-Dec-2023 Notice of Intended Dissolution</a> and
-Final Accounts for <a href="/files/22122023finalaccounts.pdf" rel="noopener noreferrer nofollow" target="_blank">Also Dominie Pte. Ltd. (SW 22-2021)</a> 
 <br><a href="/files/sw5-2021%20notice%20of%20intended%20dividend.pdf" rel="noopener noreferrer nofollow" target="_blank">25-Aug-2023 Notice of Intended Dividend for Glow Digital Media Pte Ltd</a> 
 <br><a href="/files/sw22-2021%20notice%20of%20intended%20dividend.pdf" rel="noopener noreferrer nofollow" target="_blank">25-Aug-2023 Notice of Intended Dividend for Also Dominie Pte. Ltd.</a> 
 <br><a href="/files/sw2-2023%20notice%20of%20intended%20dividend.pdf" rel="noopener noreferrer nofollow" target="_blank">11-Aug-2023 Notice of Intended Dividend for Green Food Concepts (Pte. Ltd.) (SW 2/2023)</a> 
@@ -327,6 +325,8 @@ Final Accounts for <a href="/files/SIP notices 2026/SW_18_2023_Final_Accounts.pd
 Final Accounts for <a href="/files/SW11_2023_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">Anake Kids Pte. Ltd. (SW 11-2023)</a>
 <br><a href="/files/SW5_2021_Notice_of_Intended_Dissolution.pdf" rel="noopener nofollow" target="_blank">27-Sep-2024 Notice of Intended Dissolution </a>and
 Final Accounts for <a href="/files/SW5_2021_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">Glow Digital Media Pte. Ltd. (SW5-2021)</a>
+<br><a href="/files/22122023noticeofintendeddissolution.pdf" rel="noopener noreferrer nofollow" target="_blank">22-Dec-2023 Notice of Intended Dissolution</a> and
+Final Accounts for <a href="/files/22122023finalaccounts.pdf" rel="noopener noreferrer nofollow" target="_blank">Also Dominie Pte. Ltd. (SW 22-2021)</a> 
 <br><a href="/files/sw15_2021_notice_of_intended_dissolution.pdf" rel="noopener noreferrer nofollow" target="_blank">17-Nov-2023 Notice of Intended Dissolution</a> and
 Final Accounts for <a href="/files/sw15_2021_final_account.pdf" rel="noopener noreferrer nofollow" target="_blank">A Phat Phinball Pte. Ltd. (SW 15-2021)</a> 
 <br><a href="/files/sw2-2023%20notice%20of%20intended%20dissolution.pdf" rel="noopener noreferrer nofollow" target="_blank">10-Nov-2023 Notice of Intended Dissolution</a> and
