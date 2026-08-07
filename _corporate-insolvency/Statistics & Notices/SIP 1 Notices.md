@@ -15,18 +15,17 @@ description: ""
 <p><strong>Insolvency, Restructuring and Dissolution (Simplified Winding Up) Regulations 2021</strong> 
 <br>
 </p>
-<p><em>(3) Notice of Intended Dividend</em> 
-<br><a href="/files/SIP notices 2026/SW_20_2023_Notice_of_Intended_Dividend.pdf" rel="noopener nofollow" target="_blank">26-Jun-2026 Notice of Intended Dividend for Ongztrade Pte Ltd (SW 20/2023)</a>
+<p><em>(1) Notice of Intended Dividend</em> 
+<br><a href="/files/07_Aug_2026_Notice_of_Intended_Dividend_for_88_Amoy_Restaurant_Pte_Ltd__SW_21_2024.pdf" rel="noopener nofollow" target="_blank">07-Aug-2026 Notice of Intended Dividend for 88 Amoy Restaurant Pte. Ltd (SW 21/2024)</a>
 <br>
 </p>
-<p><em>(1) Notice of Application</em>
+<p><em>(2) Notice of Application</em>
 <br><a href="/files/SIP notices 2026/10_Jul_2026_Application_SWU.pdf" rel="noopener nofollow" target="_blank">10-Jul-2026 Notice of Application into Simplified Winding Up Programme</a>
 </p>
 <p></p>
-<p><em>(2) Notice of Acceptance</em>
+<p><em>(3) Notice of Acceptance</em>
 <br><a href="/files/SIP notices 2026/10_Jul_2026_Notice_of_Acceptance.pdf" rel="noopener nofollow" target="_blank">10-Jul-2026 Notice of Acceptance into Simplified Winding Up Programme</a>
 </p>
-<p></p>
 <p>*Past Notices*</p>
 <p><strong><u>INSOLVENCY, RESTRUCTURING AND DISSOLUTION ACT 2018 (NO. 40 of 2018) </u></strong>
 <br>
