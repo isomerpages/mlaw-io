@@ -6,8 +6,6 @@ variant: tiptap
 ---
 <p><strong>Please click on the links below for more information</strong>:</p>
 <p></p>
-<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_26__.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 26)</a>
-</p>
 <p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_27_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 27)</a>
 </p>
 <p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_27A_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 27A)</a>
@@ -54,11 +52,17 @@ variant: tiptap
 </p>
 <p><a href="/files/Annulment &amp; Discharge Listings/Annulment_Listings__Week_33_.pdf" rel="noopener nofollow" target="_blank">Annulment Listings (Week 33)</a>
 </p>
-<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_34_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 34)(New)</a>
+<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_34_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 34)</a>
 </p>
-<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_34A_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 34A)(New)</a>
+<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_34A_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 34A)</a>
 </p>
-<p><a href="/files/Annulment &amp; Discharge Listings/Annulment_Listings__Week_34_.pdf" rel="noopener nofollow" target="_blank">Annulment Listings (Week 34)(New)</a>
+<p><a href="/files/Annulment &amp; Discharge Listings/Annulment_Listings__Week_34_.pdf" rel="noopener nofollow" target="_blank">Annulment Listings (Week 34)</a>
+</p>
+<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_35_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 35)(New)</a>
+</p>
+<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_35A_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 35A)(New)</a>
+</p>
+<p><a href="/files/Annulment &amp; Discharge Listings/Annulment_Listings__Week_35_.pdf" rel="noopener nofollow" target="_blank">Annulment Listings (Week 35)(New)</a>
 </p>
 <p></p>
 <p></p>
