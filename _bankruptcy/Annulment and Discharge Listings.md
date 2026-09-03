@@ -6,18 +6,6 @@ variant: tiptap
 ---
 <p><strong>Please click on the links below for more information</strong>:</p>
 <p></p>
-<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_27_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 27)</a>
-</p>
-<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_27A_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 27A)</a>
-</p>
-<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_27B_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 27B)</a>
-</p>
-<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_27C_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 27C)</a>
-</p>
-<p><a href="/files/Annulment &amp; Discharge Listings/Bankruptcy_Order_Rescinded_Listing__Week_27_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders Rescinded Listing (Week 27)</a>
-</p>
-<p><a href="/files/Annulment &amp; Discharge Listings/Notice_of_Order_Allowing_Appeal_Against_Bankruptcy_Order__Week_27_.pdf" rel="noopener nofollow" target="_blank">Notice of Order Allowing Appeal Against Bankruptcy Order (Week 27)</a>
-</p>
 <p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_28_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 28)</a>
 </p>
 <p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_29_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 29)</a>
@@ -58,11 +46,21 @@ variant: tiptap
 </p>
 <p><a href="/files/Annulment &amp; Discharge Listings/Annulment_Listings__Week_34_.pdf" rel="noopener nofollow" target="_blank">Annulment Listings (Week 34)</a>
 </p>
-<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_35_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 35)(New)</a>
+<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_35_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 35)</a>
 </p>
-<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_35A_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 35A)(New)</a>
+<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_35A_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 35A)</a>
 </p>
-<p><a href="/files/Annulment &amp; Discharge Listings/Annulment_Listings__Week_35_.pdf" rel="noopener nofollow" target="_blank">Annulment Listings (Week 35)(New)</a>
+<p><a href="/files/Annulment &amp; Discharge Listings/Annulment_Listings__Week_35_.pdf" rel="noopener nofollow" target="_blank">Annulment Listings (Week 35)</a>
+</p>
+<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_36_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 36)(New)</a>
+</p>
+<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_36A_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 36A)(New)</a>
+</p>
+<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_36B_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 36B)(New)</a>
+</p>
+<p><a href="/files/Annulment &amp; Discharge Listings/Annulment_Listings__Week_36_.pdf" rel="noopener nofollow" target="_blank">Annulment Listings (Week 36(New)</a>
+</p>
+<p><a href="/files/Annulment &amp; Discharge Listings/Bankruptcy_Order_Rescinded_Listings__Week_36_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders Rescinded Listing (Week 36)(New)</a>
 </p>
 <p></p>
 <p></p>
