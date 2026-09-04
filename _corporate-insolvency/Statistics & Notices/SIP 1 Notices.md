@@ -15,24 +15,24 @@ description: ""
 <p><strong>Insolvency, Restructuring and Dissolution (Simplified Winding Up) Regulations 2021</strong> 
 <br>
 </p>
-<p><em>(1) Notice of Intended Dividend</em> 
+<p><em>(1) Notices of Striking off and Final Accounts</em> 
+<br><a href="/files/04_09_2026_Notice_of_Striking_Off.pdf" rel="noopener nofollow" target="_blank">04-September-2026 Notice of Striking Off for Simplified Winding Up Programme</a>
+<a href="/files/04_09_2026_Notice_of_Striking_Off.pdf" rel="noopener noreferrer nofollow" target="_blank">
+<br>
+</a>and Final Accounts for<a href="/files/SW_11_2024_Final_Accounts.pdf" rel="noopener noreferrer nofollow" target="_blank"> Essential AI Technologies Pte.Ltd. (SW 11/2024)</a>
+</p>
+<p><em>(2) Notice of Intended Dividend</em> 
 <br><a href="/files/07_Aug_2026_Notice_of_Intended_Dividend_for_88_Amoy_Restaurant_Pte_Ltd__SW_21_2024.pdf" rel="noopener nofollow" target="_blank">07-Aug-2026 Notice of Intended Dividend for 88 Amoy Restaurant Pte. Ltd (SW 21/2024)</a>
 <br><a href="/files/07_Aug_2026_Notice_of_Intended_Dividend_for_ATJL_Fresh_Fruits_Pte_Ltd___SW_17_2025.pdf" rel="noopener nofollow" target="_blank">07-Aug-2026 Notice of Intended Dividend for AJTL Fresh Fruits Pte. Ltd (SW17/2025)</a>
 </p>
 <p></p>
-<p><em>(2) Notice of Application</em>
-<br><a href="/files/SIP notices 2026/10_Jul_2026_Application_SWU.pdf" rel="noopener nofollow" target="_blank">10-Jul-2026 Notice of Application into Simplified Winding Up Programme</a>
-</p>
-<p></p>
-<p><em>(3) Notice of Acceptance</em>
-<br><a href="/files/SIP notices 2026/10_Jul_2026_Notice_of_Acceptance.pdf" rel="noopener nofollow" target="_blank">10-Jul-2026 Notice of Acceptance into Simplified Winding Up Programme</a>
-</p>
 <p>*Past Notices*</p>
 <p><strong><u>INSOLVENCY, RESTRUCTURING AND DISSOLUTION ACT 2018 (NO. 40 of 2018) </u></strong>
 <br>
 </p>
 <p><strong>Insolvency, Restructuring and Dissolution (Simplified Winding Up) Regulations 2021</strong> 
 <br><em>(1) Notices of Application</em> 
+<br><a href="/files/SIP notices 2026/10_Jul_2026_Application_SWU.pdf" rel="noopener nofollow" target="_blank">10-Jul-2026 Notice of Application into Simplified Winding Up Programme</a>
 <br><a href="/files/SIP notices 2026/13_03_2026_Application_SWU.pdf" rel="noopener nofollow" target="_blank">13-Mar-2026 Notice of Application into Simplified Winding Up Programme</a>
 <br><a href="/files/SIP notices 2026/20_02_26_Application_SWU.pdf" rel="noopener nofollow" target="_blank">20-Feb-2026 Notice of Application into Simplified Winding Up Programme</a>
 <br><a href="/files/SIP notices 2026/13_02_26_Application_SWU.pdf" rel="noopener nofollow" target="_blank">13-Feb-2026 Notice of Application into Simplified Winding Up Programme</a>
@@ -109,6 +109,7 @@ description: ""
 <br><a href="/files/16-04-2021%20Application%20SWU.pdf" rel="noopener noreferrer nofollow" target="_blank">16-Apr-2021 Notice of Application into Simplified Winding Up Programme</a> 
 <br>
 <br><em>(2) Notices of Acceptance and Rejection</em> 
+<br><a href="/files/SIP notices 2026/10_Jul_2026_Notice_of_Acceptance.pdf" rel="noopener nofollow" target="_blank">10-Jul-2026 Notice of Acceptance into Simplified Winding Up Programme</a>
 <br><a href="/files/SIP notices 2026/18_May_2026_Notice_of_Acceptance.pdf" rel="noopener nofollow" target="_blank">18-May-2026 Notice of Acceptance into Simplified Winding Up Programme</a>
 <br><a href="/files/SIP notices 2026/17_Apr_2026_Notice_of_Acceptance.pdf" rel="noopener nofollow" target="_blank">17-Apr-2026 Notice of Acceptance into Simplified Winding Up Programme</a>
 <br><a href="/files/SIP notices 2026/02_Apr_2026_Notice_of_Rejection.pdf" rel="noopener nofollow" target="_blank">02-Apr-2026 Notice of Rejection into Simplified Winding Up Programme</a>
