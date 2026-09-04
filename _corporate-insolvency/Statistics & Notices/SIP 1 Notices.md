@@ -19,7 +19,7 @@ description: ""
 <br><a href="/files/04_09_2026_Notice_of_Striking_Off.pdf" rel="noopener nofollow" target="_blank">04-September-2026 Notice of Striking Off for Simplified Winding Up Programme</a>
 <a href="/files/04_09_2026_Notice_of_Striking_Off.pdf" rel="noopener noreferrer nofollow" target="_blank">
 <br>
-</a>and <a href="/files/SW_11_2024_Final_Accounts.pdf" rel="noopener noreferrer nofollow" target="_blank">Final Accounts for Essential AI Technologies Pte.Ltd.</a>
+</a>and Final Accounts for<a href="/files/SW_11_2024_Final_Accounts.pdf" rel="noopener noreferrer nofollow" target="_blank"> Essential AI Technologies Pte.Ltd.</a>
 </p>
 <p><em>(2) Notice of Intended Dividend</em> 
 <br><a href="/files/07_Aug_2026_Notice_of_Intended_Dividend_for_88_Amoy_Restaurant_Pte_Ltd__SW_21_2024.pdf" rel="noopener nofollow" target="_blank">07-Aug-2026 Notice of Intended Dividend for 88 Amoy Restaurant Pte. Ltd (SW 21/2024)</a>
