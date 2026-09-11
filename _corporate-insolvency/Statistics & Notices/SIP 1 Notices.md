@@ -16,9 +16,9 @@ description: ""
 <br>
 </p>
 <p><em>(1) Notices of Striking off and Final Accounts</em> 
-<br><a href="/files/SIP notices 2026/11_09_2026_Notice_of_striking_off.pdf" rel="noopener nofollow" target="_blank">11-September-2026 Notice of Striking Off for Simplified Winding Up Programme</a>
+<br><a href="/files/SIP notices 2026/11_09_2026_Notice_of_striking_off.pdf" rel="noopener nofollow" target="_blank">11-Sep-2026 Notice of Striking Off for Simplified Winding Up Programme</a>
 <br>and Final Accounts for <a href="/files/SIP notices 2026/SW_9_2025_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">3Radical Pte Ltd (SW 9/2025)</a>
-<br><a href="/files/04_09_2026_Notice_of_Striking_Off.pdf" rel="noopener nofollow" target="_blank">04-September-2026 Notice of Striking Off for Simplified Winding Up Programme</a>
+<br><a href="/files/04_09_2026_Notice_of_Striking_Off.pdf" rel="noopener nofollow" target="_blank">04-Sep-2026 Notice of Striking Off for Simplified Winding Up Programme</a>
 <a href="/files/04_09_2026_Notice_of_Striking_Off.pdf" rel="noopener noreferrer nofollow" target="_blank">
 <br>
 </a>and Final Accounts for<a href="/files/SW_11_2024_Final_Accounts.pdf" rel="noopener noreferrer nofollow" target="_blank"> Essential AI Technologies Pte.Ltd. (SW 11/2024)</a>
