@@ -16,15 +16,14 @@ description: ""
 <br>
 </p>
 <p><em>(1) Notices of Striking off and Final Accounts</em> 
-<br><a href="/files/04_09_2026_Notice_of_Striking_Off.pdf" rel="noopener nofollow" target="_blank">04-September-2026 Notice of Striking Off for Simplified Winding Up Programme</a>
+<br><a href="/files/SIP notices 2026/11_09_2026_Notice_of_striking_off.pdf" rel="noopener nofollow" target="_blank">11-Sep-2026 Notice of Striking Off for Simplified Winding Up Programme</a>
+<br>and Final Accounts for <a href="/files/SIP notices 2026/SW_9_2025_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">3Radical Pte Ltd (SW 9/2025)</a>
+<br><a href="/files/04_09_2026_Notice_of_Striking_Off.pdf" rel="noopener nofollow" target="_blank">04-Sep-2026 Notice of Striking Off for Simplified Winding Up Programme</a>
 <a href="/files/04_09_2026_Notice_of_Striking_Off.pdf" rel="noopener noreferrer nofollow" target="_blank">
 <br>
 </a>and Final Accounts for<a href="/files/SW_11_2024_Final_Accounts.pdf" rel="noopener noreferrer nofollow" target="_blank"> Essential AI Technologies Pte.Ltd. (SW 11/2024)</a>
 </p>
-<p><em>(2) Notice of Intended Dividend</em> 
-<br><a href="/files/07_Aug_2026_Notice_of_Intended_Dividend_for_88_Amoy_Restaurant_Pte_Ltd__SW_21_2024.pdf" rel="noopener nofollow" target="_blank">07-Aug-2026 Notice of Intended Dividend for 88 Amoy Restaurant Pte. Ltd (SW 21/2024)</a>
-<br><a href="/files/07_Aug_2026_Notice_of_Intended_Dividend_for_ATJL_Fresh_Fruits_Pte_Ltd___SW_17_2025.pdf" rel="noopener nofollow" target="_blank">07-Aug-2026 Notice of Intended Dividend for AJTL Fresh Fruits Pte. Ltd (SW17/2025)</a>
-</p>
+<p></p>
 <p></p>
 <p>*Past Notices*</p>
 <p><strong><u>INSOLVENCY, RESTRUCTURING AND DISSOLUTION ACT 2018 (NO. 40 of 2018) </u></strong>
@@ -286,6 +285,8 @@ Final Accounts for <a href="/files/SW6-2021%20Final%20Accounts.pdf" rel="noopene
 Final Accounts for <a href="/files/SW19-2021%20Final%20Accounts.pdf" rel="noopener noreferrer nofollow" target="_blank">The Dance Capital (Pte. Ltd.) (SW 19/2021)</a> 
 <br>
 <br><em>(5) Notices of Intended Dividend</em> 
+<br><a href="/files/07_Aug_2026_Notice_of_Intended_Dividend_for_88_Amoy_Restaurant_Pte_Ltd__SW_21_2024.pdf" rel="noopener nofollow" target="_blank">07-Aug-2026 Notice of Intended Dividend for 88 Amoy Restaurant Pte. Ltd (SW 21/2024)</a>
+<br><a href="/files/07_Aug_2026_Notice_of_Intended_Dividend_for_ATJL_Fresh_Fruits_Pte_Ltd___SW_17_2025.pdf" rel="noopener nofollow" target="_blank">07-Aug-2026 Notice of Intended Dividend for AJTL Fresh Fruits Pte. Ltd (SW17/2025)</a>
 <br><a href="/files/SIP notices 2026/SW_20_2023_Notice_of_Intended_Dividend.pdf" rel="noopener nofollow" target="_blank">26-Jun-2026 Notice of Intended Dividend for Ongztrade Pte Ltd (SW 20/2023)</a>
 <br><a href="/files/SIP notices 2025/SW_18_2023_Notice_of_Intended_Dividend.pdf" rel="noopener nofollow" target="_blank">26-Sep-2025 Notice of Intended Dividend for DFMA Builder Pte Ltd (SW 18/2023)</a>
 <br><a href="/files/Notice_of_Intended_Dividend_02Dec24.pdf" rel="noopener noreferrer nofollow" target="_blank">02-Dec-2024 Notice of Intended Dividend for Also Dominie Pte. Ltd. (SW 22-2021)</a>
