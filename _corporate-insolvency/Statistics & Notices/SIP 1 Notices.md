@@ -16,6 +16,8 @@ description: ""
 <br>
 </p>
 <p><em>(1) Notices of Striking off and Final Accounts</em> 
+<br><a href="/files/SIP notices 2026/18_09_2026_Notice_of_striking_off.pdf" rel="noopener nofollow" target="_blank">18-Sep-2026 Notice of Striking Off for Simplified Winding Up Programme</a>
+<br>and Final Accounts for <a href="/files/SIP notices 2026/SW_42_2026_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">Oorja 1 Pte Ltd (SW 42/2026)</a>
 <br><a href="/files/SIP notices 2026/11_09_2026_Notice_of_striking_off.pdf" rel="noopener nofollow" target="_blank">11-Sep-2026 Notice of Striking Off for Simplified Winding Up Programme</a>
 <br>and Final Accounts for <a href="/files/SIP notices 2026/SW_9_2025_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">3Radical Pte Ltd (SW 9/2025)</a>
 <br><a href="/files/04_09_2026_Notice_of_Striking_Off.pdf" rel="noopener nofollow" target="_blank">04-Sep-2026 Notice of Striking Off for Simplified Winding Up Programme</a>
