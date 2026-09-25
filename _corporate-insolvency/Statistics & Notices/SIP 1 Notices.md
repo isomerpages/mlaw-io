@@ -289,7 +289,7 @@ Final Accounts for <a href="/files/SW6-2021%20Final%20Accounts.pdf" rel="noopene
 <br><a href="/files/29-10-2021%20Notice%20of%20Striking%20Off.pdf" rel="noopener noreferrer nofollow" target="_blank">29-Oct-2021 Notice of Striking Off for Simplified Winding Up Programme</a> and
 Final Accounts for <a href="/files/SW19-2021%20Final%20Accounts.pdf" rel="noopener noreferrer nofollow" target="_blank">The Dance Capital (Pte. Ltd.) (SW 19/2021)</a> 
 <br>
-<br><em>(5) Notices of Intended Dividend</em> 
+<br><em>(4) Notices of Intended Dividend</em> 
 <br><a href="/files/07_Aug_2026_Notice_of_Intended_Dividend_for_88_Amoy_Restaurant_Pte_Ltd__SW_21_2024.pdf" rel="noopener nofollow" target="_blank">07-Aug-2026 Notice of Intended Dividend for 88 Amoy Restaurant Pte. Ltd (SW 21/2024)</a>
 <br><a href="/files/07_Aug_2026_Notice_of_Intended_Dividend_for_ATJL_Fresh_Fruits_Pte_Ltd___SW_17_2025.pdf" rel="noopener nofollow" target="_blank">07-Aug-2026 Notice of Intended Dividend for AJTL Fresh Fruits Pte. Ltd (SW17/2025)</a>
 <br><a href="/files/SIP notices 2026/SW_20_2023_Notice_of_Intended_Dividend.pdf" rel="noopener nofollow" target="_blank">26-Jun-2026 Notice of Intended Dividend for Ongztrade Pte Ltd (SW 20/2023)</a>
@@ -314,7 +314,7 @@ Final Accounts for <a href="/files/SW19-2021%20Final%20Accounts.pdf" rel="noopen
 <br>
 </p>
 <p>
-<br><em>(6) Notices of Intended Dissolution</em> 
+<br><em>(5) Notices of Intended Dissolution</em> 
 <br><a href="/files/SIP notices 2026/20_03_2026_Notice_of_intended_dissolution.pdf" rel="noopener nofollow" target="_blank">20-Mar-2026 Notice of Intended Dissolution </a>and
 Final Accounts for <a href="/files/SIP notices 2026/SW_18_2023_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">DFMA Builder Pte Ltd (SW 18/2023)</a>
 <br><a href="/files/SW11_2023_Notice_of_Intended_Dissolution.pdf" rel="noopener nofollow" target="_blank">07-Feb-2025 Notice of Intended Dissolution </a>and
