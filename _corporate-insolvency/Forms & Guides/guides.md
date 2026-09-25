@@ -11,52 +11,56 @@ variant: tiptap
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/guide%20to%20statement%20of%20accounts%20eservice.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide to view Statement of Accounts</a> (540KB)
+<p><a href="/files/guide%20to%20statement%20of%20accounts%20eservice.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide to view Statement of Accounts</a>
 <br>
 </p>
 </li>
 <li>
-<p><a href="/files/guide%20depository%20request.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide to submit Depository Request</a> (1.67MB)
+<p><a href="/files/guide%20depository%20request.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide to submit Depository Request</a> 
 <br>
 </p>
 </li>
 <li>
-<p><a href="/files/guide%20to%20payment%20requisition%20eservice.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide to submit Payment Requisition</a> (1.34MB)
+<p><a href="/files/guide%20to%20payment%20requisition%20eservice.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide to submit Payment Requisition</a> 
 <br>
 </p>
 </li>
 <li>
-<p><a href="/files/submit%20liquidator%20account%20of%20receipts%20and%20payments%20and%20statement%20of%20the%20position%20in%20the%20winding%20up.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide to submit Liquidator's Account of Receipts and Payments and Statement of Winding Up </a>(1.5MB)
+<p><a href="/files/submit%20liquidator%20account%20of%20receipts%20and%20payments%20and%20statement%20of%20the%20position%20in%20the%20winding%20up.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide to submit Liquidator's Account of Receipts and Payments and Statement of Winding Up </a>
 <br>
 </p>
 </li>
 <li>
-<p><a href="/files/guide%20to%20submit%20preliminary%20report.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide to submit Preliminary Report</a> (1.67MB)
+<p><a href="/files/guide%20to%20submit%20preliminary%20report.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide to submit Preliminary Report</a> 
 <br>
 </p>
 </li>
 <li>
-<p><a href="/files/guide%20to%20submit%20early%20dissolution%20report.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide to submit Early Dissolution Report</a> (848KB)
+<p><a href="/files/guide%20to%20submit%20early%20dissolution%20report.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide to submit Early Dissolution Report</a> 
 <br>
 </p>
 </li>
 <li>
-<p><a href="/files/guide%20to%20submit%20gazette%20and%20newspaper%20advert.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide to submit Gazette and Newspaper Advert</a> (1.04MB)
+<p><a href="/files/guide%20to%20submit%20gazette%20and%20newspaper%20advert.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide to submit Gazette and Newspaper Advert</a> 
 <br>
 </p>
 </li>
 <li>
-<p><a href="/files/guide%20to%20submit%20unclaimed%20assets%20to%20be%20paid%20to%20the%20official%20receiver.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide to submit Unclaimed Assets to be Paid to the Official Receiver</a> (1.01MB)
+<p><a href="/files/guide%20to%20submit%20unclaimed%20assets%20to%20be%20paid%20to%20the%20official%20receiver.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide to submit Unclaimed Assets to be Paid to the Official Receiver</a> 
 <br>
 </p>
 </li>
 <li>
-<p><a href="/files/guide%20to%20submit%20statement%20of%20concurrence.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide to submit Statement of Concurrence</a> (1.30MB)
+<p><a href="/files/guide%20to%20submit%20statement%20of%20concurrence.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide to submit Statement of Concurrence</a> 
 <br>
 </p>
 </li>
 <li>
-<p><a href="/files/guide%20to%20submit%20advert%20final%20meeting%20vw.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide to submit Advertisement on Holding of a Final Meeting for Voluntary Winding Up cases</a> (980KB)
+<p><a href="/files/guide%20to%20submit%20advert%20final%20meeting%20vw.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide to submit Advertisement on Holding of a Final Meeting for Voluntary Winding Up cases</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Submission_and_Withdrawal_of_Investment.pdf" rel="noopener nofollow" target="_blank">Guide to Submission and Withdrawal of Investment</a>
 <br>
 <br>
 </p>
@@ -67,7 +71,7 @@ variant: tiptap
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/guide%20to%20submit%20notice%20of%20appointment%20as%20scheme%20manager.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide to submit Notice of Appointment as Scheme Manager</a> (964KB)
+<p><a href="/files/guide%20to%20submit%20notice%20of%20appointment%20as%20scheme%20manager.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide to submit Notice of Appointment as Scheme Manager</a> 
 <br>
 <br>
 </p>
@@ -129,7 +133,8 @@ variant: tiptap
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/guide%20to%20corporate%20insolvency%20search.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide to Corporate Insolvency Search</a> (1.32MB)</p>
+<p><a href="/files/guide%20to%20corporate%20insolvency%20search.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide to Corporate Insolvency Search</a>
+</p>
 </li>
 </ol>
 <p></p>
