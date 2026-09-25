@@ -18,7 +18,7 @@ description: ""
 <br><a href="/files/SIP notices 2026/SW_36_2025_Notice_of_Intended_Dividend.pdf" rel="noopener nofollow" target="_blank">25-Sep-2026 Notice of Intended Dividend for Clop Technologies Pte Ltd (SW 36/2025)</a>
 <br>
 </p>
-<p><em>(1) Notices of Striking off and Final Accounts</em> 
+<p><em>(2) Notices of Striking off and Final Accounts</em> 
 <br><a href="/files/SIP notices 2026/18_09_2026_Notice_of_striking_off.pdf" rel="noopener nofollow" target="_blank">18-Sep-2026 Notice of Striking Off for Simplified Winding Up Programme</a>
 <br>and Final Accounts for <a href="/files/SIP notices 2026/SW_42_2026_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">Oorja 1 Pte Ltd (SW 42/2026)</a>
 <br><a href="/files/SIP notices 2026/11_09_2026_Notice_of_striking_off.pdf" rel="noopener nofollow" target="_blank">11-Sep-2026 Notice of Striking Off for Simplified Winding Up Programme</a>
@@ -313,19 +313,8 @@ Final Accounts for <a href="/files/SW19-2021%20Final%20Accounts.pdf" rel="noopen
 <br><a href="/files/SW26-2021%20NOID.pdf" rel="noopener noreferrer nofollow" target="_blank">28-Jan-2022 Notice of Intended Dividend for ISC Far East Pte Ltd (SW 26/2021)</a> 
 <br>
 </p>
-<p><em>(6) Notices of Dividend</em> 
-<br><a href="/files/SW11_2023_Notice_of_Dividend.pdf" rel="noopener nofollow" target="_blank">7-Jan-2025 Notice of Dividend for Anake Pte. Ltd. (SW 11/2023)</a>
-<br><a href="/files/sw22-2021%20notice%20of%20dividend.pdf" rel="noopener noreferrer nofollow" target="_blank">27-Oct-2023 Notice of Dividend for Also Dominie Pte. Ltd. (SW 22/2021)</a> 
-<br><a href="/files/sw2-2023%20notice%20of%20dividend.pdf" rel="noopener noreferrer nofollow" target="_blank">13-Oct-2023 Notice of Dividend for Green Food Concepts (Pte. Ltd.) (SW 2/2023)</a> 
-<br><a href="/files/sw15-2021%20notice%20of%20dividend.pdf" rel="noopener noreferrer nofollow" target="_blank">28-July-2023 Notice of Dividend for A Phant Pinball Pte. Ltd. (SW 15/2021)</a> 
-<br><a href="/files/SW33-2021%20Notice%20of%20Dividend.pdf" rel="noopener noreferrer nofollow" target="_blank">10-Mar-2023 Notice of Dividend for Mars Candy Pte. Ltd. (SW 33/2021) </a>
-<br><a href="/files/SW6-2022%20Notice%20of%20Dividend.pdf" rel="noopener noreferrer nofollow" target="_blank">07-Oct-2022 Notice of Dividend for Astral Nanotec Pte. Ltd. (SW 6/2022) </a>
-<br><a href="/files/SW%202-2021%20Notice%20of%20Dividend.pdf" rel="noopener noreferrer nofollow" target="_blank">01-Sept-2022 Notice of Dividend for Delight 8 Cafe Pte. Ltd. (SW 2/2021) </a>
-<br><a href="/files/SW30-2021%20Notice%20of%20Dividend.pdf" rel="noopener noreferrer nofollow" target="_blank">06-Jul-2022 Notice of Dividend for Maxi Mango (Singapore) Pte Ltd (SW 30/2021) </a>
-<br><a href="/files/SW24-2021%20Notice%20of%20Dividend.pdf" rel="noopener noreferrer nofollow" target="_blank">24-Jun-2022 Notice of Dividend for Lab Digital Pte Ltd (SW 24/2021) </a>
-<br><a href="/files/SW7-2021%20Notice%20of%20Dividend.pdf" rel="noopener noreferrer nofollow" target="_blank">22-Apr-2022 Notice of Dividend for Good Old Taste Pte Ltd (SW 7/2021) </a>
-<br>
-<br><em>(7) Notices of Intended Dissolution</em> 
+<p>
+<br><em>(6) Notices of Intended Dissolution</em> 
 <br><a href="/files/SIP notices 2026/20_03_2026_Notice_of_intended_dissolution.pdf" rel="noopener nofollow" target="_blank">20-Mar-2026 Notice of Intended Dissolution </a>and
 Final Accounts for <a href="/files/SIP notices 2026/SW_18_2023_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">DFMA Builder Pte Ltd (SW 18/2023)</a>
 <br><a href="/files/SW11_2023_Notice_of_Intended_Dissolution.pdf" rel="noopener nofollow" target="_blank">07-Feb-2025 Notice of Intended Dissolution </a>and
