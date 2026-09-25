@@ -14,6 +14,9 @@ description: ""
 </p>
 <p><strong>Insolvency, Restructuring and Dissolution (Simplified Winding Up) Regulations 2021</strong> 
 <br>
+<br><em>(1) Notices of Intended Dividend</em> 
+<br><a href="/files/SIP notices 2026/SW_36_2025_Notice_of_Intended_Dividend.pdf" rel="noopener nofollow" target="_blank">25-Sep-2026 Notice of Intended Dividend for Clop Technologies Pte Ltd (SW 36/2025)</a>
+<br>
 </p>
 <p><em>(1) Notices of Striking off and Final Accounts</em> 
 <br><a href="/files/SIP notices 2026/18_09_2026_Notice_of_striking_off.pdf" rel="noopener nofollow" target="_blank">18-Sep-2026 Notice of Striking Off for Simplified Winding Up Programme</a>
