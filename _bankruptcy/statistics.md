@@ -9,7 +9,7 @@ variant: tiptap
 </p>
 <p><strong>Individual Insolvency</strong>
 </p>
-<p><a href="/files/IID Statistics /Number_of_Bankruptcy_Applications_Orders_Made_and_Discharges__July_2026_.pdf" rel="noopener nofollow" target="_blank">Number of Bankruptcy Applications Orders Made and Discharges (July 2026)</a>
+<p><a href="/files/IID Statistics /Number_of_Bankruptcy_Applications_Orders_Made_and_Discharges__August_2026_.pdf" rel="noopener nofollow" target="_blank">Number of Bankruptcy Applications Orders Made and Discharges (August 2026)</a>
 </p>
 <p></p>
 <p></p>
