@@ -40,11 +40,11 @@ ScamShield helpline at 1799 or visit <a href="https://www.scamshield.gov.sg/" re
 </p>
 <p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_10_September_2026__Week_38_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 10 September 2026 (Week 38)</a>
 </p>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_15_September_2026__Week_39_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 15 September 2026 (Week 39) </a>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_15_September_2026__Week_39_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 15 September 2026 (Week 39)</a>
 </p>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_17_September_2026__Week_39_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 17 September 2026 (Week 39) </a>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_17_September_2026__Week_39_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 17 September 2026 (Week 39)</a>
 </p>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_2_July_2026__Week_39_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 2 July 2026 (Week 39) </a>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_2_July_2026__Week_39_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 2 July 2026 (Week 39)</a>
 </p>
 <p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_24_September_2026__Week_40_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 24 September 2026 (Week 40) (New)</a>
 </p>
@@ -54,8 +54,7 @@ ScamShield helpline at 1799 or visit <a href="https://www.scamshield.gov.sg/" re
 </p>
 <p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_27_August_2026__Week_40_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 27 August 2026 (Week 40) (New)</a>
 </p>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_2_July_2026__Week_40_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 2 July 2026 (Week 40) (New)</a>
-</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
