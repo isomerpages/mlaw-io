@@ -12,4 +12,5 @@ variant: tiptap
 <p></p>
 <p><a href="/files/DRS Statistics /DRS_Stats_for_Website_as_at_30_Sep_2026.pdf" rel="noopener nofollow" target="_blank">DRS Statistics as at 30 September 2026</a>
 </p>
-<p><a href="/files/DRSAppeal.pdf" rel="noopener noreferrer nofollow" target="_blank">DRS Appeal</a>{:target="_blank"}</p>
+<p><a href="/files/DRSAppeal.pdf" rel="noopener noreferrer nofollow" target="_blank">DRS Appeal</a>
+</p>
