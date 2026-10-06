@@ -2,15 +2,14 @@
 title: Statistics
 permalink: /debt-repayment-scheme/statistics/
 breadcrumb: Statistics
-variant: markdown
+variant: tiptap
 ---
-**Statistics**
----
-
-<u><b>Facts &amp; Figures</b></u>
-
-**Debt Repayment Scheme**
-
-[DRS Statistics as at 31 July 2026](/files/DRS%20Statistics%20/DRS_Stats_for_Website_as_at_31_Jul_2026.pdf)
-
-[DRS Appeal](/files/DRSAppeal.pdf){:target="_blank"}
+<h2><strong>Statistics</strong></h2>
+<p><strong><u>Facts &amp; Figures</u></strong>
+</p>
+<p><strong>Debt Repayment Scheme</strong>
+</p>
+<p></p>
+<p><a href="/files/DRS Statistics /DRS_Stats_for_Website_as_at_30_Sep_2026.pdf" rel="noopener nofollow" target="_blank">DRS Statistics as at 30 September 2026</a>
+</p>
+<p><a href="/files/DRSAppeal.pdf" rel="noopener noreferrer nofollow" target="_blank">DRS Appeal</a>{:target="_blank"}</p>
