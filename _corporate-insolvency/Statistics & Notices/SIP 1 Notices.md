@@ -14,19 +14,18 @@ description: ""
 </p>
 <p><strong>Insolvency, Restructuring and Dissolution (Simplified Winding Up) Regulations 2021</strong> 
 <br>
-<br><em>(1) Notices of Intended Dividend</em> 
+<br><em>(1) Notices of Acceptance and Rejection</em> 
+<br><a href="/files/SIP notices 2026/09_Oct_2026_Notice_of_Acceptance.pdf" rel="noopener nofollow" target="_blank">09-Oct-2026 Notice of Acceptance into Simplified Winding Up Programme</a>
+<br>
+<br><em>(2) Notices of Intended Dividend</em> 
+<br><a href="/files/SIP notices 2026/SW_14_2025_Notice_of_Intended_Dividend.pdf" rel="noopener nofollow" target="_blank">09-Oct-2026 Notice of Intended Dividend for Peakform Building &amp; Services Pte Ltd (SW 14/2025)</a>
 <br><a href="/files/SIP notices 2026/SW_36_2025_Notice_of_Intended_Dividend.pdf" rel="noopener nofollow" target="_blank">25-Sep-2026 Notice of Intended Dividend for Clop Technologies Pte Ltd (SW 36/2025)</a>
 <br>
 </p>
 <p><em>(2) Notices of Striking off and Final Accounts</em> 
 <br><a href="/files/SIP notices 2026/18_09_2026_Notice_of_striking_off.pdf" rel="noopener nofollow" target="_blank">18-Sep-2026 Notice of Striking Off for Simplified Winding Up Programme</a>
 <br>and Final Accounts for <a href="/files/SIP notices 2026/SW_42_2026_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">Oorja 1 Pte Ltd (SW 42/2026)</a>
-<br><a href="/files/SIP notices 2026/11_09_2026_Notice_of_striking_off.pdf" rel="noopener nofollow" target="_blank">11-Sep-2026 Notice of Striking Off for Simplified Winding Up Programme</a>
-<br>and Final Accounts for <a href="/files/SIP notices 2026/SW_9_2025_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">3Radical Pte Ltd (SW 9/2025)</a>
-<br><a href="/files/04_09_2026_Notice_of_Striking_Off.pdf" rel="noopener nofollow" target="_blank">04-Sep-2026 Notice of Striking Off for Simplified Winding Up Programme</a>
-<a href="/files/04_09_2026_Notice_of_Striking_Off.pdf" rel="noopener noreferrer nofollow" target="_blank">
 <br>
-</a>and Final Accounts for<a href="/files/SW_11_2024_Final_Accounts.pdf" rel="noopener noreferrer nofollow" target="_blank"> Essential AI Technologies Pte.Ltd. (SW 11/2024)</a>
 </p>
 <p></p>
 <p></p>
@@ -195,6 +194,12 @@ description: ""
 <br><a href="/files/14-05-2021%20Notice%20of%20Rejection.pdf" rel="noopener noreferrer nofollow" target="_blank">14-May-2021 Notice of Rejection for Simplified Winding Up Programme</a> 
 <br>
 <br><em>(3) Notices of Striking off and Final Accounts</em> 
+<br><a href="/files/SIP notices 2026/11_09_2026_Notice_of_striking_off.pdf" rel="noopener nofollow" target="_blank">11-Sep-2026 Notice of Striking Off for Simplified Winding Up Programme</a>
+<br>and Final Accounts for <a href="/files/SIP notices 2026/SW_9_2025_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">3Radical Pte Ltd (SW 9/2025)</a>
+<br><a href="/files/04_09_2026_Notice_of_Striking_Off.pdf" rel="noopener nofollow" target="_blank">04-Sep-2026 Notice of Striking Off for Simplified Winding Up Programme</a>
+<a href="/files/04_09_2026_Notice_of_Striking_Off.pdf" rel="noopener noreferrer nofollow" target="_blank">
+<br>
+</a>and Final Accounts for<a href="/files/SW_11_2024_Final_Accounts.pdf" rel="noopener noreferrer nofollow" target="_blank"> Essential AI Technologies Pte.Ltd. (SW 11/2024)</a>
 <br><a href="/files/SIP notices 2026/15_05_2026_Notice_of_Striking_Off.pdf" rel="noopener nofollow" target="_blank">15-May-2026 Notice of Striking Off for Simplified Winding Up Programme</a>
 <br>and Final Accounts for <a href="/files/SIP notices 2026/SW_37_2025_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">Global Paris Group Pte Ltd (SW37/2025)</a>
 <br><a href="/files/SIP notices 2026/13_03_2026_Notice_of_Striking_off.pdf" rel="noopener nofollow" target="_blank">13-Mar-2026 Notice of Striking Off for Simplified Winding Up Programme </a>and
