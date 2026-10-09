@@ -22,7 +22,7 @@ description: ""
 <br><a href="/files/SIP notices 2026/SW_36_2025_Notice_of_Intended_Dividend.pdf" rel="noopener nofollow" target="_blank">25-Sep-2026 Notice of Intended Dividend for Clop Technologies Pte Ltd (SW 36/2025)</a>
 <br>
 </p>
-<p><em>(2) Notices of Striking off and Final Accounts</em> 
+<p><em>(3) Notices of Striking off and Final Accounts</em> 
 <br><a href="/files/SIP notices 2026/18_09_2026_Notice_of_striking_off.pdf" rel="noopener nofollow" target="_blank">18-Sep-2026 Notice of Striking Off for Simplified Winding Up Programme</a>
 <br>and Final Accounts for <a href="/files/SIP notices 2026/SW_42_2026_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">Oorja 1 Pte Ltd (SW 42/2026)</a>
 <br>
