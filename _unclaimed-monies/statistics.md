@@ -10,7 +10,8 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Unclaimed monies/AmountofUnclaimedMoniesHeldbyIPTOasof31Dec2024.pdf" rel="noopener nofollow" target="_blank">Amount of Unclaimed Monies Held by IPTO as at 31 December 2024</a>
+<p><a href="/files/Unclaimed monies/Amount_of_Unclaimed_Monies_Held_by_IPTO_as_at_31_Dec_2024.pdf" rel="noopener nofollow" target="_blank">Amount of Unclaimed Monies held by IPTO as at 31 December 2024</a>
+<br>
 </p>
 </li>
 </ul>
