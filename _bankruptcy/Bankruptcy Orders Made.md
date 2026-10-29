@@ -20,12 +20,6 @@ ScamShield helpline at 1799 or visit <a href="https://www.scamshield.gov.sg/" re
 <hr>
 <h4><strong>Please click on the links below for more information:</strong></h4>
 <p></p>
-<p></p>
-<p></p>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_17_August_2026__Week_35_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 17 August 2026 (Week 35)</a>
-</p>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_20_August_2026__Week_35_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 20 August 2026 (Week 35)</a>
-</p>
 <p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_26_August_2026__Week_36_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 26 August 2026 (Week 36)</a>
 </p>
 <p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_27_August_2026__Week_36_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 27 August 2026 (Week 36)</a>
@@ -50,9 +44,11 @@ ScamShield helpline at 1799 or visit <a href="https://www.scamshield.gov.sg/" re
 </p>
 <p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_1_October_2026__Week_41_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 1 October 2026 (Week 41)</a>
 </p>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_8_October_2026__Week_42_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 8 October 2026 (Week 42) </a>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_8_October_2026__Week_42_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 8 October 2026 (Week 42)</a>
 </p>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_15_October_2026__Week_43_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 15 October 2026 (Week 43) (New)</a>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_15_October_2026__Week_43_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 15 October 2026 (Week 43)</a>
+</p>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_22_October_2026__Week_44_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 22 October 2026 (Week 44) (New)</a>
 </p>
 <p></p>
 <p></p>
