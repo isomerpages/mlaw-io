@@ -20,8 +20,6 @@ ScamShield helpline at 1799 or visit <a href="https://www.scamshield.gov.sg/" re
 <hr>
 <h4><strong>Please click on the links below for more information:</strong></h4>
 <p></p>
-<p></p>
-<p></p>
 <p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_26_August_2026__Week_36_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 26 August 2026 (Week 36)</a>
 </p>
 <p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_27_August_2026__Week_36_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 27 August 2026 (Week 36)</a>
