@@ -15,10 +15,11 @@ notification: Please note that with effect from 7 April 2020, MinLaw Services
   disclose bank log-in details over a phone call. Call the 24/7 ScamShield
   Helpline at 1799 if you are unsure if something is a scam. For more
   information, visit <a
-  href="https://www.scamshield.gov.sg/">www.scamshield.gov.sg</a>. <br><br>We
-  are refreshing the Ministry of Law websites. Information from this website
-  will be moved to <a href="https://www.mlaw.gov.sg/">www.mlaw.gov.sg</a> for a
-  more seamless experience. Watch this space for updates.
+  href="https://www.scamshield.gov.sg/">www.scamshield.gov.sg</a>.
+  <br><br>Expect a better experience when our new website goes live on 30
+  November 2026. Information on this website will be moved to <a
+  href="https://www.mlaw.gov.sg/">www.mlaw.gov.sg</a>. Find out more <a
+  href="https://www.mlaw.gov.sg/upcoming-changes-to-the-minlaw-website/">here</a>.
 sections:
   - hero:
       title: Insolvency Office
