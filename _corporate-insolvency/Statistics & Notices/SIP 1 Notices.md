@@ -14,19 +14,11 @@ description: ""
 </p>
 <p><strong>Insolvency, Restructuring and Dissolution (Simplified Winding Up) Regulations 2021</strong> 
 <br>
-<br><em>(1) Notices of Acceptance and Rejection</em> 
-<br><a href="/files/SIP notices 2026/09_Oct_2026_Notice_of_Acceptance.pdf" rel="noopener nofollow" target="_blank">09-Oct-2026 Notice of Acceptance into Simplified Winding Up Programme</a>
-<br>
-<br><em>(2) Notices of Intended Dividend</em> 
-<br><a href="/files/SIP notices 2026/SW_14_2025_Notice_of_Intended_Dividend.pdf" rel="noopener nofollow" target="_blank">09-Oct-2026 Notice of Intended Dividend for Peakform Building &amp; Services Pte Ltd (SW 14/2025)</a>
-<br><a href="/files/SIP notices 2026/SW_36_2025_Notice_of_Intended_Dividend.pdf" rel="noopener nofollow" target="_blank">25-Sep-2026 Notice of Intended Dividend for Clop Technologies Pte Ltd (SW 36/2025)</a>
-<br>
+<br><em>(1) Notices of Striking off and Final Accounts</em> 
+<br><a href="/files/SIP notices 2026/06_Nov_2026_Notice_of_Striking_Off.pdf" rel="noopener nofollow" target="_blank">06-Nov-2026 Notice of Striking Off for Simplified Winding Up Programm</a>
+<br>and Final Accounts for <a href="/files/SIP notices 2026/SW_22_2022_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">TSG Therapeutics Pte Ltd (SW 22/2022)</a>
 </p>
-<p><em>(3) Notices of Striking off and Final Accounts</em> 
-<br><a href="/files/SIP notices 2026/18_09_2026_Notice_of_striking_off.pdf" rel="noopener nofollow" target="_blank">18-Sep-2026 Notice of Striking Off for Simplified Winding Up Programme</a>
-<br>and Final Accounts for <a href="/files/SIP notices 2026/SW_42_2026_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">Oorja 1 Pte Ltd (SW 42/2026)</a>
-<br>
-</p>
+<p></p>
 <p></p>
 <p></p>
 <p>*Past Notices*</p>
@@ -112,6 +104,7 @@ description: ""
 <br><a href="/files/16-04-2021%20Application%20SWU.pdf" rel="noopener noreferrer nofollow" target="_blank">16-Apr-2021 Notice of Application into Simplified Winding Up Programme</a> 
 <br>
 <br><em>(2) Notices of Acceptance and Rejection</em> 
+<br><a href="/files/SIP notices 2026/09_Oct_2026_Notice_of_Acceptance.pdf" rel="noopener nofollow" target="_blank">09-Oct-2026 Notice of Acceptance into Simplified Winding Up Programme</a>
 <br><a href="/files/SIP notices 2026/10_Jul_2026_Notice_of_Acceptance.pdf" rel="noopener nofollow" target="_blank">10-Jul-2026 Notice of Acceptance into Simplified Winding Up Programme</a>
 <br><a href="/files/SIP notices 2026/18_May_2026_Notice_of_Acceptance.pdf" rel="noopener nofollow" target="_blank">18-May-2026 Notice of Acceptance into Simplified Winding Up Programme</a>
 <br><a href="/files/SIP notices 2026/17_Apr_2026_Notice_of_Acceptance.pdf" rel="noopener nofollow" target="_blank">17-Apr-2026 Notice of Acceptance into Simplified Winding Up Programme</a>
@@ -194,6 +187,8 @@ description: ""
 <br><a href="/files/14-05-2021%20Notice%20of%20Rejection.pdf" rel="noopener noreferrer nofollow" target="_blank">14-May-2021 Notice of Rejection for Simplified Winding Up Programme</a> 
 <br>
 <br><em>(3) Notices of Striking off and Final Accounts</em> 
+<br><a href="/files/SIP notices 2026/18_09_2026_Notice_of_striking_off.pdf" rel="noopener nofollow" target="_blank">18-Sep-2026 Notice of Striking Off for Simplified Winding Up Programme</a>
+<br>and Final Accounts for <a href="/files/SIP notices 2026/SW_42_2026_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">Oorja 1 Pte Ltd (SW 42/2026)</a>
 <br><a href="/files/SIP notices 2026/11_09_2026_Notice_of_striking_off.pdf" rel="noopener nofollow" target="_blank">11-Sep-2026 Notice of Striking Off for Simplified Winding Up Programme</a>
 <br>and Final Accounts for <a href="/files/SIP notices 2026/SW_9_2025_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">3Radical Pte Ltd (SW 9/2025)</a>
 <br><a href="/files/04_09_2026_Notice_of_Striking_Off.pdf" rel="noopener nofollow" target="_blank">04-Sep-2026 Notice of Striking Off for Simplified Winding Up Programme</a>
@@ -295,6 +290,8 @@ Final Accounts for <a href="/files/SW6-2021%20Final%20Accounts.pdf" rel="noopene
 Final Accounts for <a href="/files/SW19-2021%20Final%20Accounts.pdf" rel="noopener noreferrer nofollow" target="_blank">The Dance Capital (Pte. Ltd.) (SW 19/2021)</a> 
 <br>
 <br><em>(4) Notices of Intended Dividend</em> 
+<br><a href="/files/SIP notices 2026/SW_14_2025_Notice_of_Intended_Dividend.pdf" rel="noopener nofollow" target="_blank">09-Oct-2026 Notice of Intended Dividend for Peakform Building &amp; Services Pte Ltd (SW 14/2025)</a>
+<br><a href="/files/SIP notices 2026/SW_36_2025_Notice_of_Intended_Dividend.pdf" rel="noopener nofollow" target="_blank">25-Sep-2026 Notice of Intended Dividend for Clop Technologies Pte Ltd (SW 36/2025)</a>
 <br><a href="/files/07_Aug_2026_Notice_of_Intended_Dividend_for_88_Amoy_Restaurant_Pte_Ltd__SW_21_2024.pdf" rel="noopener nofollow" target="_blank">07-Aug-2026 Notice of Intended Dividend for 88 Amoy Restaurant Pte. Ltd (SW 21/2024)</a>
 <br><a href="/files/07_Aug_2026_Notice_of_Intended_Dividend_for_ATJL_Fresh_Fruits_Pte_Ltd___SW_17_2025.pdf" rel="noopener nofollow" target="_blank">07-Aug-2026 Notice of Intended Dividend for AJTL Fresh Fruits Pte. Ltd (SW17/2025)</a>
 <br><a href="/files/SIP notices 2026/SW_20_2023_Notice_of_Intended_Dividend.pdf" rel="noopener nofollow" target="_blank">26-Jun-2026 Notice of Intended Dividend for Ongztrade Pte Ltd (SW 20/2023)</a>
