@@ -10,7 +10,7 @@ variant: tiptap
 <p><strong>Debt Repayment Scheme</strong>
 </p>
 <p></p>
-<p><a href="/files/DRS Statistics /DRS_Stats_for_Website_as_at_30_Sep_2026.pdf" rel="noopener nofollow" target="_blank">DRS Statistics as at 30 September 2026</a>
+<p><a href="/files/DRS Statistics /DRS_Stats_for_Website_as_at_31_Oct_2026.pdf" rel="noopener nofollow" target="_blank">DRS Statistics as at 31 October 2026</a>
 </p>
 <p><a href="/files/DRSAppeal.pdf" rel="noopener noreferrer nofollow" target="_blank">DRS Appeal</a>
 </p>
