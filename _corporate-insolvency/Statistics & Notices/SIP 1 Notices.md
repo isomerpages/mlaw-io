@@ -15,7 +15,7 @@ description: ""
 <p><strong>Insolvency, Restructuring and Dissolution (Simplified Winding Up) Regulations 2021</strong> 
 <br>
 <br><em>(1) Notices of Striking off and Final Accounts</em> 
-<br><a href="/files/SIP notices 2026/06_Nov_2026_Notice_of_Striking_Off.pdf" rel="noopener nofollow" target="_blank">06-Nov-2026 Notice of Striking Off for Simplified Winding Up Programm</a>
+<br><a href="/files/SIP notices 2026/06_Nov_2026_Notice_of_Striking_Off.pdf" rel="noopener nofollow" target="_blank">06-Nov-2026 Notice of Striking Off for Simplified Winding Up Programme</a>
 <br>and Final Accounts for <a href="/files/SIP notices 2026/SW_22_2022_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">TSG Therapeutics Pte Ltd (SW 22/2022)</a>
 </p>
 <p></p>
@@ -321,7 +321,7 @@ Final Accounts for <a href="/files/SW19-2021%20Final%20Accounts.pdf" rel="noopen
 Final Accounts for <a href="/files/SIP notices 2026/SW_18_2023_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">DFMA Builder Pte Ltd (SW 18/2023)</a>
 <br><a href="/files/SW11_2023_Notice_of_Intended_Dissolution.pdf" rel="noopener nofollow" target="_blank">07-Feb-2025 Notice of Intended Dissolution </a>and
 Final Accounts for <a href="/files/SW11_2023_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">Anake Kids Pte. Ltd. (SW 11-2023)</a>
-<br><a href="/files/SW5_2021_Notice_of_Intended_Dissolution.pdf" rel="noopener nofollow" target="_blank">27-Sep-2024 Notice of Intended Dissolution </a>and
+<br><a href="/files/27_Sep_2024_Notice_of_Intended_Dissolution_final.pdf" rel="noopener nofollow" target="_blank">27-Sep-2024 Notice of Intended Dissolution </a>and
 Final Accounts for <a href="/files/SW5_2021_Final_Accounts.pdf" rel="noopener nofollow" target="_blank">Glow Digital Media Pte. Ltd. (SW5-2021)</a>
 <br><a href="/files/22122023noticeofintendeddissolution.pdf" rel="noopener noreferrer nofollow" target="_blank">22-Dec-2023 Notice of Intended Dissolution</a> and
 Final Accounts for <a href="/files/22122023finalaccounts.pdf" rel="noopener noreferrer nofollow" target="_blank">Also Dominie Pte. Ltd. (SW 22-2021)</a> 
