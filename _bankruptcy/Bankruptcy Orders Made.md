@@ -20,8 +20,6 @@ ScamShield helpline at 1799 or visit <a href="https://www.scamshield.gov.sg/" re
 <hr>
 <h4><strong>Please click on the links below for more information:</strong></h4>
 <p></p>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_3_September_2026__Week_37_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 3 September 2026 (Week 37)</a>
-</p>
 <p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_10_September_2026__Week_38_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 10 September 2026 (Week 38)</a>
 </p>
 <p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_15_September_2026__Week_39_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 15 September 2026 (Week 39)</a>
@@ -46,7 +44,9 @@ ScamShield helpline at 1799 or visit <a href="https://www.scamshield.gov.sg/" re
 </p>
 <p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_22_October_2026__Week_44_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 22 October 2026 (Week 44)</a>
 </p>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_29_October_2026__Week_45_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 29 October 2026 (Week 45) (New)</a>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_29_October_2026__Week_45_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 29 October 2026 (Week 45)</a>
+</p>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_5_November_2026__Week_46_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 5 November 2026 (Week 46) (New)</a>
 </p>
 <p></p>
 <p></p>
