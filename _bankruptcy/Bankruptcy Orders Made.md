@@ -20,12 +20,6 @@ ScamShield helpline at 1799 or visit <a href="https://www.scamshield.gov.sg/" re
 <hr>
 <h4><strong>Please click on the links below for more information:</strong></h4>
 <p></p>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_15_September_2026__Week_39_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 15 September 2026 (Week 39)</a>
-</p>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_17_September_2026__Week_39_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 17 September 2026 (Week 39)</a>
-</p>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_2_July_2026__Week_39_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 2 July 2026 (Week 39)</a>
-</p>
 <p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_24_September_2026__Week_40_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 24 September 2026 (Week 40)</a>
 </p>
 <p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_22_September_2026__Week_40_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 22 September 2026 (Week 40)</a>
@@ -46,9 +40,11 @@ ScamShield helpline at 1799 or visit <a href="https://www.scamshield.gov.sg/" re
 </p>
 <p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_5_November_2026__Week_46_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 5 November 2026 (Week 46)</a>
 </p>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_5_November_2026__Week_47_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 5 November 2026 (Week 47) (New - Additional Case Included)</a>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_5_November_2026__Week_47_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 5 November 2026 (Week 47) (Additional Case Included)</a>
 </p>
-<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_12_November_2026__Week_47_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 12 November 2026 (Week 47) (New)</a>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_12_November_2026__Week_47_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 12 November 2026 (Week 47)</a>
+</p>
+<p><a href="/files/BOs Made/Bankruptcy_Orders_made_on_19_November_2026__Week_48_.pdf" rel="noopener nofollow" target="_blank">Bankruptcy Orders made on 19 November 2026 (Week 48) (New)</a>
 </p>
 <p></p>
 <p></p>
