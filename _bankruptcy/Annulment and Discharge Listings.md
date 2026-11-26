@@ -6,12 +6,6 @@ variant: tiptap
 ---
 <p><strong>Please click on the links below for more information</strong>:</p>
 <p></p>
-<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_39_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 39)</a>
-</p>
-<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_39A_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 39A)</a>
-</p>
-<p><a href="/files/Annulment &amp; Discharge Listings/Annulment_Listings__Week_39_.pdf" rel="noopener nofollow" target="_blank">Annulment Listings (Week 39)</a>
-</p>
 <p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_40_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 40)</a>
 </p>
 <p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_40A_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 40A)</a>
@@ -56,15 +50,21 @@ variant: tiptap
 </p>
 <p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_46_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 46)</a>
 </p>
-<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_46A_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 46A) </a>
+<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_46A_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 46A)</a>
 </p>
 <p><a href="/files/Annulment &amp; Discharge Listings/Annulment_Listings__Week_46_.pdf" rel="noopener nofollow" target="_blank">Annulment Listings (Week 46)</a>
 </p>
-<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_47_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 47) (New)</a>
+<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_47_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 47)</a>
 </p>
-<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_47A_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 47A) (New)</a>
+<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_47A_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 47A)</a>
 </p>
-<p><a href="/files/Annulment &amp; Discharge Listings/Annulment_Listings__Week_47_.pdf" rel="noopener nofollow" target="_blank">Annulment Listings (Week 47) (New)</a>
+<p><a href="/files/Annulment &amp; Discharge Listings/Annulment_Listings__Week_47_.pdf" rel="noopener nofollow" target="_blank">Annulment Listings (Week 47)</a>
+</p>
+<p><a href="/files/Annulment &amp; Discharge Listings/Discharge_Listings__Week_48_.pdf" rel="noopener nofollow" target="_blank">Discharge Listings (Week 48) (New)</a>
+</p>
+<p><a href="/files/Annulment &amp; Discharge Listings/Annulment_Listings__Week_48_.pdf" rel="noopener nofollow" target="_blank">Annulment Listings (Week 48) (New)</a>
+</p>
+<p><a href="/files/Annulment &amp; Discharge Listings/Annulment_Listings__Week_48A_.pdf" rel="noopener nofollow" target="_blank">Annulment Listings (Week 48A) (New)</a>
 </p>
 <p></p>
 <p></p>
